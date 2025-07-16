@@ -203,7 +203,8 @@ if __name__ == "__main__":
     text_urls = [
         "https://raw.githubusercontent.com/MahsaNetConfigTopic/proxy/main/proxies.txt",
         "https://raw.githubusercontent.com/ALIILAPRO/MTProtoProxy/main/proxy-list.txt",
-        "https://raw.githubusercontent.com/MhdiTaheri/ProxyCollector/main/proxy.txt"
+        "https://raw.githubusercontent.com/MhdiTaheri/ProxyCollector/main/proxy.txt",
+        "https://github.com/SoliSpirit/mtproto/blob/master/all_proxies.txt"
     ]
     
     telegram_urls = [

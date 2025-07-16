@@ -10,10 +10,8 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import WebDriverException
 
-# تنظیم لاگینگ
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# لیست User-Agentها
 USER_AGENTS = [
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15',
@@ -26,16 +24,21 @@ def get_random_user_agent():
 def fetch_proxies_from_text_urls(urls):
     all_links = []
     headers = {'User-Agent': get_random_user_agent()}
+    pattern = r'^(tg://proxy|https://t\.me/proxy)\?server=[^&]+&port=\d+&secret=[^&]+$'
     
     for url in urls:
         try:
             response = requests.get(url, headers=headers, timeout=10)
             response.raise_for_status()
             lines = response.text.splitlines()
-            # پشتیبانی از هر دو فرمت tg://proxy و https://t.me/proxy
-            links = [line.strip() for line in lines if re.match(r'^(tg://proxy|https://t\.me/proxy)\?server=.+&port=\d+&secret=.+$', line.strip())]
-            all_links.extend(links)
-            logging.info(f"Fetched {len(links)} MTProto proxies from {url}")
+            for line in lines:
+                line = line.strip()
+                if re.match(pattern, line):
+                    all_links.append(line)
+                    logging.info(f"Valid proxy found: {line}")
+                else:
+                    logging.debug(f"Invalid or skipped proxy: {line}")
+            logging.info(f"Fetched {len(all_links)} MTProto proxies from {url}")
         except requests.RequestException as e:
             logging.error(f"HTTP error fetching {url}: {e}")
         time.sleep(random.uniform(1, 3))
@@ -54,11 +57,10 @@ def fetch_proxies_from_telegram_channel(url):
         driver.get(url)
         logging.info(f"Opened {url}")
         
-        # اسکرول صفحه برای بارگذاری محتوای بیشتر
         last_height = driver.execute_script("return document.body.scrollHeight")
-        for i in range(15):  # 15 بار اسکرول
+        for i in range(15):
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            time.sleep(3)  # منتظر بارگذاری
+            time.sleep(3)
             new_height = driver.execute_script("return document.body.scrollHeight")
             logging.info(f"Scrolled {url}, attempt {i+1}, new height: {new_height}")
             if new_height == last_height:
@@ -66,14 +68,12 @@ def fetch_proxies_from_telegram_channel(url):
                 break
             last_height = new_height
         
-        # بررسی CAPTCHA
         page_source = driver.page_source
         if "CAPTCHA" in page_source or "recaptcha" in page_source.lower():
             logging.warning(f"CAPTCHA detected on {url}")
         
-        # استخراج لینک‌ها
         soup = BeautifulSoup(page_source, 'html.parser')
-        proxy_elements = soup.find_all('a', href=re.compile(r'^(tg://proxy|https://t\.me/proxy)\?server=.+&port=\d+&secret=.+$'))
+        proxy_elements = soup.find_all('a', href=re.compile(r'^(tg://proxy|https://t\.me/proxy)\?server=[^&]+&port=\d+&secret=[^&]+$'))
         proxies = [element.get('href') for element in proxy_elements]
         logging.info(f"Fetched {len(proxies)} MTProto proxies from {url}")
     except WebDriverException as e:
@@ -90,35 +90,32 @@ def fetch_proxies_from_telegram_channel(url):
 
 def save_proxies_to_file(proxy_list, filename='proxy.txt'):
     try:
+        unique_proxies = list(set(proxy_list))
         with open(filename, 'w', encoding='utf-8') as file:
-            for proxy in proxy_list:
+            for proxy in unique_proxies:
                 file.write(proxy + '\n')
-        logging.info(f"Saved {len(proxy_list)} proxies to {filename}")
+        logging.info(f"Saved {len(unique_proxies)} unique proxies to {filename}")
+        return unique_proxies
     except IOError as e:
         logging.error(f"Error writing to {filename}: {e}")
-    return proxy_list
+        return []
 
 def update_readme(proxy_list):
     try:
-        # دریافت تاریخ و ساعت فعلی
         utc_now = datetime.now(pytz.UTC)
         iran_tz = pytz.timezone('Asia/Tehran')
         iran_now = utc_now.astimezone(iran_tz)
         update_time_utc = utc_now.strftime('%d %B %Y, %H:%M UTC')
         update_time_iran = iran_now.strftime('%H:%M')
 
-        # انتخاب 20 پروکسی نمونه
         sample_proxies = random.sample(proxy_list, min(20, len(proxy_list))) if proxy_list else []
         table_rows = ""
         for i, proxy in enumerate(sample_proxies, 1):
-            # استخراج سرور و پورت از لینک پروکسی
             match = re.match(r'^(tg://proxy|https://t\.me/proxy)\?server=([^&]+)&port=(\d+)&secret=.+$', proxy)
             if match:
-                server, port = match.groups()[1:]  # فقط server و port رو بگیر
-                # اضافه کردن لینک کامل به ستون کپی
+                server, port = match.groups()[1:]
                 table_rows += f"| {i} | {server} | {port} | فعال | `{proxy}` |\n"
 
-        # قالب README
         readme_content = f"""# Telegram Proxy Scraper
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -192,7 +189,6 @@ def update_readme(proxy_list):
 سپاس از استفاده از **Telegram Proxy Scraper**! اگه سؤالی دارید، تو بخش Issues مطرح کنید. 🌟
 """
 
-        # ذخیره README
         with open('README.md', 'w', encoding='utf-8') as file:
             file.write(readme_content)
         logging.info("Updated README.md with latest update time and proxy samples")
@@ -223,20 +219,15 @@ if __name__ == "__main__":
         "https://t.me/s/mtmvpn"
     ]
     
-    # جمع‌آوری پروکسی‌ها از منابع متنی
     text_proxies = fetch_proxies_from_text_urls(text_urls)
     
-    # جمع‌آوری پروکسی‌ها از کانال‌های تلگرام
     telegram_proxies = []
     for url in telegram_urls:
         proxies = fetch_proxies_from_telegram_channel(url)
         telegram_proxies.extend(proxies)
     
-    # ترکیب و حذف پروکسی‌های تکراری
     all_proxies = list(set(text_proxies + telegram_proxies))
     
-    # ذخیره پروکسی‌ها
     all_proxies = save_proxies_to_file(all_proxies)
     
-    # به‌روزرسانی README
     update_readme(all_proxies)

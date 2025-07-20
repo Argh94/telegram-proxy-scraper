@@ -231,7 +231,8 @@ if __name__ == "__main__":
         "https://t.me/s/MTPro_XYZ",
         "https://t.me/s/vpns",
         "https://t.me/s/mtmvpn",
-        "https://t.me/s/asr_proxy"
+        "https://t.me/s/asr_proxy",
+        "https://t.me/s/proxyskyy"
     ]
     
     text_proxies = fetch_proxies_from_text_urls(text_urls)

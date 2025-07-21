@@ -111,6 +111,7 @@ def save_proxies_to_file(proxy_list, filename='../proxy.txt'):
     except IOError as e:
         logging.error(f"Error writing to {filename}: {e}")
         return []
+        
 def update_readme(proxy_list):
     try:
         utc_now = datetime.now(pytz.UTC)
@@ -123,22 +124,20 @@ def update_readme(proxy_list):
         sample_proxies = random.sample(proxy_list, min(20, len(proxy_list))) if proxy_list else []
         table_rows = ""
         for i, proxy in enumerate(sample_proxies, 1):
-            # الگوی انعطاف‌پذیرتر برای پورت و سرور
-            match = re.match(r'^(tg://proxy|https://t\.me/proxy)\?server=([^&]+)&port=([\d]+)(&secret=.+)$', proxy)
-            if match:
-                server, port = match.groups()[1:3]
-                table_rows += f"| {i} | {server} | {port} | فعال | [پروکسی {i}]({proxy}) |\n"
-            else:
-                # اگه الگو مطابقت نکرد، لینک خام رو با سرور و پورت ناشناخته استفاده کن
+            # الگوی ساده‌تر برای شناسایی لینک‌های معتبر
+            if proxy.startswith(('tg://proxy?', 'https://t.me/proxy?')):
                 table_rows += f"| {i} | ناشناخته | ناشناخته | فعال | [پروکسی {i}]({proxy}) |\n"
-                logging.warning(f"Proxy {i} ({proxy}) did not match the pattern, used as raw link")
+                logging.info(f"Proxy {i} ({proxy}) identified as valid link")
+            else:
+                table_rows += f"| {i} | ناشناخته | ناشناخته | غیرفعال | {proxy} |\n"
+                logging.warning(f"Proxy {i} ({proxy}) is not a valid proxy link, skipped")
 
         readme_content = f"""# Telegram Proxy Scraper
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.9-blue)](https://www.python.org/downloads/)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Argh94/telegram-proxy-scraper/issues)
-[![Proxy Scraper Workflow](https://github.com/Argh94/telegram-proxy-scraper/actions/workflows/scraper.yml/badge.svg)](https://github.com/Argh94/telegram-proxy-scraper/actions/workflows/scraper.yml)
+[![Proxy Scraper Workflow](https://github.com/Poriya58p/telegram-proxy-scraper/actions/workflows/scraper.yml/badge.svg)](https://github.com/Argh94/telegram-proxy-scraper/actions/workflows/scraper.yml)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Argh94/telegram-proxy-scraper)
 ![GitHub issues](https://img.shields.io/github/issues/Argh94/telegram-proxy-scraper)
 

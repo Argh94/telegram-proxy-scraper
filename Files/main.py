@@ -111,7 +111,6 @@ def save_proxies_to_file(proxy_list, filename='../proxy.txt'):
     except IOError as e:
         logging.error(f"Error writing to {filename}: {e}")
         return []
-
 def update_readme(proxy_list):
     try:
         utc_now = datetime.now(pytz.UTC)
@@ -124,11 +123,15 @@ def update_readme(proxy_list):
         sample_proxies = random.sample(proxy_list, min(20, len(proxy_list))) if proxy_list else []
         table_rows = ""
         for i, proxy in enumerate(sample_proxies, 1):
-            match = re.match(r'^(tg://proxy|https://t\.me/proxy)\?server=([^&]+)&port=(\d+)&secret=.+$', proxy)
+            # بررسی الگو و تولید لینک
+            match = re.match(r'^(tg://proxy|https://t\.me/proxy)\?server=[^&]+&port=\d+(&secret=.+)$', proxy)
             if match:
                 server, port = match.groups()[1:3]
-                # تغییر در ستون آخر: نمایش "پروکسی X" به جای لینک کامل
                 table_rows += f"| {i} | {server} | {port} | فعال | [پروکسی {i}]({proxy}) |\n"
+            else:
+                # اگه الگو مطابقت نکرد، لینک خام رو مستقیم استفاده کن
+                table_rows += f"| {i} | ناشناخته | ناشناخته | فعال | [پروکسی {i}]({proxy}) |\n"
+                logging.warning(f"Proxy {i} ({proxy}) did not match the pattern, used as raw link")
 
         readme_content = f"""# Telegram Proxy Scraper
 

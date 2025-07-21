@@ -7,7 +7,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Argh94/telegram-proxy-scraper)
 ![GitHub issues](https://img.shields.io/github/issues/Argh94/telegram-proxy-scraper)
 
-**آخرین به‌روزرسانی پروکسی‌ها**: 21 July 2025, 09:29 UTC (به وقت ایران: 12:59)
+**آخرین به‌روزرسانی پروکسی‌ها**: 21 July 2025, 09:34 UTC (به وقت ایران: 13:04)
 
 این پروژه یه اسکریپت پایتون برای جمع‌آوری خودکار پروکسی‌های MTProto تلگرام از منابع متنی و کانال‌های تلگرامه. پروکسی‌ها تو فایل `proxy.txt` ذخیره می‌شن و هر 3 ساعت به‌صورت خودکار به‌روزرسانی می‌شن.
 
@@ -30,7 +30,7 @@
 ## نحوه استفاده
 1. فایل `proxy.txt` رو از [اینجا](proxy.txt) دانلود کنید.
 2. لینک‌های پروکسی (با فرمت `tg://proxy?...` یا `https://t.me/proxy?...`) رو تو کلاینت تلگرام خودتون وارد کنید.
-3. برای کپی کردن پروکسی‌های زیر، روی لینک تو ستون "لینک پروکسی" کلیک کنید یا لمس طولانی کنید و گزینه "Copy" رو انتخاب کنید، سپس تو تلگرام پیست کنید.
+3. برای کپی کردن پروکسی‌های زیر، روی لینک تو ستون "لینک پروکسی" لمس طولانی کنید و گزینه "Copy" رو انتخاب کنید، سپس تو تلگرام پیست کنید.
 4. برای به‌روزرسانی دستی، به تب **Actions** تو مخزن برید و روی **Run workflow** کلیک کنید.
 
 ## منابع پروکسی
@@ -43,30 +43,30 @@
   - iporoto, HiProxy, iproxy, iRoProxy, proxyforopeta, IRN_Proxy, MProxy_ir, ProxyHagh, PyroProxy, ProxyMTProto, MTPro_XYZ, vpns, mtmvpn
 
 ## نمونه پروکسی‌ها
-جدول زیر 20 پروکسی نمونه از فایل `proxy.txt` رو نشون می‌ده. برای کپی کردن لینک پروکسی، روی متن تو ستون "لینک پروکسی" کلیک کنید یا لمس طولانی کنید و "Copy" رو انتخاب کنید:
+جدول زیر 20 پروکسی نمونه از فایل `proxy.txt` رو نشون می‌ده. برای کپی کردن لینک پروکسی، روی متن تو ستون "لینک پروکسی" لمس طولانی کنید و "Copy" رو انتخاب کنید:
 
 | #  | سرور (Server)       | پورت (Port) | وضعیت     | لینک پروکسی                     |
 |----|---------------------|-------------|-----------|---------------------------------|
-| 1 | ناشناخته | ناشناخته | فعال | [پروکسی 1](tg://proxy?server=45.135.192.245&port=85&secret=ee0000f00f0f775555fffffff5006e2e69646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
-| 2 | ناشناخته | ناشناخته | فعال | [پروکسی 2](tg://proxy?server=91.99.100.55&port=155&secret=ddec742282124f04d318551341ead76457) |
-| 3 | ناشناخته | ناشناخته | فعال | [پروکسی 3](tg://proxy?server=00900.meli.zban-mas.info&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t**) |
-| 4 | ناشناخته | ناشناخته | فعال | [پروکسی 4](tg://proxy?server=91.99.145.87&port=888&secret=7gwwYoISy716xRkTAgVSXRVpYS5zdGVhbXBvd2VyZWQuY29t) |
-| 5 | ناشناخته | ناشناخته | فعال | [پروکسی 5](tg://proxy?server=62.60.179.82&port=443&secret=7hAQEP8PSAZT____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t) |
-| 6 | ناشناخته | ناشناخته | فعال | [پروکسی 6](tg://proxy?server=83.147.255.85&port=443&secret=EE1603010200010007f0030386e24c3add646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
-| 7 | ناشناخته | ناشناخته | فعال | [پروکسی 7](tg://proxy?server=5.255.114.52&port=443&secret=15115115115115115115115115115115) |
-| 8 | ناشناخته | ناشناخته | فعال | [پروکسی 8](tg://proxy?server=91.99.206.83&port=70&secret=7gAA8A8Pd1VV____9QBuLmktLXcuZ28tLS0=)__) |
-| 9 | ناشناخته | ناشناخته | فعال | [پروکسی 9](tg://proxy?server=87.248.134.14&port=200&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 10 | ناشناخته | ناشناخته | فعال | [پروکسی 10](https://t.me/proxy?server=57.130.30.202&port=100&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA) |
-| 11 | ناشناخته | ناشناخته | فعال | [پروکسی 11](tg://proxy?server=91.99.206.53&port=59065&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E73) |
-| 12 | ناشناخته | ناشناخته | فعال | [پروکسی 12](tg://proxy?server=62.60.178.117&port=443&secret=1603010200010001fc030386e24c3add) |
-| 13 | ناشناخته | ناشناخته | فعال | [پروکسی 13](tg://proxy?server=109.104.154.226&port=443&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t**) |
-| 14 | ناشناخته | ناشناخته | فعال | [پروکسی 14](tg://proxy?server=89.111.22.103&port=443&secret=7hAQEP8PSAZT____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t) |
-| 15 | ناشناخته | ناشناخته | فعال | [پروکسی 15](tg://proxy?server=87.248.132.44&port=200&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 16 | ناشناخته | ناشناخته | فعال | [پروکسی 16](tg://proxy?server=150.241.79.45&port=69&secret=7pVZ3VtL_Wuy49KeR-ZTRlB3d3cuc3BlZWR0ZXN0Lm5ldA==) |
-| 17 | ناشناخته | ناشناخته | فعال | [پروکسی 17](tg://proxy?server=46.245.64.60&port=443&secret=36d4db00f0ae7d7c6e3d7b29dfe04134) |
-| 18 | ناشناخته | ناشناخته | فعال | [پروکسی 18](tg://proxy?server=91.107.164.77&port=27&secret=1320PuNyHw_LQKT_Y7XNJw==) |
-| 19 | ناشناخته | ناشناخته | فعال | [پروکسی 19](tg://proxy?server=62.60.176.141&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 20 | ناشناخته | ناشناخته | فعال | [پروکسی 20](tg://proxy?server=91.99.169.201&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29) |
+| 1 | 91.99.202.250 | 888 | فعال | `tg://proxy?server=91.99.202.250&port=888&secret=ee0c30628212cbbd7ac519130205525d1569612e737465616d706f77657265642e636f6d` |
+| 2 | 65.108.80.13 | 443 | فعال | `tg://proxy?server=65.108.80.13&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=` |
+| 3 | 62.60.179.82 | 443 | فعال | `tg://proxy?server=62.60.179.82&port=443&secret=7hAQEP8PSAZT____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t` |
+| 4 | 91.134.68.66 | 777 | فعال | `tg://proxy?server=91.134.68.66&port=777&secret=eeNEgYdJvXrFGRMCIMJdCQ` |
+| 5 | 91.99.197.199 | 70 | فعال | `tg://proxy?server=91.99.197.199&port=70&secret=7gAA8A8Pd1VV____9QBuLmktLXcuZ28tLS0=)__` |
+| 6 | 79.172.228.29 | 70 | فعال | `tg://proxy?server=79.172.228.29&port=70&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D` |
+| 7 | 00600.meli.zban-mas.info | 8888 | فعال | `tg://proxy?server=00600.meli.zban-mas.info&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t**` |
+| 8 | 157.180.118.58 | 551 | فعال | `tg://proxy?server=157.180.118.58&port=551&secret=eeNEgYdJvXrFGRMCIMJdCQ` |
+| 9 | 147.meli.zban-mas.info | 8888 | فعال | `tg://proxy?server=147.meli.zban-mas.info&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t` |
+| 10 | 94.130.131.162 | 2908 | فعال | `tg://proxy?server=94.130.131.162&port=2908&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29t` |
+| 11 | 87.248.132.27 | 70 | فعال | `tg://proxy?server=87.248.132.27&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D` |
+| 12 | fasst.sitemcinet.co.uk | 443 | فعال | `tg://proxy?server=fasst.sitemcinet.co.uk&port=443&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t)__` |
+| 13 | 5.35.39.190 | 443 | فعال | `tg://proxy?server=5.35.39.190&port=443&secret=7rXpXsHm4qJ_nKJvoq_oq_ptZWRpYS5zdGVhbXBvd2VyZWQuY29t` |
+| 14 | 5.9.179.77 | 443 | فعال | `tg://proxy?server=5.9.179.77&port=443&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0` |
+| 15 | 93.88.205.27 | 888 | فعال | `tg://proxy?server=93.88.205.27&port=888&secret=eeNEgYdJvXrFGRMCIMJdCQ` |
+| 16 | 2.144.2.5 | 11042 | فعال | `tg://proxy?server=2.144.2.5&port=11042&secret=d1234567891234567891234567891234` |
+| 17 | 1.masiii.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.zban-mas.info | 8888 | فعال | `tg://proxy?server=1.masiii.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.zban-mas.info&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q` |
+| 18 | 185.117.0.110 | 8882 | فعال | `tg://proxy?server=185.117.0.110&port=8882&secret=7tcAQzq6NVfV6D2CvrSrc1hzMy5hbWF6b25hd3MuY29t` |
+| 19 | 62.60.178.4 | 8888 | فعال | `tg://proxy?server=62.60.178.4&port=8888&secret=7gAA8A8Pd1VV__9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t` |
+| 20 | 62.60.176.235 | 443 | فعال | `tg://proxy?server=62.60.176.235&port=443&secret=7hYDAQIAAQAH8AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29tbWVkaWEuc3RlYW1wb3dlcmVkLmNvbQ)|` |
 
 
 > **توجه**: این جدول فقط برای نمایش نمونه‌ست. برای دسترسی به همه پروکسی‌های به‌روز، فایل [proxy.txt](proxy.txt) رو دانلود کنید.

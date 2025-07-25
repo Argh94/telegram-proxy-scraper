@@ -30,11 +30,16 @@ jobs:
           echo "chromedriver already exists at /usr/bin/chromedriver"
         fi
 
+    - name: Create or update requirements.txt
+      working-directory: ./Files
+      run: |
+        echo -e "requests\nbeautifulsoup4\nselenium\npytz\njdatetime" > requirements.txt
+        cat requirements.txt  # نمایش محتوای فایل برای دیباگ
+
     - name: Install dependencies
       working-directory: ./Files
       run: |
         python -m pip install --upgrade pip
-        echo "jdatetime" >> requirements.txt  # اضافه کردن jdatetime به requirements.txt
         pip install -r requirements.txt
 
     - name: Run scraper
@@ -46,8 +51,8 @@ jobs:
         git config --global user.name 'GitHub Action'
         git config --global user.email 'action@github.com'
         git checkout main
-        git add proxy.txt README.md requirements.txt
-        git diff --quiet && git diff --staged --quiet || git commit -m "📊 Update proxy.txt and README.md with latest proxies and Persian timestamp"
+        git add Files/proxy.txt Files/requirements.txt README.md
+        git diff --quiet && git diff --staged --quiet || git commit -m "📊 Update proxy.txt, requirements.txt, and README.md with latest proxies and Persian timestamp"
         git push || echo "No changes to push"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

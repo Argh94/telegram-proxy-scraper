@@ -131,9 +131,9 @@ def update_readme(proxy_list):
             if match:
                 server, port = match.groups()[1:3]
                 display_proxy = proxy.replace('tg://proxy', 'https://t.me/proxy')
-                table_rows += f"| {i} | `{server}` | `{port}` | ✅ فعال | [{display_proxy}]({display_proxy}) |\n"
+                table_rows += f"| {i} | `{server}` | `{port}` | ✅ فعال | [لینک پروکسی]({display_proxy}) |\n"
                 valid_proxies += 1
-                logging.info(f"Valid proxy added to table: {proxy} (displayed as {display_proxy})")
+                logging.info(f"Valid proxy added to table: {proxy} (displayed as link to {display_proxy})")
             else:
                 logging.warning(f"Invalid proxy format, skipped: {proxy}")
 

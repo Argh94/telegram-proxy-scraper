@@ -7,7 +7,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Argh94/telegram-proxy-scraper)
 ![GitHub issues](https://img.shields.io/github/issues/Argh94/telegram-proxy-scraper)
 
-**آخرین به‌روزرسانی پروکسی‌ها**: 25 July 2025, 15:23 UTC (به وقت ایران: 18:53)
+**آخرین به‌روزرسانی پروکسی‌ها**: 25 July 2025, 18:31 UTC (به وقت ایران: 22:01)
 
 این پروژه یه اسکریپت پایتون برای جمع‌آوری خودکار پروکسی‌های MTProto تلگرام از منابع متنی و کانال‌های تلگرامه. پروکسی‌ها تو فایل `proxy.txt` ذخیره می‌شن و هر 3 ساعت به‌صورت خودکار به‌روزرسانی می‌شن.
 
@@ -47,26 +47,26 @@
 
 | #  | سرور (Server)       | پورت (Port) | وضعیت     | لینک پروکسی                     |
 |----|---------------------|-------------|-----------|---------------------------------|
-| 1 | 167.235.135.222 | 8888 | فعال | `tg://proxy?server=167.235.135.222&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q` |
-| 2 | 151.244.85.66 | 85 | فعال | `tg://proxy?server=151.244.85.66&port=85&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D` |
-| 3 | 95.169.173.9 | 8443 | فعال | `tg://proxy?server=95.169.173.9&port=8443&secret=1320PuNyHw_LQKT_Y7XNJw` |
-| 4 | dns.bahalbax.ir. | 443 | فعال | `tg://proxy?server=dns.bahalbax.ir.&port=443&secret=7gAA8A8Pd1VV____9QBuLmktLXcuZ28tLS0)__` |
-| 5 | 91.99.195.19 | 70 | فعال | `tg://proxy?server=91.99.195.19&port=70&secret=7gAA8A8Pd1VV____9QBuLmktLXcuZ28tLS0=` |
-| 6 | bahbah.khoreshtsabzi.ir | 8585 | فعال | `tg://proxy?server=bahbah.khoreshtsabzi.ir&port=8585&secret=dd5d5b15b207cd8974a5ae0585282bc510` |
-| 7 | 87.248.134.173 | 443 | فعال | `tg://proxy?server=87.248.134.173&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D` |
-| 8 | systemfull.gjesus.info | 443 | فعال | `https://t.me/proxy?server=systemfull.gjesus.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d` |
-| 9 | backup-date-newrose-you.p8music.ir. | 9741 | فعال | `tg://proxy?server=backup-date-newrose-you.p8music.ir.&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d` |
-| 10 | 62.60.177.177 | 9880 | فعال | `tg://proxy?server=62.60.177.177&port=9880&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d` |
-| 11 | 88.99.248.184 | 443 | فعال | `tg://proxy?server=88.99.248.184&port=443&secret=EERighJJvXrFGRMCIMJdCQ==` |
-| 12 | 91.99.170.203 | 888 | فعال | `tg://proxy?server=91.99.170.203&port=888&secret=ee0c30628212cbbd7ac519130205525d1569612e737465616d706f77657265642e636f6d` |
-| 13 | 14.102.10.177 | 85 | فعال | `tg://proxy?server=14.102.10.177&port=85&secret=7gAA8A8Pd1VV__9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t` |
-| 14 | vip2.abanol1.info | 70 | فعال | `tg://proxy?server=vip2.abanol1.info&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d` |
-| 15 | 62.60.178.92 | 9741 | فعال | `tg://proxy?server=62.60.178.92&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d****` |
-| 16 | 147.meli.zban-mas.info | 8888 | فعال | `tg://proxy?server=147.meli.zban-mas.info&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t` |
-| 17 | 213.109.147.37 | 85 | فعال | `tg://proxy?server=213.109.147.37&port=85&secret=ee0000f00f0f775555fffffff5006e2e69646F776E6C6F61642E77696E646F77737570646174652E636F6D` |
-| 18 | 167.235.193.62 | 243 | فعال | `tg://proxy?server=167.235.193.62&port=243&secret=79e462821249bd7ac519130220c25d09` |
-| 19 | 91.99.80.144 | 443 | فعال | `tg://proxy?server=91.99.80.144&port=443&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t` |
-| 20 | 62.60.177.142 | 343 | فعال | `tg://proxy?server=62.60.177.142&port=343&secret=FgMBAgABAAfwAwOG4kw63Q` |
+| 1 | 78.40.197.131 | 443 | فعال | `https://t.me/proxy?server=78.40.197.131&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA` |
+| 2 | 62.60.177.142 | 443 | فعال | `tg://proxy?server=62.60.177.142&port=443&secret=7hYDAQIAAQAH8AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29tbWVkaWEuc3RlYW1wb3dlcmVkLmNvbQ)`` |
+| 3 | PHYZYK-nazari.nokande.info | 443 | فعال | `https://t.me/proxy?server=PHYZYK-nazari.nokande.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t` |
+| 4 | 193.3.190.47 | 85 | فعال | `tg://proxy?server=193.3.190.47&port=85&secret=ee0000f00f0f775555fffffff5006e2e69636861746770742e636f6d` |
+| 5 | 199.59.243.228 | 443 | فعال | `tg://proxy?server=199.59.243.228&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY` |
+| 6 | www.uptv.digital. | 8888 | فعال | `https://t.me/proxy?server=www.uptv.digital.&port=8888&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA` |
+| 7 | 79.172.228.201 | 70 | فعال | `tg://proxy?server=79.172.228.201&port=70&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D|[پروکسی` |
+| 8 | Berke.Wikimoon.sale | 443 | فعال | `tg://proxy?server=Berke.Wikimoon.sale&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ](https://t.me/proxy?server=mofidonline.emofid.bourse24.moflidonline.mofiidonline.ir` |
+| 9 | 45.67.139.20 | 8882 | فعال | `tg://proxy?server=45.67.139.20&port=8882&secret=eed700433aba3557d5e83d82beb4ab735873332e616d617a6f6e6177732e636f6d` |
+| 10 | 14.102.10.177 | 85 | فعال | `tg://proxy?server=14.102.10.177&port=85&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t` |
+| 11 | 140.233.187.31 | 155 | فعال | `tg://proxy?server=140.233.187.31&port=155&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d` |
+| 12 | 99900.meli.zban-mas.info | 8888 | فعال | `tg://proxy?server=99900.meli.zban-mas.info&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t/` |
+| 13 | 65.21.5.14 | 85 | فعال | `tg://proxy?server=65.21.5.14&port=85&secret=eeRighJJvXrFGRMCIMJdCQ` |
+| 14 | syczleck.itemag.ir | 443 | فعال | `tg://proxy?server=syczleck.itemag.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d` |
+| 15 | 45.152.164.8 | 70 | فعال | `tg://proxy?server=45.152.164.8&port=70&secret=7gffffffff_f_Adkb3dubG9hZC53aW5kb3dzdXBkYXRlLmNvbQ==` |
+| 16 | optimal.irpower-f.ir | 443 | فعال | `tg://proxy?server=optimal.irpower-f.ir&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d` |
+| 17 | 87.248.132.19 | 85 | فعال | `tg://proxy?server=87.248.132.19&port=85&secret=7gAA8A8Pd1VV////9QBuLmlkb3dubG9hZC53aW5kb3dzdXBkYXRlLmNvbQ` |
+| 18 | 146.19.254.19 | 85 | فعال | `tg://proxy?server=146.19.254.19&port=85&secret=ee0000f00f0f775555fffffff5006e2e69646F776E6C6F61642E77696E646F77737570646174652E636F6D` |
+| 19 | 89.110.79.193 | 443 | فعال | `https://t.me/proxy?server=89.110.79.193&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA` |
+| 20 | 87.248.134.46 | 70 | فعال | `https://t.me/proxy?server=87.248.134.46&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D` |
 
 
 > **توجه**: این جدول فقط برای نمایش نمونه‌ست. برای دسترسی به همه پروکسی‌های به‌روز، فایل [proxy.txt](proxy.txt) رو دانلود کنید.

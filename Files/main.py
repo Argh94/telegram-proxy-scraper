@@ -177,7 +177,6 @@ def update_readme(proxy_list):
 ## 🌍 منابع پروکسی
 - **منابع متنی**:
   - [MahsaNetConfigTopic](https://raw.githubusercontent.com/MahsaNetConfigTopic/proxy/main/proxies.txt)
-  - [ALIILAPRO/MTProtoProxy](https://raw.githubusercontent.com/ALIILAPRO/MTProtoProxy/main/proxy-list.txt)
   - [MhdiTaheri/ProxyCollector](https://raw.githubusercontent.com/MhdiTaheri/ProxyCollector/main/proxy.txt)
   - [SoliSpirit/mtproto](https://raw.githubusercontent.com/SoliSpirit/mtproto/master/all_proxies.txt)
 - **کانال‌های تلگرام**:
@@ -224,7 +223,6 @@ def update_readme(proxy_list):
 if __name__ == "__main__":
     text_urls = [
         "https://raw.githubusercontent.com/MahsaNetConfigTopic/proxy/main/proxies.txt",
-        "https://raw.githubusercontent.com/ALIILAPRO/MTProtoProxy/main/proxy-list.txt",
         "https://raw.githubusercontent.com/MhdiTaheri/ProxyCollector/main/proxy.txt",
         "https://raw.githubusercontent.com/SoliSpirit/mtproto/master/all_proxies.txt"
     ]

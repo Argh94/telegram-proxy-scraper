@@ -34,6 +34,7 @@ jobs:
       working-directory: ./Files
       run: |
         python -m pip install --upgrade pip
+        echo "jdatetime" >> requirements.txt  # اضافه کردن jdatetime به requirements.txt
         pip install -r requirements.txt
 
     - name: Run scraper
@@ -45,8 +46,8 @@ jobs:
         git config --global user.name 'GitHub Action'
         git config --global user.email 'action@github.com'
         git checkout main
-        git add proxy.txt README.md
-        git diff --quiet && git diff --staged --quiet || git commit -m "Update proxy.txt and README.md with latest proxies and timestamp"
+        git add proxy.txt README.md requirements.txt
+        git diff --quiet && git diff --staged --quiet || git commit -m "📊 Update proxy.txt and README.md with latest proxies and Persian timestamp"
         git push || echo "No changes to push"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

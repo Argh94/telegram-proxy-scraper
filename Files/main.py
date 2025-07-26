@@ -6,7 +6,6 @@ import time
 import logging
 from datetime import datetime
 import pytz
-import jdatetime
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import WebDriverException
@@ -26,7 +25,15 @@ def get_random_user_agent():
 def clean_line(line):
     line = line.strip().replace('\r', '').replace('\n', '')
     line = ''.join(c for c in line if unicodedata.category(c)[0] != 'C')
+    line = re.sub(r'\[.*?\]\(https?://t\.me/[^)]+\)$', '', line)
     return line
+
+def is_valid_ip(server):
+    ip_pattern = r'^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$'
+    if re.match(ip_pattern, server):
+        parts = server.split('.')
+        return all(0 <= int(part) <= 255 for part in parts if part.isdigit())
+    return True  
 
 def fetch_proxies_from_text_urls(urls):
     all_links = []
@@ -44,8 +51,13 @@ def fetch_proxies_from_text_urls(urls):
                 if not line:
                     continue
                 if re.match(pattern, line):
-                    all_links.append(line)
-                    logging.info(f"Valid proxy found: {line}")
+                    match = re.match(pattern, line)
+                    server = match.group(0).split('server=')[1].split('&')[0]
+                    if is_valid_ip(server) or '.' in server: 
+                        all_links.append(line)
+                        logging.info(f"Valid proxy found from {url}: {line}")
+                    else:
+                        logging.debug(f"Skipped proxy with invalid server: {line} (server: {server})")
                 else:
                     logging.debug(f"Invalid or skipped proxy: {line} (does not match pattern)")
             logging.info(f"Fetched {len(lines)} lines, {len(all_links)} valid MTProto proxies from {url}")
@@ -68,9 +80,9 @@ def fetch_proxies_from_telegram_channel(url):
         logging.info(f"Opened {url}")
         
         last_height = driver.execute_script("return document.body.scrollHeight")
-        for i in range(35):  
+        for i in range(35):
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            time.sleep(7)  
+            time.sleep(7)
             new_height = driver.execute_script("return document.body.scrollHeight")
             logging.info(f"Scrolled {url}, attempt {i+1}, new height: {new_height}")
             if new_height == last_height:
@@ -85,9 +97,9 @@ def fetch_proxies_from_telegram_channel(url):
         soup = BeautifulSoup(page_source, 'html.parser')
         pattern = r'^(tg://proxy|https://t\.me/proxy)\?server=[^&]+&port=\d+(&secret=.+)$'
         proxy_elements = soup.find_all('a', href=re.compile(pattern))
-        proxies = [element.get('href') for element in proxy_elements]
+        proxies = [clean_line(element.get('href')) for element in proxy_elements if clean_line(element.get('href'))]
         for proxy in proxies:
-            logging.info(f"Valid proxy found from Telegram: {proxy}")
+            logging.info(f"Valid proxy found from Telegram {url}: {proxy}")
         logging.info(f"Fetched {len(proxies)} MTProto proxies from {url}")
     except WebDriverException as e:
         logging.error(f"WebDriver error fetching {url}: {e}")
@@ -118,105 +130,95 @@ def update_readme(proxy_list):
         utc_now = datetime.now(pytz.UTC)
         iran_tz = pytz.timezone('Asia/Tehran')
         iran_now = utc_now.astimezone(iran_tz)
-        
-        jalali_date = jdatetime.datetime.fromgregorian(datetime=iran_now)
-        update_time_iran = jalali_date.strftime('%H:%M %d-%m-%Y')
-        logging.info(f"Updating README with Iranian timestamp: {update_time_iran}")
+        update_time_utc = utc_now.strftime('%d %B %Y, %H:%M UTC')
+        update_time_iran = iran_now.strftime('%H:%M')
+        logging.info(f"Updating README with timestamp: {update_time_utc} (Iran: {update_time_iran})")
 
         sample_proxies = random.sample(proxy_list, min(20, len(proxy_list))) if proxy_list else []
         table_rows = ""
-        valid_proxies = 0
         for i, proxy in enumerate(sample_proxies, 1):
             match = re.match(r'^(tg://proxy|https://t\.me/proxy)\?server=([^&]+)&port=(\d+)&secret=.+$', proxy)
             if match:
                 server, port = match.groups()[1:3]
-                display_proxy = proxy.replace('tg://proxy', 'https://t.me/proxy')
-                table_rows += f"| {i} | `{server}` | `{port}` | ✅ فعال | [لینک پروکسی]({display_proxy}) |\n"
-                valid_proxies += 1
-                logging.info(f"Valid proxy added to table: {proxy} (displayed as link to {display_proxy})")
-            else:
-                logging.warning(f"Invalid proxy format, skipped: {proxy}")
+                display_server = server if is_valid_ip(server) or '.' in server else 'Invalid Server'
+                table_rows += f"| {i} | {display_server} | {port} | فعال | `{proxy}` |\n"
 
-        logging.info(f"Added {valid_proxies} valid proxies to the table (out of {len(sample_proxies)} sampled)")
+        readme_content = f"""# Telegram Proxy Scraper
 
-        readme_content = f"""# 📊 نتایج استخراج: (آخرین بروزرسانی: {update_time_iran})
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/python-3.9-blue)](https://www.python.org/downloads/)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Argh94/telegram-proxy-scraper/issues)
+[![Proxy Scraper Workflow](https://github.com/Poriya58p/telegram-proxy-scraper/actions/workflows/scraper.yml/badge.svg)](https://github.com/Argh94/telegram-proxy-scraper/actions/workflows/scraper.yml)
+![GitHub last commit](https://img.shields.io/github/last-commit/Argh94/telegram-proxy-scraper)
+![GitHub issues](https://img.shields.io/github/issues/Argh94/telegram-proxy-scraper)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
-  <img src="https://img.shields.io/badge/python-3.9-blue" alt="Python 3.9" />
-  <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contributions Welcome" />
-  <img src="https://github.com/Poriya58p/telegram-proxy-scraper/actions/workflows/scraper.yml/badge.svg" alt="Proxy Scraper Workflow" />
-  <img src="https://img.shields.io/github/last-commit/Argh94/telegram-proxy-scraper" alt="GitHub Last Commit" />
-  <img src="https://img.shields.io/github/issues/Argh94/telegram-proxy-scraper" alt="GitHub Issues" />
-</p>
+**آخرین به‌روزرسانی پروکسی‌ها**: {update_time_utc} (به وقت ایران: {update_time_iran})
 
-این پروژه یک اسکریپت پایتون برای جمع‌آوری خودکار پروکسی‌های MTProto تلگرام از منابع متنی و کانال‌های تلگرام است. پروکسی‌ها در فایل `proxy.txt` ذخیره می‌شوند و هر 3 ساعت به‌صورت خودکار به‌روزرسانی می‌شوند.
+این پروژه یه اسکریپت پایتون برای جمع‌آوری خودکار پروکسی‌های MTProto تلگرام از منابع متنی و کانال‌های تلگرامه. پروکسی‌ها تو فایل `proxy.txt` ذخیره می‌شن و هر 6 ساعت به‌صورت خودکار به‌روزرسانی می‌شن.
 
-## ✨ درباره پروژه
+## درباره پروژه
 
-این اسکریپت با استفاده از `requests` برای منابع متنی و `selenium` برای کانال‌های تلگرام، پروکسی‌های MTProto را جمع‌آوری می‌کند. پروکسی‌های تکراری حذف شده و نتایج در فایل `proxy.txt` ذخیره می‌شوند. این فرآیند به‌صورت خودکار با **GitHub Actions** هر 3 ساعت اجرا می‌شود.
+این اسکریپت با استفاده از `requests` برای منابع متنی و `selenium` برای صفحات وب کانال‌های تلگرام (`t.me/s/...`) پروکسی‌های MTProto رو جمع‌آوری می‌کنه. پروکسی‌های تکراری حذف می‌شن و نتیجه تو فایل `proxy.txt` ذخیره می‌شه. فرآیند به‌صورت خودکار با **GitHub Actions** هر 6 ساعت اجرا می‌شه.
 
-## 🚀 ویژگی‌ها
-- 🌐 جمع‌آوری پروکسی از منابع متنی و کانال‌های تلگرام
-- 🔄 به‌روزرسانی خودکار هر 3 ساعت
-- 🗑 حذف پروکسی‌های تکراری
-- 🔑 بدون نیاز به API تلگرام
-- 📱 مناسب برای کاربران در جستجوی پروکسی‌های فعال MTProto
+## ویژگی‌ها
+- جمع‌آوری پروکسی از منابع متنی و کانال‌های تلگرام
+- به‌روزرسانی خودکار هر 6 ساعت
+- حذف پروکسی‌های تکراری
+- بدون نیاز به API تلگرام
+- مناسب برای کاربرانی که به دنبال پروکسی‌های MTProto فعال هستن
 
-## 📋 پیش‌نیازها
-- 🐍 پایتون 3.9
-- 📦 کتابخانه‌های مورد نیاز: `requests`, `beautifulsoup4`, `selenium`, `pytz`, `jdatetime`
-- نصب وابستگی‌ها با: `pip install -r requirements.txt`
+## پیش‌نیازها
+- پایتون 3.9
+- کتابخونه‌های مورد نیاز: `requests`, `beautifulsoup4`, `selenium`, `pytz`
+- فایل `requirements.txt` شامل تمام وابستگی‌هاست.
 
-## 🛠 نحوه استفاده
-1. فایل `proxy.txt` را از [اینجا](proxy.txt) دانلود کنید.
-2. لینک‌های پروکسی (با فرمت `tg://proxy?...` یا `https://t.me/proxy?...`) را در کلاینت تلگرام وارد کنید.
-3. در جدول زیر، روی لینک‌های ستون **لینک پروکسی** کلیک کنید تا به تلگرام هدایت شوید یا لینک را کپی کنید.
-4. برای به‌روزرسانی دستی، به تب **Actions** در مخزن بروید و روی **Run workflow** کلیک کنید.
+## نحوه استفاده
+1. فایل `proxy.txt` رو از [اینجا](proxy.txt) دانلود کنید.
+2. لینک‌های پروکسی (با فرمت `tg://proxy?...` یا `https://t.me/proxy?...`) رو تو کلاینت تلگرام خودتون وارد کنید.
+3. برای کپی کردن پروکسی‌های زیر، روی لینک تو ستون "لینک پروکسی" لمس طولانی کنید و گزینه "Copy" رو انتخاب کنید، سپس تو تلگرام پیست کنید.
+4. برای به‌روزرسانی دستی، به تب **Actions** تو مخزن برید و روی **Run workflow** کلیک کنید.
 
-## 🌍 منابع پروکسی
+## منابع پروکسی
 - **منابع متنی**:
   - [MahsaNetConfigTopic](https://raw.githubusercontent.com/MahsaNetConfigTopic/proxy/main/proxies.txt)
   - [MhdiTaheri/ProxyCollector](https://raw.githubusercontent.com/MhdiTaheri/ProxyCollector/main/proxy.txt)
   - [SoliSpirit/mtproto](https://raw.githubusercontent.com/SoliSpirit/mtproto/master/all_proxies.txt)
 - **کانال‌های تلگرام**:
-  - iporoto, HiProxy, iproxy, iRoProxy, proxyforopeta, IRN_Proxy, MProxy_ir, ProxyHagh, PyroProxy, ProxyMTProto, MTPro_XYZ, vpns, mtmvpn, asr_proxy, proxyskyy
+  - iporoto, HiProxy, iproxy, iRoProxy, proxyforopeta, IRN_Proxy, MProxy_ir, ProxyHagh, PyroProxy, ProxyMTProto, MTPro_XYZ, vpns, mtmvpn
 
-## 📈 نمونه پروکسی‌ها
-جدول زیر نمونه‌ای از 20 پروکسی فعال از فایل `proxy.txt` را نمایش می‌دهد. برای استفاده، روی لینک پروکسی کلیک کنید یا آن را کپی کنید:
+## نمونه پروکسی‌ها
+جدول زیر 20 پروکسی نمونه از فایل `proxy.txt` رو نشون می‌ده. برای کپی کردن لینک پروکسی، روی متن تو ستون "لینک پروکسی" لمس طولانی کنید و "Copy" رو انتخاب کنید:
 
-| # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
-|---|---------------|-------------|-------|-------------|
+| #  | سرور (Server)       | پورت (Port) | وضعیت     | لینک پروکسی                     |
+|----|---------------------|-------------|-----------|---------------------------------|
 {table_rows}
 
-> **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.
+> **توجه**: این جدول فقط برای نمایش نمونه‌ست. برای دسترسی به همه پروکسی‌های به‌روز، فایل [proxy.txt](proxy.txt) رو دانلود کنید.
 
-## 🤝 مشارکت
-از ایده‌ها و مشارکت شما استقبال می‌کنیم! برای بهبود پروژه:
-1. یک **Issue** در مخزن باز کنید.
-2. یا یک **Pull Request** با تغییرات پیشنهادی ارسال کنید.
+## مشارکت
+از مشارکت شما استقبال می‌کنیم! اگه ایده‌ای برای بهبود اسکریپت دارید یا می‌خواید منابع جدیدی اضافه کنید:
+1. یه **Issue** تو مخزن باز کنید.
+2. یا یه **Pull Request** با تغییرات پیشنهادی بفرستید.
 
-## 📜 لایسنس
-این پروژه تحت [لایسنس MIT](https://github.com/Argh94/telegram-proxy-scraper/blob/main/Files/LISENSE) منتشر شده است.
+## لایسنس
+این پروژه تحت [لایسنس MIT](LICENSE) منتشر شده.
 
-## 🔗 لینک‌های مفید
+## لینک‌های مفید
 - 📄 [لیست پروکسی‌ها](proxy.txt)
 - 🚀 [وضعیت GitHub Actions](https://github.com/Argh94/telegram-proxy-scraper/actions)
-- ⭐ [ما را ستاره دهید!](https://github.com/Argh94/telegram-proxy-scraper)
+- ⭐ [ما رو ستاره بدید!](https://github.com/Argh94/telegram-proxy-scraper)
 
-## 📊 Stargazers در گذر زمان
-<p align="center">
-  <img src="https://starchart.cc/Argh94/telegram-proxy-scraper.svg?variant=adaptive" alt="Stargazers over time" />
-</p>
+## Stargazers در گذر زمان
+[![Stargazers over time](https://starchart.cc/Argh94/telegram-proxy-scraper.svg?variant=adaptive)](https://starchart.cc/Argh94/telegram-proxy-scraper)
 
 ---
 
-🌟 **سپاس از استفاده از Telegram Proxy Scraper!** اگر سؤالی دارید، در بخش Issues مطرح کنید.
+سپاس از استفاده از **Telegram Proxy Scraper**! اگه سؤالی دارید، تو بخش Issues مطرح کنید. 🌟
 """
 
         with open('../README.md', 'w', encoding='utf-8') as file:
             file.write(readme_content)
-        logging.info("Successfully updated README.md with new styling and Iranian date format")
+        logging.info("Successfully updated README.md in repository root with latest update time and proxy samples")
     except Exception as e:
         logging.error(f"Error updating README.md: {e}")
 
@@ -240,9 +242,7 @@ if __name__ == "__main__":
         "https://t.me/s/ProxyMTProto",
         "https://t.me/s/MTPro_XYZ",
         "https://t.me/s/vpns",
-        "https://t.me/s/mtmvpn",
-        "https://t.me/s/asr_proxy",
-        "https://t.me/s/proxyskyy"
+        "https://t.me/s/mtmvpn"
     ]
     
     text_proxies = fetch_proxies_from_text_urls(text_urls)

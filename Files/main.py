@@ -127,16 +127,19 @@ def update_readme(proxy_list):
         table_rows = ""
         valid_proxies = 0
         for i, proxy in enumerate(sample_proxies, 1):
-            match = re.match(r'^(tg://proxy|https://t\.me/proxy)\?server=([^&]+)&port=(\d+)&secret=.+$', proxy)
+            proxy = proxy.strip()
+            proxy = proxy.replace('tg://proxy', 'https://t.me/proxy')
+            
+            match = re.match(r'^https://t\.me/proxy\?server=([^&]+)&port=(\d+)&secret=([0-9a-fA-F]+)(?:[0-9a-fA-F]*\..*)?$', proxy)
             if match:
-                server, port = match.groups()[1:3]
-                display_proxy = proxy.replace('tg://proxy', 'https://t.me/proxy')
+                server, port, secret = match.groups()
+                display_proxy = f"https://t.me/proxy?server={server}&port={port}&secret={secret}"
                 table_rows += f"| {i} | `{server}` | `{port}` | ✅ فعال | [لینک پروکسی]({display_proxy}) |\n"
                 valid_proxies += 1
                 logging.info(f"Valid proxy added to table: {proxy} (displayed as link to {display_proxy})")
             else:
                 logging.warning(f"Invalid proxy format, skipped: {proxy}")
-
+        
         logging.info(f"Added {valid_proxies} valid proxies to the table (out of {len(sample_proxies)} sampled)")
 
         readme_content = f"""# 📊 نتایج استخراج: (آخرین بروزرسانی: {update_time_iran})

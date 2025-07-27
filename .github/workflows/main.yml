@@ -2,7 +2,7 @@ name: Telegram Proxy Scraper
 
 on:
   schedule:
-    - cron: '0 */3 * * *'  
+    - cron: '0 */3 * * *'  # اجرا هر 3 ساعت
   push:
     branches: [ main ]
   workflow_dispatch:
@@ -10,28 +10,25 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 15  
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v3
 
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v4
       with:
         python-version: '3.9'
 
-    - name: Install Chrome
-      uses: browser-actions/setup-chrome@v1
-      with:
-        chrome-version: stable
-      id: setup-chrome
-
-    - name: Verify ChromeDriver
+    - name: Install ChromeDriver
       run: |
-        chromedriver --version
-        echo "Chrome installed at: ${{ steps.setup-chrome.outputs.chrome-path }}"
-        echo "ChromeDriver installed at: ${{ steps.setup-chrome.outputs.chromedriver-path }}"
+        sudo apt-get update
+        sudo apt-get install -y chromium-chromedriver
+        if [ ! -f /usr/bin/chromedriver ]; then
+          sudo ln -s /usr/lib/chromium-browser/chromedriver /usr/bin/chromedriver
+        else
+          echo "chromedriver already exists at /usr/bin/chromedriver"
+        fi
 
     - name: Create or update requirements.txt
       working-directory: ./Files
@@ -47,14 +44,22 @@ jobs:
 
     - name: Run scraper
       working-directory: ./Files
-      run: python main.py 
+      run: python main.py
 
     - name: Commit and push changes
       run: |
         git config --global user.name 'GitHub Action'
         git config --global user.email 'action@github.com'
         git checkout main
-        git add proxy.txt README.md Files/requirements.txt
+        # فقط فایل‌های موجود رو به git add اضافه کن
+        for file in proxy.txt README.md Files/requirements.txt; do
+          if [ -f "$file" ]; then
+            git add "$file"
+          else
+            echo "File $file not found, skipping"
+          fi
+        done
+        # اگه تغییری وجود داشت، کامیت و پوش کن
         git diff --quiet && git diff --staged --quiet || git commit -m "⛓️‍💥 Argh94 Update "
         git push || echo "No changes to push"
       env:

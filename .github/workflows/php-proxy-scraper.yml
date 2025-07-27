@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # کل تاریخچه رو بگیر برای pull درست
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -88,10 +90,13 @@ jobs:
           path: Files/python-scraper.log
 
       - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          file_pattern: proxy.txt README.md Files/requirements.txt Files/extracted_proxies.json Files/offline_proxies.txt
-          commit_message: "⛓️‍💥 Argh94 Update - PHP and Python proxies"
-          branch: main
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git pull origin main --rebase || true  # ادغام تغییرات ریموت
+          git add proxy.txt README.md Files/requirements.txt Files/extracted_proxies.json Files/offline_proxies.txt || true
+          git commit -m "⛓️‍💥 Argh94 Update - PHP and Python proxies" || true
+          git push || true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true

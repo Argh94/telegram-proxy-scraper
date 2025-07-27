@@ -13,8 +13,6 @@ from selenium.common.exceptions import WebDriverException
 import unicodedata
 import socket
 from concurrent.futures import ThreadPoolExecutor, as_completed
-import json
-import os
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -23,7 +21,6 @@ USER_AGENTS = [
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15',
     'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36'
 ]
-HISTORY_LENGTH = 24  
 
 def get_random_user_agent():
     return random.choice(USER_AGENTS)
@@ -33,38 +30,25 @@ def clean_line(line):
     line = ''.join(c for c in line if unicodedata.category(c)[0] != 'C')
     return line
 
-def check_proxy_status(server, port, timeout=3):
+def check_proxy_status(server, port, timeout=3):  
     """Check if a proxy server is online by attempting a connection."""
-    start_time = time.time()
     try:
         sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         sock.settimeout(timeout)
         result = sock.connect_ex((server, int(port)))
         sock.close()
         if result == 0:
-            latency = round((time.time() - start_time) * 1000)  # به میلی‌ثانیه
-            logging.info(f"Proxy {server}:{port} is online ({latency}ms)")
-            return {'status': 'Online', 'latency': latency}
+            logging.info(f"Proxy {server}:{port} is online")
+            return True
         else:
             logging.warning(f"Proxy {server}:{port} is offline or unreachable")
-            return {'status': 'Offline', 'latency': None}
-    except (socket.timeout, socket.gaierror, ConnectionRefusedError, socket.error) as e:
+            return False
+    except (socket.timeout, socket.gaierror, ConnectionRefusedError) as e:
         logging.error(f"Error checking proxy {server}:{port}: {e}")
-        return {'status': 'Offline', 'latency': None}
-
-def load_existing_proxies_history(filename='Files/extracted_proxies.json'):
-    """خواندن تاریخچه پروکسی‌ها از فایل JSON"""
-    if os.path.exists(filename):
-        try:
-            with open(filename, 'r', encoding='utf-8') as file:
-                data = json.load(file)
-                return {proxy['tg_url']: proxy for proxy in data}
-        except Exception as e:
-            logging.error(f"Error reading {filename}: {e}")
-    return {}
+        return False
 
 def fetch_proxies_from_text_urls(urls):
-    all_proxies = []
+    all_links = []
     headers = {'User-Agent': get_random_user_agent()}
     pattern = r'^(tg://proxy|https://t\.me/proxy)\?server=[^&]+&port=\d+(&secret=.+)$'
     
@@ -81,40 +65,33 @@ def fetch_proxies_from_text_urls(urls):
                 if not line:
                     continue
                 if re.match(pattern, line):
-                    match = re.match(r'^(?:tg://proxy|https://t\.me/proxy)\?server=([^&]+)&port=(\d+)&secret=([0-9a-fA-F]+.*)$', line)
+                    match = re.match(r'^(?:tg://proxy|https://t\.me/proxy)\?server=([^&]+)&port=(\d+)&secret=.+$', line)
                     if match:
-                        server, port, secret = match.groups()
-                        proxy_checks.append({
-                            'tg_url': line,
-                            'server': server,
-                            'port': int(port),
-                            'secret': secret
-                        })
+                        server, port = match.groups()
+                        proxy_checks.append((line, server, port))
                     else:
                         logging.debug(f"Invalid or skipped proxy: {line} (does not match pattern)")
                 else:
                     logging.debug(f"Invalid or skipped proxy: {line} (does not match pattern)")
             
-            with ThreadPoolExecutor(max_workers=30) as executor:
-                future_to_proxy = {executor.submit(check_proxy_status, proxy['server'], proxy['port']): proxy for proxy in proxy_checks}
+            with ThreadPoolExecutor(max_workers=30) as executor:  
+                future_to_proxy = {executor.submit(check_proxy_status, server, port): line for line, server, port in proxy_checks}
                 for future in as_completed(future_to_proxy):
-                    proxy = future_to_proxy[future]
+                    line = future_to_proxy[future]
                     try:
-                        status_result = future.result()
-                        proxy['status'] = status_result['status']
-                        proxy['latency'] = status_result['latency']
-                        if status_result['status'] == 'Online':
-                            all_proxies.append(proxy)
+                        if future.result():
+                            all_links.append(line)
+                            logging.info(f"Valid and online proxy found: {line}")
+                        else:
+                            logging.warning(f"Skipping offline proxy: {line}")
                     except Exception as e:
-                        logging.error(f"Error checking proxy {proxy['tg_url']}: {e}")
-                        proxy['status'] = 'Offline'
-                        proxy['latency'] = None
+                        logging.error(f"Error checking proxy {line}: {e}")
             
-            logging.info(f"Fetched {len(lines)} lines, {len(all_proxies)} valid and online MTProto proxies from {url}")
+            logging.info(f"Fetched {len(lines)} lines, {len(all_links)} valid and online MTProto proxies from {url}")
         except requests.RequestException as e:
             logging.error(f"HTTP error fetching {url}: {e}")
-        time.sleep(random.uniform(0.5, 1.0))
-    return all_proxies
+        time.sleep(random.uniform(0.5, 1.0))  
+    return all_links
 
 def fetch_proxies_from_telegram_channel(url):
     proxies = []
@@ -130,9 +107,9 @@ def fetch_proxies_from_telegram_channel(url):
         logging.info(f"Opened {url}")
         
         last_height = driver.execute_script("return document.body.scrollHeight")
-        for i in range(5):
+        for i in range(5):  
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            time.sleep(2)
+            time.sleep(2)  
             new_height = driver.execute_script("return document.body.scrollHeight")
             logging.info(f"Scrolled {url}, attempt {i+1}, new height: {new_height}")
             if new_height == last_height:
@@ -150,31 +127,24 @@ def fetch_proxies_from_telegram_channel(url):
         
         proxy_checks = []
         for element in proxy_elements:
-            proxy_url = element.get('href')
-            match = re.match(r'^(?:tg://proxy|https://t\.me/proxy)\?server=([^&]+)&port=(\d+)&secret=([0-9a-fA-F]+.*)$', proxy_url)
+            proxy = element.get('href')
+            match = re.match(r'^(?:tg://proxy|https://t\.me/proxy)\?server=([^&]+)&port=(\d+)&secret=.+$', proxy)
             if match:
-                server, port, secret = match.groups()
-                proxy_checks.append({
-                    'tg_url': proxy_url,
-                    'server': server,
-                    'port': int(port),
-                    'secret': secret
-                })
+                server, port = match.groups()
+                proxy_checks.append((proxy, server, port))
         
-        with ThreadPoolExecutor(max_workers=30) as executor:
-            future_to_proxy = {executor.submit(check_proxy_status, proxy['server'], proxy['port']): proxy for proxy in proxy_checks}
+        with ThreadPoolExecutor(max_workers=30) as executor:  
+            future_to_proxy = {executor.submit(check_proxy_status, server, port): proxy for proxy, server, port in proxy_checks}
             for future in as_completed(future_to_proxy):
                 proxy = future_to_proxy[future]
                 try:
-                    status_result = future.result()
-                    proxy['status'] = status_result['status']
-                    proxy['latency'] = status_result['latency']
-                    if status_result['status'] == 'Online':
+                    if future.result():
                         proxies.append(proxy)
+                        logging.info(f"Valid and online proxy found from Telegram: {proxy}")
+                    else:
+                        logging.warning(f"Skipping offline proxy from Telegram: {proxy}")
                 except Exception as e:
-                    logging.error(f"Error checking proxy {proxy['tg_url']}: {e}")
-                    proxy['status'] = 'Offline'
-                    proxy['latency'] = None
+                    logging.error(f"Error checking proxy {proxy}: {e}")
         
         logging.info(f"Fetched {len(proxies)} valid and online MTProto proxies from {url}")
     except WebDriverException as e:
@@ -186,37 +156,17 @@ def fetch_proxies_from_telegram_channel(url):
             driver.quit()
         except:
             pass
-    time.sleep(random.uniform(0.5, 1.0))
+    time.sleep(random.uniform(0.5, 1.0))  
     return proxies
 
 def save_proxies_to_file(proxy_list, filename='../proxy.txt'):
     try:
-        existing_proxies_history = load_existing_proxies_history()
-        
-        for proxy in proxy_list:
-            history = existing_proxies_history.get(proxy['tg_url'], {}).get('history', [])
-            new_status_bit = 1 if proxy['status'] == 'Online' else 0
-            history.append(new_status_bit)
-            if len(history) > HISTORY_LENGTH:
-                history = history[-HISTORY_LENGTH:]
-            proxy['history'] = history
-    
-        with open('Files/extracted_proxies.json', 'w', encoding='utf-8') as file:
-            json.dump(proxy_list, file, ensure_ascii=False, indent=4)
-        logging.info(f"Saved {len(proxy_list)} proxies with history to Files/extracted_proxies.json")
-        
-        existing_proxies = []
-        if os.path.exists(filename):
-            with open(filename, 'r', encoding='utf-8') as file:
-                existing_proxies = [line.strip() for line in file if line.strip()]
-        
-        unique_proxies = list(set(existing_proxies + [proxy['tg_url'] for proxy in proxy_list if proxy['status'] == 'Online']))
-
+        unique_proxies = list(set(proxy_list))
         with open(filename, 'w', encoding='utf-8') as file:
             for proxy in unique_proxies:
                 file.write(proxy + '\n')
-        logging.info(f"Saved {len(unique_proxies)} unique online proxies to {filename}")
-        return proxy_list
+        logging.info(f"Saved {len(unique_proxies)} unique proxies to {filename}")
+        return unique_proxies
     except IOError as e:
         logging.error(f"Error writing to {filename}: {e}")
         return []
@@ -235,20 +185,20 @@ def update_readme(proxy_list):
         table_rows = ""
         valid_proxies = 0
         for i, proxy in enumerate(sample_proxies, 1):
-            proxy_url = proxy['tg_url'].replace('tg://proxy', 'https://t.me/proxy')
-            status = proxy['status']
-            latency = f"{proxy['latency']}ms" if proxy['latency'] else '-'
-            match = re.match(r'^(?:tg://proxy|https://t\.me/proxy)\?server=([^&]+)&port=(\d+)&secret=([0-9a-fA-F]+.*)$', proxy['tg_url'])
+            proxy = proxy.strip()
+            proxy = proxy.replace('tg://proxy', 'https://t.me/proxy')
+            
+            match = re.match(r'^https://t\.me/proxy\?server=([^&]+)&port=(\d+)&secret=([0-9a-fA-F]+)(?:[0-9a-fA-F]*\..*)?$', proxy)
             if match:
                 server, port, secret = match.groups()
                 display_proxy = f"https://t.me/proxy?server={server}&port={port}&secret={secret}"
-                table_rows += f"| {i} | `{server}` | `{port}` | {status} ({latency}) | [لینک پروکسی]({display_proxy}) |\n"
+                table_rows += f"| {i} | `{server}` | `{port}` | ✅ فعال | [لینک پروکسی]({display_proxy}) |\n"
                 valid_proxies += 1
-                logging.info(f"Valid proxy added to table: {proxy_url} ({status}, {latency})")
+                logging.info(f"Valid proxy added to table: {proxy} (displayed as link to {display_proxy})")
             else:
-                logging.warning(f"Invalid proxy format, skipped: {proxy['tg_url']}")
+                logging.warning(f"Invalid proxy format, skipped: {proxy}")
         
-        logging.info(f"Added {valid_proxies} valid proxies to the table (out of {len(sample_proxies)} sampled)")
+        logging.info(f"Added {valid_proxies} valid proxies to the table (out of {len(sample_proxies)} sampled)")  # رفع خطای سینتاكسی
 
         readme_content = f"""# 📊 نتایج استخراج: (آخرین بروزرسانی: {update_time_iran})
 
@@ -265,11 +215,10 @@ def update_readme(proxy_list):
 
 ## ✨ درباره پروژه
 
-این اسکریپت با استفاده از `requests` برای منابع متنی و `selenium` برای کانال‌های تلگرام، پروکسی‌های MTProto را جمع‌آوری می‌کند. فقط پروکسی‌های آنلاین ذخیره شده و پروکسی‌های تکراری حذف می‌شوند. این فرآیند به‌صورت خودکار با **GitHub Actions** هر 3 ساعت اجرا می‌شود.
+این اسکریپت با استفاده از `requests` برای منابع متنی و `selenium` برای کانال‌های تلگرام، پروکسی‌های MTProto را جمع‌آوری می‌کند. پروکسی‌های تکراری حذف شده و نتایج در فایل `proxy.txt` ذخیره می‌شوند. این فرآیند به‌صورت خودکار با **GitHub Actions** هر 3 ساعت اجرا می‌شود.
 
 ## 🚀 ویژگی‌ها
 - 🌐 جمع‌آوری پروکسی از منابع متنی و کانال‌های تلگرام
-- ✅ بررسی وضعیت پروکسی‌ها (آنلاین/آفلاین)
 - 🔄 به‌روزرسانی خودکار هر 3 ساعت
 - 🗑 حذف پروکسی‌های تکراری
 - 🔑 بدون نیاز به API تلگرام
@@ -364,7 +313,7 @@ if __name__ == "__main__":
         proxies = fetch_proxies_from_telegram_channel(url)
         telegram_proxies.extend(proxies)
     
-    all_proxies = text_proxies + telegram_proxies
+    all_proxies = list(set(text_proxies + telegram_proxies))
     
     all_proxies = save_proxies_to_file(all_proxies)
     

@@ -2,7 +2,7 @@ name: Telegram Proxy Scraper
 
 on:
   schedule:
-    - cron: '0 */3 * * *'  
+    - cron: '0 */3 * * *'  # اجرا هر 3 ساعت
   push:
     branches: [ main ]
   workflow_dispatch:
@@ -10,26 +10,28 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 15 
+    timeout-minutes: 15  # تایم‌اوت برای جلوگیری از توقف در اجرای طولانی
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4  
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v5  
+      uses: actions/setup-python@v5
       with:
         python-version: '3.9'
 
-    - name: Install ChromeDriver
+    - name: Install Chrome
+      uses: browser-actions/setup-chrome@v1
+      with:
+        chrome-version: stable
+      id: setup-chrome
+
+    - name: Verify ChromeDriver
       run: |
-        sudo apt-get update
-        sudo apt-get install -y chromium-chromedriver
-        if [ ! -f /usr/bin/chromedriver ]; then
-          sudo ln -s /usr/lib/chromium-browser/chromedriver /usr/bin/chromedriver
-        else
-          echo "chromedriver already exists at /usr/bin/chromedriver"
-        fi
+        chromedriver --version
+        echo "Chrome installed at: ${{ steps.setup-chrome.outputs.chrome-path }}"
+        echo "ChromeDriver installed at: ${{ steps.setup-chrome.outputs.chromedriver-path }}"
 
     - name: Create or update requirements.txt
       working-directory: ./Files
@@ -45,7 +47,7 @@ jobs:
 
     - name: Run scraper
       working-directory: ./Files
-      run: python main.py 
+      run: python main.py  # مطمئن بشید اسم فایل درست باشه (مثلاً main.py یا scraper.py)
 
     - name: Commit and push changes
       run: |

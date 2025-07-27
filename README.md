@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:37 05-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:01 05-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -46,12 +46,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 7 | `iran-vatan.magalaiash.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iran-vatan.magalaiash.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 12 | `151.244.85.63` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=151.244.85.63&port=70&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 14 | `140.233.187.49` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=140.233.187.49&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 18 | `BodoBodo.khoshghovar.online.` | `888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=BodoBodo.khoshghovar.online.&port=888&secret=ee0c30628212cbbd7ac519130205525d1569612e737465616d706f77657265642e636f6d) |
-| 19 | `87.248.132.55` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.55&port=200&secret=ee0000f00f0f775555fffffff5006e2e69646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
-| 20 | `87.248.134.12` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.12&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 2 | `87.248.132.85` | `44344` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.85&port=44344&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 4 | `91.99.100.55` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.100.55&port=155&secret=ddec742282124f04d318551341ead76457) |
+| 8 | `link.irpower-e.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=link.irpower-e.ir&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 9 | `83.147.255.85` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=83.147.255.85&port=443&secret=EE1603010200010007f0030386e24c3add646f776e6c6f61642e77696e646f77737570646174652e636f6) |
+| 15 | `94.130.136.241` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=94.130.136.241&port=443&secret=104462821249bd7ac519130220c25d09) |
+| 16 | `87.248.132.38` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.38&port=85&secret=ee0000f00f0f775555fffffff5006e2e69646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

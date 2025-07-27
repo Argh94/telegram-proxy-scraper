@@ -10,28 +10,28 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 15 
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.9'
 
-    - name: Install ChromeDriver
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y chromium-chromedriver
-        if [ ! -f /usr/bin/chromedriver ]; then
-          sudo ln -s /usr/lib/chromium-browser/chromedriver /usr/bin/chromedriver
-        else
-          echo "chromedriver already exists at /usr/bin/chromedriver"
-        fi
+    - name: Install Chrome
+      uses: browser-actions/setup-chrome@v1
+      with:
+        chrome-version: stable
+      id: setup-chrome
 
-    - name: Ensure proxy.txt exists
-      run: touch proxy.txt
+    - name: Verify ChromeDriver
+      run: |
+        chromedriver --version
+        echo "Chrome installed at: ${{ steps.setup-chrome.outputs.chrome-path }}"
+        echo "ChromeDriver installed at: ${{ steps.setup-chrome.outputs.chromedriver-path }}"
 
     - name: Create or update requirements.txt
       working-directory: ./Files
@@ -47,20 +47,14 @@ jobs:
 
     - name: Run scraper
       working-directory: ./Files
-      run: python main.py
+      run: python main.py  
 
     - name: Commit and push changes
       run: |
         git config --global user.name 'GitHub Action'
         git config --global user.email 'action@github.com'
         git checkout main
-        for file in proxy.txt README.md Files/requirements.txt; do
-          if [ -f "$file" ]; then
-            git add "$file"
-          else
-            echo "File $file not found, skipping"
-          fi
-        done
+        git add proxy.txt README.md Files/requirements.txt
         git diff --quiet && git diff --staged --quiet || git commit -m "⛓️‍💥 Argh94 Update "
         git push || echo "No changes to push"
       env:

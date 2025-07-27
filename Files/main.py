@@ -11,11 +11,12 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import WebDriverException
 import unicodedata
+import socket
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 USER_AGENTS = [
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+    'Mozilla/5.0 (WindowsERING: True
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15',
     'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36'
 ]
@@ -27,6 +28,23 @@ def clean_line(line):
     line = line.strip().replace('\r', '').replace('\n', '')
     line = ''.join(c for c in line if unicodedata.category(c)[0] != 'C')
     return line
+
+def check_proxy_status(server, port, timeout=5):
+    """Check if a proxy server is online by attempting a connection."""
+    try:
+        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        sock.settimeout(timeout)
+        result = sock.connect_ex((server, int(port)))
+        sock.close()
+        if result == 0:
+            logging.info(f"Proxy {server}:{port} is online")
+            return True
+        else:
+            logging.warning(f"Proxy {server}:{port} is offline or unreachable")
+            return False
+    except (socket.timeout, socket.gaierror, ConnectionRefusedError) as e:
+        logging.error(f"Error checking proxy {server}:{port}: {e}")
+        return False
 
 def fetch_proxies_from_text_urls(urls):
     all_links = []
@@ -44,11 +62,19 @@ def fetch_proxies_from_text_urls(urls):
                 if not line:
                     continue
                 if re.match(pattern, line):
-                    all_links.append(line)
-                    logging.info(f"Valid proxy found: {line}")
+                    match = re.match(r'^(?:tg://proxy|https://t\.me/proxy)\?server=([^&]+)&port=(\d+)&secret=.+$', line)
+                    if match:
+                        server, port = match.groups()
+                        if check_proxy_status(server, port):
+                            all_links.append(line)
+                            logging.info(f"Valid and online proxy found: {line}")
+                        else:
+                            logging.warning(f"Skipping offline proxy: {line}")
+                    else:
+                        logging.debug(f"Invalid or skipped proxy: {line} (does not match pattern)")
                 else:
                     logging.debug(f"Invalid or skipped proxy: {line} (does not match pattern)")
-            logging.info(f"Fetched {len(lines)} lines, {len(all_links)} valid MTProto proxies from {url}")
+            logging.info(f"Fetched {len(lines)} lines, {len(all_links)} valid and online MTProto proxies from {url}")
         except requests.RequestException as e:
             logging.error(f"HTTP error fetching {url}: {e}")
         time.sleep(random.uniform(1, 3))
@@ -85,10 +111,19 @@ def fetch_proxies_from_telegram_channel(url):
         soup = BeautifulSoup(page_source, 'html.parser')
         pattern = r'^(tg://proxy|https://t\.me/proxy)\?server=[^&]+&port=\d+(&secret=.+)$'
         proxy_elements = soup.find_all('a', href=re.compile(pattern))
-        proxies = [element.get('href') for element in proxy_elements]
-        for proxy in proxies:
-            logging.info(f"Valid proxy found from Telegram: {proxy}")
-        logging.info(f"Fetched {len(proxies)} MTProto proxies from {url}")
+        
+        for element in proxy_elements:
+            proxy = element.get('href')
+            match = re.match(r'^(?:tg://proxy|https://t\.me/proxy)\?server=([^&]+)&port=(\d+)&secret=.+$', proxy)
+            if match:
+                server, port = match.groups()
+                if check_proxy_status(server, port):
+                    proxies.append(proxy)
+                    logging.info(f"Valid and online proxy found from Telegram: {proxy}")
+                else:
+                    logging.warning(f"Skipping offline proxy from Telegram: {proxy}")
+        
+        logging.info(f"Fetched {len(proxies)} valid and online MTProto proxies from {url}")
     except WebDriverException as e:
         logging.error(f"WebDriver error fetching {url}: {e}")
     except Exception as e:

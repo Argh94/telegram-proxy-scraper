@@ -2,7 +2,7 @@ name: Telegram Proxy Scraper
 
 on:
   schedule:
-    - cron: '0 */3 * * *'  # اجرا هر 3 ساعت (تأخیر حذف شد برای هماهنگی)
+    - cron: '0 */3 * * *'  # اجرا هر 3 ساعت
   push:
     branches: [ main ]
   workflow_dispatch:
@@ -42,8 +42,12 @@ jobs:
           echo "Chrome installed at: ${{ steps.setup-chrome.outputs.chrome-path }}"
           echo "ChromeDriver installed at: ${{ steps.setup-chrome.outputs.chromedriver-path }}"
 
-      - name: Ensure proxy.txt exists
-        run: touch proxy.txt
+      - name: Ensure output files exist
+        run: |
+          touch proxy.txt
+          mkdir -p Files
+          touch Files/extracted_proxies.json
+          touch Files/offline_proxies.txt
 
       - name: Create or update requirements.txt
         working-directory: ./Files

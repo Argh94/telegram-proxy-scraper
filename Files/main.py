@@ -12,6 +12,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import WebDriverException
 import unicodedata
 import socket
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -29,7 +30,7 @@ def clean_line(line):
     line = ''.join(c for c in line if unicodedata.category(c)[0] != 'C')
     return line
 
-def check_proxy_status(server, port, timeout=5):
+def check_proxy_status(server, port, timeout=3):  # کاهش تایم‌اوت به 3 ثانیه
     """Check if a proxy server is online by attempting a connection."""
     try:
         sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -57,6 +58,8 @@ def fetch_proxies_from_text_urls(urls):
             response = requests.get(url, headers=headers, timeout=10)
             response.raise_for_status()
             lines = response.text.splitlines()
+            proxy_checks = []
+            
             for line in lines:
                 line = clean_line(line)
                 if not line:
@@ -65,19 +68,30 @@ def fetch_proxies_from_text_urls(urls):
                     match = re.match(r'^(?:tg://proxy|https://t\.me/proxy)\?server=([^&]+)&port=(\d+)&secret=.+$', line)
                     if match:
                         server, port = match.groups()
-                        if check_proxy_status(server, port):
-                            all_links.append(line)
-                            logging.info(f"Valid and online proxy found: {line}")
-                        else:
-                            logging.warning(f"Skipping offline proxy: {line}")
+                        proxy_checks.append((line, server, port))
                     else:
                         logging.debug(f"Invalid or skipped proxy: {line} (does not match pattern)")
                 else:
                     logging.debug(f"Invalid or skipped proxy: {line} (does not match pattern)")
+            
+            # بررسی پروکسی‌ها به‌صورت موازی
+            with ThreadPoolExecutor(max_workers=30) as executor:  # افزایش تعداد نخ‌ها به 30
+                future_to_proxy = {executor.submit(check_proxy_status, server, port): line for line, server, port in proxy_checks}
+                for future in as_completed(future_to_proxy):
+                    line = future_to_proxy[future]
+                    try:
+                        if future.result():
+                            all_links.append(line)
+                            logging.info(f"Valid and online proxy found: {line}")
+                        else:
+                            logging.warning(f"Skipping offline proxy: {line}")
+                    except Exception as e:
+                        logging.error(f"Error checking proxy {line}: {e}")
+            
             logging.info(f"Fetched {len(lines)} lines, {len(all_links)} valid and online MTProto proxies from {url}")
         except requests.RequestException as e:
             logging.error(f"HTTP error fetching {url}: {e}")
-        time.sleep(random.uniform(1, 3))
+        time.sleep(random.uniform(0.5, 1.0))  # کاهش تأخیر
     return all_links
 
 def fetch_proxies_from_telegram_channel(url):
@@ -94,9 +108,9 @@ def fetch_proxies_from_telegram_channel(url):
         logging.info(f"Opened {url}")
         
         last_height = driver.execute_script("return document.body.scrollHeight")
-        for i in range(35):  
+        for i in range(5):  # کاهش تعداد اسکرول‌ها به 5
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            time.sleep(7)  
+            time.sleep(2)  # کاهش تأخیر به 2 ثانیه
             new_height = driver.execute_script("return document.body.scrollHeight")
             logging.info(f"Scrolled {url}, attempt {i+1}, new height: {new_height}")
             if new_height == last_height:
@@ -112,16 +126,27 @@ def fetch_proxies_from_telegram_channel(url):
         pattern = r'^(tg://proxy|https://t\.me/proxy)\?server=[^&]+&port=\d+(&secret=.+)$'
         proxy_elements = soup.find_all('a', href=re.compile(pattern))
         
+        proxy_checks = []
         for element in proxy_elements:
             proxy = element.get('href')
             match = re.match(r'^(?:tg://proxy|https://t\.me/proxy)\?server=([^&]+)&port=(\d+)&secret=.+$', proxy)
             if match:
                 server, port = match.groups()
-                if check_proxy_status(server, port):
-                    proxies.append(proxy)
-                    logging.info(f"Valid and online proxy found from Telegram: {proxy}")
-                else:
-                    logging.warning(f"Skipping offline proxy from Telegram: {proxy}")
+                proxy_checks.append((proxy, server, port))
+        
+        # بررسی پروکسی‌ها به‌صورت موازی
+        with ThreadPoolExecutor(max_workers=30) as executor:  # افزایش تعداد نخ‌ها به 30
+            future_to_proxy = {executor.submit(check_proxy_status, server, port): proxy for proxy, server, port in proxy_checks}
+            for future in as_completed(future_to_proxy):
+                proxy = future_to_proxy[future]
+                try:
+                    if future.result():
+                        proxies.append(proxy)
+                        logging.info(f"Valid and online proxy found from Telegram: {proxy}")
+                    else:
+                        logging.warning(f"Skipping offline proxy from Telegram: {proxy}")
+                except Exception as e:
+                    logging.error(f"Error checking proxy {proxy}: {e}")
         
         logging.info(f"Fetched {len(proxies)} valid and online MTProto proxies from {url}")
     except WebDriverException as e:
@@ -133,7 +158,7 @@ def fetch_proxies_from_telegram_channel(url):
             driver.quit()
         except:
             pass
-    time.sleep(random.uniform(2, 5))
+    time.sleep(random.uniform(0.5, 1.0))  # کاهش تأخیر
     return proxies
 
 def save_proxies_to_file(proxy_list, filename='../proxy.txt'):
@@ -175,7 +200,7 @@ def update_readme(proxy_list):
             else:
                 logging.warning(f"Invalid proxy format, skipped: {proxy}")
         
-        logging.info(f"Added {valid_proxies} valid proxies to the table (out of {len(sample_proxies)} sampled)")
+        logging.info(f"Added {valid_proxies} valid proxies to the table (out of {len(sample_proxies)} sampled)")  # رفع خطای سینتاكسی
 
         readme_content = f"""# 📊 نتایج استخراج: (آخرین بروزرسانی: {update_time_iran})
 

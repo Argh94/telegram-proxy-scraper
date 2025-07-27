@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 01:54 05-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:23 05-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -46,13 +46,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `ryzen-gold.shesh-station.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ryzen-gold.shesh-station.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 7 | `87.248.132.199` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.199&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 9 | `45.84.0.164` | `6968` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.84.0.164&port=6968&secret=403e07c21c0ef8f6b148af16d76cd1eb) |
-| 10 | `47.254.231.224` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.254.231.224&port=443&secret=ee47c0ce85abd33aac10f02f06fee66ac7617a7572652e6d6963726f736f66742e636f6d) |
-| 14 | `91.99.203.31` | `888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.203.31&port=888&secret=ee0c30628212cbbd7ac519130205525d1569612e737465616d706f77657265642e636f6d) |
-| 16 | `83.172.153.226` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=83.172.153.226&port=85&secret=dd306cb73bd735551ca3b59f32e05b45e9) |
-| 18 | `Q5.opt-meli.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Q5.opt-meli.info&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 5 | `79.172.228.86` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=79.172.228.86&port=70&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 7 | `195.2.93.92` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.2.93.92&port=85&secret=ee0000f00f0f775555fffffff5006e2e69646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
+| 12 | `htop.link-a4.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=htop.link-a4.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 14 | `79.172.228.61` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=79.172.228.61&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 20 | `62.60.177.180` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.177.180&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

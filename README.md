@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:51 05-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:59 05-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -46,16 +46,15 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `91.99.131.55` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.131.55&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 3 | `134.199.190.138` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=134.199.190.138&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 5 | `204.76.203.52` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=204.76.203.52&port=443&secret=15115115115115115115115115115115) |
-| 6 | `response.cinere.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=response.cinere.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 7 | `resourcebased-buying-an-airplane.lmusicl.ir.` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=resourcebased-buying-an-airplane.lmusicl.ir.&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 8 | `79.172.228.51` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=79.172.228.51&port=70&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 9 | `89.110.76.65` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.76.65&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 10 | `2.ebimusic.xyz` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2.ebimusic.xyz&port=443&secret=ddebb8da4e7c85740279fba316460f7dfb) |
-| 14 | `cai7kkj46fbf.dop1000.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cai7kkj46fbf.dop1000.com&port=443&secret=ee21ef372ec7034a96b00807b1ed45d42d636c7562686f7573652e7075626e75622e636f6d) |
-| 18 | `79.172.228.61` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=79.172.228.61&port=70&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 1 | `178.20.43.19` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=178.20.43.19&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 3 | `193.3.190.10` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=193.3.190.10&port=85&secret=ee0000f00f0f775555fffffff5006e2e696e616d6176612e6972) |
+| 5 | `83.172.153.226` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=83.172.153.226&port=85&secret=dd306cb73bd735551ca3b59f32e05b45e9) |
+| 6 | `91.84.101.3` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.84.101.3&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 10 | `91.99.155.165` | `343` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.155.165&port=343&secret=ee2e90d6ea3a0b17e371520fe2a2a40bd47777772e636c6f7564666c6172652e636f6d) |
+| 11 | `163.123.141.136` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=163.123.141.136&port=443&secret=eef900af441604263a084c1aa73af331ac676f6f676c652e636f6d) |
+| 13 | `62.60.178.115` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.178.115&port=443&secret=1603010200010001fc030386e24c3add) |
+| 15 | `151.244.42.5` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=151.244.42.5&port=85&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 18 | `5.35.46.6` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.46.6&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

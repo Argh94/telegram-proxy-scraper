@@ -1,8 +1,8 @@
-name: PHP Telegram Proxy Scraper
+name: Telegram Proxy Scraper
 
 on:
   schedule:
-    - cron: '15 */3 * * *'  # اجرا هر 3 ساعت با 15 دقیقه تأخیر
+    - cron: '0 */3 * * *'  # اجرا هر 3 ساعت (تأخیر حذف شد برای هماهنگی)
   push:
     branches: [ main ]
   workflow_dispatch:
@@ -13,27 +13,81 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup PHP
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+
+      - name: Set up PHP
         uses: shivammathur/setup-php@v2
         with:
-          php-version: '8.x'
+          php-version: '8.1'
           extensions: curl
+
+      - name: Install Chrome
+        uses: browser-actions/setup-chrome@v1
+        with:
+          chrome-version: stable
+        id: setup-chrome
+
+      - name: Verify ChromeDriver
+        run: |
+          chromedriver --version
+          echo "Chrome installed at: ${{ steps.setup-chrome.outputs.chrome-path }}"
+          echo "ChromeDriver installed at: ${{ steps.setup-chrome.outputs.chromedriver-path }}"
 
       - name: Ensure proxy.txt exists
         run: touch proxy.txt
 
-      - name: Run PHP proxy extractor
+      - name: Create or update requirements.txt
         working-directory: ./Files
-        run: php proxy-extractor.php
+        run: |
+          echo -e "requests\nbeautifulsoup4\nselenium\npytz\njdatetime" > requirements.txt
+          cat requirements.txt
+
+      - name: Install Python dependencies
+        working-directory: ./Files
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run PHP scraper
+        working-directory: ./Files
+        run: |
+          php extract_proxies.php > php-scraper.log 2>&1
+        continue-on-error: true
+
+      - name: Upload PHP scraper log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: php-scraper-log
+          path: Files/php-scraper.log
+
+      - name: Run Python scraper
+        working-directory: ./Files
+        run: |
+          python main.py > python-scraper.log 2>&1
+        continue-on-error: true
+
+      - name: Upload Python scraper log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: python-scraper-log
+          path: Files/python-scraper.log
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          file_pattern: proxy.txt Files/extracted_proxies.json
-          commit_message: Update proxy.txt and extracted_proxies.json from PHP
+          file_pattern: proxy.txt README.md Files/requirements.txt Files/extracted_proxies.json Files/offline_proxies.txt
+          commit_message: "⛓️‍💥 Argh94 Update - PHP and Python proxies"
           branch: main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

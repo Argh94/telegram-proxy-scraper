@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:52 05-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:10 05-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -46,11 +46,16 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 5 | `213.145.71.35` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=213.145.71.35&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 9 | `142.132.227.65` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.132.227.65&port=443&secret=36d4db00f0ae7d7c6e3d7b29dfe04134) |
-| 11 | `109.107.187.194` | `443000` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=109.107.187.194&port=443000&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 16 | `140.233.187.82` | `4030` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=140.233.187.82&port=4030&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 19 | `cai7kkj46fbf.dop1000.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cai7kkj46fbf.dop1000.com&port=443&secret=ee21ef372ec7034a96b00807b1ed45d42d636c7562686f7573652e7075626e75622e636f6d) |
+| 3 | `62.60.179.221` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.179.221&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 4 | `47.254.231.224` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.254.231.224&port=443&secret=ee47c0ce85abd33aac10f02f06fee66ac7617a7572652e6d6963726f736f66742e636f6d) |
+| 7 | `8.217.223.203` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.217.223.203&port=443&secret=ee91a815b07a8429a3ee8261851c24156b617a7572652e6d6963726f736f66742e636f6d) |
+| 8 | `87.248.132.34` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.34&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 12 | `sell.erade60.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sell.erade60.ir&port=443&secret=eec862057ba49a7ecdf0ad4eb44cd5bb11646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 13 | `95.169.173.10` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=95.169.173.10&port=8443&secret=d77db43ee3721f0fcb40a4ff63b5cd27) |
+| 15 | `5.35.70.114` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.70.114&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 17 | `87.248.132.17` | `343` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.17&port=343&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 19 | `www.hihim.sbs` | `888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.hihim.sbs&port=888&secret=ee0c30628212cbbd7ac519130205525d1569612e737465616d706f77657265642e636f6d) |
+| 20 | `79.172.228.108` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=79.172.228.108&port=70&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

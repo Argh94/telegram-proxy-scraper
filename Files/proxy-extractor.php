@@ -64,8 +64,6 @@ foreach ($usernames as $username) {
         CURLOPT_FOLLOWLOCATION => true,
         CURLOPT_TIMEOUT => 30,
         CURLOPT_USERAGENT => 'Mozilla/5.0 (compatible; PHP-Proxy-Extractor/4.1)',
-        // اضافه کردن پراکسی برای دور زدن محدودیت‌های شبکه
-        // CURLOPT_PROXY => 'http://your-proxy:port', // اگر پراکسی دارید، اینجا وارد کنید
     ]);
     curl_multi_add_handle($multiHandle, $ch);
     $urlHandles[$channelUrl] = $ch;
@@ -183,10 +181,14 @@ usort($proxiesWithStatus, function ($a, $b) {
 
 // --- Phase 6: Generate Outputs ---
 $jsonOutputContent = json_encode($proxiesWithStatus, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
-if (file_put_contents($outputJsonFile, $jsonOutputContent)) {
-    echo "Successfully wrote $proxyCount unique proxies to '$outputJsonFile'\n";
+if ($proxiesWithStatus || !file_exists($outputJsonFile)) {
+    if (file_put_contents($outputJsonFile, $jsonOutputContent)) {
+        echo "Successfully wrote $proxyCount unique proxies to '$outputJsonFile'\n";
+    } else {
+        echo "Failed to write to '$outputJsonFile'\n";
+    }
 } else {
-    echo "Failed to write to '$outputJsonFile'\n";
+    echo "No online proxies found, keeping existing '$outputJsonFile'\n";
 }
 
 // --- Phase 7: Save Offline Proxies ---

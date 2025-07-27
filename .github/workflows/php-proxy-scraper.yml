@@ -2,7 +2,7 @@ name: PHP Telegram Proxy Scraper
 
 on:
   schedule:
-    - cron: '15 */3 * * *'  
+    - cron: '15 */3 * * *'  # اجرا هر 3 ساعت با 15 دقیقه تأخیر
   push:
     branches: [ main ]
   workflow_dispatch:
@@ -23,6 +23,9 @@ jobs:
         with:
           php-version: '8.x'
           extensions: curl
+
+      - name: Ensure proxy.txt exists
+        run: touch proxy.txt
 
       - name: Run PHP proxy extractor
         working-directory: ./Files

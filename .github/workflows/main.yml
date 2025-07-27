@@ -2,7 +2,7 @@ name: Telegram Proxy Scraper
 
 on:
   schedule:
-    - cron: '0 */3 * * *'  # اجرا هر 3 ساعت
+    - cron: '0 */3 * * *'  
   push:
     branches: [ main ]
   workflow_dispatch:
@@ -10,7 +10,7 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 15  # تایم‌اوت برای جلوگیری از توقف در اجرای طولانی
+    timeout-minutes: 15  
 
     steps:
     - name: Checkout repository
@@ -47,7 +47,7 @@ jobs:
 
     - name: Run scraper
       working-directory: ./Files
-      run: python main.py  # مطمئن بشید اسم فایل درست باشه (مثلاً main.py یا scraper.py)
+      run: python main.py 
 
     - name: Commit and push changes
       run: |

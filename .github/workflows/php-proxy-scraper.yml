@@ -1,0 +1,36 @@
+name: PHP Telegram Proxy Scraper
+
+on:
+  schedule:
+    - cron: '15 */3 * * *'  
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.x'
+          extensions: curl
+
+      - name: Run PHP proxy extractor
+        working-directory: ./Files
+        run: php proxy-extractor.php
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: proxy.txt Files/extracted_proxies.json
+          commit_message: Update proxy.txt and extracted_proxies.json from PHP
+          branch: main

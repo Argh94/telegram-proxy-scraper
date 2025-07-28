@@ -58,22 +58,25 @@ jobs:
         working-directory: ./Files
         run: |
           if [ ! -s usernames.json ]; then
-            echo '[
-                "NetAccount",
-                "GlypeX",
-                "ProxyMTProto",
-                "iMTProto",
-                "darkproxy",
-                "TelMTProto",
-                "MTP_roto",
-                "ProxyMTProto_tel",
-                "mtpproxyirani"
-            ]' > usernames.json
+            cat << 'EOF' > usernames.json
+[
+    "NetAccount",
+    "GlypeX",
+    "ProxyMTProto",
+    "iMTProto",
+    "darkproxy",
+    "TelMTProto",
+    "MTP_roto",
+    "ProxyMTProto_tel",
+    "mtpproxyirani"
+]
+EOF
             echo "Created usernames.json with default channels"
           else
             echo "usernames.json already exists"
             cat usernames.json
           fi
+          ls -l usernames.json
 
       - name: Verify files before running PHP
         working-directory: ./Files
@@ -81,6 +84,7 @@ jobs:
           ls -l
           if [ ! -f extract_proxies.php ]; then echo "Error: extract_proxies.php not found"; exit 1; fi
           if [ ! -f usernames.json ]; then echo "Error: usernames.json not found"; exit 1; fi
+          if [ ! -s usernames.json ]; then echo "Error: usernames.json is empty"; exit 1; fi
 
       - name: Create or update requirements.txt
         working-directory: ./Files

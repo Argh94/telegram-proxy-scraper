@@ -19,7 +19,7 @@ $userAgents = [
 // --- Script Logic ---
 ob_start();
 date_default_timezone_set('Asia/Tehran');
-echo "--- Telegram Proxy Extractor v4.4 (Combined & Debug Enhanced) ---\n";
+echo "--- Telegram Proxy Extractor v4.5 (Debug Enhanced) ---\n";
 
 // --- Phase 0: Read Previous Run's Data ---
 $indexedOldProxies = [];
@@ -55,6 +55,7 @@ if (file_exists($inputJsonFile)) {
         }
     } else {
         echo "Error: Could not read input JSON file '$inputJsonFile'\n";
+        $usernames = [];
     }
 } else {
     echo "Error: Input JSON file not found at '$inputJsonFile'. Using empty username list.\n";
@@ -79,6 +80,7 @@ foreach ($usernames as $username) {
         CURLOPT_VERBOSE => true, // لاگ‌های دقیق‌تر
         CURLOPT_STDERR => fopen('php://stderr', 'w'), // لاگ‌های curl به stderr
         CURLOPT_SSL_VERIFYPEER => false, // برای دور زدن مشکلات SSL
+        CURLOPT_SSL_VERIFYHOST => false, // برای دور زدن مشکلات SSL
     ]);
     curl_multi_add_handle($multiHandle, $ch);
     $urlHandles[$channelUrl] = $ch;

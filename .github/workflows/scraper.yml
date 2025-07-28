@@ -44,20 +44,36 @@ jobs:
           echo "Chrome installed at: ${{ steps.setup-chrome.outputs.chrome-path }}"
           echo "ChromeDriver installed at: ${{ steps.setup-chrome.outputs.chromedriver-path }}"
 
-      - name: Ensure output files exist
+      - name: Ensure output files and directory exist
         run: |
-          touch proxy.txt
           mkdir -p Files
+          touch proxy.txt
           touch Files/extracted_proxies.json
           touch Files/offline_proxies.txt
-          touch Files/usernames.json  # اطمینان از وجود فایل usernames.json
+          touch Files/usernames.json
+          chmod -R 777 Files  # اطمینان از دسترسی نوشتن
+          ls -l Files
 
-      - name: Verify file existence
+      - name: Create or update usernames.json
         working-directory: ./Files
         run: |
-          ls -l
-          if [ ! -f extract_proxies.php ]; then echo "Error: extract_proxies.php not found"; exit 1; fi
-          if [ ! -f usernames.json ]; then echo "Error: usernames.json not found"; exit 1; fi
+          if [ ! -s usernames.json ]; then
+            echo '[
+                "NetAccount",
+                "GlypeX",
+                "ProxyMTProto",
+                "iMTProto",
+                "darkproxy",
+                "TelMTProto",
+                "MTP_roto",
+                "ProxyMTProto_tel",
+                "mtpproxyirani"
+            ]' > usernames.json
+            echo "Created usernames.json with default channels"
+          else
+            echo "usernames.json already exists"
+          fi
+          cat usernames.json
 
       - name: Create or update requirements.txt
         working-directory: ./Files
@@ -102,7 +118,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git pull origin main --rebase || true
-          git add proxy.txt README.md Files/requirements.txt Files/extracted_proxies.json Files/offline_proxies.txt || true
+          git add proxy.txt README.md Files/requirements.txt Files/extracted_proxies.json Files/offline_proxies.txt Files/usernames.json || true
           git commit -m "⛓️‍💥 Argh94 Update - PHP and Python proxies" || true
           git push || true
         env:

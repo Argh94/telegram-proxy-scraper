@@ -58,24 +58,22 @@ jobs:
         working-directory: ./Files
         run: |
           if [ ! -s usernames.json ]; then
-            cat << 'EOF' > usernames.json
-[
-    "NetAccount",
-    "GlypeX",
-    "ProxyMTProto",
-    "iMTProto",
-    "darkproxy",
-    "TelMTProto",
-    "MTP_roto",
-    "ProxyMTProto_tel",
-    "mtpproxyirani"
-]
-EOF
+            echo '[
+              "NetAccount",
+              "GlypeX",
+              "ProxyMTProto",
+              "iMTProto",
+              "darkproxy",
+              "TelMTProto",
+              "MTP_roto",
+              "ProxyMTProto_tel",
+              "mtpproxyirani"
+            ]' > usernames.json
             echo "Created usernames.json with default channels"
           else
             echo "usernames.json already exists"
-            cat usernames.json
           fi
+          cat usernames.json
           ls -l usernames.json
 
       - name: Verify files before running PHP

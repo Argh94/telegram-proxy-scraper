@@ -19,16 +19,26 @@ $userAgents = [
 // --- Script Logic ---
 ob_start();
 date_default_timezone_set('Asia/Tehran');
-echo "--- Telegram Proxy Extractor v4.7 (Debug Enhanced) ---\n";
+echo "--- Telegram Proxy Extractor v4.8 (Debug Enhanced) ---\n";
 
 try {
-    // --- Ensure output directory exists ---
+    // --- Ensure output directory and files exist ---
     $outputDir = dirname($outputJsonFile);
     if (!is_dir($outputDir)) {
         if (!mkdir($outputDir, 0777, true)) {
             echo "Error: Could not create output directory '$outputDir'\n";
         } else {
             echo "Created output directory '$outputDir'\n";
+        }
+    }
+    // Create output files if they don't exist
+    foreach ([$outputJsonFile, $outputOfflineFile, $outputProxyFile] as $file) {
+        if (!file_exists($file)) {
+            if (file_put_contents($file, '') === false) {
+                echo "Error: Could not create file '$file'\n";
+            } else {
+                echo "Created empty file '$file'\n";
+            }
         }
     }
 
@@ -212,45 +222,45 @@ try {
 
     // --- Phase 6: Generate Outputs ---
     $jsonOutputContent = json_encode($proxiesWithStatus, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
-    if (file_put_contents($outputJsonFile, $jsonOutputContent)) {
-        echo "Successfully wrote $proxyCount unique proxies to '$outputJsonFile'\n";
+    if (file_put_contents($outputJsonFile, $jsonOutputContent) === false) {
+        echo "Error: Failed to write to '$outputJsonFile'. Check permissions.\n";
     } else {
-        echo "Failed to write to '$outputJsonFile'. Check directory permissions.\n";
+        echo "Successfully wrote $proxyCount proxies to '$outputJsonFile'\n";
     }
 
     // --- Phase 7: Save Offline Proxies ---
     $offlineProxyContent = "";
     foreach ($offlineProxies as $proxy) {
-        $offlineProxyContent .= $proxy['tg_url'] . "\n";
+        $offlineProxyContent .= "$proxy[tg_url]\n";
     }
-    if (file_put_contents($outputOfflineFile, $offlineProxyContent)) {
-        echo "Successfully wrote $offlineProxyCount offline proxies to '$outputOfflineFile'\n";
+    if (file_put_contents($outputOfflineFile, $offlineProxyContent) === false) {
+        echo "Error: Failed to write to '$outputOfflineFile'. Check permissions.\n";
     } else {
-        echo "Failed to write to '$outputOfflineFile'. Check directory permissions.\n";
+        echo "Successfully wrote $offlineProxyCount offline proxies to '$outputOfflineFile'\n";
     }
 
     // --- Phase 8: Merge and Generate proxy.txt ---
     $existingProxies = [];
     if (file_exists($outputProxyFile)) {
-        $existingProxies = file($outputProxyFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+        $existingProxies = array_filter(file($outputProxyFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES));
         echo "Read " . count($existingProxies) . " existing proxies from '$outputProxyFile'\n";
     } else {
-        echo "No existing proxies found in '$outputProxyFile'\n";
+        echo "No proxies found in '$outputProxyFile'\n";
     }
-    $proxyTxtContent = "";
+    $proxyContent = "";
     $newProxies = array_column($proxiesWithStatus, 'tg_url');
     $allProxies = array_unique(array_merge($existingProxies, $newProxies));
     if (empty($allProxies)) {
-        echo "No online proxies found, creating empty '$outputProxyFile'\n";
+        echo "No proxies found, creating empty '$outputProxyFile'\n";
         file_put_contents($outputProxyFile, "");
     } else {
         foreach ($allProxies as $proxy) {
-            $proxyTxtContent .= "$proxy\n";
+            $proxyContent .= "$proxy\n";
         }
-        if (file_put_contents($outputProxyFile, $proxyTxtContent)) {
-            echo "Successfully wrote " . count($allProxies) . " proxies to '$outputProxyFile'\n";
+        if (file_put_contents($outputProxyFile, $proxyContent) === false) {
+            echo "Error: Failed to write to '$outputProxyFile'. Check permissions.\n";
         } else {
-            echo "Failed to write to '$outputProxyFile'\n";
+            echo "Successfully wrote " . count($allProxies) . " proxies to '$outputProxyFile'\n";
         }
     }
 } catch (Exception $e) {

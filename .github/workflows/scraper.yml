@@ -51,7 +51,7 @@ jobs:
           touch Files/extracted_proxies.json
           touch Files/offline_proxies.txt
           touch Files/usernames.json
-          chmod -R 777 Files  # اطمینان از دسترسی نوشتن
+          chmod -R 777 Files
           ls -l Files
 
       - name: Create or update usernames.json
@@ -72,8 +72,15 @@ jobs:
             echo "Created usernames.json with default channels"
           else
             echo "usernames.json already exists"
+            cat usernames.json
           fi
-          cat usernames.json
+
+      - name: Verify files before running PHP
+        working-directory: ./Files
+        run: |
+          ls -l
+          if [ ! -f extract_proxies.php ]; then echo "Error: extract_proxies.php not found"; exit 1; fi
+          if [ ! -f usernames.json ]; then echo "Error: usernames.json not found"; exit 1; fi
 
       - name: Create or update requirements.txt
         working-directory: ./Files

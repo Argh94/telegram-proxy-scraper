@@ -19,9 +19,19 @@ $userAgents = [
 // --- Script Logic ---
 ob_start();
 date_default_timezone_set('Asia/Tehran');
-echo "--- Telegram Proxy Extractor v4.6 (Debug Enhanced) ---\n";
+echo "--- Telegram Proxy Extractor v4.7 (Debug Enhanced) ---\n";
 
 try {
+    // --- Ensure output directory exists ---
+    $outputDir = dirname($outputJsonFile);
+    if (!is_dir($outputDir)) {
+        if (!mkdir($outputDir, 0777, true)) {
+            echo "Error: Could not create output directory '$outputDir'\n";
+        } else {
+            echo "Created output directory '$outputDir'\n";
+        }
+    }
+
     // --- Phase 0: Read Previous Run's Data ---
     $indexedOldProxies = [];
     if (file_exists($outputJsonFile)) {
@@ -61,6 +71,7 @@ try {
         }
     } else {
         echo "Error: Input JSON file not found at '$inputJsonFile'. Using empty username list.\n";
+        $usernames = [];
     }
 
     // --- Phase 2: Parallel Fetching of Channel Content ---
@@ -204,7 +215,7 @@ try {
     if (file_put_contents($outputJsonFile, $jsonOutputContent)) {
         echo "Successfully wrote $proxyCount unique proxies to '$outputJsonFile'\n";
     } else {
-        echo "Failed to write to '$outputJsonFile'\n";
+        echo "Failed to write to '$outputJsonFile'. Check directory permissions.\n";
     }
 
     // --- Phase 7: Save Offline Proxies ---
@@ -215,7 +226,7 @@ try {
     if (file_put_contents($outputOfflineFile, $offlineProxyContent)) {
         echo "Successfully wrote $offlineProxyCount offline proxies to '$outputOfflineFile'\n";
     } else {
-        echo "Failed to write to '$outputOfflineFile'\n";
+        echo "Failed to write to '$outputOfflineFile'. Check directory permissions.\n";
     }
 
     // --- Phase 8: Merge and Generate proxy.txt ---

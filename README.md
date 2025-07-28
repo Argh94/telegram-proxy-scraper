@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 11:17 06-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 11:23 06-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -46,13 +46,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `212.111.80.159` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.111.80.159&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 4 | `212.34.135.78` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.135.78&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 8 | `87.248.132.36` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.36&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 11 | `load.link-a4.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=load.link-a4.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 14 | `91.84.109.244` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.84.109.244&port=443&secret=ee00ff000fffff00fff5555ffffffffff56d656469612e737465616d706f77657265642e636f6d) |
-| 15 | `87.248.134.204` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.204&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 20 | `33.125.157.136.serverfy.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=33.125.157.136.serverfy.ir&port=443&secret=dd4fda00f5077c265b638d79688aab786d) |
+| 8 | `51.159.157.218` | `7743` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=51.159.157.218&port=7743&secret=eedbe97246f57a3e90ccc1c3f25b8e15ef7777772e736974652e636f6d) |
+| 9 | `87.248.132.34` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.34&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 16 | `5.35.46.6` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.46.6&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 18 | `top.ircheck-k.ir` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=top.ircheck-k.ir&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -3,16 +3,23 @@
 // --- Configuration ---
 $inputJsonFile = 'Files/usernames.json';
 $outputJsonFile = 'Files/extracted_proxies.json';
-$outputProxyFile = 'proxy.txt'; // ذخیره در دایرکتوری اصلی
-$outputOfflineFile = 'Files/offline_proxies.txt'; // فایل جدید برای پروکسی‌های آفلاین
+$outputProxyFile = 'proxy.txt'; // برای ادغام با پایتون
+$outputOfflineFile = 'Files/offline_proxies.txt'; // برای پروکسی‌های آفلاین
 $telegramBaseUrl = 'https://t.me/s/';
-$proxyCheckTimeout = 2;
+$proxyCheckTimeout = 5; // افزایش timeout برای تست پروکسی
 $historyLength = 24;
+
+// --- User-Agentهای متنوع برای دور زدن CAPTCHA ---
+$userAgents = [
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15',
+    'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0',
+];
 
 // --- Script Logic ---
 ob_start();
 date_default_timezone_set('Asia/Tehran');
-echo "--- Telegram Proxy Extractor v4.1 (Enhanced Logging) ---\n";
+echo "--- Telegram Proxy Extractor v4.4 (Combined & Debug Enhanced) ---\n";
 
 // --- Phase 0: Read Previous Run's Data ---
 $indexedOldProxies = [];
@@ -35,18 +42,23 @@ if (file_exists($outputJsonFile)) {
 }
 
 // --- Phase 1: Read Input ---
-if (!file_exists($inputJsonFile)) {
-    die("Error: Input JSON file not found at '$inputJsonFile'\n");
+$usernames = [];
+if (file_exists($inputJsonFile)) {
+    $jsonContent = file_get_contents($inputJsonFile);
+    if ($jsonContent !== false) {
+        $usernames = json_decode($jsonContent, true);
+        if ($usernames === null) {
+            echo "Error: Could not decode JSON. Details: " . json_last_error_msg() . "\n";
+            $usernames = [];
+        } else {
+            echo "Read " . count($usernames) . " usernames from '$inputJsonFile': " . implode(", ", $usernames) . "\n";
+        }
+    } else {
+        echo "Error: Could not read input JSON file '$inputJsonFile'\n";
+    }
+} else {
+    echo "Error: Input JSON file not found at '$inputJsonFile'. Using empty username list.\n";
 }
-$jsonContent = file_get_contents($inputJsonFile);
-if ($jsonContent === false) {
-    die("Error: Could not read input JSON file '$inputJsonFile'\n");
-}
-$usernames = json_decode($jsonContent, true);
-if ($usernames === null) {
-    die("Error: Could not decode JSON. Details: " . json_last_error_msg() . "\n");
-}
-echo "Read " . count($usernames) . " usernames from '$inputJsonFile': " . implode(", ", $usernames) . "\n";
 
 // --- Phase 2: Parallel Fetching of Channel Content ---
 $multiHandle = curl_multi_init();
@@ -62,8 +74,11 @@ foreach ($usernames as $username) {
     curl_setopt_array($ch, [
         CURLOPT_RETURNTRANSFER => true,
         CURLOPT_FOLLOWLOCATION => true,
-        CURLOPT_TIMEOUT => 30,
-        CURLOPT_USERAGENT => 'Mozilla/5.0 (compatible; PHP-Proxy-Extractor/4.1)',
+        CURLOPT_TIMEOUT => 60, // افزایش timeout
+        CURLOPT_USERAGENT => $userAgents[array_rand($userAgents)], // user-agent تصادفی
+        CURLOPT_VERBOSE => true, // لاگ‌های دقیق‌تر
+        CURLOPT_STDERR => fopen('php://stderr', 'w'), // لاگ‌های curl به stderr
+        CURLOPT_SSL_VERIFYPEER => false, // برای دور زدن مشکلات SSL
     ]);
     curl_multi_add_handle($multiHandle, $ch);
     $urlHandles[$channelUrl] = $ch;
@@ -83,7 +98,8 @@ $proxyRegex = '/(?:https?:\/\/t\.me\/proxy\?|tg:\/\/proxy\?)[^"\'\s]+/i';
 foreach ($urlHandles as $url => $ch) {
     $htmlContent = curl_multi_getcontent($ch);
     $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-    echo "Processing channel: $url, HTTP Code: $httpCode\n";
+    $effectiveUrl = curl_getinfo($ch, CURLINFO_EFFECTIVE_URL);
+    echo "Processing channel: $url, HTTP Code: $httpCode, Effective URL: $effectiveUrl, Response Length: " . strlen($htmlContent) . "\n";
 
     if ($httpCode == 200 && $htmlContent) {
         if (stripos($htmlContent, 'CAPTCHA') !== false || stripos($htmlContent, 'recaptcha') !== false) {
@@ -114,10 +130,10 @@ foreach ($urlHandles as $url => $ch) {
                 }
             }
         } else {
-            echo "No proxies found in $url\n";
+            echo "No proxies found in $url. Response snippet: " . substr($htmlContent, 0, 200) . "...\n";
         }
     } else {
-        echo "Failed to fetch $url, HTTP Code: $httpCode\n";
+        echo "Failed to fetch $url, HTTP Code: $httpCode, Response Length: " . strlen($htmlContent) . "\n";
     }
     curl_multi_remove_handle($multiHandle, $ch);
 }
@@ -161,6 +177,7 @@ foreach ($allExtractedProxies as $proxy) {
         } else {
             $offlineProxies[$tgUrl] = $proxyData;
         }
+        echo " - Checked {$proxy['server']}:{$proxy['port']} -> {$statusResult['status']}" . ($statusResult['latency'] ? " ({$statusResult['latency']}ms)" : "") . " | History: " . count($history) . "/$historyLength\n";
     }
 }
 
@@ -181,14 +198,10 @@ usort($proxiesWithStatus, function ($a, $b) {
 
 // --- Phase 6: Generate Outputs ---
 $jsonOutputContent = json_encode($proxiesWithStatus, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
-if ($proxiesWithStatus || !file_exists($outputJsonFile)) {
-    if (file_put_contents($outputJsonFile, $jsonOutputContent)) {
-        echo "Successfully wrote $proxyCount unique proxies to '$outputJsonFile'\n";
-    } else {
-        echo "Failed to write to '$outputJsonFile'\n";
-    }
+if (file_put_contents($outputJsonFile, $jsonOutputContent)) {
+    echo "Successfully wrote $proxyCount unique proxies to '$outputJsonFile'\n";
 } else {
-    echo "No online proxies found, keeping existing '$outputJsonFile'\n";
+    echo "Failed to write to '$outputJsonFile'\n";
 }
 
 // --- Phase 7: Save Offline Proxies ---
@@ -230,4 +243,7 @@ if (empty($allProxies)) {
 $consoleOutput = ob_get_clean();
 echo $consoleOutput;
 echo "--- Script Finished ---\n";
+
+// همیشه با کد خروج 0 خارج شو
+exit(0);
 ?>

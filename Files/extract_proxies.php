@@ -19,7 +19,7 @@ $userAgents = [
 // --- Script Logic ---
 ob_start();
 date_default_timezone_set('Asia/Tehran');
-echo "--- Telegram Proxy Extractor v4.8 (Debug Enhanced) ---\n";
+echo "--- Telegram Proxy Extractor v4.9 (Debug Enhanced) ---\n";
 
 try {
     // --- Ensure output directory and files exist ---
@@ -67,21 +67,28 @@ try {
     if (file_exists($inputJsonFile)) {
         echo "Reading input file '$inputJsonFile'...\n";
         $jsonContent = file_get_contents($inputJsonFile);
-        if ($jsonContent !== false) {
+        if ($jsonContent === false) {
+            echo "Error: Could not read input JSON file '$inputJsonFile'\n";
+            $usernames = [];
+        } else {
             $usernames = json_decode($jsonContent, true);
             if ($usernames === null) {
                 echo "Error: Could not decode JSON. Details: " . json_last_error_msg() . "\n";
                 $usernames = [];
+            } elseif (empty($usernames)) {
+                echo "Error: usernames.json is empty\n";
+                $usernames = [];
             } else {
                 echo "Read " . count($usernames) . " usernames from '$inputJsonFile': " . implode(", ", $usernames) . "\n";
             }
-        } else {
-            echo "Error: Could not read input JSON file '$inputJsonFile'\n";
-            $usernames = [];
         }
     } else {
         echo "Error: Input JSON file not found at '$inputJsonFile'. Using empty username list.\n";
         $usernames = [];
+    }
+
+    if (empty($usernames)) {
+        echo "Warning: No channels to scrape. Please ensure 'Files/usernames.json' exists and contains valid Telegram channel usernames.\n";
     }
 
     // --- Phase 2: Parallel Fetching of Channel Content ---

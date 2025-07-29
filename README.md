@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:16 07-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:57 07-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -46,12 +46,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `87.248.132.42` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.42&port=200&secret=79e344818749bd7ac519130220c25d09) |
-| 8 | `5.35.37.124` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.37.124&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 9 | `superfast.shadowpanel.click` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=superfast.shadowpanel.click&port=8443&secret=ee03e66b54418ae05aa0bcb19b49d52e76636c6f7564666c6172652e636f6d) |
-| 12 | `108.181.70.27` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=108.181.70.27&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
-| 14 | `darknamikonina.beramaqhyou.cyou` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=darknamikonina.beramaqhyou.cyou&port=443&secret=eee6607B90889CC60719D2170CB2851962737465616D706F77657265642E636F6D) |
-| 16 | `46.249.110.244` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.249.110.244&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 3 | `011010101101.noirc0re.online` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=011010101101.noirc0re.online&port=443&secret=35e1c63ac12a5ca4e2866c6e31a5b886) |
+| 5 | `91.238.92.59` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.238.92.59&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 9 | `87.229.100.219` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.229.100.219&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 11 | `87.248.132.38` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.38&port=85&secret=ee0000f00f0f775555fffffff5006e2e69646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
+| 15 | `91.238.92.49` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.238.92.49&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 17 | `87.248.132.36` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.36&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

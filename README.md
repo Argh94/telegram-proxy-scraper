@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:06 08-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:00 08-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -46,14 +46,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `87.229.100.219` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.229.100.219&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 2 | `198.16.107.91` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=198.16.107.91&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d) |
-| 8 | `141.95.107.109` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=141.95.107.109&port=8888&secret=dd9e989dc43f8ade26da44dec608c4a6aa) |
-| 13 | `www.galacticfireworks.pro` | `888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.galacticfireworks.pro&port=888&secret=ee0c30628212cbbd7ac519130205525d1569612e737465616d706f77657265642e636f6d) |
-| 15 | `11-22-8.edshop.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=11-22-8.edshop.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 17 | `104.248.84.27` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=104.248.84.27&port=443&secret=15115115115115115115115115115115) |
-| 19 | `sibilkoloft.technote.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sibilkoloft.technote.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 20 | `87.248.132.53` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.53&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 4 | `iran-vatan.magalaiash.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iran-vatan.magalaiash.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 7 | `ir.rayanartist.sbs.` | `888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ir.rayanartist.sbs.&port=888&secret=ee0c30628212cbbd7ac519130205525d1569612e737465616d706f77657265642e636f6d) |
+| 10 | `87.248.132.44` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.44&port=200&secret=ee0000f00f0f775555fffffff5006e2e69646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
+| 16 | `89.251.10.40` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.40&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

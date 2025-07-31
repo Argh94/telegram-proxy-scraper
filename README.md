@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:19 09-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:05 09-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -46,10 +46,16 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 11 | `bebinim-chi.mishe.bozorgavar-game.ir.` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bebinim-chi.mishe.bozorgavar-game.ir.&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 15 | `LIVE.irpower-b.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=LIVE.irpower-b.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 16 | `85.133.214.37` | `8848` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.133.214.37&port=8848&secret=ee91497bf49c81243ab60717929edb0009616a61782e31343832352e31302e646e732e31332e4c65696c6140333032302e7370656564746573742e6e6574) |
-| 17 | `5.35.37.124` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.37.124&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 1 | `23.88.70.165` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=23.88.70.165&port=443&secret=104462821249bd7ac519130220c25d09) |
+| 4 | `89.251.10.2` | `7443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.2&port=7443&secret=ee151151151151151151151151151151156D656469612E737465616D706F77657265642E636F6D) |
+| 7 | `62.60.179.221` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.179.221&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 9 | `help--center.onthenameofgod.info` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=help--center.onthenameofgod.info&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 10 | `sibilkoloft.technote.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sibilkoloft.technote.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 11 | `62.60.179.224` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.179.224&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 13 | `arvan.irpower-g.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=arvan.irpower-g.ir&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 14 | `167.71.252.15` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.71.252.15&port=443&secret=eec6435eb0d4186b10a52aaaee8c45416c75706c6f6164626f792e636f6d) |
+| 17 | `hight0melli.irpower-a.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hight0melli.irpower-a.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 19 | `silvermantain.cinere.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=silvermantain.cinere.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

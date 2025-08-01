@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:46 10-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:06 10-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -46,12 +46,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 6 | `5.35.46.6` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.46.6&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 8 | `4.link-a3.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=4.link-a3.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 9 | `91.238.92.49` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.238.92.49&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 11 | `212.34.141.71` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.141.71&port=443&secret=d77db43ee3721f0fcb40a4ff63b5cd27) |
-| 16 | `api.abineirn5.ir` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=api.abineirn5.ir&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 20 | `89.110.76.65` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.76.65&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 7 | `jlfhfbwef.wfelnli.afoej13.faebiawyfiwfwfwf.wrfwfrw.whadne.newtechstoon.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=jlfhfbwef.wfelnli.afoej13.faebiawyfiwfwfwf.wrfwfrw.whadne.newtechstoon.ir&port=443&secret=dde728d46af39e8b406b38328155b9661a) |
+| 13 | `87.248.134.242` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.242&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 16 | `91.238.92.69` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.238.92.69&port=200&secret=ee0000f00f0f775555fffffff5006e2e69646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:55 10-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:03 10-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -46,10 +46,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `9443.tiko-e.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=9443.tiko-e.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 9 | `ryzen-gold.shesh-station.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ryzen-gold.shesh-station.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 11 | `markino.xyz` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=markino.xyz&port=443&secret=ee320658d3147dad619606da05bcc1f49173332e616d617a6f6e6177732e636f6d) |
-| 19 | `46.249.110.53` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.249.110.53&port=443&secret=15115115115115115115115115115115) |
+| 2 | `89.251.10.2` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.2&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 5 | `37.27.248.245` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.248.245&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 10 | `dl2.mp3.par30musicdownload.org` | `9915` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dl2.mp3.par30musicdownload.org&port=9915&secret=dda61960e8b07cfc4b2a83dfa849767477) |
+| 12 | `89.251.10.2` | `7443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.2&port=7443&secret=ee151151151151151151151151151151156D656469612E737465616D706F77657265642E636F6D) |
+| 18 | `link.irpower-e.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=link.irpower-e.ir&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

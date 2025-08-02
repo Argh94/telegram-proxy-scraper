@@ -1,10 +1,10 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:56 11-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 14:43 11-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
   <img src="https://img.shields.io/badge/python-3.9-blue" alt="Python 3.9" />
   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contributions Welcome" />
-  <img src="https://github.com/Poriya58p/telegram-proxy-scraper/actions/workflows/scraper.yml/badge.svg" alt="Proxy Scraper Workflow" />
+  <img src="https://github.com/Argh94/telegram-proxy-scraper/actions/workflows/scraper.yml/badge.svg" alt="Proxy Scraper Workflow" />
   <img src="https://img.shields.io/github/last-commit/Argh94/telegram-proxy-scraper" alt="GitHub Last Commit" />
   <img src="https://img.shields.io/github/issues/Argh94/telegram-proxy-scraper" alt="GitHub Issues" />
 </p>
@@ -46,11 +46,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `195.200.16.212` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.200.16.212&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 5 | `206.189.62.211` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=206.189.62.211&port=443&secret=ee79e344818749bd7ac519130220c25d09736168616d6564616c61742e6972) |
-| 8 | `46.249.110.240` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.249.110.240&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 11 | `91.238.92.36` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.238.92.36&port=200&secret=ee0000f00f0f775555fffffff5006e2e69646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
-| 13 | `lock.link-a6.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lock.link-a6.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 1 | `HAMRAH-AVAL.new-visioncity.ir.` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=HAMRAH-AVAL.new-visioncity.ir.&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 2 | `47.236.125.89` | `1888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.236.125.89&port=1888&secret=ee19425a09e29f606cbd7a8528cc4087d163662e71712e636f6d) |
+| 8 | `htop.link-a4.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=htop.link-a4.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 14 | `9443.iropt-f.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=9443.iropt-f.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 18 | `89.110.64.193` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.64.193&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 20 | `5.78.98.46` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.78.98.46&port=443&secret=ee2200e547d760f0e3b53eb430c871f1546b65746161626f6e6c696e652e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

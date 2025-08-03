@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:53 12-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:01 12-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -46,13 +46,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `5.35.70.114` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.70.114&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
-| 6 | `45.79.149.31` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.79.149.31&port=443&secret=ee0000f00f0f775555fffffff6006e2e697777772e77696b6970656469612e6f7267) |
-| 10 | `www.hihim.sbs` | `888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.hihim.sbs&port=888&secret=ee79e344818749bd7ac519130220c25d0969612e737465616d706f77657265642e636f6d) |
-| 12 | `sadra.mygrade.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sadra.mygrade.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 16 | `5.35.46.19` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.46.19&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 18 | `87.248.134.34` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.34&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 19 | `matrix.alvanddns.space` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=matrix.alvanddns.space&port=443&secret=a1b2c3d4e5f60718293a4b5c6d7e8f90) |
+| 2 | `62.60.176.139` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.176.139&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 3 | `5.35.70.114` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.70.114&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 5 | `morgh.2p2p.ir` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=morgh.2p2p.ir&port=8080&secret=ee66881e6e1e6d1ff6666666616d66aeae686f73746972616e2e636c6f7564) |
+| 9 | `47.81.12.133` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.81.12.133&port=443&secret=ee04092608cc8fa7b1b5d7b46792e24759617a7572652e6d6963726f736f66742e636f6d) |
+| 18 | `phyzyk.nokande.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=phyzyk.nokande.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 19 | `87.248.134.37` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.37&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

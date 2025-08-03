@@ -238,7 +238,7 @@ def update_readme(proxy_list):
 ## 🌍 منابع پروکسی
 - **منابع متنی**:
   - [MahsaNetConfigTopic](https://raw.githubusercontent.com/MahsaNetConfigTopic/proxy/main/proxies.txt)
-  - [MhdiTaheri/ProxyCollector](https://raw.githubusercontent.com/MhdiTaheri/ProxyCollector/main/proxy.txt)
+  - [Proxy Scraper](https://img.shields.io/badge/Proxy%20Scraper-Running-green)
   - [SoliSpirit/mtproto](https://raw.githubusercontent.com/SoliSpirit/mtproto/master/all_proxies.txt)
 - **کانال‌های تلگرام**:
   - iporoto, HiProxy, iproxy, iRoProxy, proxyforopeta, IRN_Proxy, MProxy_ir, ProxyHagh, PyroProxy, ProxyMTProto, MTPro_XYZ, vpns, mtmvpn, asr_proxy, proxyskyy

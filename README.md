@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:39 15-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:07 15-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -47,15 +47,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `87.248.132.72` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.72&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 5 | `87.248.132.44` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.44&port=200&secret=79e344818749bd7ac519130220c25d09) |
-| 7 | `87.248.132.73` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.73&port=200&secret=ee0000f00f0f775555fffffff5006e2e69646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
-| 9 | `iran.zibayi.shop.` | `888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iran.zibayi.shop.&port=888&secret=ee0c30628212cbbd7ac519130205525d1569612e737465616d706f77657265642e636f6d) |
-| 11 | `91.99.205.245` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.205.245&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 14 | `37.49.224.220` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.49.224.220&port=8443&secret=79e344818749bd7ac519130220c25d09) |
-| 15 | `87.248.134.172` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.172&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 18 | `halftime.parsintalk.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=halftime.parsintalk.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 20 | `aval.fsaremi.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=aval.fsaremi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 5 | `91.84.106.230` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.84.106.230&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 9 | `89.251.10.39` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.39&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 11 | `proxy-dag.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy-dag.ru&port=443&secret=ee94fc2b484af6e1e1c87e6576b33c257579612e7275) |
+| 12 | `87.248.132.70` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.70&port=155&secret=ee0000f00f0f775555fffffff5006e2e69646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

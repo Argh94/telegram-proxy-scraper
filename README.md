@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:20 15-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:39 15-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -47,11 +47,15 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `89.110.117.109` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.117.109&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 4 | `daem.fsaremi.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=daem.fsaremi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 9 | `23.88.46.216` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=23.88.46.216&port=443&secret=dd00000000000000000000000000000000) |
-| 12 | `195.200.18.147` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.200.18.147&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
-| 16 | `89.110.64.94` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.64.94&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 4 | `87.248.132.72` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.72&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 5 | `87.248.132.44` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.44&port=200&secret=79e344818749bd7ac519130220c25d09) |
+| 7 | `87.248.132.73` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.73&port=200&secret=ee0000f00f0f775555fffffff5006e2e69646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
+| 9 | `iran.zibayi.shop.` | `888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iran.zibayi.shop.&port=888&secret=ee0c30628212cbbd7ac519130205525d1569612e737465616d706f77657265642e636f6d) |
+| 11 | `91.99.205.245` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.205.245&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 14 | `37.49.224.220` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.49.224.220&port=8443&secret=79e344818749bd7ac519130220c25d09) |
+| 15 | `87.248.134.172` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.172&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 18 | `halftime.parsintalk.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=halftime.parsintalk.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 20 | `aval.fsaremi.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=aval.fsaremi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

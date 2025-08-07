@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:16 16-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:56 16-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -47,16 +47,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `arvan.irpower-g.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=arvan.irpower-g.ir&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
-| 8 | `162.217.249.135` | `8268` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=162.217.249.135&port=8268&secret=ee9cb8d24c888949d2bbe7855108e7071873332e616d617a6f6e6177732e636f6d) |
-| 10 | `37.49.224.220` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.49.224.220&port=8443&secret=79e344818749bd7ac519130220c25d09) |
-| 11 | `vip2.abanol1.info` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vip2.abanol1.info&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 12 | `89.251.10.34` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.34&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
-| 13 | `vip.irpower-b.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vip.irpower-b.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 14 | `5.35.37.124` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.37.124&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 16 | `212.34.141.71` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.141.71&port=443&secret=d77db43ee3721f0fcb40a4ff63b5cd27) |
-| 18 | `87.248.134.251` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.251&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 20 | `212.34.134.99` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.134.99&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 1 | `152.42.131.200` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=152.42.131.200&port=443&secret=15115115115115115115115115115115) |
+| 3 | `api.abineirn5.ir` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=api.abineirn5.ir&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 4 | `91.99.228.230` | `59065` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.228.230&port=59065&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 6 | `87.248.134.202` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.202&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 10 | `87.248.134.172` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.172&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 11 | `focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.ps-fifaei.ir` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.ps-fifaei.ir&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 14 | `5.35.70.114` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.70.114&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

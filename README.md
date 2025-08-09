@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:01 18-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:52 18-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -47,11 +47,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `91.107.129.30` | `6968` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.107.129.30&port=6968&secret=20ebf1a487c59f2dd550f8ad16530079) |
-| 9 | `212.34.141.96` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.141.96&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 15 | `daem.fsaremi.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=daem.fsaremi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 17 | `91.220.113.78` | `65531` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.220.113.78&port=65531&secret=dda4669a2bc220c8898111725adf3833e2) |
-| 18 | `resourcebased-buying-an-airplane.lmusicl.ir.` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=resourcebased-buying-an-airplane.lmusicl.ir.&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 5 | `14.102.10.24` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.24&port=85&secret=ee0c30628212cbbd7ac519130205525d1569612e737465616d706f77657265642e636f6d) |
+| 12 | `daemi-pr.shesh-station.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=daemi-pr.shesh-station.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 15 | `mtproxy10.alphacyber.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtproxy10.alphacyber.org&port=443&secret=dde5ceff7c8a4a80fcad3dae7d23f3ac65) |
+| 16 | `89.251.10.35` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.35&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 17 | `87.248.132.53` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.53&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

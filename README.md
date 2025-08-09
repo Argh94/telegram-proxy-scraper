@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:23 18-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:01 18-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -47,10 +47,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `89.251.10.8` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.8&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
-| 9 | `s23.nestweb01.ir` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s23.nestweb01.ir&port=155&secret=eeb47be86bca216082199ce27d3be27eda7777772e636c6f) |
-| 13 | `www.hihim.sbs` | `888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.hihim.sbs&port=888&secret=ee79e344818749bd7ac519130220c25d0969612e737465616d706f77657265642e636f6d) |
-| 18 | `95.142.45.42` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=95.142.45.42&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 2 | `91.107.129.30` | `6968` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.107.129.30&port=6968&secret=20ebf1a487c59f2dd550f8ad16530079) |
+| 9 | `212.34.141.96` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.141.96&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 15 | `daem.fsaremi.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=daem.fsaremi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 17 | `91.220.113.78` | `65531` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.220.113.78&port=65531&secret=dda4669a2bc220c8898111725adf3833e2) |
+| 18 | `resourcebased-buying-an-airplane.lmusicl.ir.` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=resourcebased-buying-an-airplane.lmusicl.ir.&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

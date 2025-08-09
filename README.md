@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:11 18-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:52 18-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `185.121.233.136` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.121.233.136&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 6 | `87.248.132.72` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.72&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 13 | `51.83.227.69` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=51.83.227.69&port=8888&secret=dd7daa13bd54addc413cd85bda35dbdec5) |
-| 18 | `87.248.132.30` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.30&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 19 | `142.132.185.118` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.132.185.118&port=443&secret=ee008c3f6a9321de531462b058247cfd18676174657761792e696e7374616772616d2e636f6d) |
-| 20 | `91.99.206.53` | `59065` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.206.53&port=59065&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 1 | `dl.upstorage.net` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dl.upstorage.net&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 6 | `1.tiko-i.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=1.tiko-i.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 10 | `hamrah-aval.new-visioncity.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hamrah-aval.new-visioncity.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 11 | `qavi.cphosting.shop` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=qavi.cphosting.shop&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 13 | `5.223.59.196` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.223.59.196&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

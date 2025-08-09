@@ -13,6 +13,7 @@ from selenium.common.exceptions import WebDriverException
 import unicodedata
 import socket
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import json
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -57,40 +58,71 @@ def fetch_proxies_from_text_urls(urls):
             logging.info(f"Fetching proxies from {url}")
             response = requests.get(url, headers=headers, timeout=10)
             response.raise_for_status()
-            lines = response.text.splitlines()
-            proxy_checks = []
             
-            for line in lines:
-                line = clean_line(line)
-                if not line:
-                    continue
-                if re.match(pattern, line):
-                    match = re.match(r'^(?:tg://proxy|https://t\.me/proxy)\?server=([^&]+)&port=(\d+)&secret=.+$', line)
-                    if match:
-                        server, port = match.groups()
-                        proxy_checks.append((line, server, port))
+            if url.endswith('.json'):
+                try:
+                    data = response.json()
+                    proxy_checks = []
+                    for item in data:
+                        server = item.get('host')
+                        port = item.get('port')
+                        secret = item.get('secret')
+                        if server and port and secret:
+                            proxy_link = f"tg://proxy?server={server}&port={port}&secret={secret}"
+                            proxy_checks.append((proxy_link, server, port))
+                        else:
+                            logging.debug(f"Skipping invalid JSON proxy entry: {item}")
+                    
+                    with ThreadPoolExecutor(max_workers=30) as executor:
+                        future_to_proxy = {executor.submit(check_proxy_status, server, port): proxy for proxy, server, port in proxy_checks}
+                        for future in as_completed(future_to_proxy):
+                            proxy = future_to_proxy[future]
+                            try:
+                                if future.result():
+                                    all_links.append(proxy)
+                                    logging.info(f"Valid and online proxy from JSON: {proxy}")
+                                else:
+                                    logging.warning(f"Skipping offline proxy from JSON: {proxy}")
+                            except Exception as e:
+                                logging.error(f"Error checking proxy {proxy}: {e}")
+                
+                except json.JSONDecodeError as e:
+                    logging.error(f"Invalid JSON format in {url}: {e}")
+            else:
+                lines = response.text.splitlines()
+                proxy_checks = []
+                
+                for line in lines:
+                    line = clean_line(line)
+                    if not line:
+                        continue
+                    if re.match(pattern, line):
+                        match = re.match(r'^(?:tg://proxy|https://t\.me/proxy)\?server=([^&]+)&port=(\d+)&secret=.+$', line)
+                        if match:
+                            server, port = match.groups()
+                            proxy_checks.append((line, server, port))
+                        else:
+                            logging.debug(f"Invalid or skipped proxy: {line} (does not match pattern)")
                     else:
                         logging.debug(f"Invalid or skipped proxy: {line} (does not match pattern)")
-                else:
-                    logging.debug(f"Invalid or skipped proxy: {line} (does not match pattern)")
+                
+                with ThreadPoolExecutor(max_workers=30) as executor:
+                    future_to_proxy = {executor.submit(check_proxy_status, server, port): line for line, server, port in proxy_checks}
+                    for future in as_completed(future_to_proxy):
+                        line = future_to_proxy[future]
+                        try:
+                            if future.result():
+                                all_links.append(line)
+                                logging.info(f"Valid and online proxy found: {line}")
+                            else:
+                                logging.warning(f"Skipping offline proxy: {line}")
+                        except Exception as e:
+                            logging.error(f"Error checking proxy {line}: {e}")
             
-            with ThreadPoolExecutor(max_workers=30) as executor:  
-                future_to_proxy = {executor.submit(check_proxy_status, server, port): line for line, server, port in proxy_checks}
-                for future in as_completed(future_to_proxy):
-                    line = future_to_proxy[future]
-                    try:
-                        if future.result():
-                            all_links.append(line)
-                            logging.info(f"Valid and online proxy found: {line}")
-                        else:
-                            logging.warning(f"Skipping offline proxy: {line}")
-                    except Exception as e:
-                        logging.error(f"Error checking proxy {line}: {e}")
-            
-            logging.info(f"Fetched {len(lines)} lines, {len(all_links)} valid and online MTProto proxies from {url}")
+            logging.info(f"Fetched {len(all_links)} valid and online MTProto proxies from {url}")
         except requests.RequestException as e:
             logging.error(f"HTTP error fetching {url}: {e}")
-        time.sleep(random.uniform(0.5, 1.0))  
+        time.sleep(random.uniform(0.5, 1.0))
     return all_links
 
 def fetch_proxies_from_telegram_channel(url):
@@ -198,7 +230,7 @@ def update_readme(proxy_list):
             else:
                 logging.warning(f"Invalid proxy format, skipped: {proxy}")
         
-        logging.info(f"Added {valid_proxies} valid proxies to the table (out of {len(sample_proxies)} sampled)")  # رفع خطای سینتاكسی
+        logging.info(f"Added {valid_proxies} valid proxies to the table (out of {len(sample_proxies)} sampled)")
 
         readme_content = f"""# 📊 نتایج استخراج: (آخرین بروزرسانی: {update_time_iran})
 
@@ -241,6 +273,7 @@ def update_readme(proxy_list):
   - [MahsaNetConfigTopic](https://raw.githubusercontent.com/MahsaNetConfigTopic/proxy/main/proxies.txt)
   - [MhdiTaheri](https://raw.githubusercontent.com/MhdiTaheri/ProxyCollector/main/proxy.txt)
   - [SoliSpirit/mtproto](https://raw.githubusercontent.com/SoliSpirit/mtproto/master/all_proxies.txt)
+  - [hookzof/socks5_list](https://raw.githubusercontent.com/hookzof/socks5_list/master/tg/mtproto.json)
 - **کانال‌های تلگرام**:
   - iporoto, HiProxy, iproxy, iRoProxy, proxyforopeta, IRN_Proxy, MProxy_ir, ProxyHagh, PyroProxy, ProxyMTProto, MTPro_XYZ, vpns, mtmvpn, asr_proxy, proxyskyy
 
@@ -286,7 +319,8 @@ if __name__ == "__main__":
     text_urls = [
         "https://raw.githubusercontent.com/MahsaNetConfigTopic/proxy/main/proxies.txt",
         "https://raw.githubusercontent.com/MhdiTaheri/ProxyCollector/main/proxy.txt",
-        "https://raw.githubusercontent.com/SoliSpirit/mtproto/master/all_proxies.txt"
+        "https://raw.githubusercontent.com/SoliSpirit/mtproto/master/all_proxies.txt",
+        "https://raw.githubusercontent.com/hookzof/socks5_list/master/tg/mtproto.json"  # منبع جدید JSON
     ]
     
     telegram_urls = [

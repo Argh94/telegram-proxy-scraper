@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:53 19-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:11 19-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `het.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=het.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 2 | `87.248.134.252` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.252&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 4 | `62.113.112.38` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.113.112.38&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 8 | `4443.irpower-a.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=4443.irpower-a.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 9 | `5.196.223.250` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.196.223.250&port=443&secret=eebf65532190e05464c9bbc799a0cf49d970726f78792e6c696172612e6972) |
-| 10 | `kar.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=kar.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 16 | `87.248.132.33` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.33&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 4 | `end.iropt-q.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=end.iropt-q.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 7 | `140.238.11.149` | `11443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=140.238.11.149&port=11443&secret=ee548593a9c0688f4f7d9d57377897d96473332e616d617a6f6e6177732e636f6d) |
+| 13 | `152.42.131.200` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=152.42.131.200&port=443&secret=15115115115115115115115115115115) |
+| 15 | `62.60.176.139` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.176.139&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 16 | `iran.zibayi.shop.` | `888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iran.zibayi.shop.&port=888&secret=ee0c30628212cbbd7ac519130205525d1569612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

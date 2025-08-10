@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:37 19-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:01 19-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,16 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `icon.tomnail.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=icon.tomnail.info&port=443&secret=1603010200010001fc030386e24c3add) |
-| 2 | `5.35.46.6` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.46.6&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 3 | `85.198.108.252` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.198.108.252&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 5 | `140.99.243.139` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=140.99.243.139&port=8443&secret=ee2adab36179e7a39026adf74034615248636c6f7564666c6172652e636f6d) |
-| 7 | `sogand.ir.joojeordak.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sogand.ir.joojeordak.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 10 | `37.27.248.245` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.248.245&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 11 | `drink-water.dezmart.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=drink-water.dezmart.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 14 | `moz.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=moz.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 15 | `185.105.90.16` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.105.90.16&port=443&secret=ee6575860df1848335b7110ca37d01f14a7777772e66616365626f6f6b2e636f6d) |
-| 17 | `51.83.227.69` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=51.83.227.69&port=8888&secret=dd7daa13bd54addc413cd85bda35dbdec5) |
+| 3 | `dl1-de-cdn.x-upload.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dl1-de-cdn.x-upload.org&port=443&secret=a3ed4d0150712bbb23d339e2325fe2e3) |
+| 8 | `matrix.alvanddns.space` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=matrix.alvanddns.space&port=443&secret=a1b2c3d4e5f60718293a4b5c6d7e8f90) |
+| 9 | `2.tiko-h.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2.tiko-h.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 17 | `176.65.128.185` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=176.65.128.185&port=85&secret=ee52c867dc75983faf4bb37f91d5164f092d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:03 22-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:55 22-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `87.248.132.42` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.42&port=200&secret=79e344818749bd7ac519130220c25d09) |
-| 6 | `185.221.219.42` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.221.219.42&port=443&secret=ee1603010200010001fc030386e24c3add64726f70626f782e636f6d) |
-| 10 | `185.245.107.102` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.245.107.102&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 18 | `47.250.178.236` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.250.178.236&port=443&secret=eec889f3e5aeba48fe79aa74db3aa8385a617a7572652e6d6963726f736f66742e636f6d) |
-| 19 | `89.34.230.241` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.34.230.241&port=443&secret=ee99d872804030a89c7235a3267940d889666173746573742e6d796d6e622e6972) |
+| 2 | `62.113.112.38` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.113.112.38&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 10 | `focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.ps-fifaei.ir` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.ps-fifaei.ir&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 11 | `Cloud.irpower-g.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Cloud.irpower-g.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 16 | `line.tiko-d.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=line.tiko-d.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 17 | `5.75.207.57` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.75.207.57&port=443&secret=ee79d466173c4ff039599e35e15543ff647777772e636c6f7564666c6172652e636f6d) |
+| 18 | `165.232.81.38` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=165.232.81.38&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd2768797374657269612e616c7a6f636c6f75642e73697465) |
+| 20 | `8-elite.ultrasam.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8-elite.ultrasam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

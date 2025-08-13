@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:14 22-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:52 22-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `89.110.113.224` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.113.224&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 5 | `212.33.205.58` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.33.205.58&port=80&secret=eef4359a9b325ff1d1e5084df0e0f7537b7777772e6972616e2e676f762e6972) |
-| 9 | `us1.tdvip-baidu.com` | `18450` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=us1.tdvip-baidu.com&port=18450&secret=eeb2367b43b44a4b9917bb93c45e3b6af96974756e65732e6170706c652e636f6d) |
-| 13 | `195.62.32.103` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.62.32.103&port=155&secret=ee0000f00f0f775555fffffff5006e2e69646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
-| 18 | `s2.czkyc.icu` | `1312` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s2.czkyc.icu&port=1312&secret=469fe09b277900a8ae91dcefa736056b) |
+| 1 | `astatine.delta.lg.snapchat.paypal.phi.omicron.transfer-tous.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=astatine.delta.lg.snapchat.paypal.phi.omicron.transfer-tous.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 3 | `pr2.moon-night.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pr2.moon-night.ir&port=443&secret=eeba86b3c58da3e2d80ea7ff89b00704a773332e616d617a6f6e6177732e636f6d) |
+| 7 | `18.218.229.19` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=18.218.229.19&port=443&secret=ddc121a2b7f3080ac5ff9565eef8e625e4) |
+| 8 | `yop.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=yop.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 19 | `185.21.12.144` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.12.144&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:55 23-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:02 23-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,16 +48,14 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `137.74.249.115` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=137.74.249.115&port=443&secret=2736bdd38f31407c176ec24ff791c1f2) |
-| 4 | `austria.salzburg.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=austria.salzburg.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 5 | `5.78.98.46` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.78.98.46&port=443&secret=ee2200e547d760f0e3b53eb430c871f1546b65746161626f6e6c696e652e636f6d) |
-| 9 | `belgium.antwerp.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=belgium.antwerp.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 10 | `8.212.154.157` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.212.154.157&port=443&secret=eebcf30e18c6cdb4f99aa74602e8c55c29617a7572652e6d6963726f736f66742e636f6d) |
-| 12 | `85.133.236.55` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.133.236.55&port=2053&secret=ee0000f00f0f775555fffffff5006e2e69686f73742d696f2e636c6f7564) |
-| 13 | `152.42.133.79` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=152.42.133.79&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d) |
-| 16 | `139.180.158.124` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=139.180.158.124&port=9443&secret=2adab36179e7a39026adf74034615248) |
-| 17 | `89.251.10.40` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.40&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
-| 20 | `158.247.234.65` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=158.247.234.65&port=9443&secret=2adab36179e7a39026adf74034615248) |
+| 1 | `iran-vatan.magalaiash.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iran-vatan.magalaiash.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 3 | `vip2.abanol1.info` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vip2.abanol1.info&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 4 | `sevento.ultrasam.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sevento.ultrasam.info&port=443&secret=1603010200010001fc030386e24c3add) |
+| 6 | `46.249.110.244` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.249.110.244&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 10 | `130.0.239.75` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=130.0.239.75&port=443&secret=eef9f48d41044f0225c1af64490ce88cda7777772e7a6f6f6d69742e6972) |
+| 11 | `62.60.179.129` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.179.129&port=8080&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 15 | `158.247.217.211` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=158.247.217.211&port=9443&secret=2adab36179e7a39026adf74034615248) |
+| 19 | `vip.mtproto.vip` | `56737` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vip.mtproto.vip&port=56737&secret=eec739fa2983add28dd923b544bcaebc33617a7572652e6d6963726f736f66742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

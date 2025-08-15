@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:54 24-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:01 24-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `91.99.187.112` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.187.112&port=443&secret=ee151151151151151151151151151151156D656469612E737465616D706F77657265642E636F6D) |
-| 2 | `87.248.132.44` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.44&port=200&secret=ee0000f00f0f775555fffffff5006e2e69646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
-| 3 | `belgium.antwerp.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=belgium.antwerp.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 5 | `88.151.192.57` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=88.151.192.57&port=443&secret=ee1603010200010001fc030386e24c3add79616e6465782e7275) |
-| 6 | `91.238.92.49` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.238.92.49&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 14 | `teh.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=teh.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 2 | `157.180.125.37` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=157.180.125.37&port=443&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 9 | `195.200.19.26` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.200.19.26&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 12 | `185.10.72.52` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.10.72.52&port=443&secret=ee0000f00f0f775555fffffff5006e2e69686f73742d696f2e636c6f7564) |
+| 15 | `212.34.141.71` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.141.71&port=443&secret=d77db43ee3721f0fcb40a4ff63b5cd27) |
+| 16 | `lia.talko-i.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lia.talko-i.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 19 | `87.248.132.44` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.44&port=200&secret=79e344818749bd7ac519130220c25d09) |
+| 20 | `biskotard.sheshko.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=biskotard.sheshko.info&port=443&secret=1603010200010001fc030386e24c3add) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

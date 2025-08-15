@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:03 24-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:54 24-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `212.34.134.99` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.134.99&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 5 | `185.21.14.9` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.14.9&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 10 | `New-p.new-visioncity.ir.` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=New-p.new-visioncity.ir.&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 12 | `algortim.sayaair.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=algortim.sayaair.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 17 | `pr2.moon-night.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pr2.moon-night.ir&port=443&secret=eeba86b3c58da3e2d80ea7ff89b00704a773332e616d617a6f6e6177732e636f6d) |
-| 20 | `iphone-windows.bozorgavar-game.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iphone-windows.bozorgavar-game.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 1 | `23.88.41.166` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=23.88.41.166&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d) |
+| 2 | `89.110.113.224` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.113.224&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 4 | `87.248.134.243` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.243&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 6 | `barname-darsi.aivalai.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=barname-darsi.aivalai.info&port=443&secret=1603010200010001fc030386e24c3add) |
+| 11 | `51.159.157.218` | `7743` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=51.159.157.218&port=7743&secret=eedbe97246f57a3e90ccc1c3f25b8e15ef7777772e736974652e636f6d) |
+| 20 | `lock.link-a6.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lock.link-a6.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

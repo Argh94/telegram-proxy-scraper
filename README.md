@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:12 24-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:54 24-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `54.37.131.98` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=54.37.131.98&port=443&secret=eeeea780780780780780780780780780782d2d2d2d2d2d6c697374732e63656e746f732e6f72672d2d2d2d2d2d) |
-| 4 | `taher.cpiu.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=taher.cpiu.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972) |
-| 10 | `49.13.239.183` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=49.13.239.183&port=443&secret=eef0912426e90160d3d2cbb387eafeeeae74676a752e6f7267) |
-| 15 | `176.65.128.185` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=176.65.128.185&port=85&secret=ee52c867dc75983faf4bb37f91d5164f092d) |
-| 19 | `195.200.18.147` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.200.18.147&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 1 | `91.99.187.112` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.187.112&port=443&secret=ee151151151151151151151151151151156D656469612E737465616D706F77657265642E636F6D) |
+| 2 | `87.248.132.44` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.44&port=200&secret=ee0000f00f0f775555fffffff5006e2e69646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
+| 3 | `belgium.antwerp.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=belgium.antwerp.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 5 | `88.151.192.57` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=88.151.192.57&port=443&secret=ee1603010200010001fc030386e24c3add79616e6465782e7275) |
+| 6 | `91.238.92.49` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.238.92.49&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 14 | `teh.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=teh.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

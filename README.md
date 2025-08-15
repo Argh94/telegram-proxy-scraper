@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:25 24-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:03 24-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `args.onthenameofgod.info` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=args.onthenameofgod.info&port=6443&secret=ee1110f10f1f776885fffffff51206e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 6 | `47.86.102.83` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.86.102.83&port=443&secret=ee147f6642916e23cd6eccc9979a73e5cf617a7572652e6d6963726f736f66742e636f6d) |
-| 10 | `158.178.225.204` | `1443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=158.178.225.204&port=1443&secret=eed86bb6b0e69fcfc72d9a758f9ffb11bf73332e616d617a6f6e6177732e636f6d) |
-| 18 | `185.121.233.42` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.121.233.42&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 3 | `212.34.134.99` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.134.99&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 5 | `185.21.14.9` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.14.9&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 10 | `New-p.new-visioncity.ir.` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=New-p.new-visioncity.ir.&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 12 | `algortim.sayaair.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=algortim.sayaair.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 17 | `pr2.moon-night.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pr2.moon-night.ir&port=443&secret=eeba86b3c58da3e2d80ea7ff89b00704a773332e616d617a6f6e6177732e636f6d) |
+| 20 | `iphone-windows.bozorgavar-game.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iphone-windows.bozorgavar-game.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:00 25-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:52 25-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,15 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 5 | `207.154.202.223` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=207.154.202.223&port=443&secret=ee79e344818749bd7ac519130220c25d097472616e736c6174652e676f6f) |
-| 6 | `91.99.209.184` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.209.184&port=443&secret=ee843dd3bd4c6c16114013adfac338c7cd7777772e636c6f7564666c6172652e636f6d) |
-| 7 | `185.10.72.52` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.10.72.52&port=443&secret=ee0000f00f0f775555fffffff5006e2e69686f73742d696f2e636c6f7564) |
-| 8 | `45.130.147.98` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.130.147.98&port=443&secret=eed2db08ac89954ac19413ad751aec7c4f7777772e6d6963726f736f66742e636f6d) |
-| 10 | `response.cinere.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=response.cinere.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 14 | `87.248.132.42` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.42&port=200&secret=79e344818749bd7ac519130220c25d09) |
-| 18 | `47.242.241.145` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.242.241.145&port=443&secret=ee172d5c3dbb67eb06e2591465c396d0d5617a7572652e6d6963726f736f66742e636f6d) |
-| 19 | `4.link-a3.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=4.link-a3.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 20 | `159.69.158.204` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=159.69.158.204&port=8080&secret=EE8B5DC967FDBF6DCBF7E8F8BEBCC6B6FE2D772E772E772E772E772E772E772E7769722E67692E69722D2D2D2D2D757064617465312E616E64726F69642E676F6F676C652E73796E63) |
+| 1 | `feature-existing-default.buy-request.co.uk` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=feature-existing-default.buy-request.co.uk&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 5 | `91.238.92.59` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.238.92.59&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 10 | `47.76.224.162` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.224.162&port=443&secret=eea8a367f8e20de085ca9f34a66496b2db617a7572652e6d6963726f736f66742e636f6d) |
+| 12 | `interfaces-eth1-eth0-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.allow-icmp.popular-firewalls.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=interfaces-eth1-eth0-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.allow-icmp.popular-firewalls.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 16 | `matrix.alvanddns.space` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=matrix.alvanddns.space&port=443&secret=a1b2c3d4e5f60718293a4b5c6d7e8f90) |
+| 18 | `77.238.228.144` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.238.228.144&port=443&secret=ee104462821249bd7ac519130220c25d0964697661722e6972ee104462821249bd7ac519130220c25d0964697661722e6972ee104462821249bd7ac519130220c25d0964697661722e6972) |
+| 20 | `s2.czkyc.icu` | `1312` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s2.czkyc.icu&port=1312&secret=469fe09b277900a8ae91dcefa736056b) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

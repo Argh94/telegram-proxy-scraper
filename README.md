@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:52 25-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:10 25-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `feature-existing-default.buy-request.co.uk` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=feature-existing-default.buy-request.co.uk&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 5 | `91.238.92.59` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.238.92.59&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 10 | `47.76.224.162` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.224.162&port=443&secret=eea8a367f8e20de085ca9f34a66496b2db617a7572652e6d6963726f736f66742e636f6d) |
-| 12 | `interfaces-eth1-eth0-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.allow-icmp.popular-firewalls.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=interfaces-eth1-eth0-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.allow-icmp.popular-firewalls.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
-| 16 | `matrix.alvanddns.space` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=matrix.alvanddns.space&port=443&secret=a1b2c3d4e5f60718293a4b5c6d7e8f90) |
-| 18 | `77.238.228.144` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.238.228.144&port=443&secret=ee104462821249bd7ac519130220c25d0964697661722e6972ee104462821249bd7ac519130220c25d0964697661722e6972ee104462821249bd7ac519130220c25d0964697661722e6972) |
-| 20 | `s2.czkyc.icu` | `1312` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s2.czkyc.icu&port=1312&secret=469fe09b277900a8ae91dcefa736056b) |
+| 8 | `error.irpower-b.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=error.irpower-b.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 9 | `best-ruter.eyvazi-master.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=best-ruter.eyvazi-master.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 10 | `91.238.92.6` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.238.92.6&port=85&secret=ee0000f00f0f775555fffffff5006e2e69646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
+| 14 | `87.248.132.33` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.33&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 18 | `89.251.10.36` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.36&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

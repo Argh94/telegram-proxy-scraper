@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:01 26-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:52 26-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `47.250.119.71` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.250.119.71&port=443&secret=eeee1e431912f2e7703898998fa67c9940617a7572652e6d6963726f736f66742e636f6d) |
-| 7 | `87.248.134.241` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.241&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 8 | `morgh.2p2p.ir` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=morgh.2p2p.ir&port=8080&secret=ee66881e6e1e6d1ff6666666616d66aeae686f73746972616e2e636c6f7564) |
-| 11 | `www.abccloudi.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.abccloudi.ir&port=443&secret=dddddddddddddddddddddddddddddddddd) |
-| 15 | `Focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.info.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.info.&port=443&secret=88e462779949db7ec888130660c40c77) |
-| 16 | `5.199.168.13` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.199.168.13&port=443&secret=ee603e1269308d7bec64b1e6b040fc76297777772e636c6f7564666c6172652e73686174656c2e6972616e63656c6c2e73616d616e74656c2e7463692e636f6d) |
-| 18 | `prtelxy01.deltacyber.top` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=prtelxy01.deltacyber.top&port=443&secret=ee0d6a10d6e2149277f258218d3cb4b70d73332e616d617a6f6e6177732e636f6d) |
+| 3 | `87.248.132.33` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.33&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 5 | `87.248.134.244` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.244&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 6 | `152.42.133.79` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=152.42.133.79&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d) |
+| 9 | `89.251.10.41` | `666` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.41&port=666&secret=dde9a4f23b1d768c04a8d7f39120ca5b6eBbbbbbbbbbbbbbbbbbbbbAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) |
+| 10 | `46.249.110.52` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.249.110.52&port=443&secret=ee151151151151151151151151151151156D656469612E737465616D706F77657265642E636F6D) |
+| 14 | `kr2.tudoudb-baidu.com` | `18447` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=kr2.tudoudb-baidu.com&port=18447&secret=ee871e86ae90657239c4c928305f42f1716974756e65732e6170706c652e636f6d) |
+| 15 | `https.link-a1.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=https.link-a1.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

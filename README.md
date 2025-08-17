@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:52 26-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:10 26-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `87.248.132.33` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.33&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 5 | `87.248.134.244` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.244&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 6 | `152.42.133.79` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=152.42.133.79&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d) |
-| 9 | `89.251.10.41` | `666` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.41&port=666&secret=dde9a4f23b1d768c04a8d7f39120ca5b6eBbbbbbbbbbbbbbbbbbbbbAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) |
-| 10 | `46.249.110.52` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.249.110.52&port=443&secret=ee151151151151151151151151151151156D656469612E737465616D706F77657265642E636F6D) |
-| 14 | `kr2.tudoudb-baidu.com` | `18447` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=kr2.tudoudb-baidu.com&port=18447&secret=ee871e86ae90657239c4c928305f42f1716974756e65732e6170706c652e636f6d) |
-| 15 | `https.link-a1.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=https.link-a1.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 2 | `qavi.cphosting.shop` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=qavi.cphosting.shop&port=443&secret=5ec062447872f9d78aa3ce37fb1d8b07) |
+| 6 | `138.124.99.29` | `1312` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=138.124.99.29&port=1312&secret=dd469fe09b277900a8ae91dcefa736056b) |
+| 8 | `live.irpower-b.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=live.irpower-b.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 17 | `78.47.66.176` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=78.47.66.176&port=443&secret=1603010200010001fc030386e24c3add) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

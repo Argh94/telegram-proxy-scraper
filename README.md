@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:15 27-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:55 27-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 12 | `upiran.irpower-f.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=upiran.irpower-f.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 14 | `176.65.128.185` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=176.65.128.185&port=85&secret=ee52c867dc75983faf4bb37f91d5164f092d) |
-| 16 | `87.248.132.33` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.33&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 17 | `wait.fiziotr.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=wait.fiziotr.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 18 | `5.35.70.114` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.70.114&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
-| 19 | `37.49.224.220` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.49.224.220&port=8443&secret=79e344818749bd7ac519130220c25d09) |
-| 20 | `api.ghodrat.online` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=api.ghodrat.online&port=443&secret=ee0000f00f0f775555fffffff5006e2e69686f73742d696f2e636c6f7564) |
+| 2 | `87.248.132.65` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.65&port=155&secret=ee0000f00f0f775555fffffff5006e2e69646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 5 | `104.238.180.203` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=104.238.180.203&port=80&secret=ee000000000000000000000000000000006170692e61736961746563682e636c6f7564) |
+| 6 | `9443.iropt-g.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=9443.iropt-g.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 9 | `50.7.85.220` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=50.7.85.220&port=443&secret=ee1603010200010001fc030386e24c3add6c696e75782d70726f2e6f7267) |
+| 13 | `5.75.196.41` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.75.196.41&port=443&secret=dd163f8fc4aad2e79f50e6fda70d06bfc2) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

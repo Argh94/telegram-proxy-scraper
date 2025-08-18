@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:55 27-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:03 27-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `87.248.132.65` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.65&port=155&secret=ee0000f00f0f775555fffffff5006e2e69646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
-| 5 | `104.238.180.203` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=104.238.180.203&port=80&secret=ee000000000000000000000000000000006170692e61736961746563682e636c6f7564) |
-| 6 | `9443.iropt-g.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=9443.iropt-g.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 9 | `50.7.85.220` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=50.7.85.220&port=443&secret=ee1603010200010001fc030386e24c3add6c696e75782d70726f2e6f7267) |
-| 13 | `5.75.196.41` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.75.196.41&port=443&secret=dd163f8fc4aad2e79f50e6fda70d06bfc2) |
+| 4 | `iran-vatan.magalaiash.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iran-vatan.magalaiash.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 9 | `freedomconnect.xyz` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=freedomconnect.xyz&port=443&secret=eebe9ba010e83c95aa690b10c541d1db227777772e676f6f676c652e636f6d) |
+| 12 | `212.34.150.64` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.150.64&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 17 | `Cloud.irpower-g.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Cloud.irpower-g.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 19 | `14.102.10.107` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.107&port=85&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

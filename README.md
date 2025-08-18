@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:03 27-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:50 28-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,15 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `iran-vatan.magalaiash.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iran-vatan.magalaiash.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 9 | `freedomconnect.xyz` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=freedomconnect.xyz&port=443&secret=eebe9ba010e83c95aa690b10c541d1db227777772e676f6f676c652e636f6d) |
-| 12 | `212.34.150.64` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.150.64&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 17 | `Cloud.irpower-g.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Cloud.irpower-g.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 19 | `14.102.10.107` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.107&port=85&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d) |
+| 3 | `139.59.133.255` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=139.59.133.255&port=443&secret=ee79e344818749bd7ac519130220c25d09636865636b2d686f73742e6e6574) |
+| 5 | `142.54.189.107` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.54.189.107&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d63656e746f732e6f7267) |
+| 6 | `65.109.235.164` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.235.164&port=443&secret=DD1603010200010001fc030386e24c3add) |
+| 9 | `chernobill.technote.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=chernobill.technote.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 11 | `87.248.132.70` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.70&port=155&secret=ee0000f00f0f775555fffffff5006e2e69646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 14 | `tg.unibot.work` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tg.unibot.work&port=443&secret=dd4d90d8c4c45d25aa849135d4e73c27c7) |
+| 16 | `91.99.131.55` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.131.55&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 19 | `2.tiko-h.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2.tiko-h.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 20 | `5.196.223.250` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.196.223.250&port=443&secret=eebf65532190e05464c9bbc799a0cf49d970726f78792e6c696172612e6972) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:12 28-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:54 28-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,16 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.info.apple.slumbo.com.vssweb.net.refersion.com.www.xenium.com.www.hamisheluxbemon.tech` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.info.apple.slumbo.com.vssweb.net.refersion.com.www.xenium.com.www.hamisheluxbemon.tech&port=443&secret=dd00000000000000000000000000000000) |
-| 8 | `143.198.205.203` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=143.198.205.203&port=443&secret=ee3f3a60978bb7c4ff5ad15e3d23a5a3e9626c6f672e636c6f7564666c6172652e636f6d) |
-| 9 | `62.60.176.141` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.176.141&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 11 | `204.12.192.222` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=204.12.192.222&port=443&secret=ee1603010200010001fc030386e24c3add6862616e696d2e696e666f) |
-| 12 | `89.251.10.53` | `666` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.53&port=666&secret=dde9a4f23b1d768c04a8d7f39120ca5b6eBbbbbbbbbbbbbbbbbbbbbAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) |
-| 13 | `8080.link-a2.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8080.link-a2.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 14 | `171.22.183.106` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=171.22.183.106&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 15 | `vip.tiko-d.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vip.tiko-d.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 18 | `87.248.134.177` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.177&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 20 | `3.tiko-h.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=3.tiko-h.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 6 | `91.107.170.87` | `666` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.107.170.87&port=666&secret=dde9a4f23b1d768c04a8d7f39120ca5b6eBbbbbbbbbbbbbb) |
+| 9 | `14.102.10.133` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.133&port=85&secret=ee00ff000ff00fff5555fffffff5662e6b6f2d2d) |
+| 13 | `ipv-4-ipv-6.firewall.rules.nat.winbox.webfig.new-interfaces.rejectall-udp-connections.mikrotik-webfig.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ipv-4-ipv-6.firewall.rules.nat.winbox.webfig.new-interfaces.rejectall-udp-connections.mikrotik-webfig.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 18 | `vip2.mtproto.vip` | `56737` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vip2.mtproto.vip&port=56737&secret=eec739fa2983add28dd923b544bcaebc33617a7572652e6d6963726f736f66742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

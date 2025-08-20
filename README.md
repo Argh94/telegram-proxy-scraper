@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 01:16 29-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:58 29-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 5 | `vip7.mtproto.vip` | `42633` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vip7.mtproto.vip&port=42633&secret=eef10c4b1ac94c8f5bc3a9e6226f83f0cb617a7572652e6d6963726f736f66742e636f6d) |
-| 6 | `116.203.121.51` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.121.51&port=443&secret=1603010200010001fc030386e24c3add) |
-| 12 | `5.252.118.142` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.252.118.142&port=443&secret=ee000000000000000000000000000000006e616d6176612e6972) |
-| 13 | `HAMRAH-AVAL.new-visioncity.ir.` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=HAMRAH-AVAL.new-visioncity.ir.&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 14 | `desktop.email-wrp.info` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=desktop.email-wrp.info&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 18 | `teleuz-proxy.duckdns.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=teleuz-proxy.duckdns.org&port=443&secret=81bd2d223bc620bf1bca37f5f4ca62d0) |
-| 20 | `s1.czkyc.icu` | `1312` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s1.czkyc.icu&port=1312&secret=469fe09b277900a8ae91dcefa736056b) |
+| 2 | `5.35.37.124` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.37.124&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 3 | `yahoo.phosphorus.emryuvw.medium.radon.wikipedia.jaewxtawp.wordpress-mail.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=yahoo.phosphorus.emryuvw.medium.radon.wikipedia.jaewxtawp.wordpress-mail.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 4 | `AMD-epic.sheshko.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=AMD-epic.sheshko.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 11 | `157.240.22.2` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=157.240.22.2&port=443&secret=ee00000000000000000000000000000000696f2e696f) |
+| 15 | `178.20.43.19` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=178.20.43.19&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

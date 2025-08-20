@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:01 29-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:51 30-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `37.27.18.198` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.18.198&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20562616c61642e6972) |
-| 7 | `185.21.14.9` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.14.9&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 8 | `212.34.130.72` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.130.72&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 11 | `best-ruter.eyvazi-master.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=best-ruter.eyvazi-master.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 19 | `89.251.10.36` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.36&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
-| 20 | `89.251.10.3` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.3&port=443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 1 | `47.239.81.132` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.239.81.132&port=443&secret=eef6607a43968f2571348cc0d6dc89fb8c617a7572652e6d6963726f736f66742e636f6d) |
+| 3 | `kr2.tudoudb-baidu.com` | `18447` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=kr2.tudoudb-baidu.com&port=18447&secret=ee871e86ae90657239c4c928305f42f1716974756e65732e6170706c652e636f6d) |
+| 4 | `brookswashere.space` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=brookswashere.space&port=443&secret=10dadd1e7c27a20098abb5bf53ca26a8) |
+| 15 | `89.251.10.40` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.40&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:54 30-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:01 30-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `91.220.113.205` | `555` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.220.113.205&port=555&secret=dd6d0a21a671527fdf0125767dd8cf1b10) |
-| 4 | `139.59.15.110` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=139.59.15.110&port=443&secret=ee79e344818749bd7ac519130220c25d096d792e7461782e676f762e6972) |
-| 5 | `91.107.181.76` | `9091` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.107.181.76&port=9091&secret=dd870d9440e9a30777f15916510f29b3ef) |
-| 9 | `5.161.20.49` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.161.20.49&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d) |
-| 11 | `62.60.233.231.maksport.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.233.231.maksport.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 13 | `here.aivalai.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=here.aivalai.info&port=443&secret=1603010200010001fc030386e24c3add) |
-| 15 | `89.110.73.23` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.73.23&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 16 | `130.0.239.75` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=130.0.239.75&port=443&secret=eef9f48d41044f0225c1af64490ce88cda7777772e7a6f6f6d69742e6972) |
+| 5 | `91.238.92.69` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.238.92.69&port=200&secret=ee0000f00f0f775555fffffff5006e2e69646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
+| 9 | `kr1.tudounb-baidu.com` | `18443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=kr1.tudounb-baidu.com&port=18443&secret=ee3003a89c5529dcef9af70d539cac5f826974756e65732e6170706c652e636f6d) |
+| 13 | `185.105.90.16` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.105.90.16&port=443&secret=ee6575860df1848335b7110ca37d01f14a7777772e66616365626f6f6b2e636f6d) |
+| 16 | `89.110.90.23` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.90.23&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

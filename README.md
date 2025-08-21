@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:57 30-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:13 30-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `157.180.80.209` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=157.180.80.209&port=443&secret=1603010200010001fc030386e24c3add) |
-| 5 | `14.102.10.43` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.43&port=85&secret=ee0c30628212cbbd7ac519130205525d1569612e737465616d706f77657265642e636f6d) |
-| 8 | `88.210.11.133` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=88.210.11.133&port=443&secret=ee1603010200010001fc030386e24c3add733130312e646976617263646e2e636f6d160301020001000100000000000000000000000000000000) |
-| 9 | `monproxygod.foryoutouse.ihopeyouenjoy.luxcloud.shop` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=monproxygod.foryoutouse.ihopeyouenjoy.luxcloud.shop&port=443&secret=eea3019dece16b90017dcc80c888c2e66463646e2e6c7578636c6f75642e73686f70) |
-| 10 | `37.27.18.76` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.18.76&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20563646e2e79656b74616e65742e636f6d) |
-| 12 | `206.189.62.211` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=206.189.62.211&port=443&secret=ee79e344818749bd7ac519130220c25d09736168616d6564616c61742e6972) |
-| 17 | `157.245.50.60` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=157.245.50.60&port=443&secret=eeecc234652fda427695e6b7c4a7da8a297777772e6d6963726f736f66742e636f6d) |
-| 18 | `185.21.14.9` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.14.9&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 1 | `212.34.128.50` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.128.50&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 4 | `sogand.ir.joojeordak.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sogand.ir.joojeordak.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 5 | `vip.abanol1.info` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vip.abanol1.info&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 8 | `tg.unibot.work` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tg.unibot.work&port=443&secret=dd4d90d8c4c45d25aa849135d4e73c27c7) |
+| 12 | `87.248.132.96` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.96&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 16 | `45.92.218.140` | `8268` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.92.218.140&port=8268&secret=ee9cb8d24c888949d2bbe7855108e7071873332e616d617a) |
+| 19 | `46.62.155.124` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.62.155.124&port=443&secret=ee944483b17a81b7a9f58c83bb978285177777772e636c6f7564666c6172652e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

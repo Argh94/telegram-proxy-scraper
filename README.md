@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:34 01-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:50 01-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,14 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `85.114.138.84` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.114.138.84&port=443&secret=1603010200010001fc030386e24c3add) |
-| 4 | `us.nicetudou-baidu.com` | `18448` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=us.nicetudou-baidu.com&port=18448&secret=ee9c0dc4058c9735969b1fdb6c445de42f6974756e65732e6170706c652e636f6d) |
-| 8 | `185.106.93.163` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.106.93.163&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972) |
-| 9 | `62.60.179.221` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.179.221&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 10 | `achavpn.star4.fun` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=achavpn.star4.fun&port=443&secret=f8f4cc50bac2f39ead5baa720364f555) |
-| 14 | `tiota.fanlpmw.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tiota.fanlpmw.info&port=443&secret=dd1603010200010001fc030386e24c3add) |
-| 15 | `89.251.10.45` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.45&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
-| 20 | `8443.link-a4.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8443.link-a4.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 1 | `185.21.12.144` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.12.144&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 3 | `206.189.62.211` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=206.189.62.211&port=443&secret=ee79e344818749bd7ac519130220c25d09736168616d6564616c61742e6972) |
+| 6 | `185.21.15.141` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.15.141&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 11 | `kr1.tudounb-baidu.com` | `18443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=kr1.tudounb-baidu.com&port=18443&secret=ee3003a89c5529dcef9af70d539cac5f826974756e65732e6170706c652e636f6d) |
+| 12 | `62.60.178.120` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.178.120&port=443&secret=1603010200010001fc030386e24c3add) |
+| 13 | `1.talk-b.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=1.talk-b.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 14 | `poi.tiko-k.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=poi.tiko-k.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 20 | `137.220.170.83` | `888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=137.220.170.83&port=888&secret=ee97d1e22e3ffb93ad593ea88b7d3d79816e676a742e6e67) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

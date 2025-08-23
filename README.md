@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:08 01-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:50 01-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 7 | `212.34.128.50` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.128.50&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 8 | `85.133.236.55` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.133.236.55&port=2053&secret=ee0000f00f0f775555fffffff5006e2e69686f73742d696f2e636c6f7564) |
-| 11 | `poi.tiko-k.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=poi.tiko-k.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 14 | `newvip.abineirn2.ir` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=newvip.abineirn2.ir&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 20 | `llp.tiko-d.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=llp.tiko-d.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 2 | `lipzinc.ultrasam.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lipzinc.ultrasam.info&port=443&secret=1603010200010001fc030386e24c3add) |
+| 13 | `5.180.32.80` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.180.32.80&port=8080&secret=eecd8b0a4aed71459decc6345f0cc02fa66d656469612e737465616d706f77657265642e636f6d) |
+| 17 | `93.183.88.188` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=93.183.88.188&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 18 | `31.184.172.121` | `2086` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=31.184.172.121&port=2086&secret=1f9fdd1eddffba2661772fa299eef89c) |
+| 19 | `89.251.10.52` | `666` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.52&port=666&secret=dde9a4f23b1d768c04a8d7f39120ca5b6eBbbbbbbbbbbbbbbbbbbbbAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) |
+| 20 | `Cloud.irpower-g.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Cloud.irpower-g.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

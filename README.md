@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:50 01-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:57 01-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `lipzinc.ultrasam.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lipzinc.ultrasam.info&port=443&secret=1603010200010001fc030386e24c3add) |
-| 13 | `5.180.32.80` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.180.32.80&port=8080&secret=eecd8b0a4aed71459decc6345f0cc02fa66d656469612e737465616d706f77657265642e636f6d) |
-| 17 | `93.183.88.188` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=93.183.88.188&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 18 | `31.184.172.121` | `2086` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=31.184.172.121&port=2086&secret=1f9fdd1eddffba2661772fa299eef89c) |
-| 19 | `89.251.10.52` | `666` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.52&port=666&secret=dde9a4f23b1d768c04a8d7f39120ca5b6eBbbbbbbbbbbbbbbbbbbbbAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) |
-| 20 | `Cloud.irpower-g.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Cloud.irpower-g.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 2 | `45.32.154.25` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.32.154.25&port=9443&secret=2adab36179e7a39026adf74034615248) |
+| 6 | `89.110.113.224` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.113.224&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 14 | `pr1.fast-film.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pr1.fast-film.ir&port=443&secret=ddba86b3c58da3e2d80ea7ff89b00704a7) |
+| 19 | `85.133.236.55` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.133.236.55&port=2053&secret=ee0000f00f0f775555fffffff5006e2e69686f73742d696f2e636c6f7564) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

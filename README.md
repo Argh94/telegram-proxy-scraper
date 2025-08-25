@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:04 03-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:55 03-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `134.209.88.105` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=134.209.88.105&port=443&secret=eec80ff604fa45408f1d152624d3bffcf26b65746161626f6e6c696e652e636f6d) |
-| 4 | `brads.mygrade.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=brads.mygrade.ir&port=443&secret=1603010200010001fc030386e24c3add) |
-| 5 | `pro.melinter.site` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pro.melinter.site&port=443&secret=dd45da47059d169d4d0e23b6f1f6c5ead8) |
-| 6 | `91.99.222.16` | `59065` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.222.16&port=59065&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 8 | `212.34.134.99` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.134.99&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 10 | `37.27.248.245` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.248.245&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 11 | `139.59.133.255` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=139.59.133.255&port=443&secret=ee79e344818749bd7ac519130220c25d09636865636b2d686f73742e6e6574) |
-| 13 | `live.irpower-b.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=live.irpower-b.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 2 | `sebro.sheshko.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sebro.sheshko.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 4 | `45.92.218.140` | `8268` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.92.218.140&port=8268&secret=ee9cb8d24c888949d2bbe7855108e7071873332e616d617a) |
+| 7 | `proxy.filimo.news` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.filimo.news&port=443&secret=dd2c9935dcec47525aeb6d559d4bdd5a59) |
+| 8 | `87.248.132.66` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.66&port=155&secret=ee0000f00f0f775555fffffff5006e2e69646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 14 | `bebinim-chi.mishe.bozorgavar-game.ir.` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bebinim-chi.mishe.bozorgavar-game.ir.&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 15 | `45.32.154.25` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.32.154.25&port=9443&secret=2adab36179e7a39026adf74034615248) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

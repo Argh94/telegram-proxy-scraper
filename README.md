@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:13 03-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:54 03-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,17 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `89.251.10.38` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.38&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
-| 3 | `89.34.230.106` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.34.230.106&port=443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
-| 18 | `157.180.47.224` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=157.180.47.224&port=443&secret=1603010200010001fc030386e24c3add) |
+| 4 | `89.110.119.77` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.119.77&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 5 | `141.95.109.126` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=141.95.109.126&port=443&secret=e7f6e55349e930c6c3cc6c08ec5b817c) |
+| 6 | `212.34.139.251` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.139.251&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 7 | `31.184.172.121` | `2086` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=31.184.172.121&port=2086&secret=1f9fdd1eddffba2661772fa299eef89c) |
+| 9 | `157.180.80.209` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=157.180.80.209&port=443&secret=1603010200010001fc030386e24c3add) |
+| 13 | `62.60.179.221` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.179.221&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 14 | `185.106.93.163` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.106.93.163&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972) |
+| 15 | `op.tiko-k.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=op.tiko-k.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 17 | `net-meli.bozorgavar-game.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=net-meli.bozorgavar-game.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 19 | `lock.link-a6.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lock.link-a6.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 20 | `https.link-a1.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=https.link-a1.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

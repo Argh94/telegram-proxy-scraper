@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:55 03-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:13 03-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `sebro.sheshko.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sebro.sheshko.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 4 | `45.92.218.140` | `8268` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.92.218.140&port=8268&secret=ee9cb8d24c888949d2bbe7855108e7071873332e616d617a) |
-| 7 | `proxy.filimo.news` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.filimo.news&port=443&secret=dd2c9935dcec47525aeb6d559d4bdd5a59) |
-| 8 | `87.248.132.66` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.66&port=155&secret=ee0000f00f0f775555fffffff5006e2e69646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
-| 14 | `bebinim-chi.mishe.bozorgavar-game.ir.` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bebinim-chi.mishe.bozorgavar-game.ir.&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 15 | `45.32.154.25` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.32.154.25&port=9443&secret=2adab36179e7a39026adf74034615248) |
+| 1 | `89.251.10.38` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.38&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 3 | `89.34.230.106` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.34.230.106&port=443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 18 | `157.180.47.224` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=157.180.47.224&port=443&secret=1603010200010001fc030386e24c3add) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

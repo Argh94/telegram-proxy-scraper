@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:14 04-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:03 04-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,15 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 6 | `vip.mtproto.vip` | `56737` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vip.mtproto.vip&port=56737&secret=eec739fa2983add28dd923b544bcaebc33617a7572652e6d6963726f736f66742e636f6d) |
-| 11 | `62.60.176.180` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.176.180&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 12 | `142.54.189.107` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.54.189.107&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d63656e746f732e6f7267) |
-| 14 | `hight-opt.irpower-a.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hight-opt.irpower-a.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 16 | `62.60.176.255` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.176.255&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 2 | `8.217.25.47` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.217.25.47&port=443&secret=ee52b986ec192f5e0d25d7e2ee6fdeffcc617a7572652e6d6963726f736f66742e636f6d) |
+| 3 | `87.248.134.65` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.65&port=8888&secret=79E344818749bd7ac519130220c25d09) |
+| 6 | `edge.ghodrat.online` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=edge.ghodrat.online&port=2053&secret=ee0000f00f0f775555fffffff5006e2e69686f73742d696f2e636c6f7564) |
+| 9 | `49.13.236.7` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=49.13.236.7&port=443&secret=ee00000000000000000000000000000000646967696b616c612e636f6d) |
+| 10 | `185.121.233.42` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.121.233.42&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 11 | `astatine.delta.lg.snapchat.paypal.phi.omicron.transfer-tous.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=astatine.delta.lg.snapchat.paypal.phi.omicron.transfer-tous.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 14 | `212.34.145.186` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.145.186&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 16 | `belarus.gomel.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=belarus.gomel.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 17 | `bob.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bob.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:53 05-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:00 05-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `89.251.10.51` | `666` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.51&port=666&secret=dde9a4f23b1d768c04a8d7f39120ca5b6eBbbbbbbbbbbbbbbbbbbbbAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) |
-| 3 | `91.99.209.205` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.209.205&port=443&secret=ec742282124f04d318551341ead76457) |
-| 11 | `8443.iropt-g.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8443.iropt-g.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 15 | `SIGNAL.irpower-b.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=SIGNAL.irpower-b.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 18 | `abestick.abarwitch.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=abestick.abarwitch.info&port=443&secret=1603010200010001fc030386e24c3add) |
+| 4 | `fa.learn-new.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=fa.learn-new.ir&port=443&secret=ddba86b3c58da3e2d80ea7ff89b00704a7) |
+| 10 | `108.181.71.115` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=108.181.71.115&port=443&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
+| 12 | `89.251.10.22` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.22&port=443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 15 | `Focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.info.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.info.&port=443&secret=88e462779949db7ec888130660c40c77) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

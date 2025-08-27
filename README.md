@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:00 05-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:51 06-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `fa.learn-new.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=fa.learn-new.ir&port=443&secret=ddba86b3c58da3e2d80ea7ff89b00704a7) |
-| 10 | `108.181.71.115` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=108.181.71.115&port=443&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
-| 12 | `89.251.10.22` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.22&port=443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
-| 15 | `Focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.info.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.info.&port=443&secret=88e462779949db7ec888130660c40c77) |
+| 11 | `iranam.new-visioncity.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iranam.new-visioncity.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 15 | `arvan.irpower-g.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=arvan.irpower-g.ir&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 16 | `itment.jobs.career.portal.events.calendar.booking.shop.vip.member.nestweb01.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=itment.jobs.career.portal.events.calendar.booking.shop.vip.member.nestweb01.ir&port=443&secret=ee9f34f17016192293d45f810f41dda1327777772e636c6f7564666c6172652e636f6d) |
+| 17 | `185.157.214.109` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.157.214.109&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 19 | `new-p.new-visioncity.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=new-p.new-visioncity.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 20 | `handshake_failed.please-resend-handshake.auth.failed.conn-accepted.sending-clienthello-packet.security-handshake.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=handshake_failed.please-resend-handshake.auth.failed.conn-accepted.sending-clienthello-packet.security-handshake.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

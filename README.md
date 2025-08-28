@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:53 06-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:11 06-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `response.cinere.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=response.cinere.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 4 | `newvip.abineirn2.ir` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=newvip.abineirn2.ir&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 5 | `brenj-rice.birjikala.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=brenj-rice.birjikala.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 6 | `46.249.110.244` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.249.110.244&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 12 | `185.21.15.141` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.15.141&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 14 | `8.217.49.135` | `32879` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.217.49.135&port=32879&secret=eea4dd0f884374fd5718569a3dd805f1bb617a7572652e6d6963726f736f66742e636f6d) |
-| 19 | `4.tiko-f.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=4.tiko-f.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 20 | `62.60.233.231.maksport.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.233.231.maksport.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 3 | `74.208.184.133` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.208.184.133&port=443&secret=eef4880d061da942b8bfb8f8d4a24f6ce67777772e676f6f676c652e636f6d) |
+| 4 | `91.99.185.112` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.185.112&port=443&secret=dd8f3c1e92b74a65d0e1f4a927c5d8b3a1) |
+| 9 | `pes2021-update2025.magalaiash.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pes2021-update2025.magalaiash.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 12 | `4.tiko-f.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=4.tiko-f.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 15 | `vip.mtproto.vip` | `56737` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vip.mtproto.vip&port=56737&secret=eec739fa2983add28dd923b544bcaebc33617a7572652e6d6963726f736f66742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

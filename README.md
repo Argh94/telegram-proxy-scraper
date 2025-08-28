@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:00 06-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:50 07-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `77.238.230.158` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.238.230.158&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 11 | `18.218.229.19` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=18.218.229.19&port=443&secret=ddc121a2b7f3080ac5ff9565eef8e625e4) |
-| 13 | `astatine.delta.lg.snapchat.paypal.phi.omicron.transfer-tous.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=astatine.delta.lg.snapchat.paypal.phi.omicron.transfer-tous.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
-| 14 | `134.122.55.2` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=134.122.55.2&port=443&secret=ee79e344818749bd7ac519130220c25d09636865636b2d686f73742e6e6574) |
-| 16 | `proxy.digitalvpn.org` | `6677` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.digitalvpn.org&port=6677&secret=282d0f23889cf7ecc65d3bcd8d1264cc) |
+| 6 | `5.78.98.46` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.78.98.46&port=443&secret=ee2200e547d760f0e3b53eb430c871f1546b65746161626f6e6c696e652e636f6d) |
+| 8 | `89.251.10.24` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.24&port=443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 9 | `195.128.248.217` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.128.248.217&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000) |
+| 14 | `207.154.202.223` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=207.154.202.223&port=443&secret=ee79e344818749bd7ac519130220c25d097472616e736c6174652e676f6f) |
+| 20 | `45.79.149.31` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.79.149.31&port=443&secret=ee0000f00f0f775555fffffff6006e2e697777772e77696b6970656469612e6f7267) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

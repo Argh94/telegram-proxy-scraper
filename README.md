@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:02 06-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:53 06-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,15 +48,14 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `91.107.170.163` | `666` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.107.170.163&port=666&secret=dde9a4f23b1d768c04a8d7f39120ca5b6eBbbbbbbbbbbbbbbbbbbbbAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) |
-| 4 | `bastani.transiiantanialnmiomana.info` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bastani.transiiantanialnmiomana.info&port=6443&secret=ee15115117188139128511522321511511918356d656469612e737465616d706f77657265642e636f6d) |
-| 8 | `87.248.132.55` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.55&port=200&secret=79e344818749bd7ac519130220c25d09) |
-| 9 | `87.248.134.65` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.65&port=8888&secret=79e344818749bd7ac519130220c25d09) |
-| 10 | `49.12.77.19` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=49.12.77.19&port=443&secret=ee83e29319c1b8a7c8abb38061eae6f353676174657761792e696e7374616772616d2e636f6d) |
-| 13 | `185.21.14.9` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.14.9&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 15 | `dev.bmcdr.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dev.bmcdr.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 19 | `teleproprocode.foxymovie.top` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=teleproprocode.foxymovie.top&port=443&secret=dda084a0a31ea6ddee6d0a156311a3b439) |
-| 20 | `live.irpower-b.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=live.irpower-b.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 3 | `response.cinere.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=response.cinere.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 4 | `newvip.abineirn2.ir` | `70` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=newvip.abineirn2.ir&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 5 | `brenj-rice.birjikala.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=brenj-rice.birjikala.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 6 | `46.249.110.244` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.249.110.244&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 12 | `185.21.15.141` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.15.141&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 14 | `8.217.49.135` | `32879` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.217.49.135&port=32879&secret=eea4dd0f884374fd5718569a3dd805f1bb617a7572652e6d6963726f736f66742e636f6d) |
+| 19 | `4.tiko-f.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=4.tiko-f.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 20 | `62.60.233.231.maksport.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.233.231.maksport.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

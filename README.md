@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:51 07-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:58 07-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,16 +48,14 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `89.251.10.36` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.36&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
-| 5 | `jp2.tddb-baidu.com` | `18446` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=jp2.tddb-baidu.com&port=18446&secret=ee5ee846daaca229dbfe7d9142c4bb75a56974756e65732e6170706c652e636f6d) |
-| 6 | `65.109.133.143` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.133.143&port=80&secret=fbaa15d5abfbf8a2ac89e9f4ae906375) |
-| 9 | `194.26.141.32` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=194.26.141.32&port=443&secret=ee100404ff0f48064fffffff9001b8696d696d656469612e737465616d706f77657265642e636f6d) |
-| 10 | `iranam.new-visioncity.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iranam.new-visioncity.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 11 | `212.34.128.50` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.128.50&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 13 | `4.link-a3.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=4.link-a3.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 14 | `89.251.10.37` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.37&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
-| 17 | `140.233.187.60` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=140.233.187.60&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 19 | `91.99.183.122` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.183.122&port=443&secret=eec862057ba49a7ecdf0ad4eb44cd5bb11646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 2 | `morgh.2p2p.ir` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=morgh.2p2p.ir&port=8080&secret=ee66881e6e1e6d1ff6666666616d66aeae686f73746972616e2e636c6f7564) |
+| 5 | `140.233.187.60` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=140.233.187.60&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 6 | `89.110.73.23` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.73.23&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 12 | `LIVE.irpower-b.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=LIVE.irpower-b.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 13 | `bastani.transiiantanialnmiomana.info` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bastani.transiiantanialnmiomana.info&port=6443&secret=ee15115117188139128511522321511511918356d656469612e737465616d706f77657265642e636f6d) |
+| 18 | `49.12.14.48` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=49.12.14.48&port=443&secret=ee00000000000000000000000000000000636f6e736f6c652e6865747a6e65722e636c6f7564) |
+| 19 | `88.210.35.238` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=88.210.35.238&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 20 | `185.121.233.136` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.121.233.136&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 09:58 08-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:50 08-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,14 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `us.nicetudou-baidu.com` | `18448` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=us.nicetudou-baidu.com&port=18448&secret=ee9c0dc4058c9735969b1fdb6c445de42f6974756e65732e6170706c652e636f6d) |
-| 4 | `biskotard.sheshko.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=biskotard.sheshko.info&port=443&secret=1603010200010001fc030386e24c3add) |
-| 6 | `116.203.245.195` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.245.195&port=443&secret=1603010200010001fc030386e24c3add) |
-| 7 | `best-ruter.eyvazi-master.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=best-ruter.eyvazi-master.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 8 | `85.198.108.252` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.198.108.252&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 12 | `116.203.149.201` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.149.201&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205726161682e6972) |
+| 2 | `89.251.10.52` | `666` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.52&port=666&secret=dde9a4f23b1d768c04a8d7f39120ca5b6eBbbbbbbbbbbbbbbbbbbbbAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) |
+| 3 | `yamahdi-adrekni.gjesus.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=yamahdi-adrekni.gjesus.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 8 | `162.55.62.29` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=162.55.62.29&port=443&secret=dd00000000000000000000000000000000) |
+| 13 | `171.22.183.106` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=171.22.183.106&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 16 | `37.27.22.248` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.22.248&port=443&secret=ee08c672729aa5fae4dcf8cd8c36312e7573686579706f6f722e636f6d) |
+| 18 | `50.7.85.218` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=50.7.85.218&port=443&secret=eee7ce9f4679bfc87bb93390ed56e2c9686170742d6d6972726f722e6f7267) |
+| 19 | `achavpn.star4.fun` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=achavpn.star4.fun&port=443&secret=f8f4cc50bac2f39ead5baa720364f555) |
+| 20 | `91.238.92.5` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.238.92.5&port=85&secret=ee0000f00f0f775555fffffff5006e2e69646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

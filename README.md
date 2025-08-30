@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:52 08-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:03 08-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `185.201.49.82` | `8931` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.201.49.82&port=8931&secret=ee91497bf49c81243ab60717929edb0009616a61782e393533322e31302e646e732e31332e4861333138323031352e7370656564746573742e6e6574) |
-| 4 | `47.250.119.71` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.250.119.71&port=443&secret=eeee1e431912f2e7703898998fa67c9940617a7572652e6d6963726f736f66742e636f6d) |
-| 7 | `94.131.2.159` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=94.131.2.159&port=443&secret=eea93c297d237f4756c1a01ffa9b2debb86177732e616d617a6f6e2e636f6d) |
-| 10 | `iphone-windows.bozorgavar-game.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iphone-windows.bozorgavar-game.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 14 | `50.7.85.220` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=50.7.85.220&port=443&secret=ee1603010200010001fc030386e24c3add6c696e75782d70726f2e6f7267) |
-| 15 | `47.242.241.145` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.242.241.145&port=443&secret=ee172d5c3dbb67eb06e2591465c396d0d5617a7572652e6d6963726f736f66742e636f6d) |
+| 3 | `14.102.10.132` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.132&port=85&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d) |
+| 11 | `195.200.18.147` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.200.18.147&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 13 | `edge.ghodrat.online` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=edge.ghodrat.online&port=2053&secret=ee0000f00f0f775555fffffff5006e2e69686f73742d696f2e636c6f7564) |
+| 14 | `barname-darsi.aivalai.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=barname-darsi.aivalai.info&port=443&secret=1603010200010001fc030386e24c3add) |
+| 15 | `89.110.119.77` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.119.77&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 16 | `5.223.41.212` | `888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.223.41.212&port=888&secret=79e462833349bd7ac519130220c25d10) |
+| 19 | `abrig.abarwitch.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=abrig.abarwitch.info&port=443&secret=1603010200010001fc030386e24c3add) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

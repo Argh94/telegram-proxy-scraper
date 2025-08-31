@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:10 09-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 09:58 09-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `144.76.161.129` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=144.76.161.129&port=443&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000) |
-| 6 | `65.21.108.27` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.21.108.27&port=443&secret=ee000000000000000000000000000000006d6170732e676f6f676c652e636f6d) |
-| 12 | `38.180.201.61` | `6189` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=38.180.201.61&port=6189&secret=ee3e6bbaf7a66307b21b1b10b34a3eec6c617a7572652e6d6963726f736f66742e636f6d) |
-| 14 | `brookswashere.space` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=brookswashere.space&port=443&secret=10dadd1e7c27a20098abb5bf53ca26a8) |
-| 16 | `enable-rquest-security-support.allow-reuest.co.uk` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=enable-rquest-security-support.allow-reuest.co.uk&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 19 | `s23.nestweb01.ir` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s23.nestweb01.ir&port=155&secret=eeb47be86bca216082199ce27d3be27eda7777772e636c6f) |
-| 20 | `icon.tomnail.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=icon.tomnail.info&port=443&secret=1603010200010001fc030386e24c3add) |
+| 6 | `jp2.tddb-baidu.com` | `18446` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=jp2.tddb-baidu.com&port=18446&secret=ee5ee846daaca229dbfe7d9142c4bb75a56974756e65732e6170706c652e636f6d) |
+| 9 | `104.238.180.203` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=104.238.180.203&port=80&secret=ee000000000000000000000000000000006170692e61736961746563682e636c6f7564) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:50 09-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:57 09-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `mbname.mymnb.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mbname.mymnb.ir&port=443&secret=ee7632fa901a1066d4f718c1d707c806206d626e616d652e6d796d6e622e6972) |
-| 7 | `8.220.148.253` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.220.148.253&port=443&secret=eec0ecf9a017b9ca38a83672bc65a91912617a7572652e6d6963726f736f66742e636f6d) |
-| 17 | `tiota.fanlpmw.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tiota.fanlpmw.info&port=443&secret=1603010200010001fc030386e24c3add) |
-| 18 | `biskotard.sheshko.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=biskotard.sheshko.info&port=443&secret=1603010200010001fc030386e24c3add) |
+| 9 | `152.42.133.79` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=152.42.133.79&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d) |
+| 11 | `mainmtproxy.filimo.news` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mainmtproxy.filimo.news&port=443&secret=ee2c9935dcec47525aeb6d559d4bdd5a597777772e7370656564746573742e6e6574) |
+| 14 | `212.34.128.50` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.128.50&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 15 | `89.110.113.224` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.113.224&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 18 | `op.tiko-k.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=op.tiko-k.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 20 | `chernobill.technote.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=chernobill.technote.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

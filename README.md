@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:17 10-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:24 10-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 10 | `185.21.15.141` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.15.141&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 12 | `45.92.218.204` | `8268` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.92.218.204&port=8268&secret=ee9cb8d24c888949d2bbe7855108e7071873332e616d617a) |
-| 14 | `178.17.58.44` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=178.17.58.44&port=8443&secret=ee2eaed6d2ff021fe85af5508d3af8b0c96974756e65732e6170706c652e636f6d) |
-| 17 | `sg2.td-baidu.com` | `18445` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sg2.td-baidu.com&port=18445&secret=ee9ba38131a7cb7d3d451fd94eacc50bcf6974756e65732e6170706c652e636f6d) |
+| 1 | `95.142.45.42` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=95.142.45.42&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 12 | `142.132.185.118` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.132.185.118&port=443&secret=ee008c3f6a9321de531462b058247cfd18676174657761792e696e7374616772616d2e636f6d) |
+| 13 | `37.27.18.198` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.18.198&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20562616c61642e6972) |
+| 14 | `ok.onthenameofgod.info` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ok.onthenameofgod.info&port=6443&secret=ee0110f00f0f776775fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 15 | `lia.talko-i.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lia.talko-i.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 16 | `AMD-epic.sheshko.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=AMD-epic.sheshko.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 20 | `mortal.api.docs.resources.library.music.radio.streaming.world-press.online-shop.speeker-voice.nestworld.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mortal.api.docs.resources.library.music.radio.streaming.world-press.online-shop.speeker-voice.nestworld.info&port=443&secret=ee0253fa14e7799fef12dbdc24f22462cc7777772e636c6f7564666c6172652e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

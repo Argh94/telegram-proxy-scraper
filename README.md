@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:24 10-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:04 10-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `95.142.45.42` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=95.142.45.42&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 12 | `142.132.185.118` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.132.185.118&port=443&secret=ee008c3f6a9321de531462b058247cfd18676174657761792e696e7374616772616d2e636f6d) |
-| 13 | `37.27.18.198` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.18.198&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20562616c61642e6972) |
-| 14 | `ok.onthenameofgod.info` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ok.onthenameofgod.info&port=6443&secret=ee0110f00f0f776775fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 15 | `lia.talko-i.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lia.talko-i.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 16 | `AMD-epic.sheshko.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=AMD-epic.sheshko.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 20 | `mortal.api.docs.resources.library.music.radio.streaming.world-press.online-shop.speeker-voice.nestworld.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mortal.api.docs.resources.library.music.radio.streaming.world-press.online-shop.speeker-voice.nestworld.info&port=443&secret=ee0253fa14e7799fef12dbdc24f22462cc7777772e636c6f7564666c6172652e636f6d) |
+| 8 | `ali.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ali.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 9 | `116.203.121.51` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.121.51&port=443&secret=1603010200010001fc030386e24c3add) |
+| 10 | `4.tiko-h.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=4.tiko-h.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 13 | `192.109.200.7` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=192.109.200.7&port=443&secret=d77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 14 | `87.248.132.38` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.38&port=85&secret=ee0000f00f0f775555fffffff5006e2e69646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
+| 20 | `165.22.58.33` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=165.22.58.33&port=443&secret=ee1ee54df601094428903410c6c068de9f7777772e6d6963726f736f66742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:49 11-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:57 11-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,15 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `SIGNAL.irpower-b.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=SIGNAL.irpower-b.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 3 | `46.249.110.242` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.249.110.242&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 4 | `65.21.108.27` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.21.108.27&port=443&secret=ee000000000000000000000000000000006d6170732e676f6f676c652e636f6d) |
-| 6 | `91.98.122.150` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.98.122.150&port=22&secret=ee2a48a819c7797d9f5844971dba485e2a773877397736773377397738773177327732773877377777777777777777777777313437372e6972) |
-| 8 | `phyzyk.nokande.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=phyzyk.nokande.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 9 | `ryzen-gold.shesh-station.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ryzen-gold.shesh-station.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 15 | `yakuza-wichin.mortal-home.www.voxa.com.kizashi.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=yakuza-wichin.mortal-home.www.voxa.com.kizashi.co.uk&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 16 | `158.247.234.65` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=158.247.234.65&port=9443&secret=2adab36179e7a39026adf74034615248) |
-| 17 | `185.106.93.163` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.106.93.163&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972) |
+| 7 | `14.102.10.133` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.133&port=85&secret=ee00ff000ff00fff5555fffffff5662e6b6f2d2d) |
+| 10 | `silvermantain.cinere.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=silvermantain.cinere.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 13 | `https.link-a1.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=https.link-a1.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

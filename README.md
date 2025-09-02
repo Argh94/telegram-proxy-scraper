@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:12 11-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:53 11-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `startup-active.custome-tobano.mashqeshab.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=startup-active.custome-tobano.mashqeshab.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642e636F6D6D656469612E737465616d706F77657265642E636F6D) |
-| 5 | `cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.mci.asmdns.ir.again_to_fight.everyone.i_am.the_internet.asmdns.ir` | `8770` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.mci.asmdns.ir.again_to_fight.everyone.i_am.the_internet.asmdns.ir&port=8770&secret=eece15837639f73335b4cbcc58771f4dbc7777772e636c6f7564666c6172652e636f6d) |
-| 6 | `89.110.113.224` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.113.224&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 13 | `89.251.10.3` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.3&port=443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 1 | `longliveforiran.link-a1.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=longliveforiran.link-a1.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 7 | `sorendive.aban-sanat.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sorendive.aban-sanat.ir&port=443&secret=1603010200010001fc030386e24c3add) |
+| 11 | `157.245.50.60` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=157.245.50.60&port=443&secret=eeecc234652fda427695e6b7c4a7da8a297777772e6d6963726f736f66742e636f6d) |
+| 12 | `170.64.171.194` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=170.64.171.194&port=443&secret=eed0d6e111bada5511fcce9584deadbeef74656c65776562696f6e2e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

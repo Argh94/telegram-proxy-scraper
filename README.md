@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:59 12-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:49 13-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `104.248.26.196` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=104.248.26.196&port=443&secret=eec80ff604fa45408f1d152624d3bffcf276616e2e6e616a76612e636f6d) |
-| 3 | `87.248.132.188` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.188&port=200&secret=ee0000f00f0f775555fffffff5006e2e69646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
-| 4 | `47.242.241.145` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.242.241.145&port=443&secret=ee172d5c3dbb67eb06e2591465c396d0d5617a7572652e6d6963726f736f66742e636f6d) |
-| 11 | `87.248.132.65` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.65&port=155&secret=ee0000f00f0f775555fffffff5006e2e69646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
-| 15 | `5.78.80.136` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.78.80.136&port=443&secret=ee00000000000000000000000000000000616e6e6173682e636f6d20) |
-| 17 | `pes2021-update2025.magalaiash.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pes2021-update2025.magalaiash.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 2 | `yop.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=yop.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 15 | `sg1.tudougood-baidu.com` | `18441` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sg1.tudougood-baidu.com&port=18441&secret=ee8fe324618913cffb62baca48592b52336974756e65732e6170706c652e636f6d) |
+| 18 | `2.tiko-i.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2.tiko-i.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

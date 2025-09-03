@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:49 12-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:52 12-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 9 | `212.34.148.244` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.148.244&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 10 | `198.16.107.93` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=198.16.107.93&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d) |
-| 14 | `62.60.178.216` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.178.216&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 18 | `jp.goodtudou-baidu.com` | `18442` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=jp.goodtudou-baidu.com&port=18442&secret=eebc0d0aff749a6a43c501255434e0f97e6974756e65732e6170706c652e636f6d) |
-| 20 | `89.251.10.22` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.22&port=443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 4 | `2.tiko-f.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2.tiko-f.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 6 | `89.251.10.5` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.5&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 7 | `hamrah-rightel-irancell-desktop-android-full.mci-sys.info` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hamrah-rightel-irancell-desktop-android-full.mci-sys.info&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 8 | `91.98.122.149` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.98.122.149&port=22&secret=EECAE5E5E0E4700000000EEEAAAAAAAAAA7738773777367735773477337732773177772E6972) |
+| 12 | `8.220.180.147` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.220.180.147&port=443&secret=eedcbb10e10f7cb76ab625d740b15ccbbf617a7572652e6d6963726f736f66742e636f6d) |
+| 18 | `89.251.10.2` | `7443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.2&port=7443&secret=ee151151151151151151151151151151156D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

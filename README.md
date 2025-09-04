@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:09 13-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:52 13-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `error.irpower-b.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=error.irpower-b.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 12 | `14.102.10.43` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.43&port=85&secret=ee0c30628212cbbd7ac519130205525d1569612e737465616d706f77657265642e636f6d) |
-| 15 | `46.62.197.161` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.62.197.161&port=8080&secret=eec65c62e997ba064e41987f6e052d52ad2d772e314141414141414141414141414141303030303030303030303030303030303030302e676f2d2d2d) |
-| 17 | `hight-opt.irpower-a.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hight-opt.irpower-a.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 18 | `77.232.42.46` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.232.42.46&port=443&secret=dd79e5e27e9076181bfdb2187692f8b994) |
-| 19 | `20.218.180.204` | `4443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=20.218.180.204&port=4443&secret=b3c1f2bf123b4e5e2fc03c0c4232e2c7) |
+| 2 | `57.129.95.177` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=57.129.95.177&port=443&secret=ee235259a42975595e29ded06bd1371d497777772e7363616c657161792e636f6d) |
+| 4 | `89.251.10.6` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.6&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 6 | `140.233.187.49` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=140.233.187.49&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 8 | `103.35.189.118` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=103.35.189.118&port=8888&secret=eed0d6e111bada5511fcce9584deadbeef6170706c652e636f6d) |
+| 11 | `sayonara.aban-sanat.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sayonara.aban-sanat.ir&port=443&secret=1603010200010001fc030386e24c3add) |
+| 12 | `47.237.4.209` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.237.4.209&port=443&secret=ee2d36ce5dc23db0006005c2ad8a5b7837617a7572652e6d6963726f736f66742e636f6d) |
+| 14 | `mtproto.vaheed.net` | `2028` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtproto.vaheed.net&port=2028&secret=dd2028b5afa0e6d701acec3cd9bb8a902b) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

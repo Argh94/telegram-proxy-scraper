@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:59 13-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:50 14-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `212.34.145.186` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.145.186&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 4 | `8443.iropt-g.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8443.iropt-g.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 5 | `37.27.248.245` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.248.245&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 12 | `8.220.180.147` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.220.180.147&port=443&secret=eedcbb10e10f7cb76ab625d740b15ccbbf617a7572652e6d6963726f736f66742e636f6d) |
-| 17 | `140.99.243.139` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=140.99.243.139&port=8443&secret=ee2adab36179e7a39026adf74034615248636c6f7564666c6172652e636f6d) |
-| 18 | `45.121.215.58` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.121.215.58&port=443&secret=ddc3db81b9c0d246bd646ff0402aba7b7d) |
-| 20 | `212.34.128.50` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.128.50&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 4 | `silvermantain.cinere.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=silvermantain.cinere.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 8 | `institute.sateh.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=institute.sateh.info&port=443&secret=1603010200010001fc030386e24c3add) |
+| 17 | `mtproto.telewebion.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtproto.telewebion.com&port=443&secret=ee000000000000000000000000000000006b6579) |
+| 20 | `116.203.235.40` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.235.40&port=443&secret=1603010200010001fc030386e24c3add) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

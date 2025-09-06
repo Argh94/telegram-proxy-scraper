@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 09:57 15-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:49 15-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `8.212.135.63` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.212.135.63&port=443&secret=eec5383d373c80e26d34dbd8d62b2a4995617a7572652e6d6963726f736f66742e636f6d) |
-| 3 | `140.233.187.37` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=140.233.187.37&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 6 | `8443.link-a4.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8443.link-a4.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 12 | `212.111.80.159` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.111.80.159&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 13 | `104.238.180.203` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=104.238.180.203&port=80&secret=ee000000000000000000000000000000006170692e61736961746563682e636c6f7564) |
-| 17 | `45.143.166.72` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.143.166.72&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 20 | `185.221.219.42` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.221.219.42&port=443&secret=ee1603010200010001fc030386e24c3add64726f70626f782e636f6d) |
+| 1 | `65.108.84.7` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.108.84.7&port=443&secret=ee0000000000000000000000000000000064656570696e73616e652e636f6d) |
+| 2 | `feature-existing-default.buy-request.co.uk` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=feature-existing-default.buy-request.co.uk&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 4 | `140.233.187.37` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=140.233.187.37&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 5 | `8.220.139.46` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.220.139.46&port=443&secret=ee288b87ffc19bf9388c947843c84a69d2617a7572652e6d6963726f736f66742e636f6d) |
+| 8 | `syczleck.itemag.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=syczleck.itemag.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 9 | `s2.czkyc.icu` | `1312` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s2.czkyc.icu&port=1312&secret=469fe09b277900a8ae91dcefa736056b) |
+| 11 | `185.21.15.141` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.15.141&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

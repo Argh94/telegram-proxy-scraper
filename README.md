@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:49 15-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:51 15-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `65.109.129.53` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.129.53&port=443&secret=eee8f660f2c82cbe12a82adfb9805e30b773332e616d617a6f6e6177732e6301020001000100000000000000000000000000000000) |
-| 4 | `longliveforiran.link-a1.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=longliveforiran.link-a1.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 5 | `185.10.72.52` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.10.72.52&port=443&secret=ee0000f00f0f775555fffffff5006e2e69686f73742d696f2e636c6f7564) |
-| 6 | `arvan.irpower-g.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=arvan.irpower-g.ir&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
-| 12 | `89.110.111.195` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.111.195&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 1 | `176.65.128.190` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=176.65.128.190&port=85&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 5 | `edge.ghodrat.online` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=edge.ghodrat.online&port=2053&secret=ee0000f00f0f775555fffffff5006e2e69686f73742d696f2e636c6f7564) |
+| 6 | `89.110.111.195` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.111.195&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 8 | `syczleck.itemag.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=syczleck.itemag.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 10 | `142.54.189.107` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.54.189.107&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d63656e746f732e6f7267) |
+| 19 | `167.235.232.149` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.235.232.149&port=443&secret=eeda6aa7c2ac619c060f355f3f173257377365676d656e742e70726f642e626964722e696f) |
+| 20 | `87.248.132.96` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.96&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

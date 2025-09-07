@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:59 16-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:06 16-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `89.251.10.3` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.3&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
-| 2 | `212.34.150.64` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.150.64&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 4 | `152.42.133.79` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=152.42.133.79&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d) |
-| 8 | `167.235.232.149` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.235.232.149&port=443&secret=eeda6aa7c2ac619c060f355f3f173257377365676d656e742e70726f642e626964722e696f) |
-| 12 | `a.10.mtproto.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=a.10.mtproto.ru&port=443&secret=ee211122223333444455556666777788887765622e736e6170636861742e636f6d) |
-| 18 | `siteimproves.space` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=siteimproves.space&port=1080&secret=79e344818749bd7ac519130220c25d09) |
+| 11 | `4443.irpower-b.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=4443.irpower-b.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 16 | `download-up.soren-mashin.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=download-up.soren-mashin.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

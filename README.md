@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:48 16-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:55 16-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `37.27.18.76` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.18.76&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20563646e2e79656b74616e65742e636f6d) |
-| 4 | `siteimproves.space` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=siteimproves.space&port=1080&secret=79e344818749bd7ac519130220c25d09) |
-| 6 | `23.88.46.216` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=23.88.46.216&port=443&secret=dd00000000000000000000000000000000) |
-| 11 | `91.238.92.35` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.238.92.35&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 17 | `89.251.10.53` | `666` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.53&port=666&secret=dde9a4f23b1d768c04a8d7f39120ca5b6eBbbbbbbbbbbbbbbbbbbbbAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) |
-| 18 | `sebro.sheshko.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sebro.sheshko.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 20 | `204.12.192.222` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=204.12.192.222&port=443&secret=ee1603010200010001fc030386e24c3add6862616e696d2e696e666f) |
+| 5 | `ryzen-gold.shesh-station.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ryzen-gold.shesh-station.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 6 | `47.242.135.18` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.242.135.18&port=443&secret=ee34f6e9d8e696ff6d9a42986c3996f747616c69636c6f75642e636f6d) |
+| 8 | `46.249.110.245` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.249.110.245&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 11 | `46.249.110.240` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.249.110.240&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 12 | `65.21.239.223` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.21.239.223&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

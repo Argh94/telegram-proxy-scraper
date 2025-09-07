@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:49 16-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:06 16-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `htop.link-a4.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=htop.link-a4.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 6 | `46-62-175-155.xip.lhjmmc.cn` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46-62-175-155.xip.lhjmmc.cn&port=80&secret=dd00000000000000000000000000000000) |
-| 8 | `Didi.arezoham-bebad-raft.ir` | `13` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Didi.arezoham-bebad-raft.ir&port=13&secret=dd79e75d6e1885446199b1e2e7b6749bf1) |
-| 15 | `198.16.107.93` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=198.16.107.93&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d) |
-| 16 | `sorendive.aban-sanat.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sorendive.aban-sanat.ir&port=443&secret=1603010200010001fc030386e24c3add) |
+| 1 | `47.238.135.92` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.238.135.92&port=443&secret=eec891d615a6e44624d1a93424ee22e782617a7572652e6d6963726f736f66742e636f6d) |
+| 2 | `link.irpower-e.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=link.irpower-e.ir&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 4 | `46.249.110.51` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.249.110.51&port=443&secret=ee151151151151151151151151151151156D656469612E737465616D706F77657265642E636F6D) |
+| 6 | `ru.vpn-club-service.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ru.vpn-club-service.ru&port=443&secret=8a5e461dcf06376798d7fe6a78948875) |
+| 9 | `89.251.10.23` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.23&port=443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 15 | `11-22-8.edshop.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=11-22-8.edshop.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 18 | `piky.probook-caffe.ir` | `4121` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=piky.probook-caffe.ir&port=4121&secret=dd55cd7c08fe98925194eda3a12fb31fa1) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

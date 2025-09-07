@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 09:57 16-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:49 16-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,6 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
+| 1 | `htop.link-a4.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=htop.link-a4.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 6 | `46-62-175-155.xip.lhjmmc.cn` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46-62-175-155.xip.lhjmmc.cn&port=80&secret=dd00000000000000000000000000000000) |
+| 8 | `Didi.arezoham-bebad-raft.ir` | `13` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Didi.arezoham-bebad-raft.ir&port=13&secret=dd79e75d6e1885446199b1e2e7b6749bf1) |
+| 15 | `198.16.107.93` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=198.16.107.93&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d) |
+| 16 | `sorendive.aban-sanat.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sorendive.aban-sanat.ir&port=443&secret=1603010200010001fc030386e24c3add) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

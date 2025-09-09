@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:55 18-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:07 18-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,7 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `14.102.10.118` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.118&port=85&secret=ee00ff000ff00fff5555fffffff5662e6b6f2d2d) |
-| 8 | `8.220.148.253` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.220.148.253&port=443&secret=eec0ecf9a017b9ca38a83672bc65a91912617a7572652e6d6963726f736f66742e636f6d) |
-| 10 | `185.121.233.42` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.121.233.42&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 16 | `halftime.parsintalk.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=halftime.parsintalk.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 11 | `proxy.filimo.news` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.filimo.news&port=443&secret=dd2c9935dcec47525aeb6d559d4bdd5a59) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

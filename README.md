@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:52 19-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:10 19-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 5 | `halftime.parsintalk.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=halftime.parsintalk.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 6 | `siteimprove2.space` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=siteimprove2.space&port=1080&secret=79e344818749bd7ac519130220c25d09) |
-| 11 | `phyzyk.nokande.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=phyzyk.nokande.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 13 | `HAMRAH-AVAL.new-visioncity.ir.` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=HAMRAH-AVAL.new-visioncity.ir.&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 3 | `pr1.fast-film.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pr1.fast-film.ir&port=443&secret=eeba86b3c58da3e2d80ea7ff89b00704a773332e616d617a6f6e6177732e636f6d) |
+| 6 | `91.220.113.78` | `65531` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.220.113.78&port=65531&secret=dda4669a2bc220c8898111725adf3833e2) |
+| 9 | `143.198.205.203` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=143.198.205.203&port=443&secret=ee3f3a60978bb7c4ff5ad15e3d23a5a3e9626c6f672e636c6f7564666c6172652e636f6d) |
+| 10 | `37.27.10.227` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.10.227&port=443&secret=ee0000000000000000000000000000000076616e2e6e616a76612e636f6d) |
+| 18 | `14.102.10.132` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.132&port=85&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

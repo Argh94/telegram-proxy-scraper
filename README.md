@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:05 20-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:01 20-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `146.19.143.62` | `20` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=146.19.143.62&port=20&secret=3e36e0082f4284ab3e6159c56883f9f9) |
-| 5 | `77.238.228.144` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.238.228.144&port=443&secret=ee104462821249bd7ac519130220c25d0964697661722e6972ee104462821249bd7ac519130220c25d0964697661722e6972ee104462821249bd7ac519130220c25d0964697661722e6972) |
-| 12 | `5.78.80.136` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.78.80.136&port=443&secret=ee00000000000000000000000000000000616e6e6173682e636f6d20) |
-| 15 | `62.113.116.140` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.113.116.140&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 17 | `piky.probook-caffe.ir` | `4121` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=piky.probook-caffe.ir&port=4121&secret=dd55cd7c08fe98925194eda3a12fb31fa1) |
-| 19 | `89.110.119.77` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.119.77&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 2 | `vasl.rubika-iir.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vasl.rubika-iir.co.uk&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d6d6972726f722d6b65726e656c2e6f7267) |
+| 7 | `89.34.230.23` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.34.230.23&port=443&secret=ee71fe479cbecef04a10072a5c551ccee0666173746573742e6d796d6e622e6972) |
+| 11 | `157.180.77.54` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=157.180.77.54&port=443&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 12 | `api.ghodrat.online` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=api.ghodrat.online&port=443&secret=ee0000f00f0f775555fffffff5006e2e69686f73742d696f2e636c6f7564) |
+| 13 | `136.243.198.58` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=136.243.198.58&port=443&secret=eef5b6f2f1dadea4f48747f3b4b1ccd7ee7777772e636c6f7564666c6172652e636f6d) |
+| 16 | `response.cinere.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=response.cinere.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 20 | `46.249.110.51` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.249.110.51&port=443&secret=ee151151151151151151151151151151156D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

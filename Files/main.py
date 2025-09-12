@@ -317,7 +317,6 @@ def update_readme(proxy_list):
 
 if __name__ == "__main__":
     text_urls = [
-        "https://raw.githubusercontent.com/MahsaNetConfigTopic/proxy/main/proxies.txt",
         "https://raw.githubusercontent.com/MhdiTaheri/ProxyCollector/main/proxy.txt",
         "https://raw.githubusercontent.com/SoliSpirit/mtproto/master/all_proxies.txt",
         "https://raw.githubusercontent.com/hookzof/socks5_list/master/tg/mtproto.json"  # منبع جدید JSON

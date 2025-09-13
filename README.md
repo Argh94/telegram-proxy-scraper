@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:47 22-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:04 22-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,14 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 5 | `77.238.230.158` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.238.230.158&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 9 | `89.110.73.23` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.73.23&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 14 | `taher.cpiu.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=taher.cpiu.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972) |
-| 18 | `204.12.192.222` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=204.12.192.222&port=443&secret=ee1603010200010001fc030386e24c3add6862616e696d2e696e666f) |
-| 20 | `shop.exirgameofficialsite.sbs` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=shop.exirgameofficialsite.sbs&port=443&secret=a2102253cacf1154e7b1fdfdaa44fcb1) |
+| 2 | `38.180.201.61` | `6189` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=38.180.201.61&port=6189&secret=ee3e6bbaf7a66307b21b1b10b34a3eec6c617a7572652e6d6963726f736f66742e636f6d) |
+| 6 | `43.155.74.97` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.155.74.97&port=443&secret=ee60832b3cd80f894e56850f294fb6b2b2617a7572652e6d6963726f736f66742e636f6d) |
+| 7 | `185.21.15.141` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.15.141&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 14 | `91.224.74.142` | `20` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.224.74.142&port=20&secret=EE2F1CFD980549C438F007E303541540B32D2D2D7765622E77686174736170702E636F6D2D2D2D) |
+| 15 | `5.35.70.114` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.70.114&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 16 | `95.142.45.42` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=95.142.45.42&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 17 | `load.link-a4.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=load.link-a4.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 18 | `ipv-4-ipv-6.firewall.rules.nat.winbox.webfig.new-interfaces.rejectall-udp-connections.mikrotik-webfig.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ipv-4-ipv-6.firewall.rules.nat.winbox.webfig.new-interfaces.rejectall-udp-connections.mikrotik-webfig.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

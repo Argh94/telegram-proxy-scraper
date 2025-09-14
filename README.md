@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:47 23-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:04 23-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `152.42.133.79` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=152.42.133.79&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d) |
-| 9 | `168-119-244-110.xip.lhjmmc.cn` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=168-119-244-110.xip.lhjmmc.cn&port=443&secret=ee00000000000000000000000000000000646967696b616c612e636f6d) |
-| 14 | `193.93.153.119` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=193.93.153.119&port=443&secret=ee6ea63f16082c83dae8859595949897046d63692e6972) |
-| 18 | `54.37.131.98` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=54.37.131.98&port=443&secret=eeeea780780780780780780780780780782d2d2d2d2d2d6c697374732e63656e746f732e6f72672d2d2d2d2d2d) |
+| 1 | `8.220.179.12` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.220.179.12&port=443&secret=eef3921d6d7551ff4601c25ab7b3167f5c617a7572652e6d6963726f736f66742e636f6d) |
+| 2 | `dagdagdag.mooo.com` | `4444` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dagdagdag.mooo.com&port=4444&secret=dd94fc2b484af6e1e1c87e6576b33c2575) |
+| 5 | `7443.iropt-f.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=7443.iropt-f.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 11 | `arvan.irpower-g.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=arvan.irpower-g.ir&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 14 | `llp.tiko-d.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=llp.tiko-d.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 20 | `85.133.214.250` | `8930` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.133.214.250&port=8930&secret=ee91497bf49c81243ab60717929edb0009616a61782e3137313633342e31302e646e732e31332e31323334343332312e7370656564746573742e6e6574) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:47 25-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:50 25-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,14 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 14 | `89.110.117.109` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.117.109&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 15 | `77.105.143.123` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.105.143.123&port=443&secret=ee1603010200010001fc030386e24c3add733130312e646976617263646e2e636f6d160301020001000100000000000000000000000000000000) |
+| 1 | `14.102.10.110` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.110&port=85&secret=ee00ff000ff00fff5555fffffff5662e6b6f2d2d) |
+| 4 | `response.cinere.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=response.cinere.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 8 | `62.60.179.129` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.179.129&port=8080&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 11 | `47.250.119.71` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.250.119.71&port=443&secret=eeee1e431912f2e7703898998fa67c9940617a7572652e6d6963726f736f66742e636f6d) |
+| 12 | `195.200.18.147` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.200.18.147&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 13 | `87.248.132.96` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.96&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 15 | `cok.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cok.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 19 | `89.251.10.54` | `666` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.54&port=666&secret=dde9a4f23b1d768c04a8d7f39120ca5b6eBbbbbbbbbbbbbbbbbbbbbAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

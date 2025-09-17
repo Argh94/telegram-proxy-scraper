@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:47 26-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:51 26-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `62.60.176.32` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.176.32&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 6 | `instagram.gold.huawei.samsung.xqrukr.bing.amiwjuquot.eta.wordpress-mail.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=instagram.gold.huawei.samsung.xqrukr.bing.amiwjuquot.eta.wordpress-mail.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
-| 8 | `108.181.71.115` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=108.181.71.115&port=443&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
-| 10 | `158.247.217.211` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=158.247.217.211&port=9443&secret=2adab36179e7a39026adf74034615248) |
-| 11 | `14.102.10.133` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.133&port=85&secret=ee00ff000ff00fff5555fffffff5662e6b6f2d2d) |
-| 12 | `dev.bmcdr.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dev.bmcdr.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 7 | `syczleck.itemag.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=syczleck.itemag.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 11 | `optimal.irpower-f.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=optimal.irpower-f.ir&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 12 | `teleuz-proxy.duckdns.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=teleuz-proxy.duckdns.org&port=443&secret=81bd2d223bc620bf1bca37f5f4ca62d0) |
+| 14 | `iphone-windows.bozorgavar-game.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iphone-windows.bozorgavar-game.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

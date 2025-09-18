@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:51 27-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:08 27-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 7 | `143.198.205.203` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=143.198.205.203&port=443&secret=ee3f3a60978bb7c4ff5ad15e3d23a5a3e9626c6f672e636c6f7564666c6172652e636f6d) |
-| 9 | `outgoing-connection.port-ssh.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=outgoing-connection.port-ssh.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
-| 11 | `heavisuy.sheshko.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=heavisuy.sheshko.info&port=443&secret=1603010200010001fc030386e24c3add) |
-| 13 | `asiateck.shahrnetfarangsarashatelcenter.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=asiateck.shahrnetfarangsarashatelcenter.co.uk&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 17 | `giahi-vegeterian.khunebagh.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=giahi-vegeterian.khunebagh.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 19 | `8-elite.ultrasam.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8-elite.ultrasam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 2 | `89.251.10.35` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.35&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 3 | `45.92.219.51` | `8268` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.92.219.51&port=8268&secret=ee6efe086aec609ba8db0eb053045d320673332e616d617a6f6e6177732e636f6d) |
+| 10 | `62.60.179.129` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.179.129&port=8080&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 12 | `195.128.248.217` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.128.248.217&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000) |
+| 16 | `142.54.189.108` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.54.189.108&port=443&secret=ee1603010200010001fc030386e24c3add646f636b65722d6d6972726f722e6f7267) |
+| 19 | `2.tiko-i.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2.tiko-i.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

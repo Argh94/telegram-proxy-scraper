@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:50 27-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:01 27-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 6 | `65.21.108.27` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.21.108.27&port=443&secret=ee000000000000000000000000000000006d6170732e676f6f676c652e636f6d) |
-| 8 | `89.251.10.33` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.33&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
-| 11 | `sepas.bmcdr.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sepas.bmcdr.info&port=443&secret=1603010200010001fc030386e24c3add) |
-| 13 | `62.60.176.141` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.176.141&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 15 | `65.109.129.53` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.129.53&port=443&secret=eee8f660f2c82cbe12a82adfb9805e30b773332e616d617a6f6e6177732e6301020001000100000000000000000000000000000000) |
-| 20 | `llp.tiko-d.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=llp.tiko-d.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 1 | `85.133.214.250` | `8930` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.133.214.250&port=8930&secret=ee91497bf49c81243ab60717929edb0009616a61782e3137313633342e31302e646e732e31332e31323334343332312e7370656564746573742e6e6574) |
+| 5 | `yahoo.phosphorus.emryuvw.medium.radon.wikipedia.jaewxtawp.wordpress-mail.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=yahoo.phosphorus.emryuvw.medium.radon.wikipedia.jaewxtawp.wordpress-mail.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 15 | `interfaces-eth1-eth0-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.allow-icmp.popular-firewalls.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=interfaces-eth1-eth0-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.allow-icmp.popular-firewalls.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 19 | `62.60.179.221` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.179.221&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

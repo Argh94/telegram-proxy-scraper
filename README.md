@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:03 28-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 09:58 28-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `89.251.10.6` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.6&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
-| 6 | `45.130.147.98` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.130.147.98&port=443&secret=eed2db08ac89954ac19413ad751aec7c4f7777772e6d6963726f736f66742e636f6d) |
-| 7 | `5.tiko-h.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.tiko-h.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 9 | `165.227.238.147` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=165.227.238.147&port=443&secret=ee4b1db6609ec9e2dfc26b2927b547224d73332e616d617a6f6e6177732e636f6d) |
-| 12 | `morgh.2p2p.ir` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=morgh.2p2p.ir&port=8080&secret=ee66881e6e1e6d1ff6666666616d66aeae686f73746972616e2e636c6f7564) |
-| 14 | `62.60.233.231.maksport.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.233.231.maksport.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 20 | `65.109.129.53` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.129.53&port=443&secret=eee8f660f2c82cbe12a82adfb9805e30b773332e616d617a6f6e6177732e6301020001000100000000000000000000000000000000) |
+| 4 | `139.180.158.124` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=139.180.158.124&port=9443&secret=2adab36179e7a39026adf74034615248) |
+| 5 | `150.230.5.6` | `1443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=150.230.5.6&port=1443&secret=ee548593a9c0688f4f7d9d57377897d96473332e616d617a6f6e6177732e636f6d) |
+| 9 | `64.188.93.139` | `4040` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=64.188.93.139&port=4040&secret=876ae7e71ccc43f35fbbbcd8144f2557) |
+| 12 | `irancell-hamrah.soren-mashin.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=irancell-hamrah.soren-mashin.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 13 | `vip.tiko-d.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vip.tiko-d.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 17 | `5.255.97.150` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.255.97.150&port=443&secret=15115115115115115115115115115115) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

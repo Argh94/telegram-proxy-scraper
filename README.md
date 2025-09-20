@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:47 29-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:49 29-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `167.235.28.76` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.235.28.76&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 7 | `koc.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=koc.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 11 | `ali.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ali.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 13 | `188.92.28.192` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=188.92.28.192&port=8443&secret=ee89c113a951ffbbe37a9aeb56b178435662696e672e636f6d) |
-| 16 | `mtproto.telewebion.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtproto.telewebion.com&port=443&secret=ee000000000000000000000000000000006b6579) |
+| 4 | `tag-ten.textile-shoping.ir` | `5300` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tag-ten.textile-shoping.ir&port=5300&secret=dd6b65c9c09c530067983884024b716918) |
+| 5 | `167.88.61.163` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.88.61.163&port=443&secret=ee1603010200010001fc030386e24c3add64697661722e6972) |
+| 12 | `89.34.219.2` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.34.219.2&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d) |
+| 15 | `89.251.10.26` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.26&port=443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 17 | `14.102.10.133` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.133&port=85&secret=ee00ff000ff00fff5555fffffff5662e6b6f2d2d) |
+| 18 | `64.188.92.222` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=64.188.92.222&port=443&secret=dd672af755f6bc494eecb0dd6810310fe7) |
+| 20 | `65.109.129.53` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.129.53&port=443&secret=eee8f660f2c82cbe12a82adfb9805e30b773332e616d617a6f6e6177732e6301020001000100000000000000000000000000000000) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:10 31-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:01 31-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 6 | `sepas.bmcdr.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sepas.bmcdr.info&port=443&secret=1603010200010001fc030386e24c3add) |
-| 7 | `7443.tiko-k.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=7443.tiko-k.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 14 | `444.atousa4sam.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=444.atousa4sam.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 17 | `45.92.218.58` | `8268` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.92.218.58&port=8268&secret=ee6efe086aec609ba8db0eb053045d32066769746875622e636f6d) |
+| 2 | `systemfull.gjesus.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=systemfull.gjesus.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 3 | `sorendive.aban-sanat.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sorendive.aban-sanat.ir&port=443&secret=1603010200010001fc030386e24c3add) |
+| 5 | `fast.siteprimernew.online` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=fast.siteprimernew.online&port=1080&secret=dd79e344818749bd7ac519130220c25d09) |
+| 9 | `backend.chandplus.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=backend.chandplus.com&port=443&secret=ee796766928008632f04a82ff64abdabee6261636b656e642e6368616e64706c75732e636f6d) |
+| 14 | `49.12.77.19` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=49.12.77.19&port=443&secret=ee83e29319c1b8a7c8abb38061eae6f353676174657761792e696e7374616772616d2e636f6d) |
+| 17 | `ila.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ila.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

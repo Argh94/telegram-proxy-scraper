@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:56 31-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:47 01-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 13 | `89.251.10.32` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.32&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
-| 14 | `mci-ir.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mci-ir.info&port=443&secret=10dadd1e7c27a20098abb5bf53ca26a8) |
-| 16 | `proxy.whypn.com` | `1111` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.whypn.com&port=1111&secret=11111111111111111111111111111111) |
-| 17 | `89.110.90.23` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.90.23&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 20 | `pr1.fast-film.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pr1.fast-film.ir&port=443&secret=eeba86b3c58da3e2d80ea7ff89b00704a773332e616d617a6f6e6177732e636f6d) |
+| 6 | `89.110.119.77` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.119.77&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 9 | `5.223.41.212` | `888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.223.41.212&port=888&secret=79e462833349bd7ac519130220c25d10) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

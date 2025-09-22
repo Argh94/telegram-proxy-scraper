@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:46 31-06-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:58 31-06-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `android-iphone-win.sinus-dc.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=android-iphone-win.sinus-dc.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 3 | `85.198.108.252` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.198.108.252&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 9 | `lipzinc.ultrasam.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lipzinc.ultrasam.info&port=443&secret=1603010200010001fc030386e24c3add) |
-| 18 | `up.talk-c.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=up.talk-c.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 5 | `siteimproves.space` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=siteimproves.space&port=1080&secret=79e344818749bd7ac519130220c25d09) |
+| 6 | `lord.mygrade.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lord.mygrade.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 7 | `31.57.224.211` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=31.57.224.211&port=8443&secret=ee2adab36179e7a39026adf74034615248636c6f7564666c6172652e636f6d) |
+| 11 | `198.16.107.93` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=198.16.107.93&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d) |
+| 12 | `65.108.84.7` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.108.84.7&port=443&secret=ee0000000000000000000000000000000064656570696e73616e652e636f6d) |
+| 14 | `sadra.mygrade.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sadra.mygrade.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 19 | `up.talk-c.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=up.talk-c.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

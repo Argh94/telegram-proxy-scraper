@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:52 02-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:02 02-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `46-62-175-155.xip.lhjmmc.cn` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46-62-175-155.xip.lhjmmc.cn&port=80&secret=dd00000000000000000000000000000000) |
-| 9 | `116.203.137.250` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.137.250&port=443&secret=ee1603010200010001fc030386e24c3add70706c652e636f6d6d792e736861706172616b2e69722d646c2e676f6f676c652e636f6d2d666172616b61762e636f6d190902050004000400000000000000000000000000000000) |
-| 13 | `50.7.87.85` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=50.7.87.85&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d63656e746f732e6f7267) |
-| 16 | `77.239.123.190` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.239.123.190&port=443&secret=ee57597f569da62c26253a33e8883a47d97777772e636c6f7564666c6172652e636f6d) |
-| 18 | `198.16.107.91` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=198.16.107.91&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d) |
-| 19 | `poy.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=poy.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 20 | `91.99.194.148` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.194.148&port=443&secret=ee151151151151151151151151151151156D656469612E737465616D706F77657265642E636F6D) |
+| 2 | `204.12.192.218` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=204.12.192.218&port=443&secret=ee1603010200010001fc030386e24c3add646f636b65722d6d6972726f722e6f7267) |
+| 5 | `64.188.93.119` | `2087` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=64.188.93.119&port=2087&secret=dde7ff940685ad27f71d0ebb98d793cea3) |
+| 6 | `2.tiko-h.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2.tiko-h.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 11 | `sogand.ir.joojeordak.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sogand.ir.joojeordak.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 13 | `instagram.gold.huawei.samsung.xqrukr.bing.amiwjuquot.eta.wordpress-mail.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=instagram.gold.huawei.samsung.xqrukr.bing.amiwjuquot.eta.wordpress-mail.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 18 | `91.99.228.230` | `59065` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.228.230&port=59065&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 19 | `feature-existing-default.buy-request.co.uk` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=feature-existing-default.buy-request.co.uk&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

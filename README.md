@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:47 03-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:53 03-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `77.232.40.118` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.232.40.118&port=443&secret=ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d696e2e61707063656e7465722e6d732d2d2d2d2d2d) |
-| 3 | `185.21.14.9` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.14.9&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 12 | `91.99.201.44` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.201.44&port=443&secret=eec862057ba49a7ecdf0ad4eb44cd5bb11646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
-| 13 | `net-meli.bozorgavar-game.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=net-meli.bozorgavar-game.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 20 | `37.27.18.198` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.18.198&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20562616c61642e6972) |
+| 7 | `63.141.252.204` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=63.141.252.204&port=443&secret=eee7ce9f4679bfc87bb93390ed56e2c9686170742d6d6972726f722e6f7267) |
+| 12 | `195.62.32.119` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.62.32.119&port=85&secret=ee52c867dc75983faf4bb37f91d5164f092d) |
+| 15 | `icon.tomnail.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=icon.tomnail.info&port=443&secret=1603010200010001fc030386e24c3add) |
+| 17 | `9443.iropt-f.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=9443.iropt-f.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 19 | `taher.cpiu.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=taher.cpiu.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

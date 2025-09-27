@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:47 05-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:04 05-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 11 | `enable-rquest-security-support.allow-reuest.co.uk` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=enable-rquest-security-support.allow-reuest.co.uk&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 15 | `167.235.232.149` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.235.232.149&port=443&secret=eeda6aa7c2ac619c060f355f3f173257377365676d656e742e70726f642e626964722e696f) |
-| 17 | `89.110.84.151` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.84.151&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 19 | `185.132.125.26` | `25643` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.132.125.26&port=25643&secret=ee31d1023505739854415b259b0e53e1d5617a7572652e6d6963726f736f66742e636f6d) |
+| 3 | `loi.tiko-k.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=loi.tiko-k.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 7 | `198.16.107.91` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=198.16.107.91&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d) |
+| 12 | `89.251.10.32` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.32&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 13 | `tg.mtproxier.online` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tg.mtproxier.online&port=443&secret=ee6d6565742e676f6f676c652e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

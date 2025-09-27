@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 06:58 05-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 09:55 05-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `185.222.163.6` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.222.163.6&port=443&secret=ee0000f00f0f775555fffffff5006e2e69686f73742d696f2e636c6f7564) |
-| 4 | `95.142.45.42` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=95.142.45.42&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 12 | `piky.probook-caffe.ir` | `4121` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=piky.probook-caffe.ir&port=4121&secret=dd55cd7c08fe98925194eda3a12fb31fa1) |
-| 14 | `syczleck.itemag.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=syczleck.itemag.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 15 | `dl.upstorage.net` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dl.upstorage.net&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 17 | `5.196.223.250` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.196.223.250&port=443&secret=eebf65532190e05464c9bbc799a0cf49d970726f78792e6c696172612e6972) |
-| 19 | `85.198.108.252` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.198.108.252&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 20 | `51.159.166.112` | `7603` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=51.159.166.112&port=7603&secret=ee0ad565389bb264b33c81f11bd42c104b7777772e736974652e636f6d) |
+| 1 | `89.251.10.61` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.61&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 10 | `wait.fiziotr.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=wait.fiziotr.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 15 | `us1.tdvip-baidu.com` | `18450` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=us1.tdvip-baidu.com&port=18450&secret=eeb2367b43b44a4b9917bb93c45e3b6af96974756e65732e6170706c652e636f6d) |
+| 17 | `yakuza-wichin.mortal-home.www.voxa.com.kizashi.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=yakuza-wichin.mortal-home.www.voxa.com.kizashi.co.uk&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 19 | `89.251.10.52` | `666` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.52&port=666&secret=dde9a4f23b1d768c04a8d7f39120ca5b6eBbbbbbbbbbbbbbbbbbbbbAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

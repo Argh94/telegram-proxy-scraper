@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:09 06-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 09:57 06-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `91.220.113.78` | `65531` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.220.113.78&port=65531&secret=dda4669a2bc220c8898111725adf3833e2) |
-| 5 | `165.22.58.33` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=165.22.58.33&port=443&secret=ee1ee54df601094428903410c6c068de9f7777772e6d6963726f736f66742e636f6d) |
-| 10 | `ipv-6-ipv-4.firewall.rules.nat.winbox.webfig.new-interfaces.acceptall-udp-connections.mikrotik-webfig.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ipv-6-ipv-4.firewall.rules.nat.winbox.webfig.new-interfaces.acceptall-udp-connections.mikrotik-webfig.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
-| 11 | `5.35.46.105` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.46.105&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 12 | `89.34.230.23` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.34.230.23&port=443&secret=ee71fe479cbecef04a10072a5c551ccee0666173746573742e6d796d6e622e6972) |
-| 16 | `dagdagdag.mooo.com` | `4444` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dagdagdag.mooo.com&port=4444&secret=dd94fc2b484af6e1e1c87e6576b33c2575) |
-| 17 | `23.88.46.216` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=23.88.46.216&port=443&secret=dd00000000000000000000000000000000) |
-| 20 | `rioo.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=rioo.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 3 | `89.251.10.44` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.44&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 9 | `87.248.132.188` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.188&port=200&secret=ee0000f00f0f775555fffffff5006e2e69646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 19 | `biskotard.sheshko.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=biskotard.sheshko.info&port=443&secret=1603010200010001fc030386e24c3add) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:00 07-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:53 07-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `89.110.90.23` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.90.23&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 3 | `212.34.130.72` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.130.72&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 9 | `134.122.55.2` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=134.122.55.2&port=443&secret=ee79e344818749bd7ac519130220c25d09636865636b2d686f73742e6e6574) |
-| 14 | `siteimproves.space` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=siteimproves.space&port=1080&secret=79e344818749bd7ac519130220c25d09) |
-| 16 | `ipv-4-ipv-6.firewall.rules.nat.winbox.webfig.new-interfaces.rejectall-udp-connections.mikrotik-webfig.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ipv-4-ipv-6.firewall.rules.nat.winbox.webfig.new-interfaces.rejectall-udp-connections.mikrotik-webfig.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
-| 17 | `65.109.199.108` | `7777` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.199.108&port=7777&secret=dd388e4ad547f665afc61ce98af70b5be1) |
-| 20 | `iproxyland.sorati.vasl.exirgameofficialsite.sbs` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iproxyland.sorati.vasl.exirgameofficialsite.sbs&port=443&secret=dd9cba366108db0588d5e8b7193a0ff12b) |
+| 2 | `216.250.97.67` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=216.250.97.67&port=8443&secret=ee2adab36179e7a39026adf74034615248636c6f7564666c6172652e636f6d) |
+| 3 | `feature-existing-default.buy-request.co.uk` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=feature-existing-default.buy-request.co.uk&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 10 | `pro.melinter.site` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pro.melinter.site&port=443&secret=dd45da47059d169d4d0e23b6f1f6c5ead8) |
+| 12 | `llp.tiko-d.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=llp.tiko-d.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 17 | `morgh.2p2p.ir` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=morgh.2p2p.ir&port=8080&secret=ee66881e6e1e6d1ff6666666616d66aeae686f73746972616e2e636c6f7564) |
+| 20 | `198.16.107.93` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=198.16.107.93&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

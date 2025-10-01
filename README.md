@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:50 09-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:58 09-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,16 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `37.27.22.248` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.22.248&port=443&secret=ee08c672729aa5fae4dcf8cd8c36312e7573686579706f6f722e636f6d) |
-| 7 | `cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.mci.asmdns.ir.again_to_fight.everyone.i_am.the_internet.asmdns.ir` | `8770` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.mci.asmdns.ir.again_to_fight.everyone.i_am.the_internet.asmdns.ir&port=8770&secret=eece15837639f73335b4cbcc58771f4dbc7777772e636c6f7564666c6172652e636f6d) |
-| 8 | `medadbaknontab.safilo.sbs` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=medadbaknontab.safilo.sbs&port=443&secret=045e1cf522b40911dc193d35f9494946) |
-| 10 | `ping.ai-mygame.ir.` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ping.ai-mygame.ir.&port=1080&secret=79e344818749bd7ac519130220c25d09) |
-| 15 | `brenj-rice.birjikala.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=brenj-rice.birjikala.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 17 | `185.157.214.109` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.157.214.109&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 3 | `93.183.88.188` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=93.183.88.188&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 4 | `4443.irpower-b.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=4443.irpower-b.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 5 | `handshake_failed.please-resend-handshake.auth.failed.conn-rejected.sending-clienthello-packet.security-handshake.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=handshake_failed.please-resend-handshake.auth.failed.conn-rejected.sending-clienthello-packet.security-handshake.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 6 | `89.110.119.77` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.119.77&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 9 | `136.243.198.58` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=136.243.198.58&port=443&secret=eef5b6f2f1dadea4f48747f3b4b1ccd7ee7777772e636c6f7564666c6172652e636f6d) |
+| 11 | `64.188.93.139` | `4040` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=64.188.93.139&port=4040&secret=876ae7e71ccc43f35fbbbcd8144f2557) |
+| 12 | `mtproto.telewebion.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtproto.telewebion.com&port=443&secret=ee000000000000000000000000000000006b6579) |
+| 13 | `89.110.84.151` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.84.151&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 17 | `23.88.41.166` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=23.88.41.166&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d) |
+| 18 | `pofak.opensusebase.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pofak.opensusebase.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

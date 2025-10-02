@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:57 10-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:47 11-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 7 | `142.132.185.118` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.132.185.118&port=443&secret=ee008c3f6a9321de531462b058247cfd18676174657761792e696e7374616772616d2e636f6d) |
-| 9 | `142.132.183.19` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.132.183.19&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d) |
-| 15 | `172.99.188.74` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.99.188.74&port=443&secret=ee1603010200010001fc030386e24c3add64726f70626f782e636f6d) |
-| 18 | `188.34.159.181` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=188.34.159.181&port=443&secret=eed3674083a322d5440eacc4489e8b5dc76e74677265656e2e73686f70) |
+| 1 | `sorendive.aban-sanat.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sorendive.aban-sanat.ir&port=443&secret=1603010200010001fc030386e24c3add) |
+| 2 | `auth.opensusebase.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=auth.opensusebase.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 5 | `40.160.233.170` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=40.160.233.170&port=443&secret=bf790abbb6a05b10b8fd6f87140d35f8) |
+| 7 | `vjuzb.theta.beta.hp.aatctv.tau.fnzyythng.tourist-destination.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vjuzb.theta.beta.hp.aatctv.tau.fnzyythng.tourist-destination.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 8 | `dev.bmcdr.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dev.bmcdr.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 15 | `45.121.215.184` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.121.215.184&port=443&secret=ddc3db81b9c0d246bd646ff0402aba7b7d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

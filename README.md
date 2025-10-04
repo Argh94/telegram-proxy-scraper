@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:47 12-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:55 12-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `206.189.62.211` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=206.189.62.211&port=443&secret=ee79e344818749bd7ac519130220c25d09736168616d6564616c61742e6972) |
-| 11 | `91.98.122.144` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.98.122.144&port=443&secret=d1d6e111bada4511fcce9584deadbfdf) |
-| 17 | `5.34.215.224` | `888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.34.215.224&port=888&secret=6d95e44c1baf7acc8c060ec83751a309) |
-| 18 | `185.10.72.52` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.10.72.52&port=443&secret=ee0000f00f0f775555fffffff5006e2e69686f73742d696f2e636c6f7564) |
-| 20 | `162.55.156.240` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=162.55.156.240&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000) |
+| 1 | `195.57.9.lll-lll.ir` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.57.9.lll-lll.ir&port=8443&secret=79e344818749bd7ac519130220c25d09) |
+| 6 | `38.180.107.98` | `16996` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=38.180.107.98&port=16996&secret=eefee4ea532ad465303910f8c14870d069617a7572652e6d6963726f736f66742e636f6d) |
+| 8 | `gggggffddfddf.matin-uptime.shop` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=gggggffddfddf.matin-uptime.shop&port=443&secret=1198724d4ba40f73a044183022348074) |
+| 18 | `lipzinc.ultrasam.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lipzinc.ultrasam.info&port=443&secret=1603010200010001fc030386e24c3add) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

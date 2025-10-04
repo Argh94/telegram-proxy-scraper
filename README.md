@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:48 12-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 06:55 12-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `Iphone-windows.bozorgavar-game.ir.` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Iphone-windows.bozorgavar-game.ir.&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 2 | `212.34.141.96` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.141.96&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 15 | `45.92.218.58` | `8268` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.92.218.58&port=8268&secret=ee6efe086aec609ba8db0eb053045d32066769746875622e636f6d) |
-| 17 | `oo.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=oo.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 19 | `89.251.10.61` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.61&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
-| 20 | `1.talk-b.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=1.talk-b.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 12 | `btc.rr-signal.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=btc.rr-signal.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
+| 17 | `canisbest.mygrade.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=canisbest.mygrade.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

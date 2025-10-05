@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:46 13-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:59 13-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,15 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 6 | `bebinim-chi.mishe.bozorgavar-game.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bebinim-chi.mishe.bozorgavar-game.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 9 | `new-p.new-visioncity.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=new-p.new-visioncity.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 11 | `77.105.143.123` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.105.143.123&port=443&secret=ee1603010200010001fc030386e24c3add733130312e646976617263646e2e636f6d160301020001000100000000000000000000000000000000) |
-| 12 | `always.connect.proxyland.exirgamecompany.sbs` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=always.connect.proxyland.exirgamecompany.sbs&port=443&secret=ddf2a27464c649f080bb7ef43b11c0aabb) |
-| 13 | `ali.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ali.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 14 | `47.76.253.92` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.253.92&port=443&secret=ee1bba5e20cfb5f2c48482b16ddac02821617a7572652e6d6963726f736f66742e636f6d) |
-| 16 | `panel.opensusebase.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=panel.opensusebase.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 17 | `btc.rr-signal.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=btc.rr-signal.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
-| 20 | `mino.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mino.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 3 | `87.248.134.64` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.64&port=8888&secret=79e344818749bd7ac519130220c25d09) |
+| 6 | `62.60.176.183` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.176.183&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 11 | `asiateck.shahrnetfarangsarashatelcenter.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=asiateck.shahrnetfarangsarashatelcenter.co.uk&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 13 | `8443.iropt-g.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8443.iropt-g.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 14 | `65.21.239.223` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.21.239.223&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000) |
+| 15 | `89.251.10.52` | `666` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.52&port=666&secret=dde9a4f23b1d768c04a8d7f39120ca5b6eBbbbbbbbbbbbbbbbbbbbbAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

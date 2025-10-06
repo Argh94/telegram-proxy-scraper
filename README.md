@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:59 14-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:47 15-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `168.119.48.176` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=168.119.48.176&port=443&secret=1603010200010001fc030386e24c3add) |
-| 10 | `panel.opensusebase.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=panel.opensusebase.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 16 | `89.110.117.183` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.117.183&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 19 | `30.job-o-ma.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=30.job-o-ma.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 4 | `91.238.92.79` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.238.92.79&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 5 | `wait.fiziotr.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=wait.fiziotr.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 8 | `7443.iropt-g.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=7443.iropt-g.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 13 | `47.76.253.92` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.253.92&port=443&secret=ee1bba5e20cfb5f2c48482b16ddac02821617a7572652e6d6963726f736f66742e636f6d) |
+| 18 | `77.239.123.190` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.239.123.190&port=443&secret=ee57597f569da62c26253a33e8883a47d97777772e636c6f7564666c6172652e636f6d) |
+| 20 | `14.102.10.125` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.125&port=85&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

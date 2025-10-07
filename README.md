@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:10 15-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:51 15-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `65.108.84.7` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.108.84.7&port=443&secret=ee0000000000000000000000000000000064656570696e73616e652e636f6d) |
-| 9 | `5.35.46.6` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.46.6&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 14 | `139.59.15.110` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=139.59.15.110&port=443&secret=ee79e344818749bd7ac519130220c25d096d792e7461782e676f762e6972) |
+| 3 | `14.102.10.43` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.43&port=85&secret=ee0c30628212cbbd7ac519130205525d1569612e737465616d706f77657265642e636f6d) |
+| 7 | `62.60.179.129` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.179.129&port=8080&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 14 | `yakuza-wichin.mortal-home.www.voxa.com.kizashi.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=yakuza-wichin.mortal-home.www.voxa.com.kizashi.co.uk&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 19 | `for_all_nets.ai-mygame.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=for_all_nets.ai-mygame.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

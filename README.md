@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:51 16-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:59 16-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `instagram.gold.huawei.samsung.xqrukr.bing.amiwjuquot.eta.wordpress-mail.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=instagram.gold.huawei.samsung.xqrukr.bing.amiwjuquot.eta.wordpress-mail.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
-| 8 | `dns-proto.eyvazi-master.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dns-proto.eyvazi-master.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 11 | `77.238.228.144` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.238.228.144&port=443&secret=ee104462821249bd7ac519130220c25d0964697661722e6972ee104462821249bd7ac519130220c25d0964697661722e6972ee104462821249bd7ac519130220c25d0964697661722e6972) |
+| 1 | `wkrjf.rfqrvqev.vbrtbv.effvevvr3efftyy.ethgwearsfd.aevfc.tekvibe99.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=wkrjf.rfqrvqev.vbrtbv.effvevvr3efftyy.ethgwearsfd.aevfc.tekvibe99.ir&port=443&secret=ee00000000000000000000000000000000046c2e777f6f6766652e636f6d) |
+| 2 | `luna.best.lowping.lunahost360.ir` | `2020` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=luna.best.lowping.lunahost360.ir&port=2020&secret=dd7a7b4a7e54eb22ab0ac3e14018530e24) |
+| 6 | `89.110.90.23` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.90.23&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 7 | `lord.mygrade.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lord.mygrade.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 13 | `for_all_nets.ai-mygame.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=for_all_nets.ai-mygame.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
+| 14 | `8.210.121.6` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.210.121.6&port=443&secret=eec033a5f6e9875f26399d90b9d29f7c69617a7572652e6d6963726f736f66742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

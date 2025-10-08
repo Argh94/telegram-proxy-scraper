@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:10 16-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:51 16-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `14.102.10.110` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.110&port=85&secret=ee00ff000ff00fff5555fffffff5662e6b6f2d2d) |
-| 8 | `108.181.71.115` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=108.181.71.115&port=443&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
-| 13 | `78.46.245.210` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=78.46.245.210&port=443&secret=0c30628212cbbd7ac519130205525d15) |
-| 15 | `62.60.178.250` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.178.250&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 18 | `89.251.10.45` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.45&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 3 | `instagram.gold.huawei.samsung.xqrukr.bing.amiwjuquot.eta.wordpress-mail.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=instagram.gold.huawei.samsung.xqrukr.bing.amiwjuquot.eta.wordpress-mail.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 8 | `dns-proto.eyvazi-master.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dns-proto.eyvazi-master.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 11 | `77.238.228.144` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.238.228.144&port=443&secret=ee104462821249bd7ac519130220c25d0964697661722e6972ee104462821249bd7ac519130220c25d0964697661722e6972ee104462821249bd7ac519130220c25d0964697661722e6972) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

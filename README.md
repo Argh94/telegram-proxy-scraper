@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:52 17-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:04 17-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `62.113.112.38` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.113.112.38&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 4 | `tew.khalije-fars.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tew.khalije-fars.org&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 10 | `139.59.15.110` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=139.59.15.110&port=443&secret=ee79e344818749bd7ac519130220c25d096d792e7461782e676f762e6972) |
-| 11 | `88.210.11.133` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=88.210.11.133&port=443&secret=ee1603010200010001fc030386e24c3add733130312e646976617263646e2e636f6d160301020001000100000000000000000000000000000000) |
-| 12 | `152.42.131.200` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=152.42.131.200&port=443&secret=15115115115115115115115115115115) |
-| 13 | `ping.ai-mygame.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ping.ai-mygame.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
-| 15 | `62.60.233.107.edshop.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.233.107.edshop.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 10 | `PORIA-vali.birjikala.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=PORIA-vali.birjikala.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 17 | `38.244.198.14` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=38.244.198.14&port=443&secret=ee6f09cec463842aab13ae325e7c891ab6617a7572652e6d6963726f736f66742e636f6d) |
+| 18 | `yop.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=yop.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 20 | `146.190.93.80` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=146.190.93.80&port=443&secret=ee3f3a60978bb7c4ff5ad15e3d23a5a3e9626c6f672e636c6f7564666c6172652e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

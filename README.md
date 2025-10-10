@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:03 18-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 09:59 18-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 8 | `load.link-a4.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=load.link-a4.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 12 | `astatine.delta.lg.snapchat.paypal.phi.omicron.transfer-tous.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=astatine.delta.lg.snapchat.paypal.phi.omicron.transfer-tous.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
-| 13 | `89.251.10.45` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.45&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
-| 14 | `185.221.219.42` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.221.219.42&port=443&secret=ee1603010200010001fc030386e24c3add64726f70626f782e636f6d) |
-| 18 | `89.251.10.31` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.31&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 7 | `165.227.238.147` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=165.227.238.147&port=443&secret=ee4b1db6609ec9e2dfc26b2927b547224d73332e616d617a6f6e6177732e636f6d) |
+| 8 | `bor.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bor.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 12 | `94.131.2.159` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=94.131.2.159&port=443&secret=eea93c297d237f4756c1a01ffa9b2debb86177732e616d617a6f6e2e636f6d) |
+| 15 | `tag-ten.textile-shoping.ir` | `5300` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tag-ten.textile-shoping.ir&port=5300&secret=dd6b65c9c09c530067983884024b716918) |
+| 20 | `49.12.195.117` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=49.12.195.117&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

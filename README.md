@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:52 18-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:03 18-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `87.248.132.30` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.30&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 5 | `212.134.84.51` | `5588` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.134.84.51&port=5588&secret=ee07df7df7df7dffdffc07646f776e6c6f7777772e7370656564746573742e6e6574) |
-| 11 | `91.238.92.5` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.238.92.5&port=85&secret=ee0000f00f0f775555fffffff5006e2e69646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
-| 14 | `tg.unibot.work` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tg.unibot.work&port=443&secret=dd4d90d8c4c45d25aa849135d4e73c27c7) |
+| 8 | `load.link-a4.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=load.link-a4.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 12 | `astatine.delta.lg.snapchat.paypal.phi.omicron.transfer-tous.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=astatine.delta.lg.snapchat.paypal.phi.omicron.transfer-tous.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 13 | `89.251.10.45` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.45&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 14 | `185.221.219.42` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.221.219.42&port=443&secret=ee1603010200010001fc030386e24c3add64726f70626f782e636f6d) |
+| 18 | `89.251.10.31` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.31&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:57 21-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:48 22-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `dev.bmcdr.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dev.bmcdr.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 4 | `lop.talk-c.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lop.talk-c.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 15 | `23.88.46.216` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=23.88.46.216&port=443&secret=dd00000000000000000000000000000000) |
-| 18 | `14.102.10.132` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.132&port=85&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d) |
-| 19 | `45.92.219.51` | `8268` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.92.219.51&port=8268&secret=ee6efe086aec609ba8db0eb053045d320673332e616d617a6f6e6177732e636f6d) |
-| 20 | `107.189.28.32` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=107.189.28.32&port=443&secret=eebe9ba010e83c95aa690b10c541d1db227777772e676f6f676c652e636f6d) |
+| 1 | `shop.exirgameofficialsite.sbs` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=shop.exirgameofficialsite.sbs&port=443&secret=a2102253cacf1154e7b1fdfdaa44fcb1) |
+| 6 | `198.16.107.91` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=198.16.107.91&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d) |
+| 12 | `54.37.131.98` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=54.37.131.98&port=443&secret=eeeea780780780780780780780780780782d2d2d2d2d2d6c697374732e63656e746f732e6f72672d2d2d2d2d2d) |
+| 17 | `89.251.10.36` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.36&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 19 | `handshake_failed.please-resend-handshake.auth.failed.conn-accepted.sending-clienthello-packet.security-handshake.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=handshake_failed.please-resend-handshake.auth.failed.conn-accepted.sending-clienthello-packet.security-handshake.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:54 21-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:10 21-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 5 | `rd3edd26151.exirgamecompany.sbs` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=rd3edd26151.exirgamecompany.sbs&port=443&secret=ddee82a7239e7510d329da46ceae232e0d) |
-| 9 | `ila.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ila.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 16 | `89.251.10.22` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.22&port=443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
-| 17 | `162.55.153.173` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=162.55.153.173&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000) |
-| 18 | `proxydotnet.exirgamecompany.sbs` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxydotnet.exirgamecompany.sbs&port=443&secret=dd989dfd8713b2e39dfd80e248d377a402) |
-| 19 | `interfaces-eth1-eth0-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.allow-icmp.popular-firewalls.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=interfaces-eth1-eth0-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.allow-icmp.popular-firewalls.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 9 | `91.99.194.148` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.194.148&port=443&secret=ee151151151151151151151151151151156D656469612E737465616D706F77657265642E636F6D) |
+| 13 | `mainmtproxy.filimo.news` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mainmtproxy.filimo.news&port=443&secret=ee2c9935dcec47525aeb6d559d4bdd5a597777772e7370656564746573742e6e6574) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:52 22-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:12 22-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `backend.chandplus.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=backend.chandplus.com&port=443&secret=ee796766928008632f04a82ff64abdabee6261636b656e642e6368616e64706c75732e636f6d) |
-| 7 | `134.122.55.2` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=134.122.55.2&port=443&secret=ee79e344818749bd7ac519130220c25d09636865636b2d686f73742e6e6574) |
-| 10 | `185.207.133.173` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.207.133.173&port=8080&secret=eeec9a97a7e02db3eefc21183e4491853f) |
-| 12 | `63.141.252.204` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=63.141.252.204&port=443&secret=eee7ce9f4679bfc87bb93390ed56e2c9686170742d6d6972726f722e6f7267) |
-| 13 | `23.225.63.130` | `40193` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=23.225.63.130&port=40193&secret=eeb4b9b34c8b6e94b4b5af857deca1e439617a7572652e6d6963726f736f66742e636f6d) |
-| 16 | `sayonara.aban-sanat.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sayonara.aban-sanat.ir&port=443&secret=1603010200010001fc030386e24c3add) |
+| 7 | `89.110.84.151` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.84.151&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 8 | `62.60.186.184` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.186.184&port=443&secret=ddf1625096a21c72b0d41069d30bfd6c36) |
+| 9 | `87.248.134.64` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.64&port=8888&secret=79e344818749bd7ac519130220c25d09) |
+| 10 | `14.102.10.17` | `888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.17&port=888&secret=79e344818749bd7ac519130220c25d09) |
+| 15 | `198.45.114.148` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=198.45.114.148&port=443&secret=ee4533bcfa2df2d10a76259f61b76b812c7777772e676f6f676c652e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:48 23-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:55 23-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `23.88.41.166` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=23.88.41.166&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d) |
-| 6 | `mtproto.telewebion.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtproto.telewebion.com&port=443&secret=ee000000000000000000000000000000006b6579) |
-| 7 | `89.110.117.183` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.117.183&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 9 | `212.34.137.241` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.137.241&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 15 | `37.27.18.198` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.18.198&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20562616c61642e6972) |
-| 16 | `185.221.219.65` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.221.219.65&port=8080&secret=ddef4f3b3891091be3fef99f3e00b49f5c) |
+| 3 | `89.251.10.31` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.31&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 4 | `nowcamp.soft98-xyz2646xu7-weed.zhauwv.vigilante.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=nowcamp.soft98-xyz2646xu7-weed.zhauwv.vigilante.ir&port=443&secret=ee95cc7a8b6f5340b3c8d7f1e96fbf1aba7777772e636c6f7564666c6172652e636f6d) |
+| 12 | `23.176.184.28` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=23.176.184.28&port=443&secret=1603010200010001fc030386e24c3add) |
+| 14 | `brokendreams1998-nobitex.com.xyz-speedtest.net.jjsjhubjs54.vigilante.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=brokendreams1998-nobitex.com.xyz-speedtest.net.jjsjhubjs54.vigilante.ir&port=443&secret=eed173d1493943cd00a249940c1b6865377777772e636c6f7564666c6172652e636f6d) |
+| 19 | `zom.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=zom.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

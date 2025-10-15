@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:00 23-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:52 23-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 6 | `146.190.93.80` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=146.190.93.80&port=443&secret=ee3f3a60978bb7c4ff5ad15e3d23a5a3e9626c6f672e636c6f7564666c6172652e636f6d) |
-| 15 | `BTC.RR-Signal.ir.` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=BTC.RR-Signal.ir.&port=1080&secret=79e344818749bd7ac519130220c25d09) |
-| 16 | `185.21.15.141` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.15.141&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 5 | `89.251.10.38` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.38&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 6 | `giahi-vegeterian.khunebagh.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=giahi-vegeterian.khunebagh.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 9 | `irancell-hamrah.soren-mashin.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=irancell-hamrah.soren-mashin.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 10 | `tools.mygrade.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tools.mygrade.ir&port=443&secret=1603010200010001fc030386e24c3add) |
+| 14 | `yop.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=yop.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

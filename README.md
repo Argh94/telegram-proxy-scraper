@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:07 24-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 09:59 24-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `152.42.131.200` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=152.42.131.200&port=443&secret=15115115115115115115115115115115) |
-| 2 | `89.251.10.31` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.31&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
-| 3 | `heavisuy.sheshko.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=heavisuy.sheshko.info&port=443&secret=1603010200010001fc030386e24c3add) |
-| 5 | `5.161.52.236` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.161.52.236&port=443&secret=ee1100e547d760f0e3b53eb430c871f1886170706c652e636f6d) |
-| 16 | `62.60.178.250` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.178.250&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 17 | `op.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=op.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 3 | `216.250.97.66` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=216.250.97.66&port=8443&secret=ee2adab36179e7a39026adf74034615248636c6f7564666c6172652e636f6d) |
+| 5 | `interfaces-eth1-eth0-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.allow-icmp.popular-firewalls.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=interfaces-eth1-eth0-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.allow-icmp.popular-firewalls.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 10 | `89.251.10.40` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.40&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 11 | `https.link-a1.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=https.link-a1.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 12 | `2.tiko-f.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2.tiko-f.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 18 | `george.puzzle-institute.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=george.puzzle-institute.ir&port=443&secret=1603010200010001fc030386e24c3add) |
+| 19 | `116.203.137.250` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.137.250&port=443&secret=ee1603010200010001fc030386e24c3add70706c652e636f6d6d792e736861706172616b2e69722d646c2e676f6f676c652e636f6d2d666172616b61762e636f6d190902050004000400000000000000000000000000000000) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:49 26-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:06 26-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `siteimproves.space` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=siteimproves.space&port=1080&secret=79e344818749bd7ac519130220c25d09) |
-| 4 | `49.13.239.183` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=49.13.239.183&port=443&secret=eef0912426e90160d3d2cbb387eafeeeae74676a752e6f7267) |
-| 13 | `65.109.129.53` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.129.53&port=443&secret=eee8f660f2c82cbe12a82adfb9805e30b773332e616d617a6f6e6177732e6301020001000100000000000000000000000000000000) |
-| 15 | `98.link-a2.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=98.link-a2.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 17 | `bor.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bor.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 4 | `185.221.219.65` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.221.219.65&port=8080&secret=ddef4f3b3891091be3fef99f3e00b49f5c) |
+| 7 | `terminal.khalije-fars.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=terminal.khalije-fars.org&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 13 | `89.251.10.25` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.25&port=443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

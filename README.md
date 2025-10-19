@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 09:58 27-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:48 27-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 9 | `89.251.10.40` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.40&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
-| 12 | `83.147.252.64` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=83.147.252.64&port=443&secret=ee0452c85fed7aba8a05802eb7b8104ca97777772e636c6f7564666c6172652e636f6d) |
-| 14 | `trade.rr-signal.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=trade.rr-signal.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
-| 15 | `14.102.10.22` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.22&port=85&secret=ee0c30628212cbbd7ac519130205525d1569612e737465616d706f77657265642e636f6d) |
-| 16 | `ultra.transiiantanialnmiomana.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ultra.transiiantanialnmiomana.info&port=443&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6D656469612E737465616D706F77657265642E636F6D) |
-| 18 | `14.102.10.119` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.119&port=85&secret=ee00ff000ff00fff5555fffffff5662e6b6f2d2d) |
+| 1 | `51.159.149.220` | `8000` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=51.159.149.220&port=8000&secret=eee72cf91a4fee7902896720b31c3c14e27777772e736974652e636f6d) |
+| 2 | `198.16.107.91` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=198.16.107.91&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d) |
+| 4 | `157.245.50.60` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=157.245.50.60&port=443&secret=eeecc234652fda427695e6b7c4a7da8a297777772e6d6963726f736f66742e636f6d) |
+| 6 | `91.98.121.245` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.98.121.245&port=22&secret=Ee20ACD9B059C3133DD2CF66C1B1C414702D2D2D2D2D2D2D2D2D2D2D2D2D2D2D777777772E676F2D2D2D2D2D2D2D2D2D2D2D2D2E6972) |
+| 7 | `norobian.sinus-dc.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=norobian.sinus-dc.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
+| 10 | `proxy.whypn.com` | `1111` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.whypn.com&port=1111&secret=11111111111111111111111111111111) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

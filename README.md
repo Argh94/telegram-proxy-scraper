@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:48 27-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:55 27-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `47.243.138.6` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.243.138.6&port=443&secret=ee34f6e9d8e696ff6d9a42986c3996f74773332e616d617a6f6e6177732e636f6d) |
-| 4 | `hamrah-aval.new-visioncity.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hamrah-aval.new-visioncity.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 5 | `23.225.63.130` | `40193` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=23.225.63.130&port=40193&secret=eeb4b9b34c8b6e94b4b5af857deca1e439617a7572652e6d6963726f736f66742e636f6d) |
-| 6 | `siteimproves.space` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=siteimproves.space&port=1080&secret=79e344818749bd7ac519130220c25d09) |
-| 13 | `23.176.184.28` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=23.176.184.28&port=443&secret=1603010200010001fc030386e24c3add) |
-| 14 | `185.207.133.173` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.207.133.173&port=8080&secret=eeec9a97a7e02db3eefc21183e4491853f) |
-| 15 | `87.248.134.64` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.64&port=8888&secret=79e344818749bd7ac519130220c25d09) |
+| 10 | `78.47.66.176` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=78.47.66.176&port=443&secret=1603010200010001fc030386e24c3add) |
+| 17 | `home.wieltuahsdfk-jlafh-05.info` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=home.wieltuahsdfk-jlafh-05.info&port=1080&secret=79e344818749bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

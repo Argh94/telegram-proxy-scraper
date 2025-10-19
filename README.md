@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:10 27-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:16 27-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `5.255.97.150` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.255.97.150&port=443&secret=15115115115115115115115115115115) |
-| 4 | `64.188.125.215` | `8484` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=64.188.125.215&port=8484&secret=dd154679f68df111b75cb8368968778809) |
-| 19 | `amir-206-sefid.soren-mashin.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=amir-206-sefid.soren-mashin.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
+| 13 | `germany.nuremberg.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=germany.nuremberg.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 14 | `128.140.44.219` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=128.140.44.219&port=443&secret=ee52c867dc75983faf4bb37f91d5164f0970726f746f6e6d61696c726d657a336c6f74636369707368746b6c65656765746f6c62373366756972676a3772346f34766675376f7a79642e6f6e696f6e) |
+| 15 | `83.147.252.64` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=83.147.252.64&port=443&secret=ee0452c85fed7aba8a05802eb7b8104ca97777772e636c6f7564666c6172652e636f6d) |
+| 16 | `31.49.161.0.cloudflare.com.bing.com.microsoft.com.samsung.com.lg.com.github.com.gitlab.com.speedtest.com.google.com.tehran-park.uk` | `5000` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=31.49.161.0.cloudflare.com.bing.com.microsoft.com.samsung.com.lg.com.github.com.gitlab.com.speedtest.com.google.com.tehran-park.uk&port=5000&secret=eefe5ab68a35478a6d3b91637c32064d566769746875622e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

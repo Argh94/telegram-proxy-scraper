@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:46 28-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:59 28-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 9 | `8.212.135.63` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.212.135.63&port=443&secret=eec5383d373c80e26d34dbd8d62b2a4995617a7572652e6d6963726f736f66742e636f6d) |
-| 12 | `5.9.179.75` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.9.179.75&port=443&secret=ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d696e2e61707063656e7465722e6d732d2d2d2d2d2d) |
+| 1 | `lop.talk-c.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lop.talk-c.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 3 | `31.49.161.0.cloudflare.com.bing.com.microsoft.com.samsung.com.lg.com.github.com.gitlab.com.speedtest.com.google.com.tehran-park.uk` | `5000` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=31.49.161.0.cloudflare.com.bing.com.microsoft.com.samsung.com.lg.com.github.com.gitlab.com.speedtest.com.google.com.tehran-park.uk&port=5000&secret=eefe5ab68a35478a6d3b91637c32064d566769746875622e636f6d) |
+| 10 | `169.197.142.225` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=169.197.142.225&port=443&secret=ee32b920dffb51643028e2f6b878d4eac164697661722e6972) |
+| 15 | `pro.cafeshop1.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pro.cafeshop1.org&port=443&secret=dd5124b0c2dacd412d01fe245dd20c5628) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

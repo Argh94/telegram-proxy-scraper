@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:58 29-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:48 30-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `3.tiko-h.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=3.tiko-h.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 4 | `81.134.97.1.speedtest.net.github.com.gitlab.com.google.com.bing.com.microsoft.com.samsung.com.cloudflare.com.tehran-park.uk` | `5001` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=81.134.97.1.speedtest.net.github.com.gitlab.com.google.com.bing.com.microsoft.com.samsung.com.cloudflare.com.tehran-park.uk&port=5001&secret=ee49c808d759cdf1df409ce4601ce40f737777772e676f6f676c652e636f6d) |
-| 9 | `195.62.32.119` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.62.32.119&port=85&secret=ee52c867dc75983faf4bb37f91d5164f092d) |
+| 1 | `s2.czkyc.icu` | `1312` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s2.czkyc.icu&port=1312&secret=469fe09b277900a8ae91dcefa736056b) |
+| 2 | `teh.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=teh.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 3 | `14.102.10.118` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.118&port=85&secret=ee00ff000ff00fff5555fffffff5662e6b6f2d2d) |
+| 5 | `89.251.10.39` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.39&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 9 | `fendi-brand.www.fendi.com.borcatsion.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=fendi-brand.www.fendi.com.borcatsion.info&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 11 | `91.99.205.245` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.205.245&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 20 | `crypto.rr-signal.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=crypto.rr-signal.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:49 29-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:56 29-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 6 | `yakuza-wichin.mortal-home.www.voxa.com.kizashi.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=yakuza-wichin.mortal-home.www.voxa.com.kizashi.co.uk&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 11 | `kar.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=kar.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 12 | `47.76.224.162` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.224.162&port=443&secret=eea8a367f8e20de085ca9f34a66496b2db617a7572652e6d6963726f736f66742e636f6d) |
-| 16 | `pr1.fast-film.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pr1.fast-film.ir&port=443&secret=eeba86b3c58da3e2d80ea7ff89b00704a773332e616d617a6f6e6177732e636f6d) |
-| 18 | `lol.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lol.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 1 | `49.13.239.183` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=49.13.239.183&port=443&secret=eef0912426e90160d3d2cbb387eafeeeae74676a752e6f7267) |
+| 4 | `fr.vpn-club-service.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=fr.vpn-club-service.ru&port=443&secret=d36c46e19aa8b5e224ba506c2dbfa17a) |
+| 5 | `40.160.233.170` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=40.160.233.170&port=443&secret=bf790abbb6a05b10b8fd6f87140d35f8) |
+| 12 | `89.251.10.45` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.45&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 18 | `14.102.10.58` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.58&port=8888&secret=1603010200010001fc030386e24c3add) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

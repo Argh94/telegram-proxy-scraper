@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:58 30-07-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:15 30-07-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `asiateck.shahrnetfarangsarashatelcenter.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=asiateck.shahrnetfarangsarashatelcenter.co.uk&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 5 | `89.251.10.35` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.35&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 1 | `proxy.filimo.news` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.filimo.news&port=443&secret=dd2c9935dcec47525aeb6d559d4bdd5a59) |
+| 3 | `140.238.11.149` | `11443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=140.238.11.149&port=11443&secret=ee548593a9c0688f4f7d9d57377897d96473332e616d617a6f6e6177732e636f6d) |
+| 6 | `146.190.93.80` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=146.190.93.80&port=443&secret=ee3f3a60978bb7c4ff5ad15e3d23a5a3e9626c6f672e636c6f7564666c6172652e636f6d) |
+| 8 | `handshake_failed.please-resend-handshake.auth.failed.conn-accepted.sending-clienthello-packet.security-handshake.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=handshake_failed.please-resend-handshake.auth.failed.conn-accepted.sending-clienthello-packet.security-handshake.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 13 | `49.12.14.48` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=49.12.14.48&port=443&secret=ee00000000000000000000000000000000636f6e736f6c652e6865747a6e65722e636c6f7564) |
+| 19 | `212.34.134.175` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.134.175&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

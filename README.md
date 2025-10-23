@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:00 01-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:52 01-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `157.240.22.2` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=157.240.22.2&port=443&secret=ee00000000000000000000000000000000696f2e696f) |
-| 3 | `zom.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=zom.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 12 | `51.159.157.218` | `7743` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=51.159.157.218&port=7743&secret=eedbe97246f57a3e90ccc1c3f25b8e15ef7777772e736974652e636f6d) |
-| 17 | `116.203.149.201` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.149.201&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205726161682e6972) |
-| 19 | `sevento.ultrasam.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sevento.ultrasam.info&port=443&secret=1603010200010001fc030386e24c3add) |
+| 4 | `ila.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ila.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 6 | `icon.tomnail.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=icon.tomnail.info&port=443&secret=1603010200010001fc030386e24c3add) |
+| 17 | `50.7.85.218` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=50.7.85.218&port=443&secret=eee7ce9f4679bfc87bb93390ed56e2c9686170742d6d6972726f722e6f7267) |
+| 20 | `185.21.14.158` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.14.158&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

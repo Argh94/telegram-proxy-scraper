@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:12 02-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:51 02-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `tpns1.m3hran.online` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tpns1.m3hran.online&port=443&secret=88a852cf379fe3703fbcd28b7544209b) |
-| 12 | `168.119.48.176` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=168.119.48.176&port=443&secret=1603010200010001fc030386e24c3add) |
-| 17 | `167.235.57.225` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.235.57.225&port=443&secret=dd00000000000000000000000000000000) |
-| 18 | `luna.new.pro.good.lunahost360.ir` | `2020` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=luna.new.pro.good.lunahost360.ir&port=2020&secret=dd7a7b4a7e54eb22ab0ac3e14018530e24) |
+| 1 | `teleuz-proxy.duckdns.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=teleuz-proxy.duckdns.org&port=443&secret=81bd2d223bc620bf1bca37f5f4ca62d0) |
+| 9 | `89.110.121.49` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.121.49&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 12 | `lipzinc.ultrasam.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lipzinc.ultrasam.info&port=443&secret=1603010200010001fc030386e24c3add) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

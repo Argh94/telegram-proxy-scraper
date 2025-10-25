@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:48 03-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:05 03-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `moz.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=moz.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 3 | `twitch.airbnb.taleibj.xwwamohwaa.spotify.microsoft.aczkpqfp.alpha.artificial-generator.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=twitch.airbnb.taleibj.xwwamohwaa.spotify.microsoft.aczkpqfp.alpha.artificial-generator.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
-| 4 | `188.34.159.181` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=188.34.159.181&port=443&secret=eed3674083a322d5440eacc4489e8b5dc76e74677265656e2e73686f70) |
-| 5 | `185.121.233.136` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.121.233.136&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 10 | `74.48.74.23` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.48.74.23&port=443&secret=eecf5b77eabf1114a9a696eb420fc5353e617a7572652e6d6963726f736f66742e636f6d) |
+| 10 | `mino.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mino.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 20 | `load.link-a4.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=load.link-a4.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

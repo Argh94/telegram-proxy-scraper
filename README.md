@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:55 05-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:12 05-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `43.155.74.97` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.155.74.97&port=443&secret=ee60832b3cd80f894e56850f294fb6b2b2617a7572652e6d6963726f736f66742e636f6d) |
-| 3 | `algortim.sayaair.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=algortim.sayaair.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 7 | `iproxyland.sorati.vasl.vip.nab.fulltime.exirgameofficialsite.sbs` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iproxyland.sorati.vasl.vip.nab.fulltime.exirgameofficialsite.sbs&port=443&secret=ddd2a27464c649f080bb7ef43b11c08b7a) |
-| 13 | `14.102.10.107` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.107&port=85&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d) |
-| 16 | `pro.cafeshop1.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pro.cafeshop1.org&port=443&secret=dd5124b0c2dacd412d01fe245dd20c5628) |
+| 7 | `sevento.ultrasam.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sevento.ultrasam.info&port=443&secret=1603010200010001fc030386e24c3add) |
+| 13 | `38.180.201.61` | `6189` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=38.180.201.61&port=6189&secret=ee3e6bbaf7a66307b21b1b10b34a3eec6c617a7572652e6d6963726f736f66742e636f6d) |
+| 20 | `212.134.84.50` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.134.84.50&port=8888&secret=ee07df7df7df7dffdffc07646f776e6c6f7777772e7370656564746573742e6e6574) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

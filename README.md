@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:52 05-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:00 05-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 8 | `irancell_hamrah_righel_wifi.site.shop.exirgamecompany.sbs` | `2052` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=irancell_hamrah_righel_wifi.site.shop.exirgamecompany.sbs&port=2052&secret=eec2519c7b6fd3689064e7d811429fd9837370656564746573742e6e6574) |
-| 14 | `5.255.97.150` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.255.97.150&port=443&secret=15115115115115115115115115115115) |
-| 18 | `51.159.149.220` | `8000` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=51.159.149.220&port=8000&secret=eee72cf91a4fee7902896720b31c3c14e27777772e736974652e636f6d) |
+| 4 | `or.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=or.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 6 | `212.34.137.241` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.137.241&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 13 | `78.link-a5.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=78.link-a5.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

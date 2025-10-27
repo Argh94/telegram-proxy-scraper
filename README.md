@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:12 05-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:52 05-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 7 | `sevento.ultrasam.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sevento.ultrasam.info&port=443&secret=1603010200010001fc030386e24c3add) |
-| 13 | `38.180.201.61` | `6189` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=38.180.201.61&port=6189&secret=ee3e6bbaf7a66307b21b1b10b34a3eec6c617a7572652e6d6963726f736f66742e636f6d) |
-| 20 | `212.134.84.50` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.134.84.50&port=8888&secret=ee07df7df7df7dffdffc07646f776e6c6f7777772e7370656564746573742e6e6574) |
+| 8 | `irancell_hamrah_righel_wifi.site.shop.exirgamecompany.sbs` | `2052` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=irancell_hamrah_righel_wifi.site.shop.exirgamecompany.sbs&port=2052&secret=eec2519c7b6fd3689064e7d811429fd9837370656564746573742e6e6574) |
+| 14 | `5.255.97.150` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.255.97.150&port=443&secret=15115115115115115115115115115115) |
+| 18 | `51.159.149.220` | `8000` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=51.159.149.220&port=8000&secret=eee72cf91a4fee7902896720b31c3c14e27777772e736974652e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

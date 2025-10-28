@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:48 06-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:54 06-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `luna.best.lowping.lunahost360.ir` | `2020` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=luna.best.lowping.lunahost360.ir&port=2020&secret=dd7a7b4a7e54eb22ab0ac3e14018530e24) |
-| 10 | `digitalvpn-proxy.ru` | `6677` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=digitalvpn-proxy.ru&port=6677&secret=73c03865b903152df8e00f8a519ca4a7) |
-| 13 | `116.203.30.99` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.30.99&port=155&secret=dd79e7010200010007f0030386e24c3add) |
+| 3 | `207.154.202.223` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=207.154.202.223&port=443&secret=ee79e344818749bd7ac519130220c25d097472616e736c6174652e676f6f) |
+| 7 | `212.34.137.241` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.137.241&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 8 | `net-meli.bozorgavar-game.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=net-meli.bozorgavar-game.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 12 | `tools.mygrade.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tools.mygrade.ir&port=443&secret=1603010200010001fc030386e24c3add) |
+| 16 | `142.132.185.118` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.132.185.118&port=443&secret=ee008c3f6a9321de531462b058247cfd18676174657761792e696e7374616772616d2e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

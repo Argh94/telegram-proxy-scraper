@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:00 09-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:52 09-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `hooo.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hooo.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 9 | `116.203.137.250` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.137.250&port=443&secret=ee1603010200010001fc030386e24c3add70706c652e636f6d6d792e736861706172616b2e69722d646c2e676f6f676c652e636f6d2d666172616b61762e636f6d190902050004000400000000000000000000000000000000) |
-| 14 | `185.207.133.173` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.207.133.173&port=8080&secret=eeec9a97a7e02db3eefc21183e4491853f) |
-| 17 | `95.142.45.42` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=95.142.45.42&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 19 | `interfaces-eth1-eth0-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.allow-icmp.popular-firewalls.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=interfaces-eth1-eth0-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.allow-icmp.popular-firewalls.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 1 | `31.49.161.0.cloudflare.com.bing.com.microsoft.com.samsung.com.lg.com.github.com.gitlab.com.speedtest.com.google.com.tehran-park.uk` | `5000` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=31.49.161.0.cloudflare.com.bing.com.microsoft.com.samsung.com.lg.com.github.com.gitlab.com.speedtest.com.google.com.tehran-park.uk&port=5000&secret=eefe5ab68a35478a6d3b91637c32064d566769746875622e636f6d) |
+| 2 | `7443.tiko-k.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=7443.tiko-k.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 8 | `5.75.197.109` | `2052` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.75.197.109&port=2052&secret=eec2519c7b6fd3689064e7d811429fd9837370656564746573742e6e6574) |
+| 10 | `50.7.85.219` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=50.7.85.219&port=443&secret=ee1603010200010001fc030386e24c3add646f636b65722d6d6972726f722e6f7267) |
+| 12 | `51.159.166.112` | `7603` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=51.159.166.112&port=7603&secret=ee0ad565389bb264b33c81f11bd42c104b7777772e736974652e636f6d) |
+| 16 | `204.12.192.221` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=204.12.192.221&port=443&secret=ee1603010200010001fc030386e24c3add6170742d6b65726e656c2e6f7267) |
+| 18 | `45.131.42.66` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.131.42.66&port=443&secret=ddd198466c608afb992c73d3a8be0874d5) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:49 10-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:06 10-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 13 | `142.171.72.110` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.171.72.110&port=443&secret=ee0be24a0afd6447eff14035ca18c54bcd617a7572652e6d6963726f736f66742e636f6d) |
-| 15 | `212.34.135.78` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.135.78&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 16 | `bezan.sharzh.shi.idealhome.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bezan.sharzh.shi.idealhome.ir&port=443&secret=dd093bec12c0874226185a766f6d158463) |
-| 19 | `45.130.147.98` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.130.147.98&port=443&secret=eed2db08ac89954ac19413ad751aec7c4f7777772e6d6963726f736f66742e636f6d) |
-| 20 | `pof.khorshidiice.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pof.khorshidiice.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 1 | `lord.mygrade.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lord.mygrade.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 2 | `185.21.14.9` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.14.9&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 3 | `139.59.133.255` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=139.59.133.255&port=443&secret=ee79e344818749bd7ac519130220c25d09636865636b2d686f73742e6e6574) |
+| 5 | `65.21.108.27` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.21.108.27&port=443&secret=ee000000000000000000000000000000006d6170732e676f6f676c652e636f6d) |
+| 17 | `bob.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bob.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 19 | `62.113.116.140` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.113.116.140&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

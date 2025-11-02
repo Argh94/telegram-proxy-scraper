@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:54 11-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:47 12-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 7 | `91.99.201.44` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.201.44&port=443&secret=eec862057ba49a7ecdf0ad4eb44cd5bb11646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
-| 8 | `tg.mtproxier.online` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tg.mtproxier.online&port=443&secret=ee6d6565742e676f6f676c652e636f6d) |
-| 12 | `116.203.149.201` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.149.201&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205726161682e6972) |
-| 15 | `116.203.30.99` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.30.99&port=155&secret=dd79e7010200010007f0030386e24c3add) |
-| 17 | `170.64.171.194` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=170.64.171.194&port=443&secret=eed0d6e111bada5511fcce9584deadbeef74656c65776562696f6e2e636f6d) |
-| 18 | `icon.tomnail.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=icon.tomnail.info&port=443&secret=1603010200010001fc030386e24c3add) |
+| 1 | `hamrah_irancell_shatel.exirgameofficial.ir` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hamrah_irancell_shatel.exirgameofficial.ir&port=8080&secret=eed2c93cd1d1e4226d61dd408e07b37c1662696e672e636f6d) |
+| 8 | `austria.salzburg.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=austria.salzburg.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 9 | `45.93.170.26` | `3389` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.93.170.26&port=3389&secret=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee31302e31302e33342e3336) |
+| 11 | `belarus.gomel.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=belarus.gomel.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 16 | `prtelxy01.deltacyber.top` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=prtelxy01.deltacyber.top&port=443&secret=ee0d6a10d6e2149277f258218d3cb4b70d73332e616d617a6f6e6177732e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:52 12-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:59 12-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 6 | `1.talk-b.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=1.talk-b.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 8 | `s2.czkyc.icu` | `1312` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s2.czkyc.icu&port=1312&secret=469fe09b277900a8ae91dcefa736056b) |
-| 13 | `pro.melinter.site` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pro.melinter.site&port=443&secret=dd45da47059d169d4d0e23b6f1f6c5ead8) |
+| 6 | `89.110.76.65` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.76.65&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 11 | `lord.mygrade.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lord.mygrade.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 14 | `14.102.10.125` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.125&port=85&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

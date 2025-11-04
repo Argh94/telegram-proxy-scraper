@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:13 13-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:52 13-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 6 | `88.216.95.66.2fy.ir` | `2096` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=88.216.95.66.2fy.ir&port=2096&secret=3b04d7c144f5ca9af89a6c2f1ff35149AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA) |
-| 14 | `38.180.95.99` | `32196` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=38.180.95.99&port=32196&secret=ee410d6f7acfce485535dd7e14a078948b7777772e50617950616c2e636f6d) |
-| 20 | `159.69.54.90` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=159.69.54.90&port=443&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000) |
+| 6 | `bob.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bob.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 13 | `institute.sateh.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=institute.sateh.info&port=443&secret=1603010200010001fc030386e24c3add) |
+| 17 | `49.13.236.7` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=49.13.236.7&port=443&secret=ee00000000000000000000000000000000646967696b616c612e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

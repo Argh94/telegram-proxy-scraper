@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:13 13-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:01 13-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 8 | `142.132.183.19` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.132.183.19&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d) |
-| 10 | `143.198.205.203` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=143.198.205.203&port=443&secret=ee3f3a60978bb7c4ff5ad15e3d23a5a3e9626c6f672e636c6f7564666c6172652e636f6d) |
-| 17 | `14.102.10.48` | `888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.48&port=888&secret=ee0c30628212cbbd7ac519130205525d1569612e737465616d706f77657265642e636f6d) |
-| 18 | `medadbaknontab.safilo.sbs` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=medadbaknontab.safilo.sbs&port=443&secret=045e1cf522b40911dc193d35f9494946) |
+| 2 | `or.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=or.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 11 | `89.251.10.51` | `666` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.51&port=666&secret=dde9a4f23b1d768c04a8d7f39120ca5b6eBbbbbbbbbbbbbbbbbbbbbAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) |
+| 12 | `handshake_failed.please-resend-handshake.auth.failed.conn-accepted.sending-clienthello-packet.security-handshake.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=handshake_failed.please-resend-handshake.auth.failed.conn-accepted.sending-clienthello-packet.security-handshake.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 18 | `49.13.239.183` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=49.13.239.183&port=443&secret=eef0912426e90160d3d2cbb387eafeeeae74676a752e6f7267) |
+| 20 | `dns-proto.eyvazi-master.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dns-proto.eyvazi-master.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

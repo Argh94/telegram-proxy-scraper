@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:52 15-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:11 15-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,7 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 6 | `77.238.239.178` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.238.239.178&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 9 | `crypto.rr-signal.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=crypto.rr-signal.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
-| 11 | `62.60.176.16` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.176.16&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 13 | `https.link-a1.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=https.link-a1.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 15 | `mt.vip-server.ir` | `1102` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mt.vip-server.ir&port=1102&secret=eeb85514a4f3c91ea2b1f0fce5bfbdbfed7376312e646967696b616c612e636f6d) |
-| 18 | `65.109.129.53` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.129.53&port=443&secret=eee8f660f2c82cbe12a82adfb9805e30b773332e616d617a6f6e6177732e6301020001000100000000000000000000000000000000) |
+| 12 | `87.248.132.96` | `200` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.96&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

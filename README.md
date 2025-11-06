@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:19 15-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:01 15-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `weed.digikala.com-soft98.ir.buildhardxhusjk2546.vigilante.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=weed.digikala.com-soft98.ir.buildhardxhusjk2546.vigilante.ir&port=443&secret=ee0811e49f4ea3067c1c37796883f0cbd67777772e636c6f7564666c6172652e636f6d) |
-| 9 | `142.54.189.108` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.54.189.108&port=443&secret=ee1603010200010001fc030386e24c3add646f636b65722d6d6972726f722e6f7267) |
-| 11 | `88.216.95.66.2fy.ir` | `2096` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=88.216.95.66.2fy.ir&port=2096&secret=3b04d7c144f5ca9af89a6c2f1ff35149AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA) |
-| 14 | `212.134.84.50` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.134.84.50&port=8888&secret=ee07df7df7df7dffdffc07646f776e6c6f7777772e7370656564746573742e6e6574) |
-| 16 | `8.212.135.63` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.212.135.63&port=443&secret=eec5383d373c80e26d34dbd8d62b2a4995617a7572652e6d6963726f736f66742e636f6d) |
-| 17 | `62.60.233.231.maksport.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.233.231.maksport.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 18 | `88.210.11.133` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=88.210.11.133&port=443&secret=ee1603010200010001fc030386e24c3add733130312e646976617263646e2e636f6d160301020001000100000000000000000000000000000000) |
-| 19 | `systemfull.gjesus.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=systemfull.gjesus.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 4 | `142.132.190.166` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.132.190.166&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d) |
+| 14 | `or.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=or.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 18 | `47.250.82.123` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.250.82.123&port=443&secret=eef631bcf18fff58648a922c6d8e37a1e1617a7572652e6d6963726f736f66742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

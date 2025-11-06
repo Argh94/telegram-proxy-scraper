@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:53 15-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:00 15-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `37.27.18.198` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.18.198&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20562616c61642e6972) |
-| 2 | `144.124.244.133` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=144.124.244.133&port=443&secret=9f1c4a7b2d3e5f6012a9c8b7d6e4f3a1) |
-| 4 | `116.203.137.250` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.137.250&port=443&secret=ee1603010200010001fc030386e24c3add70706c652e636f6d6d792e736861706172616b2e69722d646c2e676f6f676c652e636f6d2d666172616b61762e636f6d190902050004000400000000000000000000000000000000) |
-| 9 | `130.0.239.75` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=130.0.239.75&port=443&secret=eef9f48d41044f0225c1af64490ce88cda7777772e7a6f6f6d69742e6972) |
-| 16 | `1.talk-b.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=1.talk-b.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 18 | `138.124.89.174` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=138.124.89.174&port=443&secret=eecd29e2b22f0ec7d5b75effda98c9cbf97777772e636c6f7564666c6172652e636f6d) |
+| 4 | `yop.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=yop.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 7 | `ipv-6-ipv-4.firewall.rules.nat.winbox.webfig.new-interfaces.acceptall-udp-connections.mikrotik-webfig.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ipv-6-ipv-4.firewall.rules.nat.winbox.webfig.new-interfaces.acceptall-udp-connections.mikrotik-webfig.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 18 | `hamrah_irancell_fast_conect_proxyland.asriranfun.com` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hamrah_irancell_fast_conect_proxyland.asriranfun.com&port=8080&secret=eed2c93cd1d1e4226d61dd408e07b37c1662696e672e636f6d) |
+| 20 | `2.tiko-f.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2.tiko-f.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

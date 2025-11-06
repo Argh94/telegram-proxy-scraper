@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:50 15-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:58 15-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `45.131.42.66` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.131.42.66&port=443&secret=ddd198466c608afb992c73d3a8be0874d5) |
-| 3 | `14.102.10.118` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.118&port=85&secret=ee00ff000ff00fff5555fffffff5662e6b6f2d2d) |
-| 4 | `167.235.232.149` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.235.232.149&port=443&secret=eeda6aa7c2ac619c060f355f3f173257377365676d656e742e70726f642e626964722e696f) |
-| 7 | `htop.link-a4.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=htop.link-a4.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 9 | `213.202.211.104` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=213.202.211.104&port=443&secret=ee8ee3f358d12e5e073b01a7e46f19b1a26b65746161626f6e6c696e652e636f6d) |
-| 13 | `8.220.180.147` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.220.180.147&port=443&secret=eedcbb10e10f7cb76ab625d740b15ccbbf617a7572652e6d6963726f736f66742e636f6d) |
-| 16 | `157.180.77.54` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=157.180.77.54&port=443&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 1 | `146.185.210.204` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=146.185.210.204&port=443&secret=dd6b3fb04414dbac55fef2da67c8c949) |
+| 3 | `47.236.248.226` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.236.248.226&port=443&secret=ee0857670d0264d45aa725034b90631f5d617a7572652e6d6963726f736f66742e636f6d) |
+| 7 | `interfaces-eth1-eth0-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.allow-icmp.popular-firewalls.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=interfaces-eth1-eth0-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.allow-icmp.popular-firewalls.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 11 | `65.21.188.67` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.21.188.67&port=443&secret=ee000000000000000000000000000000007777772e636c6f7564666c6172652e636f6d) |
+| 13 | `103.126.50.38` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=103.126.50.38&port=443&secret=ee071071071071071071071071071071076d6963726f736f66742e636f6f) |
+| 20 | `algortim.sayaair.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=algortim.sayaair.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

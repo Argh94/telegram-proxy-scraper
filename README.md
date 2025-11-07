@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:10 16-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:51 16-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `195.128.248.217` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.128.248.217&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000) |
-| 10 | `backend.chandplus.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=backend.chandplus.com&port=443&secret=ee796766928008632f04a82ff64abdabee6261636b656e642e6368616e64706c75732e636f6d) |
-| 16 | `8.220.148.253` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.220.148.253&port=443&secret=eec0ecf9a017b9ca38a83672bc65a91912617a7572652e6d6963726f736f66742e636f6d) |
+| 7 | `172.99.188.74` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.99.188.74&port=443&secret=ee1603010200010001fc030386e24c3add64726f70626f782e636f6d) |
+| 10 | `85.198.108.252` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.198.108.252&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 12 | `8-elite.ultrasam.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8-elite.ultrasam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 15 | `95.142.45.42` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=95.142.45.42&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 16 | `nowcamp.soft98-xyz2646xu7-weed.zhauwv.vigilante.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=nowcamp.soft98-xyz2646xu7-weed.zhauwv.vigilante.ir&port=443&secret=ee95cc7a8b6f5340b3c8d7f1e96fbf1aba7777772e636c6f7564666c6172652e636f6d) |
+| 17 | `195.2.78.126` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.2.78.126&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 20 | `hame_netha_full_sorat_vasl.com.info.exirgamecompany.sbs` | `2052` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hame_netha_full_sorat_vasl.com.info.exirgamecompany.sbs&port=2052&secret=eec2519c7b6fd3689064e7d811429fd9837370656564746573742e6e6574) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

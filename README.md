@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:06 17-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:48 17-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 9 | `85.198.108.252` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.198.108.252&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 10 | `47.76.50.221` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.50.221&port=443&secret=ee3b08ba0dcb569aa965473627ad586196617a7572652e6d6963726f736f66742e636f6d) |
-| 12 | `brokendreams1998-nobitex.com.xyz-speedtest.net.jjsjhubjs54.vigilante.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=brokendreams1998-nobitex.com.xyz-speedtest.net.jjsjhubjs54.vigilante.ir&port=443&secret=eed173d1493943cd00a249940c1b6865377777772e636c6f7564666c6172652e636f6d) |
-| 19 | `austria.salzburg.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=austria.salzburg.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 20 | `89.251.10.25` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.25&port=443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 3 | `212.111.80.159` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.111.80.159&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 12 | `108.181.71.115` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=108.181.71.115&port=443&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
+| 15 | `marzban.mci.best.luna-marzban.ir` | `2020` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=marzban.mci.best.luna-marzban.ir&port=2020&secret=dd7a7b4a7e54eb22ab0ac3e14018530e24) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

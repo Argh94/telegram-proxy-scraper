@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:48 17-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:56 17-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `212.111.80.159` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.111.80.159&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 12 | `108.181.71.115` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=108.181.71.115&port=443&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
-| 15 | `marzban.mci.best.luna-marzban.ir` | `2020` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=marzban.mci.best.luna-marzban.ir&port=2020&secret=dd7a7b4a7e54eb22ab0ac3e14018530e24) |
+| 8 | `148.135.125.186` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=148.135.125.186&port=443&secret=eebbe0b7f76cc00e7f763c6be51999d0c4617a7572652e6d6963726f736f66742e636f6d) |
+| 11 | `siteimproves.co.uk` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=siteimproves.co.uk&port=1080&secret=79e344818749bd7ac519130220c25d09) |
+| 16 | `62.60.178.123` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.178.123&port=443&secret=1603010200010001fc030386e24c3add) |
+| 17 | `116.203.30.99` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.30.99&port=155&secret=dd79e7010200010007f0030386e24c3add) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:49 17-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:06 17-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `moz.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=moz.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 4 | `47.76.254.7` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.254.7&port=443&secret=eebf930a4214023c0cd6005a0d93db37c7617a7572652e6d6963726f736f66742e636f6d) |
-| 12 | `89.251.10.44` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.44&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
-| 17 | `q4ijufn0z7m8.cf-watcher.cfd` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=q4ijufn0z7m8.cf-watcher.cfd&port=155&secret=dd79e7010200010007f0030386e24c3add) |
-| 20 | `5.75.199.133` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.75.199.133&port=443&secret=79e344818749bd7ac519130220c25d09) |
+| 9 | `85.198.108.252` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.198.108.252&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 10 | `47.76.50.221` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.50.221&port=443&secret=ee3b08ba0dcb569aa965473627ad586196617a7572652e6d6963726f736f66742e636f6d) |
+| 12 | `brokendreams1998-nobitex.com.xyz-speedtest.net.jjsjhubjs54.vigilante.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=brokendreams1998-nobitex.com.xyz-speedtest.net.jjsjhubjs54.vigilante.ir&port=443&secret=eed173d1493943cd00a249940c1b6865377777772e636c6f7564666c6172652e636f6d) |
+| 19 | `austria.salzburg.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=austria.salzburg.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 20 | `89.251.10.25` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.25&port=443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

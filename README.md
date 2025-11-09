@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:46 18-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:08 18-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `91.99.183.122` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.183.122&port=443&secret=eec862057ba49a7ecdf0ad4eb44cd5bb11646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
-| 7 | `212.233.79.131` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.233.79.131&port=443&secret=dd6b3fb04444dbac55fef2da67c8c949) |
-| 8 | `91.99.185.112` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.185.112&port=443&secret=dd8f3c1e92b74a65d0e1f4a927c5d8b3a1) |
+| 7 | `canisbest.mygrade.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=canisbest.mygrade.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 8 | `lol.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lol.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 16 | `btc.rr-signal.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=btc.rr-signal.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

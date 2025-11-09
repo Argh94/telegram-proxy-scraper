@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:48 18-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:55 18-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `62.60.176.183` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.176.183&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 2 | `mt.vip-server.ir` | `1102` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mt.vip-server.ir&port=1102&secret=eeb85514a4f3c91ea2b1f0fce5bfbdbfed7376312e646967696b616c612e636f6d) |
-| 5 | `78.46.245.210` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=78.46.245.210&port=443&secret=0c30628212cbbd7ac519130205525d15) |
-| 7 | `tanzania.zzzs2hgujoiah-xy1xutr001-1tk.space` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tanzania.zzzs2hgujoiah-xy1xutr001-1tk.space&port=1080&secret=79e344818749bd7ac519130220c25d09) |
-| 18 | `iphone-windows.bozorgavar-game.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iphone-windows.bozorgavar-game.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 3 | `62.113.116.140` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.113.116.140&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 17 | `freedomconnect.xyz` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=freedomconnect.xyz&port=443&secret=eebe9ba010e83c95aa690b10c541d1db227777772e676f6f676c652e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

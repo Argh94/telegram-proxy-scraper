@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:49 18-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:06 18-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `sevento.ultrasam.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sevento.ultrasam.info&port=443&secret=1603010200010001fc030386e24c3add) |
-| 8 | `biskotard.sheshko.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=biskotard.sheshko.info&port=443&secret=1603010200010001fc030386e24c3add) |
-| 12 | `download-up.soren-mashin.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=download-up.soren-mashin.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 20 | `63.141.252.204` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=63.141.252.204&port=443&secret=eee7ce9f4679bfc87bb93390ed56e2c9686170742d6d6972726f722e6f7267) |
+| 7 | `116.203.30.99` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.30.99&port=155&secret=dd79e7010200010007f0030386e24c3add) |
+| 12 | `brokendreams1998-nobitex.com.xyz-speedtest.net.jjsjhubjs54.vigilante.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=brokendreams1998-nobitex.com.xyz-speedtest.net.jjsjhubjs54.vigilante.ir&port=443&secret=eed173d1493943cd00a249940c1b6865377777772e636c6f7564666c6172652e636f6d) |
+| 15 | `twitch.airbnb.taleibj.xwwamohwaa.spotify.microsoft.aczkpqfp.alpha.artificial-generator.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=twitch.airbnb.taleibj.xwwamohwaa.spotify.microsoft.aczkpqfp.alpha.artificial-generator.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 20 | `proxy.filimo.news` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.filimo.news&port=443&secret=dd2c9935dcec47525aeb6d559d4bdd5a59) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

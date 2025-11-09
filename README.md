@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:15 18-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 09:58 18-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `49.12.14.48` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=49.12.14.48&port=443&secret=ee00000000000000000000000000000000636f6e736f6c652e6865747a6e65722e636c6f7564) |
-| 16 | `37.27.18.198` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.18.198&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20562616c61642e6972) |
-| 18 | `167.235.232.149` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.235.232.149&port=443&secret=eeda6aa7c2ac619c060f355f3f173257377365676d656e742e70726f642e626964722e696f) |
+| 7 | `cp.shahrkadesupermaghzicom.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cp.shahrkadesupermaghzicom.co.uk&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 16 | `162.55.62.29` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=162.55.62.29&port=443&secret=dd00000000000000000000000000000000) |
+| 19 | `het.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=het.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

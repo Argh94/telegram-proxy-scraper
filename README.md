@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:00 19-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:49 20-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `prtelxy01.deltacyber.top` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=prtelxy01.deltacyber.top&port=443&secret=ee0d6a10d6e2149277f258218d3cb4b70d73332e616d617a6f6e6177732e636f6d) |
-| 3 | `212.233.79.120` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.233.79.120&port=443&secret=dd6b3fb04444dbac55fef2da67c8c949) |
-| 19 | `bi.soltan.idealhome.ir` | `2096` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bi.soltan.idealhome.ir&port=2096&secret=eece1edf93986ef42c84942a514655b29e6c6f67696e2e6c6976652e636f6d) |
+| 5 | `38.180.95.99` | `32196` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=38.180.95.99&port=32196&secret=ee410d6f7acfce485535dd7e14a078948b7777772e50617950616c2e636f6d) |
+| 8 | `weed.digikala.com-soft98.ir.buildhardxhusjk2546.vigilante.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=weed.digikala.com-soft98.ir.buildhardxhusjk2546.vigilante.ir&port=443&secret=ee0811e49f4ea3067c1c37796883f0cbd67777772e636c6f7564666c6172652e636f6d) |
+| 10 | `167.235.57.225` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.235.57.225&port=443&secret=dd00000000000000000000000000000000) |
+| 17 | `188.245.240.175` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=188.245.240.175&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

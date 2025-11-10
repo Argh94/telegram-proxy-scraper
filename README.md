@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:21 19-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:02 19-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `icon.tomnail.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=icon.tomnail.info&port=443&secret=1603010200010001fc030386e24c3add) |
-| 3 | `185.132.125.26` | `25643` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.132.125.26&port=25643&secret=ee31d1023505739854415b259b0e53e1d5617a7572652e6d6963726f736f66742e636f6d) |
-| 12 | `37.27.248.245` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.248.245&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 14 | `sood.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sood.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 16 | `185.21.14.158` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.14.158&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 2 | `ey-khoda-ghasam-be-ehsgho.soren-mashin.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ey-khoda-ghasam-be-ehsgho.soren-mashin.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
+| 4 | `8.220.180.147` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.220.180.147&port=443&secret=eedcbb10e10f7cb76ab625d740b15ccbbf617a7572652e6d6963726f736f66742e636f6d) |
+| 14 | `198.16.107.93` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=198.16.107.93&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d) |
+| 16 | `103.3.60.129` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=103.3.60.129&port=443&secret=eef0912426e90160d3d2cbb387eafeeeae63646e2e646973636f72646170702e636f6d) |
+| 19 | `43.155.74.97` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.155.74.97&port=443&secret=ee60832b3cd80f894e56850f294fb6b2b2617a7572652e6d6963726f736f66742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

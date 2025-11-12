@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:52 21-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:12 21-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `8080.link-a2.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8080.link-a2.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 4 | `koc.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=koc.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 5 | `hs.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hs.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 9 | `14.102.10.127` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.127&port=85&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d) |
-| 10 | `88.210.35.238` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=88.210.35.238&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 13 | `195.200.19.26` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.200.19.26&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 15 | `162.55.62.29` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=162.55.62.29&port=443&secret=dd00000000000000000000000000000000) |
-| 20 | `38.180.201.61` | `6189` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=38.180.201.61&port=6189&secret=ee3e6bbaf7a66307b21b1b10b34a3eec6c617a7572652e6d6963726f736f66742e636f6d) |
+| 1 | `144.124.244.133` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=144.124.244.133&port=443&secret=9f1c4a7b2d3e5f6012a9c8b7d6e4f3a1) |
+| 15 | `14.102.10.119` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.119&port=85&secret=ee00ff000ff00fff5555fffffff5662e6b6f2d2d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

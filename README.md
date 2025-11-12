@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:12 21-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:53 21-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `144.124.244.133` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=144.124.244.133&port=443&secret=9f1c4a7b2d3e5f6012a9c8b7d6e4f3a1) |
-| 15 | `14.102.10.119` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.119&port=85&secret=ee00ff000ff00fff5555fffffff5662e6b6f2d2d) |
+| 5 | `https.dlacroonomic66.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=https.dlacroonomic66.com&port=443&secret=dd638becf0fe989caa21b10797ad4d1c38) |
+| 12 | `vjuzb.theta.beta.hp.aatctv.tau.fnzyythng.tourist-destination.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vjuzb.theta.beta.hp.aatctv.tau.fnzyythng.tourist-destination.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 13 | `107.189.28.32` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=107.189.28.32&port=443&secret=eebe9ba010e83c95aa690b10c541d1db227777772e676f6f676c652e636f6d) |
+| 19 | `rioo.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=rioo.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

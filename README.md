@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:01 23-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:52 23-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `74.48.74.23` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.48.74.23&port=443&secret=eecf5b77eabf1114a9a696eb420fc5353e617a7572652e6d6963726f736f66742e636f6d) |
-| 14 | `89.251.10.25` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.25&port=443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
+| 2 | `14.102.10.17` | `888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.17&port=888&secret=79e344818749bd7ac519130220c25d09) |
+| 7 | `a.transiiantanialnmiomana.info` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=a.transiiantanialnmiomana.info&port=6443&secret=ee15115117188138131511511511511511918356d656469612e737465616d706f77657265642e636f6d) |
+| 8 | `iranam.new-visioncity.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iranam.new-visioncity.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 9 | `3.tiko-f.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=3.tiko-f.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 15 | `198.45.114.148` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=198.45.114.148&port=443&secret=ee4533bcfa2df2d10a76259f61b76b812c7777772e676f6f676c652e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

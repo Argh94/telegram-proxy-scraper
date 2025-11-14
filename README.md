@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:49 23-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:59 23-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `63.141.252.204` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=63.141.252.204&port=443&secret=eee7ce9f4679bfc87bb93390ed56e2c9686170742d6d6972726f722e6f7267) |
-| 3 | `49.13.239.183` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=49.13.239.183&port=443&secret=eef0912426e90160d3d2cbb387eafeeeae74676a752e6f7267) |
-| 6 | `91.99.205.245` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.205.245&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 15 | `138.68.122.230` | `27595` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=138.68.122.230&port=27595&secret=eee0e61529e50b0aa685a173e69ff0c72b676f6f676c652e636f6d) |
-| 16 | `a.transiiantanialnmiomana.info` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=a.transiiantanialnmiomana.info&port=6443&secret=ee15115117188138131511511511511511918356d656469612e737465616d706f77657265642e636f6d) |
-| 17 | `bob.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bob.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 5 | `104.238.180.203` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=104.238.180.203&port=80&secret=ee000000000000000000000000000000006170692e61736961746563682e636c6f7564) |
+| 14 | `birdaneh.hamisheluxbemon.tech` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=birdaneh.hamisheluxbemon.tech&port=443&secret=eed6c7db692493db3facdf11754d12bfb37777772e7472756570656f706c657365617263682e636f6d) |
+| 18 | `doop.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=doop.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

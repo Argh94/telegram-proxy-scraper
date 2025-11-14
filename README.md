@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:16 23-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:01 23-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `best.connection.intelegram.lunahost360.ir` | `5900` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=best.connection.intelegram.lunahost360.ir&port=5900&secret=dd76e9eba6c2b80d69b075920fe200126a) |
-| 7 | `185.241.193.240` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.241.193.240&port=443&secret=dd6b3fb04414dbac55fef2da67c8c949) |
-| 11 | `pro.cafeshop1.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pro.cafeshop1.org&port=443&secret=dd5124b0c2dacd412d01fe245dd20c5628) |
+| 4 | `74.48.74.23` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.48.74.23&port=443&secret=eecf5b77eabf1114a9a696eb420fc5353e617a7572652e6d6963726f736f66742e636f6d) |
+| 14 | `89.251.10.25` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.25&port=443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

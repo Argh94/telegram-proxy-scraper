@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:06 24-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:48 24-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `4443.irpower-a.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=4443.irpower-a.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 9 | `185.113.10.25` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.113.10.25&port=443&secret=dda79308820c94d55b56e17f834dc9d7a7) |
-| 10 | `hamrah_irancell_shatel.exirgameofficial.ir` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hamrah_irancell_shatel.exirgameofficial.ir&port=8080&secret=eed2c93cd1d1e4226d61dd408e07b37c1662696e672e636f6d) |
-| 16 | `128.140.44.219` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=128.140.44.219&port=443&secret=ee52c867dc75983faf4bb37f91d5164f0970726f746f6e6d61696c726d657a336c6f74636369707368746b6c65656765746f6c62373366756972676a3772346f34766675376f7a79642e6f6e696f6e) |
+| 11 | `142.171.72.73` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.171.72.73&port=443&secret=ee9c51e2fb2ffaeb410a9aada52f650664617a7572652e6d6963726f736f66742e636f6d) |
+| 13 | `212.233.93.104` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.233.93.104&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

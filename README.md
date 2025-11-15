@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:48 24-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:56 24-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 11 | `142.171.72.73` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.171.72.73&port=443&secret=ee9c51e2fb2ffaeb410a9aada52f650664617a7572652e6d6963726f736f66742e636f6d) |
-| 13 | `212.233.93.104` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.233.93.104&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
+| 2 | `146.185.210.204` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=146.185.210.204&port=443&secret=dd6b3fb04414dbac55fef2da67c8c949) |
+| 15 | `freedomconnect.xyz` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=freedomconnect.xyz&port=443&secret=eebe9ba010e83c95aa690b10c541d1db227777772e676f6f676c652e636f6d) |
+| 20 | `212.233.79.131` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.233.79.131&port=443&secret=dd6b3fb04444dbac55fef2da67c8c949) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

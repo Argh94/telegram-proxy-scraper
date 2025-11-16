@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:47 25-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:11 25-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `47.236.248.226` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.236.248.226&port=443&secret=ee0857670d0264d45aa725034b90631f5d617a7572652e6d6963726f736f66742e636f6d) |
-| 6 | `89.251.10.21` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.21&port=443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
-| 12 | `5.9.179.75` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.9.179.75&port=443&secret=ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d696e2e61707063656e7465722e6d732d2d2d2d2d2d) |
+| 10 | `sorendive.aban-sanat.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sorendive.aban-sanat.ir&port=443&secret=1603010200010001fc030386e24c3add) |
+| 12 | `194.164.34.200` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=194.164.34.200&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 15 | `bastani.transiiantanialnmiomana.info` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bastani.transiiantanialnmiomana.info&port=6443&secret=ee15115117188139128511522321511511918356d656469612e737465616d706f77657265642e636f6d) |
+| 20 | `proxy.whypn.com` | `1111` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.whypn.com&port=1111&secret=11111111111111111111111111111111) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

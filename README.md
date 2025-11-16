@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:06 25-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:48 25-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `8.220.148.253` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.220.148.253&port=443&secret=eec0ecf9a017b9ca38a83672bc65a91912617a7572652e6d6963726f736f66742e636f6d) |
-| 8 | `man-toro.toro.man.man.terminal11.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=man-toro.toro.man.man.terminal11.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 14 | `rak.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=rak.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 20 | `47.83.176.230` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.83.176.230&port=443&secret=ee4cdc04257c904eb960d18174470ffc2a617a7572652e6d6963726f736f66742e636f6d) |
+| 3 | `incoming-connection.port-ssh.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=incoming-connection.port-ssh.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 4 | `fa.learn-new.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=fa.learn-new.ir&port=443&secret=dd163f8fc4aad2e79f50e6fda70d06bfc2) |
+| 5 | `92.246.87.90` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=92.246.87.90&port=443&secret=dd104462821249bd7ac519130220c25d09) |
+| 15 | `142.54.189.108` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.54.189.108&port=443&secret=ee1603010200010001fc030386e24c3add646f636b65722d6d6972726f722e6f7267) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

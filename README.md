@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:56 26-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:12 26-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `89.251.10.35` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.251.10.35&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d) |
-| 8 | `89.110.76.65` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.76.65&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 10 | `www.chetoriii.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.chetoriii.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 18 | `47.76.254.7` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.254.7&port=443&secret=eebf930a4214023c0cd6005a0d93db37c7617a7572652e6d6963726f736f66742e636f6d) |
+| 6 | `185.121.233.136` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.121.233.136&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 9 | `212.34.130.72` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.130.72&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 13 | `birdaneh.hamisheluxbemon.tech` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=birdaneh.hamisheluxbemon.tech&port=443&secret=eed6c7db692493db3facdf11754d12bfb37777772e7472756570656f706c657365617263682e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

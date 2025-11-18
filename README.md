@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:58 27-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:16 27-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 7 | `tag-ten.textile-shoping.ir` | `5300` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tag-ten.textile-shoping.ir&port=5300&secret=dd6b65c9c09c530067983884024b716918) |
-| 14 | `sayonara.aban-sanat.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sayonara.aban-sanat.ir&port=443&secret=1603010200010001fc030386e24c3add) |
-| 17 | `5.35.70.114` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.70.114&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 4 | `134.209.88.105` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=134.209.88.105&port=443&secret=eec80ff604fa45408f1d152624d3bffcf26b65746161626f6e6c696e652e636f6d) |
+| 8 | `weed.digikala.com-soft98.ir.buildhardxhusjk2546.vigilante.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=weed.digikala.com-soft98.ir.buildhardxhusjk2546.vigilante.ir&port=443&secret=ee0811e49f4ea3067c1c37796883f0cbd67777772e636c6f7564666c6172652e636f6d) |
+| 14 | `proxydonet-all-net-full.site.com.exirgameofficialsite.sbs` | `8088` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxydonet-all-net-full.site.com.exirgameofficialsite.sbs&port=8088&secret=eeb383f15e118a7828663bec891149331362696e672e636f6d) |
+| 15 | `interfaces-eth1-eth0-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.allow-icmp.popular-firewalls.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=interfaces-eth1-eth0-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.allow-icmp.popular-firewalls.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 17 | `ey-khoda-ghasam-be-ehsgho.soren-mashin.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ey-khoda-ghasam-be-ehsgho.soren-mashin.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:49 27-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:58 27-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 7 | `zom.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=zom.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 9 | `tino.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tino.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 12 | `ryzen-gold.shesh-station.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ryzen-gold.shesh-station.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 13 | `6443.iropt-g.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=6443.iropt-g.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 14 | `47.76.254.7` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.254.7&port=443&secret=eebf930a4214023c0cd6005a0d93db37c7617a7572652e6d6963726f736f66742e636f6d) |
-| 18 | `lipzinc.ultrasam.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lipzinc.ultrasam.info&port=443&secret=1603010200010001fc030386e24c3add) |
-| 20 | `91.99.187.112` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.187.112&port=443&secret=ee151151151151151151151151151151156D656469612E737465616D706F77657265642E636F6D) |
+| 7 | `tag-ten.textile-shoping.ir` | `5300` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tag-ten.textile-shoping.ir&port=5300&secret=dd6b65c9c09c530067983884024b716918) |
+| 14 | `sayonara.aban-sanat.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sayonara.aban-sanat.ir&port=443&secret=1603010200010001fc030386e24c3add) |
+| 17 | `5.35.70.114` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.70.114&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

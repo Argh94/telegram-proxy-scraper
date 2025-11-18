@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:53 27-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:11 27-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `backend.chandplus.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=backend.chandplus.com&port=443&secret=ee796766928008632f04a82ff64abdabee6261636b656e642e6368616e64706c75732e636f6d) |
-| 6 | `159.89.202.220` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=159.89.202.220&port=443&secret=ee79e344818749bd7ac519130220c25d096d792e7461782e676f762e6972) |
-| 10 | `139.59.141.67` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=139.59.141.67&port=443&secret=eec80ff604fa45408f1d152624d3bffcf276616e2e6e616a76612e636f6d) |
-| 17 | `up.tiko-k.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=up.tiko-k.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 3 | `85.198.108.252` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.198.108.252&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 4 | `response.cinere.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=response.cinere.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 7 | `185.121.233.136` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.121.233.136&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 8 | `iran.irpower-g.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iran.irpower-g.ir&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 17 | `systemfull.gjesus.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=systemfull.gjesus.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

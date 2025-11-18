@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:16 27-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:01 27-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `134.209.88.105` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=134.209.88.105&port=443&secret=eec80ff604fa45408f1d152624d3bffcf26b65746161626f6e6c696e652e636f6d) |
-| 8 | `weed.digikala.com-soft98.ir.buildhardxhusjk2546.vigilante.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=weed.digikala.com-soft98.ir.buildhardxhusjk2546.vigilante.ir&port=443&secret=ee0811e49f4ea3067c1c37796883f0cbd67777772e636c6f7564666c6172652e636f6d) |
-| 14 | `proxydonet-all-net-full.site.com.exirgameofficialsite.sbs` | `8088` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxydonet-all-net-full.site.com.exirgameofficialsite.sbs&port=8088&secret=eeb383f15e118a7828663bec891149331362696e672e636f6d) |
-| 15 | `interfaces-eth1-eth0-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.allow-icmp.popular-firewalls.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=interfaces-eth1-eth0-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.allow-icmp.popular-firewalls.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
-| 17 | `ey-khoda-ghasam-be-ehsgho.soren-mashin.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ey-khoda-ghasam-be-ehsgho.soren-mashin.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
+| 1 | `canisbest.mygrade.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=canisbest.mygrade.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 2 | `212.134.84.50` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.134.84.50&port=8888&secret=ee07df7df7df7dffdffc07646f776e6c6f7777772e7370656564746573742e6e6574) |
+| 4 | `43.161.239.146` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.161.239.146&port=12432&secret=eed9d72f920c30b6bc231a477d64f759eb73332e616d617a6f6e6177732e636f6d) |
+| 6 | `5.35.46.6` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.46.6&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 13 | `irancell-hamrah.soren-mashin.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=irancell-hamrah.soren-mashin.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 20 | `168.119.250.230` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=168.119.250.230&port=443&secret=ee550fbe912b27753fa54a23c73ba806347765622e727562696b612e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

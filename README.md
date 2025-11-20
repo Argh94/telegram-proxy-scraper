@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:56 29-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:15 29-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `luna.happy.rango.lupus.lunahost360.ir` | `8787` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=luna.happy.rango.lupus.lunahost360.ir&port=8787&secret=dda32b3ab8f498c4bc119d4ce711d758e3) |
-| 11 | `link.irpower-e.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=link.irpower-e.ir&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
-| 13 | `89.110.117.183` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.117.183&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 15 | `proxy.whypn.com` | `1111` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.whypn.com&port=1111&secret=11111111111111111111111111111111) |
-| 19 | `new-p.new-visioncity.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=new-p.new-visioncity.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 14 | `14.102.10.58` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.58&port=8888&secret=1603010200010001fc030386e24c3add) |
+| 18 | `37.27.10.227` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.10.227&port=443&secret=ee0000000000000000000000000000000076616e2e6e616a76612e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

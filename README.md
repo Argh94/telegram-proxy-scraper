@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:12 29-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:52 29-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `14.102.10.125` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.125&port=85&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d) |
-| 20 | `185.121.233.136` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.121.233.136&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 7 | `142.132.190.166` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.132.190.166&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d) |
+| 13 | `iphone-windows.bozorgavar-game.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iphone-windows.bozorgavar-game.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:49 30-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:57 30-08-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 9 | `212.34.148.244` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.148.244&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 12 | `nowcamp.soft98-xyz2646xu7-weed.zhauwv.vigilante.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=nowcamp.soft98-xyz2646xu7-weed.zhauwv.vigilante.ir&port=443&secret=ee95cc7a8b6f5340b3c8d7f1e96fbf1aba7777772e636c6f7564666c6172652e636f6d) |
-| 14 | `212.233.77.95` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.233.77.95&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
-| 18 | `proxy-dag.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy-dag.ru&port=443&secret=ee94fc2b484af6e1e1c87e6576b33c257579612e7275) |
+| 6 | `62.113.116.140` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.113.116.140&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 9 | `188.245.68.209` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=188.245.68.209&port=443&secret=dd8218a39259a7a29aabb2dbafc31cb35d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

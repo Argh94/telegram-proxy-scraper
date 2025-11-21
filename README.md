@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:57 30-08-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:49 01-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 6 | `62.113.116.140` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.113.116.140&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 9 | `188.245.68.209` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=188.245.68.209&port=443&secret=dd8218a39259a7a29aabb2dbafc31cb35d) |
+| 7 | `net-meli.bozorgavar-game.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=net-meli.bozorgavar-game.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 10 | `167.88.61.163` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.88.61.163&port=443&secret=ee1603010200010001fc030386e24c3add64697661722e6972) |
+| 16 | `45.131.42.66` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.131.42.66&port=443&secret=ddd198466c608afb992c73d3a8be0874d5) |
+| 17 | `185.132.125.26` | `25643` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.132.125.26&port=25643&secret=ee31d1023505739854415b259b0e53e1d5617a7572652e6d6963726f736f66742e636f6d) |
+| 19 | `barname-darsi.aivalai.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=barname-darsi.aivalai.info&port=443&secret=1603010200010001fc030386e24c3add) |
+| 20 | `austria.salzburg.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=austria.salzburg.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

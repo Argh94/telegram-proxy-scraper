@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:54 01-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:08 01-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 11 | `cp.shahrkadesupermaghzicom.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cp.shahrkadesupermaghzicom.co.uk&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
-| 12 | `adab.adadb-1hgujoiah-xy1xutr095-tk.info` | `55` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=adab.adadb-1hgujoiah-xy1xutr095-tk.info&port=55&secret=ee79e7010200010007f0030386e24c3add646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
+| 11 | `134.122.55.2` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=134.122.55.2&port=443&secret=ee79e344818749bd7ac519130220c25d09636865636b2d686f73742e6e6574) |
+| 18 | `43.161.235.121` | `45326` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.161.235.121&port=45326&secret=ee48f19a3a20ab6a77c98abf837a9bfb1e73332e616d617a6f6e6177732e636f6d) |
+| 19 | `h---------------h-ir.utltrajahsgserver.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=h---------------h-ir.utltrajahsgserver.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

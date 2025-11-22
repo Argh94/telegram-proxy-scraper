@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:50 01-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:06 01-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `copa.shokaling.addpo.co.lunahost360.ir` | `8787` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=copa.shokaling.addpo.co.lunahost360.ir&port=8787&secret=dda32b3ab8f498c4bc119d4ce711d758e3) |
-| 10 | `47.250.82.123` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.250.82.123&port=443&secret=eef631bcf18fff58648a922c6d8e37a1e1617a7572652e6d6963726f736f66742e636f6d) |
-| 11 | `37.27.18.198` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.18.198&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20562616c61642e6972) |
-| 17 | `65.109.129.53` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.129.53&port=443&secret=eee8f660f2c82cbe12a82adfb9805e30b773332e616d617a6f6e6177732e6301020001000100000000000000000000000000000000) |
-| 20 | `shortfilm.dlacroonomic66.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=shortfilm.dlacroonomic66.com&port=443&secret=ee638becf0fe989caa21b10797ad4d1c386d656469612e737465616d706f77657265642e636f6d) |
+| 4 | `62.60.176.188` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.176.188&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 5 | `giahi-vegeterian.khunebagh.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=giahi-vegeterian.khunebagh.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 13 | `43.161.220.150` | `14325` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.161.220.150&port=14325&secret=ee48f19a3a20ab6a77c98abf837a9bfb1e73332e616d617a6f6e6177732e636f6d) |
+| 15 | `best_net_fast_conect_best_proxyland_nice.asriranfun.com` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=best_net_fast_conect_best_proxyland_nice.asriranfun.com&port=8080&secret=eed2c93cd1d1e4226d61dd408e07b37c1662696e672e636f6d) |
+| 16 | `sebro.sheshko.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sebro.sheshko.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

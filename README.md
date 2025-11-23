@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:48 02-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:57 02-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,14 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `212.34.130.72` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.130.72&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 5 | `14.102.10.119` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.119&port=85&secret=ee00ff000ff00fff5555fffffff5662e6b6f2d2d) |
-| 6 | `proxy.digitalvpn.org` | `6677` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.digitalvpn.org&port=6677&secret=282d0f23889cf7ecc65d3bcd8d1264cc) |
-| 8 | `iproxyland_fast_proxy_best_config.asriranfun.com` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iproxyland_fast_proxy_best_config.asriranfun.com&port=8080&secret=eed2c93cd1d1e4226d61dd408e07b37c1662696e672e636f6d) |
-| 10 | `213.202.211.104` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=213.202.211.104&port=443&secret=ee8ee3f358d12e5e073b01a7e46f19b1a26b65746161626f6e6c696e652e636f6d) |
-| 14 | `luna.happy.rango.lupus.lunahost360.ir` | `8787` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=luna.happy.rango.lupus.lunahost360.ir&port=8787&secret=dda32b3ab8f498c4bc119d4ce711d758e3) |
-| 20 | `45.61.150.223` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.61.150.223&port=443&secret=cc2247473cef4a70d2d68687641b0913) |
+| 1 | `all.ns.kcdn.cloud` | `2052` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=all.ns.kcdn.cloud&port=2052&secret=eec2519c7b6fd3689064e7d811429fd9837370656564746573742e6e6574) |
+| 2 | `46.8.229.110` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.8.229.110&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 3 | `8.220.148.253` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.220.148.253&port=443&secret=eec0ecf9a017b9ca38a83672bc65a91912617a7572652e6d6963726f736f66742e636f6d) |
+| 9 | `212.34.150.64` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.150.64&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 14 | `sood.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sood.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 16 | `31.214.157.115` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=31.214.157.115&port=443&secret=650fd3d0cd33da27bf48e52e966e082d) |
+| 17 | `116.203.137.250` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.137.250&port=443&secret=ee1603010200010001fc030386e24c3add70706c652e636f6d6d792e736861706172616b2e69722d646c2e676f6f676c652e636f6d2d666172616b61762e636f6d190902050004000400000000000000000000000000000000) |
+| 18 | `mtproxy.velvetvpn.xyz` | `7443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtproxy.velvetvpn.xyz&port=7443&secret=4a6a864e1701719b18819285d6c6c4a2) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

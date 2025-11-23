@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 09:59 02-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:50 02-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `rak.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=rak.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 4 | `142.54.189.108` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.54.189.108&port=443&secret=ee1603010200010001fc030386e24c3add646f636b65722d6d6972726f722e6f7267) |
-| 6 | `poy.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=poy.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 9 | `78.46.245.210` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=78.46.245.210&port=443&secret=0c30628212cbbd7ac519130205525d15) |
-| 11 | `85.114.138.84` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.114.138.84&port=443&secret=1603010200010001fc030386e24c3add) |
-| 14 | `62.113.116.140` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.113.116.140&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 11 | `vjuzb.theta.beta.hp.aatctv.tau.fnzyythng.tourist-destination.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vjuzb.theta.beta.hp.aatctv.tau.fnzyythng.tourist-destination.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 12 | `4.tiko-f.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=4.tiko-f.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 20 | `142.171.72.124` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.171.72.124&port=443&secret=ee1f7896c9805de81679fec08622c3ca69617a7572652e6d6963726f736f66742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

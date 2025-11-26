@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:54 05-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:13 05-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 5 | `78.140.245.45` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=78.140.245.45&port=443&secret=eea93c297d237f4756c1a01ffa9b2debb86177732e616d617a6f6e2e636f6d) |
-| 12 | `iran.irpower-g.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iran.irpower-g.ir&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 7 | `hamrah_irancell_fast_conect_proxyland.asriranfun.com` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hamrah_irancell_fast_conect_proxyland.asriranfun.com&port=8080&secret=eed2c93cd1d1e4226d61dd408e07b37c1662696e672e636f6d) |
+| 9 | `abestick.abarwitch.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=abestick.abarwitch.info&port=443&secret=1603010200010001fc030386e24c3add) |
+| 10 | `8-elite.ultrasam.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8-elite.ultrasam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

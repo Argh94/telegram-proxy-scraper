@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:19 05-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:02 05-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `ey-khoda-ghasam-be-ehsgho.soren-mashin.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ey-khoda-ghasam-be-ehsgho.soren-mashin.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
-| 4 | `for_all_nets.ai-mygame.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=for_all_nets.ai-mygame.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
-| 6 | `shah3.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=shah3.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 8 | `mon.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mon.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 18 | `188.34.159.181` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=188.34.159.181&port=443&secret=eed3674083a322d5440eacc4489e8b5dc76e74677265656e2e73686f70) |
+| 3 | `62.60.177.201` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.177.201&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 16 | `14.102.10.127` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.127&port=85&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d) |
+| 17 | `204.12.192.218` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=204.12.192.218&port=443&secret=ee1603010200010001fc030386e24c3add646f636b65722d6d6972726f722e6f7267) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

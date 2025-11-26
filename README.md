@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:50 05-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:58 05-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `50.7.85.219` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=50.7.85.219&port=443&secret=ee1603010200010001fc030386e24c3add646f636b65722d6d6972726f722e6f7267) |
-| 7 | `up.talk-c.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=up.talk-c.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 9 | `195.128.248.217` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.128.248.217&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000) |
-| 16 | `hame-netha.soren-mashin.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hame-netha.soren-mashin.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 8 | `185.157.214.109` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.157.214.109&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 9 | `57.128.237.129` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=57.128.237.129&port=155&secret=dd79e344818749bd7ac519130220c25d09) |
+| 10 | `mci_mtn_shatel.exirgameofficial.ir` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mci_mtn_shatel.exirgameofficial.ir&port=8080&secret=eed2c93cd1d1e4226d61dd408e07b37c1662696e672e636f6d) |
+| 11 | `brenj-rice.birjikala.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=brenj-rice.birjikala.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 17 | `dop.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dop.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

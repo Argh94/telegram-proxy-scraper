@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:52 07-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:59 07-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `87.248.134.11` | `1443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.11&port=1443&secret=ee104462821249bd7ac519130220c25d09616964696E6A792E6972) |
-| 8 | `shortfilm.dlacroonomic66.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=shortfilm.dlacroonomic66.com&port=443&secret=ee638becf0fe989caa21b10797ad4d1c386d656469612e737465616d706f77657265642e636f6d) |
-| 9 | `195.254.165.83` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.83&port=443&secret=dda79308820c94d55b56e17f834dc9d7a7) |
-| 13 | `142.171.72.124` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.171.72.124&port=443&secret=ee1f7896c9805de81679fec08622c3ca69617a7572652e6d6963726f736f66742e636f6d) |
-| 17 | `94.130.171.169` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=94.130.171.169&port=9741&secret=dd1040f00f0f775555fffffff5006e9080) |
+| 3 | `ila.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ila.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 16 | `freedomconnect.xyz` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=freedomconnect.xyz&port=443&secret=eebe9ba010e83c95aa690b10c541d1db227777772e676f6f676c652e636f6d) |
+| 17 | `45.131.42.66` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.131.42.66&port=443&secret=ddd198466c608afb992c73d3a8be0874d5) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

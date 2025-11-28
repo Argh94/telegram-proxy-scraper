@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:11 07-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:52 07-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 8 | `4.tiko-f.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=4.tiko-f.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 13 | `130.0.239.75` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=130.0.239.75&port=443&secret=eef9f48d41044f0225c1af64490ce88cda7777772e7a6f6f6d69742e6972) |
-| 14 | `185.113.10.26` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.113.10.26&port=443&secret=dda79308820c94d55b56e17f834dc9d7a7) |
-| 16 | `cp.shahrkadesupermaghzicom.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cp.shahrkadesupermaghzicom.co.uk&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
-| 20 | `8.220.148.253` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.220.148.253&port=443&secret=eec0ecf9a017b9ca38a83672bc65a91912617a7572652e6d6963726f736f66742e636f6d) |
+| 2 | `87.248.134.11` | `1443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.11&port=1443&secret=ee104462821249bd7ac519130220c25d09616964696E6A792E6972) |
+| 8 | `shortfilm.dlacroonomic66.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=shortfilm.dlacroonomic66.com&port=443&secret=ee638becf0fe989caa21b10797ad4d1c386d656469612e737465616d706f77657265642e636f6d) |
+| 9 | `195.254.165.83` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.83&port=443&secret=dda79308820c94d55b56e17f834dc9d7a7) |
+| 13 | `142.171.72.124` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.171.72.124&port=443&secret=ee1f7896c9805de81679fec08622c3ca69617a7572652e6d6963726f736f66742e636f6d) |
+| 17 | `94.130.171.169` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=94.130.171.169&port=9741&secret=dd1040f00f0f775555fffffff5006e9080) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

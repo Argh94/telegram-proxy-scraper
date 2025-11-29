@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:50 08-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:58 08-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,7 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `148.135.125.186` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=148.135.125.186&port=443&secret=eebbe0b7f76cc00e7f763c6be51999d0c4617a7572652e6d6963726f736f66742e636f6d) |
+| 4 | `hame_netha_full_sorat_vasl.com.info.exirgamecompany.sbs` | `2052` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hame_netha_full_sorat_vasl.com.info.exirgamecompany.sbs&port=2052&secret=eec2519c7b6fd3689064e7d811429fd9837370656564746573742e6e6574) |
+| 14 | `handshake_failed.please-resend-handshake.auth.failed.conn-rejected.sending-clienthello-packet.security-handshake.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=handshake_failed.please-resend-handshake.auth.failed.conn-rejected.sending-clienthello-packet.security-handshake.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 20 | `land-konim.new-visioncity.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=land-konim.new-visioncity.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

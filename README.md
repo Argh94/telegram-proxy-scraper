@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:48 09-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:16 09-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `tbgin1pvpixrkelinhwh88d8srg2zi3xakfc4fqmnz1hyqyilvrypo58xpm3.ads.sevenkilogogesabzmikhori.store` | `2052` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tbgin1pvpixrkelinhwh88d8srg2zi3xakfc4fqmnz1hyqyilvrypo58xpm3.ads.sevenkilogogesabzmikhori.store&port=2052&secret=ee801645010346da91ae7ab7f63fdc5e4848656c6c6f6164732e6e617472696b612e66756e) |
-| 8 | `14.102.10.58` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.58&port=8888&secret=1603010200010001fc030386e24c3add) |
-| 15 | `134.122.55.2` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=134.122.55.2&port=443&secret=ee79e344818749bd7ac519130220c25d09636865636b2d686f73742e6e6574) |
-| 17 | `195.200.18.147` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.200.18.147&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
-| 19 | `5.35.46.6` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.46.6&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 1 | `mainmtproxy.filimo.news` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mainmtproxy.filimo.news&port=443&secret=ee2c9935dcec47525aeb6d559d4bdd5a597777772e7370656564746573742e6e6574) |
+| 3 | `up.tiko-k.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=up.tiko-k.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 13 | `optimal.irpower-f.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=optimal.irpower-f.ir&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 17 | `148.135.23.150` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=148.135.23.150&port=443&secret=ee5b1591134198e63efcf14cd7e8830c09617a7572652e6d6963726f736f66742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

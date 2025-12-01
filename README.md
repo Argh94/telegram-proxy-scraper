@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:05 10-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:00 10-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `loi.tiko-k.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=loi.tiko-k.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 2 | `proxy.codex-vpn.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.codex-vpn.ru&port=443&secret=ee3fbe95e68e560b9b58e408e13b22ad0d70726f78792d736e692e636f6465782d76706e2e7275) |
-| 9 | `185.21.15.141` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.15.141&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 11 | `lop.talk-c.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lop.talk-c.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 13 | `142.54.189.107` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.54.189.107&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d63656e746f732e6f7267) |
-| 18 | `htop.link-a4.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=htop.link-a4.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 2 | `7443.tiko-k.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=7443.tiko-k.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 8 | `188.34.159.181` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=188.34.159.181&port=443&secret=eed3674083a322d5440eacc4489e8b5dc76e74677265656e2e73686f70) |
+| 9 | `159.89.202.220` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=159.89.202.220&port=443&secret=ee79e344818749bd7ac519130220c25d096d792e7461782e676f762e6972) |
+| 10 | `cranberry-8044.kosekharejandatunpedarkuniemadarsag.site` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cranberry-8044.kosekharejandatunpedarkuniemadarsag.site&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
+| 20 | `188.245.68.209` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=188.245.68.209&port=443&secret=dd8218a39259a7a29aabb2dbafc31cb35d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

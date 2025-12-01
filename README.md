@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:00 10-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:13 10-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `7443.tiko-k.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=7443.tiko-k.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 8 | `188.34.159.181` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=188.34.159.181&port=443&secret=eed3674083a322d5440eacc4489e8b5dc76e74677265656e2e73686f70) |
-| 9 | `159.89.202.220` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=159.89.202.220&port=443&secret=ee79e344818749bd7ac519130220c25d096d792e7461782e676f762e6972) |
-| 10 | `cranberry-8044.kosekharejandatunpedarkuniemadarsag.site` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cranberry-8044.kosekharejandatunpedarkuniemadarsag.site&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
-| 20 | `188.245.68.209` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=188.245.68.209&port=443&secret=dd8218a39259a7a29aabb2dbafc31cb35d) |
+| 6 | `sadra.mygrade.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sadra.mygrade.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 13 | `88.210.35.238` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=88.210.35.238&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 16 | `140.233.167.205` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=140.233.167.205&port=443&secret=dd79e344818749bd7ac519130220c25d09) |
+| 17 | `freedomconnect.xyz` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=freedomconnect.xyz&port=443&secret=eebe9ba010e83c95aa690b10c541d1db227777772e676f6f676c652e636f6d) |
+| 20 | `139.59.141.67` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=139.59.141.67&port=443&secret=eec80ff604fa45408f1d152624d3bffcf276616e2e6e616a76612e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

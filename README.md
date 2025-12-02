@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:14 11-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:54 11-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,7 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 9 | `api.sokotoe7.ir` | `13` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=api.sokotoe7.ir&port=13&secret=ee79e462821249bd7ac519130220c25d0964697661722E6972) |
-| 17 | `download.portsocket.net` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=download.portsocket.net&port=443&secret=dda79308820c94d55b56e17f834dc9d7a7) |
-| 19 | `1.talk-b.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=1.talk-b.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 20 | `162.55.156.240` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=162.55.156.240&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000) |
+| 1 | `daemi-pr.shesh-station.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=daemi-pr.shesh-station.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

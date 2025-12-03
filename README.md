@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:03 12-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:50 13-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,7 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 14 | `57.129.95.177` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=57.129.95.177&port=443&secret=ee235259a42975595e29ded06bd1371d497777772e7363616c657161792e636f6d) |
+| 4 | `for.fsaremi.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=for.fsaremi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 7 | `138.201.129.245` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=138.201.129.245&port=443&secret=dd638becf0fe989caa21b10797ad4d1c38) |
+| 13 | `5.35.46.6` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.46.6&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 15 | `man-toro.toro.man.man.terminal11.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=man-toro.toro.man.man.terminal11.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 18 | `212.134.84.50` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.134.84.50&port=8888&secret=ee07df7df7df7dffdffc07646f776e6c6f7777772e7370656564746573742e6e6574) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

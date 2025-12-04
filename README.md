@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:03 13-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:51 14-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,7 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 8 | `148.135.100.217` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=148.135.100.217&port=443&secret=ee0022006cd42fb1dd1aa9c5eb9a6c38cb617a7572652e6d6963726f736f66742e636f6d) |
+| 6 | `dbeyverk5lq3vlv2dse5pbnpx8wj4qm08kmgvwmy7uu1cddmlr6qv3leyp3r.ads.sevenkilogogesabzmikhori.store` | `2052` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dbeyverk5lq3vlv2dse5pbnpx8wj4qm08kmgvwmy7uu1cddmlr6qv3leyp3r.ads.sevenkilogogesabzmikhori.store&port=2052&secret=ee801645010346da91ae7ab7f63fdc5e4848656c6c6f6164732e6e617472696b612e66756e) |
+| 8 | `lol.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lol.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 10 | `108.181.71.115` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=108.181.71.115&port=443&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
+| 13 | `185.222.163.6` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.222.163.6&port=443&secret=ee0000f00f0f775555fffffff5006e2e69686f73742d696f2e636c6f7564) |
+| 16 | `138.201.129.245` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=138.201.129.245&port=443&secret=dd638becf0fe989caa21b10797ad4d1c38) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

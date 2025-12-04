@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:55 13-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:03 13-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,7 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `6443.iropt-g.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=6443.iropt-g.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 11 | `up.talk-c.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=up.talk-c.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 16 | `load.link-a4.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=load.link-a4.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 17 | `backend.chandplus.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=backend.chandplus.com&port=443&secret=ee796766928008632f04a82ff64abdabee6261636b656e642e6368616e64706c75732e636f6d) |
-| 18 | `212.34.134.99` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.134.99&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 19 | `nom.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=nom.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 20 | `87.248.134.5` | `8447` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.5&port=8447&secret=ee104462821249bd7ac519130220c25d09616964696E6A792E6972) |
+| 8 | `148.135.100.217` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=148.135.100.217&port=443&secret=ee0022006cd42fb1dd1aa9c5eb9a6c38cb617a7572652e6d6963726f736f66742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

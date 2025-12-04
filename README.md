@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:50 13-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:09 13-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `for.fsaremi.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=for.fsaremi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 7 | `138.201.129.245` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=138.201.129.245&port=443&secret=dd638becf0fe989caa21b10797ad4d1c38) |
-| 13 | `5.35.46.6` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.46.6&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 15 | `man-toro.toro.man.man.terminal11.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=man-toro.toro.man.man.terminal11.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 18 | `212.134.84.50` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.134.84.50&port=8888&secret=ee07df7df7df7dffdffc07646f776e6c6f7777772e7370656564746573742e6e6574) |
+| 3 | `51.159.157.218` | `7743` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=51.159.157.218&port=7743&secret=eedbe97246f57a3e90ccc1c3f25b8e15ef7777772e736974652e636f6d) |
+| 6 | `88.210.11.161` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=88.210.11.161&port=443&secret=dd10408b3940c0488cfffffffde2269080) |
+| 13 | `78.47.66.176` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=78.47.66.176&port=443&secret=1603010200010001fc030386e24c3add) |
+| 19 | `interfaces-eth0-eth1-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.reject-icmp.popular-firewalls.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=interfaces-eth0-eth1-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.reject-icmp.popular-firewalls.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

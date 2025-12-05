@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:12 14-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:53 14-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,7 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `handshake_failed.please-resend-handshake.auth.failed.conn-accepted.sending-clienthello-packet.security-handshake.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=handshake_failed.please-resend-handshake.auth.failed.conn-accepted.sending-clienthello-packet.security-handshake.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
-| 10 | `teleuz-proxy.duckdns.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=teleuz-proxy.duckdns.org&port=443&secret=81bd2d223bc620bf1bca37f5f4ca62d0) |
+| 6 | `77.246.109.124` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.246.109.124&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

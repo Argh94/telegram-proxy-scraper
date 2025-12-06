@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:00 15-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:51 15-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `142.132.185.118` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.132.185.118&port=443&secret=ee008c3f6a9321de531462b058247cfd18676174657761792e696e7374616772616d2e636f6d) |
-| 5 | `185.21.12.144` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.12.144&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 13 | `68.233.124.248` | `1444` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=68.233.124.248&port=1444&secret=ee548593a9c0688f4f7d9d57377897d96473332e616d617a6f6e6177732e636f6d) |
-| 15 | `media.dlacroonomic66.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=media.dlacroonomic66.com&port=443&secret=ee638becf0fe989caa21b10797ad4d1c386d656469612e737465616d706f77657265642e636f6d) |
-| 17 | `daemi-pr.shesh-station.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=daemi-pr.shesh-station.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 11 | `mcr.irancell.best.luna-marzban.ir` | `8787` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mcr.irancell.best.luna-marzban.ir&port=8787&secret=dda32b3ab8f498c4bc119d4ce711d758e3) |
+| 12 | `sorati_vasl_nabi_download.com.info.ir.sbs.beshdash.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sorati_vasl_nabi_download.com.info.ir.sbs.beshdash.ir&port=443&secret=ee8e3ddf46b83645e0576dade5d26bfbbb62696e672e636f6d) |
+| 13 | `138.201.140.12` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=138.201.140.12&port=443&secret=dd638becf0fe989caa21b10797ad4d1c38) |
+| 15 | `138.201.133.111` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=138.201.133.111&port=443&secret=dd638becf0fe989caa21b10797ad4d1c38) |
+| 20 | `91.99.194.148` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.194.148&port=443&secret=ee151151151151151151151151151151156D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

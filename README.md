@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:51 15-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:08 15-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 11 | `mcr.irancell.best.luna-marzban.ir` | `8787` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mcr.irancell.best.luna-marzban.ir&port=8787&secret=dda32b3ab8f498c4bc119d4ce711d758e3) |
-| 12 | `sorati_vasl_nabi_download.com.info.ir.sbs.beshdash.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sorati_vasl_nabi_download.com.info.ir.sbs.beshdash.ir&port=443&secret=ee8e3ddf46b83645e0576dade5d26bfbbb62696e672e636f6d) |
-| 13 | `138.201.140.12` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=138.201.140.12&port=443&secret=dd638becf0fe989caa21b10797ad4d1c38) |
-| 15 | `138.201.133.111` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=138.201.133.111&port=443&secret=dd638becf0fe989caa21b10797ad4d1c38) |
-| 20 | `91.99.194.148` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.194.148&port=443&secret=ee151151151151151151151151151151156D656469612E737465616D706F77657265642E636F6D) |
+| 3 | `63.141.252.204` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=63.141.252.204&port=443&secret=eee7ce9f4679bfc87bb93390ed56e2c9686170742d6d6972726f722e6f7267) |
+| 7 | `65.21.239.223` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.21.239.223&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000) |
+| 12 | `185.10.72.52` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.10.72.52&port=443&secret=ee0000f00f0f775555fffffff5006e2e69686f73742d696f2e636c6f7564) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

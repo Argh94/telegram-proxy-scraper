@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:49 15-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:58 15-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `hamrah_irancell_shatel.exirgameofficial.ir` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hamrah_irancell_shatel.exirgameofficial.ir&port=8080&secret=eed2c93cd1d1e4226d61dd408e07b37c1662696e672e636f6d) |
-| 3 | `net-meli.bozorgavar-game.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=net-meli.bozorgavar-game.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 9 | `load.link-a4.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=load.link-a4.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 14 | `moz.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=moz.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 1 | `87.248.134.149` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.149&port=8443&secret=eee7010200010007f0030386e24c3adde) |
+| 6 | `1-0-0-1.esfand.itemdb.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=1-0-0-1.esfand.itemdb.com&port=443&secret=ee1603010200010001fc030386e24c3add733130302e646976617263646e2e636f6d) |
+| 9 | `118.107.25.202` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=118.107.25.202&port=8443&secret=ee2adab36179e7a39026adf74034615248636c6f7564666c6172652e636f6d) |
+| 10 | `fr.vpn-club-service.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=fr.vpn-club-service.ru&port=443&secret=d36c46e19aa8b5e224ba506c2dbfa17a) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

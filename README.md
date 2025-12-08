@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:59 17-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:13 17-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 5 | `161.33.27.25` | `22335` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=161.33.27.25&port=22335&secret=eeebeb7f379c5cdb9aa4e6f75f02a403bf73332e616d617a6f6e6177732e636f6d) |
-| 7 | `ai-proxy.wieltuahsdfk-jlafh-05.info` | `55` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ai-proxy.wieltuahsdfk-jlafh-05.info&port=55&secret=ee79e7010200010007f0030386e24c3add646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
-| 9 | `45.121.215.58` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.121.215.58&port=443&secret=ddc3db81b9c0d246bd646ff0402aba7b7d) |
-| 11 | `14.102.10.132` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.132&port=85&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d) |
-| 18 | `154.83.87.203` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=154.83.87.203&port=443&secret=ee331432c07d11ba48e6334a691b03b3ef617a7572652e6d6963726f736f66742e636f6d) |
+| 8 | `vasl.rubika-iir.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vasl.rubika-iir.co.uk&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d6d6972726f722d6b65726e656c2e6f7267) |
+| 11 | `167.235.57.225` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.235.57.225&port=443&secret=dd00000000000000000000000000000000) |
+| 13 | `212.34.139.251` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.139.251&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 14 | `poy.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=poy.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 19 | `hamrah-aval.new-visioncity.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hamrah-aval.new-visioncity.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

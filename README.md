@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:13 17-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:54 17-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 8 | `vasl.rubika-iir.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vasl.rubika-iir.co.uk&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d6d6972726f722d6b65726e656c2e6f7267) |
-| 11 | `167.235.57.225` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.235.57.225&port=443&secret=dd00000000000000000000000000000000) |
-| 13 | `212.34.139.251` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.139.251&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 14 | `poy.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=poy.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 19 | `hamrah-aval.new-visioncity.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hamrah-aval.new-visioncity.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 4 | `8080.link-a2.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8080.link-a2.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 6 | `89.185.85.156` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.185.85.156&port=443&secret=c7128666993422204439535091214066) |
+| 10 | `74.211.109.136` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.211.109.136&port=443&secret=ee54d0cd5a229ea16b1457bbbc1afe59bd617a7572652e6d6963726f736f66742e636f6d) |
+| 12 | `1.arizo.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=1.arizo.org&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 13 | `sebro.sheshko.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sebro.sheshko.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 18 | `secure.webfreedom.site` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=secure.webfreedom.site&port=8443&secret=eeaa18bf73742cecff6576b3fc0379a88e7777772e676f6f676c652e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

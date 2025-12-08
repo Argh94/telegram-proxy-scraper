@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:54 17-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:02 17-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `8080.link-a2.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8080.link-a2.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 6 | `89.185.85.156` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.185.85.156&port=443&secret=c7128666993422204439535091214066) |
-| 10 | `74.211.109.136` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.211.109.136&port=443&secret=ee54d0cd5a229ea16b1457bbbc1afe59bd617a7572652e6d6963726f736f66742e636f6d) |
-| 12 | `1.arizo.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=1.arizo.org&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 13 | `sebro.sheshko.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sebro.sheshko.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 18 | `secure.webfreedom.site` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=secure.webfreedom.site&port=8443&secret=eeaa18bf73742cecff6576b3fc0379a88e7777772e676f6f676c652e636f6d) |
+| 5 | `cztsgjwot9sexctxbolnnku4r5hbmbgjtnnejv4ltjmriouksm6yunda16id.ads.sevenkilogogesabzmikhori.store` | `2052` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cztsgjwot9sexctxbolnnku4r5hbmbgjtnnejv4ltjmriouksm6yunda16id.ads.sevenkilogogesabzmikhori.store&port=2052&secret=ee801645010346da91ae7ab7f63fdc5e4848656c6c6f6164732e6e617472696b612e66756e) |
+| 9 | `167.71.252.15` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.71.252.15&port=443&secret=eec6435eb0d4186b10a52aaaee8c45416c75706c6f6164626f792e636f6d) |
+| 11 | `vjuzb.theta.beta.hp.aatctv.tau.fnzyythng.tourist-destination.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vjuzb.theta.beta.hp.aatctv.tau.fnzyythng.tourist-destination.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 15 | `cranberry-8044.kosekharejandatunpedarkuniemadarsag.site` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cranberry-8044.kosekharejandatunpedarkuniemadarsag.site&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

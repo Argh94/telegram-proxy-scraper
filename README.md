@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:26 17-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:06 17-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `sorati_vasl_nabi_download.com.info.ir.sbs.beshdash.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sorati_vasl_nabi_download.com.info.ir.sbs.beshdash.ir&port=443&secret=ee8e3ddf46b83645e0576dade5d26bfbbb62696e672e636f6d) |
-| 4 | `45.130.147.98` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.130.147.98&port=443&secret=eed2db08ac89954ac19413ad751aec7c4f7777772e6d6963726f736f66742e636f6d) |
-| 7 | `79.172.228.70` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=79.172.228.70&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 10 | `8080.link-a2.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8080.link-a2.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 15 | `45.131.42.66` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.131.42.66&port=443&secret=ddd198466c608afb992c73d3a8be0874d5) |
-| 17 | `74.48.74.23` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.48.74.23&port=443&secret=eecf5b77eabf1114a9a696eb420fc5353e617a7572652e6d6963726f736f66742e636f6d) |
-| 18 | `hamrah_irancell_fast_conect_proxyland.asriranfun.com` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hamrah_irancell_fast_conect_proxyland.asriranfun.com&port=8080&secret=eed2c93cd1d1e4226d61dd408e07b37c1662696e672e636f6d) |
-| 19 | `23.88.41.166` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=23.88.41.166&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d) |
+| 5 | `olive-2546.kosekharejandatunpedarkuniemadarsag.site` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=olive-2546.kosekharejandatunpedarkuniemadarsag.site&port=443&secret=dd79e344818749bd7ac519130220c25d09) |
+| 9 | `ila.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ila.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 10 | `77.238.228.144` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.238.228.144&port=443&secret=ee104462821249bd7ac519130220c25d0964697661722e6972ee104462821249bd7ac519130220c25d0964697661722e6972ee104462821249bd7ac519130220c25d0964697661722e6972) |
+| 14 | `pof.khorshidiice.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pof.khorshidiice.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 15 | `germany.nuremberg.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=germany.nuremberg.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 17 | `158.247.234.65` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=158.247.234.65&port=9443&secret=2adab36179e7a39026adf74034615248) |
+| 19 | `download.portsocket.net` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=download.portsocket.net&port=443&secret=dda79308820c94d55b56e17f834dc9d7a7) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

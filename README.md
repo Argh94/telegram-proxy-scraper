@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:10 17-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:26 17-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,14 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 17 | `91.98.149.63` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.98.149.63&port=443&secret=79e462833349bf1ac519130220c29080) |
-| 19 | `47.250.178.236` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.250.178.236&port=443&secret=eec889f3e5aeba48fe79aa74db3aa8385a617a7572652e6d6963726f736f66742e636f6d) |
-| 20 | `62.60.177.201` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.177.201&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 2 | `sorati_vasl_nabi_download.com.info.ir.sbs.beshdash.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sorati_vasl_nabi_download.com.info.ir.sbs.beshdash.ir&port=443&secret=ee8e3ddf46b83645e0576dade5d26bfbbb62696e672e636f6d) |
+| 4 | `45.130.147.98` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.130.147.98&port=443&secret=eed2db08ac89954ac19413ad751aec7c4f7777772e6d6963726f736f66742e636f6d) |
+| 7 | `79.172.228.70` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=79.172.228.70&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 10 | `8080.link-a2.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8080.link-a2.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 15 | `45.131.42.66` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.131.42.66&port=443&secret=ddd198466c608afb992c73d3a8be0874d5) |
+| 17 | `74.48.74.23` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.48.74.23&port=443&secret=eecf5b77eabf1114a9a696eb420fc5353e617a7572652e6d6963726f736f66742e636f6d) |
+| 18 | `hamrah_irancell_fast_conect_proxyland.asriranfun.com` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hamrah_irancell_fast_conect_proxyland.asriranfun.com&port=8080&secret=eed2c93cd1d1e4226d61dd408e07b37c1662696e672e636f6d) |
+| 19 | `23.88.41.166` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=23.88.41.166&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

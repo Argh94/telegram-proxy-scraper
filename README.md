@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:55 18-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:14 18-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 7 | `proxydonet-all-net-full.site.com.exirgameofficialsite.sbs` | `8088` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxydonet-all-net-full.site.com.exirgameofficialsite.sbs&port=8088&secret=eeb383f15e118a7828663bec891149331362696e672e636f6d) |
-| 8 | `77.246.103.217` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.246.103.217&port=443&secret=ee1603010200010001fc030386e24c3add666172616b61762e636f6d666172616b61762e636f6d666172616b61762e636f6d666172616b61762e636f6dee1603010200010001fc030386e24c3addee16) |
-| 10 | `87.248.134.5` | `8447` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.5&port=8447&secret=ee104462821249bd7ac519130220c25d09616964696E6A792E6972) |
-| 16 | `ai-proxy.wieltuahsdfk-jlafh-05.info` | `55` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ai-proxy.wieltuahsdfk-jlafh-05.info&port=55&secret=ee79e7010200010007f0030386e24c3add646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
-| 18 | `14.102.10.119` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.119&port=85&secret=ee00ff000ff00fff5555fffffff5662e6b6f2d2d) |
-| 20 | `91.99.116.198` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.116.198&port=155&secret=ee00ff000ff00fff5555fffffff5662e6b626f2d2d) |
+| 2 | `vip.apsdhvndhsia-xigeqgajhdf-tk-gq.info.` | `55` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vip.apsdhvndhsia-xigeqgajhdf-tk-gq.info.&port=55&secret=ee79e7010200010007f0030386e24c3add646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
+| 10 | `185.21.14.158` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.14.158&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 13 | `167.235.57.225` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.235.57.225&port=443&secret=dd00000000000000000000000000000000) |
+| 15 | `twitch.airbnb.taleibj.xwwamohwaa.spotify.microsoft.aczkpqfp.alpha.artificial-generator.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=twitch.airbnb.taleibj.xwwamohwaa.spotify.microsoft.aczkpqfp.alpha.artificial-generator.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 17 | `62.60.233.107.edshop.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.233.107.edshop.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 20 | `vjuzb.theta.beta.hp.aatctv.tau.fnzyythng.tourist-destination.co.uk` | `3443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vjuzb.theta.beta.hp.aatctv.tau.fnzyythng.tourist-destination.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

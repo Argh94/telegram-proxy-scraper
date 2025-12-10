@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:56 19-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:01 19-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,7 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 12 | `for_all_nets.ai-mygame.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=for_all_nets.ai-mygame.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
+| 3 | `87.248.134.150` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.150&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
+| 7 | `89.110.73.23` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.73.23&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 9 | `5.75.199.133` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.75.199.133&port=443&secret=79e344818749bd7ac519130220c25d09) |
+| 14 | `sebro.sheshko.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sebro.sheshko.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 20 | `130.0.239.75` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=130.0.239.75&port=443&secret=eef9f48d41044f0225c1af64490ce88cda7777772e7a6f6f6d69742e6972) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

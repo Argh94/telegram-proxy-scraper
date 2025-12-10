@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:56 19-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:14 19-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 6 | `43.160.204.229` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.160.204.229&port=12432&secret=dd7528a1f3b29f83943eb47d3fcc59e66e) |
-| 11 | `longliveforiran.link-a1.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=longliveforiran.link-a1.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 16 | `212.111.80.159` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.111.80.159&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 17 | `just_irancell_fast.sbs.info.com.iransearching.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=just_irancell_fast.sbs.info.com.iransearching.ir&port=443&secret=ee53dd85ce1031ed6b7131896b28fc4540676f6f676c652e636f6d) |
+| 5 | `fullconnect.yashasiniran.ir` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=fullconnect.yashasiniran.ir&port=8443&secret=eebd93ad4c5a7550905e15f4626bbf63d562696e672e636f6d) |
+| 14 | `y2.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=y2.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 15 | `47.250.82.123` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.250.82.123&port=443&secret=eef631bcf18fff58648a922c6d8e37a1e1617a7572652e6d6963726f736f66742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

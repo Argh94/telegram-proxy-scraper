@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:12 19-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:27 19-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `all_net_fast_conect_proxyland_nice.asriranfun.com` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=all_net_fast_conect_proxyland_nice.asriranfun.com&port=8080&secret=eed2c93cd1d1e4226d61dd408e07b37c1662696e672e636f6d) |
-| 11 | `ro.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ro.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 13 | `dns-proto.eyvazi-master.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dns-proto.eyvazi-master.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 15 | `kar.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=kar.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 17 | `31.57.157.26` | `7443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=31.57.157.26&port=7443&secret=f921bba9ca15a036648ff339b926c9e1) |
-| 20 | `45.76.184.13` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.76.184.13&port=9443&secret=2adab36179e7a39026adf74034615248) |
+| 5 | `31.214.157.115` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=31.214.157.115&port=443&secret=650fd3d0cd33da27bf48e52e966e082d) |
+| 10 | `88.210.11.161` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=88.210.11.161&port=443&secret=dd10408b3940c0488cfffffffde2269080) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

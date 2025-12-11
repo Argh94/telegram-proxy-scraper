@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:28 20-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:05 20-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `74.211.109.136` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.211.109.136&port=443&secret=ee54d0cd5a229ea16b1457bbbc1afe59bd617a7572652e6d6963726f736f66742e636f6d) |
-| 8 | `91.107.147.255` | `1443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.107.147.255&port=1443&secret=d0d6e111bada5511fcce9584deadbeef) |
-| 9 | `212.113.123.226` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.113.123.226&port=8443&secret=eeaa18bf73742cecff6576b3fc0379a88e7777772e676f6f676c652e636f6d) |
+| 5 | `terminal.khalije-fars.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=terminal.khalije-fars.org&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 11 | `68.233.124.248` | `1444` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=68.233.124.248&port=1444&secret=ee548593a9c0688f4f7d9d57377897d96473332e616d617a6f6e6177732e636f6d) |
+| 12 | `bebinim-chi.mishe.bozorgavar-game.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bebinim-chi.mishe.bozorgavar-game.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 14 | `128.140.44.219` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=128.140.44.219&port=443&secret=ee52c867dc75983faf4bb37f91d5164f0970726f746f6e6d61696c726d657a336c6f74636369707368746b6c65656765746f6c62373366756972676a3772346f34766675376f7a79642e6f6e696f6e) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

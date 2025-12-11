@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:12 20-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:28 20-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 5 | `98.link-a2.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=98.link-a2.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 11 | `87.248.134.141` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.141&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
-| 12 | `iproxyland.asriranfun.com` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iproxyland.asriranfun.com&port=8080&secret=eed2c93cd1d1e4226d61dd408e07b37c1662696e672e636f6d) |
-| 20 | `51.159.165.172` | `7549` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=51.159.165.172&port=7549&secret=eeff9890eed0a3c6fbfafeb2608a4aedb37777772e736974652e636f6d) |
+| 2 | `74.211.109.136` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.211.109.136&port=443&secret=ee54d0cd5a229ea16b1457bbbc1afe59bd617a7572652e6d6963726f736f66742e636f6d) |
+| 8 | `91.107.147.255` | `1443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.107.147.255&port=1443&secret=d0d6e111bada5511fcce9584deadbeef) |
+| 9 | `212.113.123.226` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.113.123.226&port=8443&secret=eeaa18bf73742cecff6576b3fc0379a88e7777772e676f6f676c652e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

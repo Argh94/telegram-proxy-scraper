@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:53 20-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:12 20-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `avqegkegkmsfsvlt5lxbfghlkmtmuqqobmssuw6oi6zhzk4euvee1xupnvms.ads.sevenkilogogesabzmikhori.store` | `2052` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=avqegkegkmsfsvlt5lxbfghlkmtmuqqobmssuw6oi6zhzk4euvee1xupnvms.ads.sevenkilogogesabzmikhori.store&port=2052&secret=ee801645010346da91ae7ab7f63fdc5e4848656c6c6f6164732e6e617472696b612e66756e) |
-| 5 | `ping-great.ir.shopping-ai.ir` | `55` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ping-great.ir.shopping-ai.ir&port=55&secret=ee79e7010200010007f0030386e24c3add646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
-| 6 | `163.5.31.51` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=163.5.31.51&port=65535&secret=104462821249bd7ac519130220c25d09) |
-| 9 | `iproxyland_fast.exirgameofficial.ir` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iproxyland_fast.exirgameofficial.ir&port=8080&secret=eed2c93cd1d1e4226d61dd408e07b37c1662696e672e636f6d) |
+| 5 | `98.link-a2.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=98.link-a2.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 11 | `87.248.134.141` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.141&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
+| 12 | `iproxyland.asriranfun.com` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iproxyland.asriranfun.com&port=8080&secret=eed2c93cd1d1e4226d61dd408e07b37c1662696e672e636f6d) |
+| 20 | `51.159.165.172` | `7549` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=51.159.165.172&port=7549&secret=eeff9890eed0a3c6fbfafeb2608a4aedb37777772e736974652e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

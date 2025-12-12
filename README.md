@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:53 21-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:12 21-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `212.34.134.99` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.34.134.99&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 6 | `https.link-a1.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=https.link-a1.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 10 | `146.235.207.86` | `22124` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=146.235.207.86&port=22124&secret=ddd77ecc3d0cc0bbed1809bd5ae989e197) |
-| 13 | `mtproxy-ru3.velvetvpn.xyz` | `7443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtproxy-ru3.velvetvpn.xyz&port=7443&secret=4a6a864e1701719b18819285d6c6c4a2) |
-| 14 | `f---------------f-top.web1d10.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=f---------------f-top.web1d10.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 16 | `proxy.codex-vpn.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.codex-vpn.ru&port=443&secret=ee3fbe95e68e560b9b58e408e13b22ad0d70726f78792d736e692e636f6465782d76706e2e7275) |
+| 3 | `45.150.109.229` | `20` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.150.109.229&port=20&secret=75df5c9d939a28985a10c2db29943485) |
+| 4 | `14.102.10.107` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.107&port=85&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d) |
+| 9 | `152.42.133.79` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=152.42.133.79&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d) |
+| 13 | `irancell-hamrah.soren-mashin.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=irancell-hamrah.soren-mashin.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 14 | `116.203.245.195` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.245.195&port=443&secret=1603010200010001fc030386e24c3add) |
+| 18 | `b-----baran-----b-ir.get1mobileponster.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=b-----baran-----b-ir.get1mobileponster.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

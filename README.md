@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:54 21-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:03 21-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 5 | `104.238.180.203` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=104.238.180.203&port=80&secret=ee000000000000000000000000000000006170692e61736961746563682e636c6f7564) |
-| 8 | `91.99.187.112` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.187.112&port=443&secret=ee151151151151151151151151151151156D656469612E737465616D706F77657265642E636F6D) |
-| 9 | `185.105.90.16` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.105.90.16&port=443&secret=ee6575860df1848335b7110ca37d01f14a7777772e66616365626f6f6b2e636f6d) |
-| 12 | `koche-paskoche.younum-c.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=koche-paskoche.younum-c.co.uk&port=443&secret=dd638becf0fe989caa21b10797ad4d1c38) |
-| 18 | `op.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=op.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 1 | `arvan.irpower-g.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=arvan.irpower-g.ir&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 2 | `brenj-rice.birjikala.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=brenj-rice.birjikala.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 9 | `91.99.194.148` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.194.148&port=443&secret=ee151151151151151151151151151151156D656469612E737465616D706F77657265642E636F6D) |
+| 11 | `en.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=en.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

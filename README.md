@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:48 23-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:17 23-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 9 | `asiateck.shahrnetfarangsarashatelcenter.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=asiateck.shahrnetfarangsarashatelcenter.co.uk&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 13 | `49.12.195.117` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=49.12.195.117&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d) |
-| 15 | `cranberry-8044.kosekharejandatunpedarkuniemadarsag.site` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cranberry-8044.kosekharejandatunpedarkuniemadarsag.site&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
+| 8 | `Iphone-windows.bozorgavar-game.ir.` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Iphone-windows.bozorgavar-game.ir.&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 9 | `154.64.243.69` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=154.64.243.69&port=443&secret=ee3cf87a31a783f101c52036db860619ed73332e616d617a6f6e6177732e636f6d) |
+| 17 | `ultra.transiiantanialnmiomana.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ultra.transiiantanialnmiomana.info&port=443&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

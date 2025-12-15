@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:06 24-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:03 24-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `195.18.10.219` | `2222` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.18.10.219&port=2222&secret=dd79e70102001e7807f0104386124c0479) |
-| 4 | `sadra.mygrade.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sadra.mygrade.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 8 | `51.83.22.231` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=51.83.22.231&port=443&secret=ee79e7010200010007f0030386e24c3add646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
-| 11 | `proxy.digitalvpn.org` | `6677` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.digitalvpn.org&port=6677&secret=282d0f23889cf7ecc65d3bcd8d1264cc) |
-| 12 | `longliveforiran.link-a1.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=longliveforiran.link-a1.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 17 | `mon.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mon.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 2 | `146.185.208.135` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=146.185.208.135&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
+| 9 | `14.102.10.43` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.43&port=85&secret=ee0c30628212cbbd7ac519130205525d1569612e737465616d706f77657265642e636f6d) |
+| 13 | `45.76.184.13` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.76.184.13&port=9443&secret=2adab36179e7a39026adf74034615248) |
+| 16 | `pof.khorshidiice.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pof.khorshidiice.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

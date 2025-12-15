@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:49 24-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:15 24-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `43.160.204.229` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.160.204.229&port=12432&secret=dd7528a1f3b29f83943eb47d3fcc59e66e) |
-| 18 | `165.22.58.33` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=165.22.58.33&port=443&secret=ee1ee54df601094428903410c6c068de9f7777772e6d6963726f736f66742e636f6d) |
-| 19 | `optimal.irpower-f.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=optimal.irpower-f.ir&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 5 | `47.76.254.247` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.254.247&port=443&secret=ee8a55b9af2f44924d9521cb6b5dac4f7c617a7572652e6d6963726f736f66742e636f6d) |
+| 11 | `195.18.10.216` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.18.10.216&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
+| 14 | `oo.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=oo.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

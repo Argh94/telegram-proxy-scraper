@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:13 25-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:28 25-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `54.37.131.98` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=54.37.131.98&port=443&secret=eeeea780780780780780780780780780782d2d2d2d2d2d6c697374732e63656e746f732e6f72672d2d2d2d2d2d) |
-| 7 | `ru.vpn-club-service.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ru.vpn-club-service.ru&port=443&secret=8a5e461dcf06376798d7fe6a78948875) |
-| 11 | `62.60.177.198` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.177.198&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 12 | `49.12.14.48` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=49.12.14.48&port=443&secret=ee00000000000000000000000000000000636f6e736f6c652e6865747a6e65722e636c6f7564) |
-| 13 | `157.90.16.254` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=157.90.16.254&port=443&secret=eef2024cc549cd43de99c649c86721b8e56c69622e617276616e636c6f75642e636f6d) |
-| 14 | `185.113.10.25` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.113.10.25&port=443&secret=dda79308820c94d55b56e17f834dc9d7a7) |
+| 1 | `best-ruter.eyvazi-master.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=best-ruter.eyvazi-master.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 3 | `139.59.133.255` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=139.59.133.255&port=443&secret=ee79e344818749bd7ac519130220c25d09636865636b2d686f73742e6e6574) |
+| 8 | `luxi.pxgamezone.com` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=luxi.pxgamezone.com&port=8443&secret=dd0a744e69c755efd02d65554ff6b1f02e) |
+| 16 | `www.hostingbartarpq.ir` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.hostingbartarpq.ir&port=8443&secret=a671f3b9a78e8ec8b6292986ebb5e1bf) |
+| 19 | `h---------------h-ir.utltrajahsgserver.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=h---------------h-ir.utltrajahsgserver.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

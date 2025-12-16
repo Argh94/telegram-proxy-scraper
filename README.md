@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:28 25-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:05 25-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `best-ruter.eyvazi-master.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=best-ruter.eyvazi-master.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 3 | `139.59.133.255` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=139.59.133.255&port=443&secret=ee79e344818749bd7ac519130220c25d09636865636b2d686f73742e6e6574) |
-| 8 | `luxi.pxgamezone.com` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=luxi.pxgamezone.com&port=8443&secret=dd0a744e69c755efd02d65554ff6b1f02e) |
-| 16 | `www.hostingbartarpq.ir` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.hostingbartarpq.ir&port=8443&secret=a671f3b9a78e8ec8b6292986ebb5e1bf) |
-| 19 | `h---------------h-ir.utltrajahsgserver.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=h---------------h-ir.utltrajahsgserver.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 3 | `5.35.33.235` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.33.235&port=443&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D160301020001000100000000000000000000000000000000) |
+| 13 | `38.180.12.193` | `12668` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=38.180.12.193&port=12668&secret=ee8bf9f373e4240cfd40586c05ab52f445617a7572652e6d6963726f736f66742e636f6d) |
+| 19 | `66.103.198.184` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=66.103.198.184&port=443&secret=eeeb33d19fde1c573a85478aff0c059533617a7572652e6d6963726f736f66742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

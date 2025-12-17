@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:54 26-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:03 26-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `203.32.26.38` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=203.32.26.38&port=443&secret=eee12e0bc73764df1d958ef418071c6d66617a7572652e6d6963726f736f66742e636f6d) |
-| 10 | `146.235.207.86` | `22124` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=146.235.207.86&port=22124&secret=ddd77ecc3d0cc0bbed1809bd5ae989e197) |
-| 11 | `phyzyk.nokande.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=phyzyk.nokande.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 14 | `response.cinere.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=response.cinere.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 6 | `mehrsam.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mehrsam.org&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 11 | `204.12.192.218` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=204.12.192.218&port=443&secret=ee1603010200010001fc030386e24c3add646f636b65722d6d6972726f722e6f7267) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

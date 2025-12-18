@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:58 27-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:14 27-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `germany.nuremberg.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=germany.nuremberg.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 15 | `138.201.32.173` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=138.201.32.173&port=443&secret=dd638becf0fe989caa21b10797ad4d1c38) |
-| 20 | `adab.adadb-1hgujoiah-xy1xutr095-tk.info` | `55` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=adab.adadb-1hgujoiah-xy1xutr095-tk.info&port=55&secret=ee79e7010200010007f0030386e24c3add646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
+| 4 | `optimal.irpower-f.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=optimal.irpower-f.ir&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 8 | `ultra.transiiantanialnmiomana.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ultra.transiiantanialnmiomana.info&port=443&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6D656469612E737465616D706F77657265642E636F6D) |
+| 11 | `bob.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bob.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 15 | `ultra.transiiantanialnmiomana.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ultra.transiiantanialnmiomana.info&port=443&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

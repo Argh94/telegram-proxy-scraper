@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:04 27-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:58 27-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `152.42.133.79` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=152.42.133.79&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d) |
-| 7 | `62.60.176.16` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.176.16&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 11 | `dl.upstorage.net` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dl.upstorage.net&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 12 | `65.21.108.27` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.21.108.27&port=443&secret=ee000000000000000000000000000000006d6170732e676f6f676c652e636f6d) |
-| 14 | `45.131.41.20` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.131.41.20&port=443&secret=dd6abcd1449791814b24e54fd97a041555) |
-| 15 | `a.10.mtproto.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=a.10.mtproto.ru&port=443&secret=ee211122223333444455556666777788887765622e736e6170636861742e636f6d) |
-| 18 | `116.202.247.247` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.202.247.247&port=443&secret=ee1603010200010001fc030386e24c3add733130312e646976617263646e2e636f6d16030102000100010000000000000000000000000000000000004000000000000000000000000000000000000000) |
+| 3 | `germany.nuremberg.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=germany.nuremberg.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 15 | `138.201.32.173` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=138.201.32.173&port=443&secret=dd638becf0fe989caa21b10797ad4d1c38) |
+| 20 | `adab.adadb-1hgujoiah-xy1xutr095-tk.info` | `55` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=adab.adadb-1hgujoiah-xy1xutr095-tk.info&port=55&secret=ee79e7010200010007f0030386e24c3add646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

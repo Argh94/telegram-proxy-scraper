@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:12 28-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:53 28-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `23.27.134.251` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=23.27.134.251&port=443&secret=eeb047976aa58be5f1dc7d5488814d824a617a7572652e6d6963726f736f66742e636f6d) |
-| 7 | `vip.apsdhvndhsia-xigeqgajhdf-tk-gq.info.` | `55` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vip.apsdhvndhsia-xigeqgajhdf-tk-gq.info.&port=55&secret=ee79e7010200010007f0030386e24c3add646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
-| 9 | `14.102.10.127` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.127&port=85&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d) |
-| 11 | `43.160.249.32` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.160.249.32&port=12432&secret=ddeaabea0b96a8e55f0f842afd282417d0) |
+| 5 | `43.160.204.229` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.160.204.229&port=12432&secret=dd7528a1f3b29f83943eb47d3fcc59e66e) |
+| 10 | `all_net_proxy_fast.iransearching.ir` | `8546` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=all_net_proxy_fast.iransearching.ir&port=8546&secret=ddb6cd187621ab3dfdb2abf7fb5be14589) |
+| 14 | `8.212.154.157` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.212.154.157&port=443&secret=eebcf30e18c6cdb4f99aa74602e8c55c29617a7572652e6d6963726f736f66742e636f6d) |
+| 17 | `78.140.245.45` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=78.140.245.45&port=443&secret=eea93c297d237f4756c1a01ffa9b2debb86177732e616d617a6f6e2e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

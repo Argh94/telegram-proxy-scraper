@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:51 29-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:09 29-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `hs.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hs.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 5 | `digitalvpn-proxy.ru` | `6677` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=digitalvpn-proxy.ru&port=6677&secret=73c03865b903152df8e00f8a519ca4a7) |
-| 6 | `ali.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ali.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 7 | `62.113.116.140` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.113.116.140&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 10 | `or.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=or.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 14 | `ping-great.ir.shopping-ai.ir` | `55` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ping-great.ir.shopping-ai.ir&port=55&secret=ee79e7010200010007f0030386e24c3add646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
-| 17 | `algortim.sayaair.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=algortim.sayaair.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 1 | `optimal.irpower-f.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=optimal.irpower-f.ir&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 5 | `14.102.10.125` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.125&port=85&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d) |
+| 6 | `het.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=het.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 8 | `op.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=op.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 11 | `154.29.158.63` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=154.29.158.63&port=443&secret=ee3cf87a31a783f101c52036db860619ed73332e616d617a6f6e6177732e636f6d) |
+| 14 | `148.135.125.185` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=148.135.125.185&port=443&secret=eea4323334bbfb781f6dad65202edb1fa6617a7572652e6d6963726f736f66742e636f6d) |
+| 17 | `47.250.178.236` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.250.178.236&port=443&secret=eec889f3e5aeba48fe79aa74db3aa8385a617a7572652e6d6963726f736f66742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

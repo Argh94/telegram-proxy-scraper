@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:50 29-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:57 29-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `5.78.77.99` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.78.77.99&port=443&secret=ee00000000000000000000000000000000616e6e6173682e636f6d) |
-| 9 | `teh.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=teh.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 19 | `link.irpower-e.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=link.irpower-e.ir&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 7 | `192.124.176.39` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=192.124.176.39&port=443&secret=ee796b22b5d19b15c416d559bef575521e617a7572652e6d6963726f736f66742e636f6d) |
+| 15 | `sadra.mygrade.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sadra.mygrade.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 18 | `185.21.14.158` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.14.158&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 20 | `195.18.10.216` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.18.10.216&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

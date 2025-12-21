@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:50 30-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:59 30-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `37.27.10.227` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.10.227&port=443&secret=ee0000000000000000000000000000000076616e2e6e616a76612e636f6d) |
-| 6 | `179.61.226.39` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=179.61.226.39&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
-| 15 | `142.132.190.166` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.132.190.166&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d) |
-| 16 | `mtpsg2.onetaplink.app` | `22124` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtpsg2.onetaplink.app&port=22124&secret=ddb7f01f7abec67bbaf227ce230659e08a) |
+| 4 | `47.76.254.7` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.254.7&port=443&secret=eebf930a4214023c0cd6005a0d93db37c7617a7572652e6d6963726f736f66742e636f6d) |
+| 15 | `copa.shokaling.addpo.co.lunahost360.ir` | `8787` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=copa.shokaling.addpo.co.lunahost360.ir&port=8787&secret=dda32b3ab8f498c4bc119d4ce711d758e3) |
+| 16 | `9443.iropt-f.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=9443.iropt-f.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 17 | `46.224.103.39` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.224.103.39&port=9741&secret=dd1040f00f0f775225fa8ccd9500cb9000) |
+| 18 | `116.203.149.201` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.149.201&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205726161682e6972) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

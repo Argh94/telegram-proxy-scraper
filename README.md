@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:48 30-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:17 30-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 7 | `today.notimetodie.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=today.notimetodie.info&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 11 | `185.10.72.52` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.10.72.52&port=443&secret=ee0000f00f0f775555fffffff5006e2e69686f73742d696f2e636c6f7564) |
+| 5 | `47.76.254.247` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.254.247&port=443&secret=ee8a55b9af2f44924d9521cb6b5dac4f7c617a7572652e6d6963726f736f66742e636f6d) |
+| 12 | `54.37.131.98` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=54.37.131.98&port=443&secret=eeeea780780780780780780780780780782d2d2d2d2d2d6c697374732e63656e746f732e6f72672d2d2d2d2d2d) |
+| 13 | `62.60.176.16` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.176.16&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 14 | `vip.apsdhvndhsia-xigeqgajhdf-tk-gq.info.` | `55` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vip.apsdhvndhsia-xigeqgajhdf-tk-gq.info.&port=55&secret=ee79e7010200010007f0030386e24c3add646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
+| 20 | `50.7.85.219` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=50.7.85.219&port=443&secret=ee1603010200010001fc030386e24c3add646f636b65722d6d6972726f722e6f7267) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

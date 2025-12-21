@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:31 30-09-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:01 30-09-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `62.60.176.183` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.176.183&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 6 | `sebro.sheshko.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sebro.sheshko.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 8 | `tala.arizo.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tala.arizo.org&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 17 | `154.64.243.31` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=154.64.243.31&port=443&secret=ee3cf87a31a783f101c52036db860619ed73332e616d617a6f6e6177732e636f6d) |
-| 20 | `87.229.100.214` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.229.100.214&port=8888&secret=79e344818749bd7ac519130220c25d09) |
+| 1 | `daemi-pr.shesh-station.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=daemi-pr.shesh-station.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 7 | `57.128.237.129` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=57.128.237.129&port=155&secret=dd79e344818749bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

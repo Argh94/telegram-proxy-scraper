@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:30 02-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:05 02-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 6 | `185.105.90.16` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.105.90.16&port=443&secret=ee6575860df1848335b7110ca37d01f14a7777772e66616365626f6f6b2e636f6d) |
-| 14 | `163.5.31.172` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=163.5.31.172&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
+| 8 | `response.cinere.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=response.cinere.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 9 | `irancell_proxy_fast.exirgameofficial.ir` | `720` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=irancell_proxy_fast.exirgameofficial.ir&port=720&secret=ddcdddea43ca8b8e0b6380c53172a9f8d7) |
+| 18 | `138.201.32.173` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=138.201.32.173&port=443&secret=dd638becf0fe989caa21b10797ad4d1c38) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

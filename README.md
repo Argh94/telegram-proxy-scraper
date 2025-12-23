@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:14 02-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:53 02-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 11 | `android-iphone-win.sinus-dc.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=android-iphone-win.sinus-dc.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 14 | `mtproto.telewebion.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtproto.telewebion.com&port=443&secret=ee000000000000000000000000000000006b6579) |
+| 4 | `germany.nuremberg.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=germany.nuremberg.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 12 | `45.94.214.208` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.94.214.208&port=443&secret=ee3d7ba0e0dca9cb2bf8df8f3445e5a5557777772e676f6f676c652e636f6d) |
+| 19 | `188.245.240.175` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=188.245.240.175&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

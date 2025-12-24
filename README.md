@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:28 03-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:05 03-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 7 | `frest.nano0omj.fastpromax.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=frest.nano0omj.fastpromax.co.uk&port=443&secret=6bc9cfe6b334121bde7c690eb1e7a867) |
-| 8 | `sebro.sheshko.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sebro.sheshko.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 12 | `43.155.74.97` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.155.74.97&port=443&secret=ee60832b3cd80f894e56850f294fb6b2b2617a7572652e6d6963726f736f66742e636f6d) |
-| 14 | `tew.khalije-fars.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tew.khalije-fars.org&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 20 | `188.245.68.209` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=188.245.68.209&port=443&secret=dd8218a39259a7a29aabb2dbafc31cb35d) |
+| 6 | `185.130.113.138` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.130.113.138&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
+| 11 | `63.141.252.204` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=63.141.252.204&port=443&secret=eee7ce9f4679bfc87bb93390ed56e2c9686170742d6d6972726f722e6f7267) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

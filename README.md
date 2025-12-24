@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:13 03-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:52 03-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `103.115.17.77` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=103.115.17.77&port=443&secret=eef00d579314849b86fad2f589d2adaa3a617a7572652e6d6963726f736f66742e636f6d) |
-| 14 | `amoxicillin.hyperantibiotic.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=amoxicillin.hyperantibiotic.info&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 16 | `47.76.224.162` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.224.162&port=443&secret=eea8a367f8e20de085ca9f34a66496b2db617a7572652e6d6963726f736f66742e636f6d) |
-| 19 | `23.88.41.166` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=23.88.41.166&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d) |
+| 11 | `212.113.123.226` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.113.123.226&port=8443&secret=eeaa18bf73742cecff6576b3fc0379a88e7777772e676f6f676c652e636f6d) |
+| 14 | `116.203.121.51` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.121.51&port=443&secret=1603010200010001fc030386e24c3add) |
+| 19 | `46.224.126.86` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.224.126.86&port=8888&secret=ddd77db43ee3721f0fcb40a4ff63b5cd27) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

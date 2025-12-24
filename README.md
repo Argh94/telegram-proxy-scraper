@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:05 03-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:56 03-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 6 | `185.130.113.138` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.130.113.138&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
-| 11 | `63.141.252.204` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=63.141.252.204&port=443&secret=eee7ce9f4679bfc87bb93390ed56e2c9686170742d6d6972726f722e6f7267) |
+| 1 | `68.233.124.248` | `1444` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=68.233.124.248&port=1444&secret=ee548593a9c0688f4f7d9d57377897d96473332e616d617a6f6e6177732e636f6d) |
+| 6 | `90.156.213.122` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=90.156.213.122&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
+| 7 | `148.135.125.186` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=148.135.125.186&port=443&secret=eebbe0b7f76cc00e7f763c6be51999d0c4617a7572652e6d6963726f736f66742e636f6d) |
+| 8 | `65.109.200.129` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.200.129&port=443&secret=d031ec82c886c485b17feb9945facd32) |
+| 16 | `kmz.gilanproduct.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=kmz.gilanproduct.ir&port=443&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6D656469612E737465616D706F77657265642E636F6D) |
+| 17 | `ai-proxy.wieltuahsdfk-jlafh-05.info` | `55` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ai-proxy.wieltuahsdfk-jlafh-05.info&port=55&secret=ee79e7010200010007f0030386e24c3add646F776E6C6F61642E77696E646F77737570646174652E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

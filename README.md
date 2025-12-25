@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:51 04-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:00 04-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 10 | `49.13.239.183` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=49.13.239.183&port=443&secret=eef0912426e90160d3d2cbb387eafeeeae74676a752e6f7267) |
-| 16 | `212.233.93.104` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.233.93.104&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
+| 1 | `land-konim.new-visioncity.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=land-konim.new-visioncity.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
+| 13 | `46.224.94.41` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.224.94.41&port=8888&secret=dd79e344818749bd7ac519130220c25d09) |
+| 14 | `168.119.250.230` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=168.119.250.230&port=443&secret=ee550fbe912b27753fa54a23c73ba806347765622e727562696b612e636f6d) |
+| 17 | `all.namli--binjzk.info` | `7878` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=all.namli--binjzk.info&port=7878&secret=DD104462821249bd7ac519130220c25d09) |
+| 19 | `mtpsg3.onetaplink.app` | `32332` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtpsg3.onetaplink.app&port=32332&secret=ddeaabea0b96a8e55f0f842afd282417d0) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

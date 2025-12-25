@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:13 04-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:31 04-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 6 | `91.98.122.149` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.98.122.149&port=22&secret=EECAE5E5E0E4700000000EEEAAAAAAAAAA7738773777367735773477337732773177772E6972) |
-| 10 | `179.61.226.27` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=179.61.226.27&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
-| 14 | `46.224.126.86` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.224.126.86&port=8888&secret=ddd77db43ee3721f0fcb40a4ff63b5cd27) |
-| 15 | `f---------------f-top.web1d10.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=f---------------f-top.web1d10.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 20 | `t.freedomconnect.xyz` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=t.freedomconnect.xyz&port=443&secret=eebe9ba010e83c95aa690b10c541d1db227777772e676f6f676c652e636f6d) |
+| 7 | `193.33.195.155` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=193.33.195.155&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
+| 11 | `b-----baran-----b-ir.get1mobileponster.ir` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=b-----baran-----b-ir.get1mobileponster.ir&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 12 | `49.13.236.7` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=49.13.236.7&port=443&secret=ee00000000000000000000000000000000646967696b616c612e636f6d) |
+| 14 | `49.12.195.117` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=49.12.195.117&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d) |
+| 20 | `91.98.149.63` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.98.149.63&port=443&secret=79e462833349bf1ac519130220c29080) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

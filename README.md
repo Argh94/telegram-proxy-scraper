@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:54 04-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:12 04-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `iran-vatan.magalaiash.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iran-vatan.magalaiash.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 8 | `212.233.77.95` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.233.77.95&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
-| 14 | `46.224.125.156` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.224.125.156&port=8888&secret=dd79e344818749bd7ac519130220c25d09) |
+| 1 | `error.irpower-b.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=error.irpower-b.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 12 | `91.99.187.112` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.187.112&port=443&secret=ee151151151151151151151151151151156D656469612E737465616D706F77657265642E636F6D) |
+| 15 | `192.142.1.99` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=192.142.1.99&port=443&secret=ee0123456789abcdef0123456789abcdef7777772e676f6f676c652e636f6d) |
+| 18 | `btc.rr-signal.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=btc.rr-signal.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

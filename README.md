@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:10 06-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:50 06-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 5 | `5.35.70.114` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.70.114&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
-| 7 | `194.120.230.76` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=194.120.230.76&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 9 | `mtpus1.onetaplink.app` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtpus1.onetaplink.app&port=12432&secret=ddd77ecc3d0cc0bbed1809bd5ae989e197) |
-| 14 | `163.5.31.163` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=163.5.31.163&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
-| 15 | `poy.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=poy.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 1 | `norobian.sinus-dc.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=norobian.sinus-dc.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
+| 14 | `185.10.72.52` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.10.72.52&port=443&secret=ee0000f00f0f775555fffffff5006e2e69686f73742d696f2e636c6f7564) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

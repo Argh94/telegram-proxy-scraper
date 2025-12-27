@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:49 06-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:10 06-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 8 | `65.108.52.231` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.108.52.231&port=443&secret=00000000000000000000000000000000) |
-| 9 | `tew.khalije-fars.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tew.khalije-fars.org&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 18 | `iproxyland_fast_alwaye_conect.asriranfun.com` | `6003` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iproxyland_fast_alwaye_conect.asriranfun.com&port=6003&secret=8e0c903eb5b592010569bd3da9475ccf) |
+| 17 | `proxy.filimo.news` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.filimo.news&port=443&secret=dd2c9935dcec47525aeb6d559d4bdd5a59) |
+| 19 | `163.5.31.172` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=163.5.31.172&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

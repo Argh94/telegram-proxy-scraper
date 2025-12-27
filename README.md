@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:52 06-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:10 06-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `dl.upstorage.net` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dl.upstorage.net&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 8 | `66.103.198.184` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=66.103.198.184&port=443&secret=eeeb33d19fde1c573a85478aff0c059533617a7572652e6d6963726f736f66742e636f6d) |
-| 19 | `103.158.74.91` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=103.158.74.91&port=443&secret=ee3bbdfafb231c09342d27bf59439233a5617a7572652e6d6963726f736f66742e636f6d) |
+| 5 | `5.35.70.114` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.70.114&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 7 | `194.120.230.76` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=194.120.230.76&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 9 | `mtpus1.onetaplink.app` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtpus1.onetaplink.app&port=12432&secret=ddd77ecc3d0cc0bbed1809bd5ae989e197) |
+| 14 | `163.5.31.163` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=163.5.31.163&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
+| 15 | `poy.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=poy.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

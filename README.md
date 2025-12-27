@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:50 06-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:59 06-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `norobian.sinus-dc.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=norobian.sinus-dc.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
-| 14 | `185.10.72.52` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.10.72.52&port=443&secret=ee0000f00f0f775555fffffff5006e2e69686f73742d696f2e636c6f7564) |
+| 2 | `46.224.103.39` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.224.103.39&port=9741&secret=dd1040f00f0f775225fa8ccd9500cb9000) |
+| 4 | `today.notimetodie.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=today.notimetodie.info&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 10 | `185.130.115.156` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.130.115.156&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
+| 16 | `vip.tiko-d.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vip.tiko-d.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

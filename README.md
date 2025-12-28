@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:02 07-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:52 07-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `157.90.16.254` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=157.90.16.254&port=443&secret=eef2024cc549cd43de99c649c86721b8e56c69622e617276616e636c6f75642e636f6d) |
-| 4 | `app.ultra.speed.dreamgold.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=app.ultra.speed.dreamgold.ir&port=443&secret=123195379d3eb384c8a73c51da087abc) |
-| 15 | `179.61.226.108` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=179.61.226.108&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
+| 1 | `116.203.235.40` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.235.40&port=443&secret=1603010200010001fc030386e24c3add) |
+| 5 | `65.21.107.132` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.21.107.132&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d) |
+| 7 | `longliveforiran.link-a1.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=longliveforiran.link-a1.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 14 | `65.21.1.2` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.21.1.2&port=443&secret=ee1603010200010001fc030386e24c3add70706c652e636f6d6d792e736861706172616b2e69722d646c2e676f6f676c652e636f6d2d666172616b61762e636f6d190902050004000400000000000000000000000000000000) |
+| 20 | `168.119.250.230` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=168.119.250.230&port=443&secret=ee550fbe912b27753fa54a23c73ba806347765622e727562696b612e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

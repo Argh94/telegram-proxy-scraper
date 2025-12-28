@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:50 07-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:00 07-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 11 | `89.110.90.23` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.90.23&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 14 | `154.64.243.69` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=154.64.243.69&port=443&secret=ee3cf87a31a783f101c52036db860619ed73332e616d617a6f6e6177732e636f6d) |
-| 19 | `185.130.115.156` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.130.115.156&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
+| 5 | `https.link-a1.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=https.link-a1.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 12 | `89.110.73.23` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.73.23&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 19 | `pashmacccccccccccccccccccccccccccccccccccc.cydianewland.ir` | `4443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pashmacccccccccccccccccccccccccccccccccccc.cydianewland.ir&port=4443&secret=ddb2c7bb161962ee822f51a2ae9404d89b) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

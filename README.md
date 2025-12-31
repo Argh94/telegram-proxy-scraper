@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:56 10-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:13 10-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,14 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 9 | `5.35.70.114` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.35.70.114&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
-| 11 | `116.203.245.195` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.245.195&port=443&secret=1603010200010001fc030386e24c3add) |
-| 12 | `89.110.77.233` | `165` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.77.233&port=165&secret=dd79e462833349bf1ac519130220c25d10) |
-| 13 | `143.198.205.203` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=143.198.205.203&port=443&secret=ee3f3a60978bb7c4ff5ad15e3d23a5a3e9626c6f672e636c6f7564666c6172652e636f6d) |
-| 16 | `pof.khorshidiice.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pof.khorshidiice.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 20 | `mtpsg2.onetaplink.app` | `22124` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtpsg2.onetaplink.app&port=22124&secret=ddb7f01f7abec67bbaf227ce230659e08a) |
+| 1 | `68.233.124.248` | `1444` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=68.233.124.248&port=1444&secret=ee548593a9c0688f4f7d9d57377897d96473332e616d617a6f6e6177732e636f6d) |
+| 3 | `pes2021-update2025.magalaiash.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pes2021-update2025.magalaiash.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 4 | `47.76.89.206` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.89.206&port=443&secret=ee2a397f49280c91b86fc013a7da70fd1b617a7572652e6d6963726f736f66742e636f6d) |
+| 5 | `89.110.76.65` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.76.65&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 8 | `darsad.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=darsad.org&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 12 | `98.link-a2.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=98.link-a2.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 17 | `43.160.249.32` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.160.249.32&port=12432&secret=ddeaabea0b96a8e55f0f842afd282417d0) |
+| 20 | `188.34.159.181` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=188.34.159.181&port=443&secret=eed3674083a322d5440eacc4489e8b5dc76e74677265656e2e73686f70) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

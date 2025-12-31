@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:52 10-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:01 10-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `ping.ai-mygame.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ping.ai-mygame.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
-| 5 | `47.76.254.247` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.254.247&port=443&secret=ee8a55b9af2f44924d9521cb6b5dac4f7c617a7572652e6d6963726f736f66742e636f6d) |
-| 9 | `91.99.185.112` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.185.112&port=443&secret=dd8f3c1e92b74a65d0e1f4a927c5d8b3a1) |
-| 10 | `163.5.31.126` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=163.5.31.126&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
-| 17 | `darsad.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=darsad.org&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 1 | `wait.fiziotr.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=wait.fiziotr.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 8 | `62.60.176.188` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.176.188&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 11 | `pro.melinter.site` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pro.melinter.site&port=443&secret=dd45da47059d169d4d0e23b6f1f6c5ead8) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

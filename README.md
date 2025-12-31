@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:31 10-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:04 10-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `207.154.202.223` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=207.154.202.223&port=443&secret=ee79e344818749bd7ac519130220c25d097472616e736c6174652e676f6f) |
-| 6 | `pro.cafeshop1.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pro.cafeshop1.org&port=443&secret=ee5124b0c2dacd412d01fe245dd20c5628676f6f676c652e636f6d) |
-| 11 | `download.portsocket.net` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=download.portsocket.net&port=443&secret=dda79308820c94d55b56e17f834dc9d7a7) |
-| 19 | `179.61.226.108` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=179.61.226.108&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
+| 1 | `142.132.183.19` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.132.183.19&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d) |
+| 4 | `land-konim.new-visioncity.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=land-konim.new-visioncity.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
+| 8 | `74.48.74.23` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.48.74.23&port=443&secret=eecf5b77eabf1114a9a696eb420fc5353e617a7572652e6d6963726f736f66742e636f6d) |
+| 12 | `46.224.126.86` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.224.126.86&port=8888&secret=ddd77db43ee3721f0fcb40a4ff63b5cd27) |
+| 13 | `94.159.108.94` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=94.159.108.94&port=443&secret=876456e857cb27c481e1eb1fe9aec6dd) |
+| 20 | `103.126.50.38` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=103.126.50.38&port=443&secret=ee071071071071071071071071071071076d6963726f736f66742e636f6f) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

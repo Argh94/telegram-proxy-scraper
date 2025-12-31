@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:13 10-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:52 10-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `68.233.124.248` | `1444` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=68.233.124.248&port=1444&secret=ee548593a9c0688f4f7d9d57377897d96473332e616d617a6f6e6177732e636f6d) |
-| 3 | `pes2021-update2025.magalaiash.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pes2021-update2025.magalaiash.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 4 | `47.76.89.206` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.89.206&port=443&secret=ee2a397f49280c91b86fc013a7da70fd1b617a7572652e6d6963726f736f66742e636f6d) |
-| 5 | `89.110.76.65` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.76.65&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 8 | `darsad.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=darsad.org&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 12 | `98.link-a2.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=98.link-a2.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 17 | `43.160.249.32` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.160.249.32&port=12432&secret=ddeaabea0b96a8e55f0f842afd282417d0) |
-| 20 | `188.34.159.181` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=188.34.159.181&port=443&secret=eed3674083a322d5440eacc4489e8b5dc76e74677265656e2e73686f70) |
+| 1 | `ping.ai-mygame.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ping.ai-mygame.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
+| 5 | `47.76.254.247` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.254.247&port=443&secret=ee8a55b9af2f44924d9521cb6b5dac4f7c617a7572652e6d6963726f736f66742e636f6d) |
+| 9 | `91.99.185.112` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.185.112&port=443&secret=dd8f3c1e92b74a65d0e1f4a927c5d8b3a1) |
+| 10 | `163.5.31.126` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=163.5.31.126&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
+| 17 | `darsad.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=darsad.org&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

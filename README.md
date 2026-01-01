@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:23 11-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:40 11-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,7 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 8 | `179.61.226.98` | `733` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=179.61.226.98&port=733&secret=dd79e344818749bd7ac519130220c25d09) |
+| 3 | `51.159.157.218` | `7743` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=51.159.157.218&port=7743&secret=eedbe97246f57a3e90ccc1c3f25b8e15ef7777772e736974652e636f6d) |
+| 5 | `179.61.226.98` | `733` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=179.61.226.98&port=733&secret=dd79e344818749bd7ac519130220c25d09) |
+| 7 | `65.108.31.119` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.108.31.119&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000) |
+| 16 | `139.59.141.67` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=139.59.141.67&port=443&secret=eec80ff604fa45408f1d152624d3bffcf276616e2e6e616a76612e636f6d) |
+| 18 | `mtpjp1.onetaplink.app` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtpjp1.onetaplink.app&port=12432&secret=ddebeb7f379c5cdb9aa4e6f75f02a403bf) |
+| 20 | `belarus.gomel.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=belarus.gomel.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

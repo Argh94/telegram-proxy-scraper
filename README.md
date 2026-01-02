@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:12 12-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:53 12-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `shophashtagh.retete.sbs` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=shophashtagh.retete.sbs&port=443&secret=d1d6e111bada5511fcce9584deadbfdf) |
-| 9 | `91.98.68.232` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.98.68.232&port=8888&secret=ddd77db43ee3721f0fcb40a4ff63b5cd27) |
-| 11 | `139.59.15.110` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=139.59.15.110&port=443&secret=ee79e344818749bd7ac519130220c25d096d792e7461782e676f762e6972) |
-| 19 | `103.161.35.60` | `13` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=103.161.35.60&port=13&secret=ee79e462821249bd7ac519130220c25d0964697661722E6972) |
+| 6 | `sad.darsad.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sad.darsad.org&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 14 | `185.105.90.16` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.105.90.16&port=443&secret=ee6575860df1848335b7110ca37d01f14a7777772e66616365626f6f6b2e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

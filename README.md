@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:53 12-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:01 12-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 6 | `sad.darsad.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sad.darsad.org&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 14 | `185.105.90.16` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.105.90.16&port=443&secret=ee6575860df1848335b7110ca37d01f14a7777772e66616365626f6f6b2e636f6d) |
+| 3 | `207.154.202.223` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=207.154.202.223&port=443&secret=ee79e344818749bd7ac519130220c25d097472616e736c6174652e676f6f) |
+| 5 | `proxy.filimo.news` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.filimo.news&port=443&secret=dd2c9935dcec47525aeb6d559d4bdd5a59) |
+| 10 | `iproxyland_fast_alwaye_conect.asriranfun.com` | `6003` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iproxyland_fast_alwaye_conect.asriranfun.com&port=6003&secret=8e0c903eb5b592010569bd3da9475ccf) |
+| 13 | `185.157.214.109` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.157.214.109&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 17 | `proxy-dag.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy-dag.ru&port=443&secret=ee94fc2b484af6e1e1c87e6576b33c257579612e7275) |
+| 20 | `194.120.230.25` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=194.120.230.25&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

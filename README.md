@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:10 13-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:50 13-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `tel.jojnet.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tel.jojnet.ir&port=443&secret=06da2b7fefae083f27092082227fc31f) |
-| 8 | `142.132.190.166` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.132.190.166&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d) |
-| 14 | `195.200.18.147` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.200.18.147&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 2 | `134.209.88.105` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=134.209.88.105&port=443&secret=eec80ff604fa45408f1d152624d3bffcf26b65746161626f6e6c696e652e636f6d) |
+| 13 | `taher.cpiu.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=taher.cpiu.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972) |
+| 14 | `212.233.77.95` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.233.77.95&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

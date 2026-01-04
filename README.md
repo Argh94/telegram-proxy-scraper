@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:51 14-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:11 14-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,7 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `mt.vip-server.ir` | `1102` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mt.vip-server.ir&port=1102&secret=eeb85514a4f3c91ea2b1f0fce5bfbdbfed7376312e646967696b616c612e636f6d) |
+| 12 | `444.atousa4sam.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=444.atousa4sam.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 14 | `62.113.112.38` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.113.112.38&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 16 | `90.156.216.171` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=90.156.216.171&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
+| 18 | `daemi-pr.shesh-station.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=daemi-pr.shesh-station.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

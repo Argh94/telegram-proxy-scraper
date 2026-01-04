@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:00 14-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:50 15-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `88.99.165.97` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=88.99.165.97&port=443&secret=dd638becf0fe989caa21b10797ad4d1c38) |
-| 13 | `khobsalam.atelierdelbellessere.it` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=khobsalam.atelierdelbellessere.it&port=443&secret=eed8da2a8d036a0561db4213dbbadc99e879656b74616e65742e636f6d2e666172617261716864692e636f6d2e76616e2e6e616a76612e636f6d2e6164736875622e69722e636c69636b7961622e636f6d2e73616261766973696f6e2e636f6d2e74617073656c6c2e6972) |
+| 1 | `142.171.72.110` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.171.72.110&port=443&secret=ee0be24a0afd6447eff14035ca18c54bcd617a7572652e6d6963726f736f66742e636f6d) |
+| 10 | `8.212.135.63` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.212.135.63&port=443&secret=eec5383d373c80e26d34dbd8d62b2a4995617a7572652e6d6963726f736f66742e636f6d) |
+| 12 | `medadbaknontab.safilo.sbs` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=medadbaknontab.safilo.sbs&port=443&secret=045e1cf522b40911dc193d35f9494946) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

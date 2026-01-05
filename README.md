@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:23 15-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:47 15-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `47.250.178.236` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.250.178.236&port=443&secret=eec889f3e5aeba48fe79aa74db3aa8385a617a7572652e6d6963726f736f66742e636f6d) |
-| 6 | `tg.candelix.net` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tg.candelix.net&port=443&secret=825e8a4ff87247505e24e7d5d0f5543e) |
-| 7 | `179.61.226.27` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=179.61.226.27&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
-| 9 | `mainmtproxy.filimo.news` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mainmtproxy.filimo.news&port=443&secret=ee2c9935dcec47525aeb6d559d4bdd5a597777772e7370656564746573742e6e6574) |
+| 1 | `5.161.143.180` | `4668` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.161.143.180&port=4668&secret=eef776c7567c89a36951fb84a782335ab07777772e636c6f7564666c6172652e636f6d) |
+| 6 | `olive-2546.kosekharejandatunpedarkuniemadarsag.site` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=olive-2546.kosekharejandatunpedarkuniemadarsag.site&port=443&secret=dd79e344818749bd7ac519130220c25d09) |
+| 15 | `195.18.10.33` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.18.10.33&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
+| 20 | `142.171.72.124` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.171.72.124&port=443&secret=ee1f7896c9805de81679fec08622c3ca69617a7572652e6d6963726f736f66742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

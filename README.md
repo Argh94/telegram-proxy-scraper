@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:03 15-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:18 15-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `longliveforiran.link-a1.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=longliveforiran.link-a1.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 4 | `amoxicillin.hyperantibiotic.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=amoxicillin.hyperantibiotic.info&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 5 | `23.88.41.166` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=23.88.41.166&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d) |
-| 8 | `14.102.10.110` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.110&port=85&secret=ee00ff000ff00fff5555fffffff5662e6b6f2d2d) |
-| 10 | `arvan.irpower-g.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=arvan.irpower-g.ir&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
-| 12 | `media.opensusebase.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=media.opensusebase.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 20 | `fast.nano.max.145268.poshalii.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=fast.nano.max.145268.poshalii.ir&port=443&secret=6bc9cfe6b334121bde7c690eb1e7a867) |
+| 2 | `87.229.100.81` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.229.100.81&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
+| 8 | `8080.link-a2.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8080.link-a2.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 12 | `62.60.177.204` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.177.204&port=8443&secret=ee6e94cd48f5739a89d96bff1dc47b50) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

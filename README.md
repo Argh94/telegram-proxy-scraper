@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:18 15-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:56 15-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `87.229.100.81` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.229.100.81&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
-| 8 | `8080.link-a2.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8080.link-a2.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 12 | `62.60.177.204` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.177.204&port=8443&secret=ee6e94cd48f5739a89d96bff1dc47b50) |
+| 1 | `163.5.31.146` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=163.5.31.146&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
+| 2 | `43.161.222.242` | `22335` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.161.222.242&port=22335&secret=dd48f19a3a20ab6a77c98abf837a9bfb1e) |
+| 5 | `lord.mygrade.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lord.mygrade.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 6 | `croatia.zagreb.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=croatia.zagreb.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 12 | `207.148.1.156` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=207.148.1.156&port=443&secret=dd7b2e55b65d2287934e580675da2c714b) |
+| 17 | `62.113.112.38` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.113.112.38&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

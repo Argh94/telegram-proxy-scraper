@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:06 16-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:58 16-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 5 | `128.140.44.219` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=128.140.44.219&port=443&secret=ee52c867dc75983faf4bb37f91d5164f0970726f746f6e6d61696c726d657a336c6f74636369707368746b6c65656765746f6c62373366756972676a3772346f34766675376f7a79642e6f6e696f6e) |
-| 6 | `74.211.107.142` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.211.107.142&port=443&secret=eedd1d21d5ff505d78ecd5ec955b65a420617a7572652e6d6963726f736f66742e636f6d) |
-| 13 | `103.3.60.129` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=103.3.60.129&port=443&secret=eef0912426e90160d3d2cbb387eafeeeae63646e2e646973636f72646170702e636f6d) |
-| 14 | `amoxicillin.hyperantibiotic.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=amoxicillin.hyperantibiotic.info&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 1 | `vasl.rubika-iir.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vasl.rubika-iir.co.uk&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d6d6972726f722d6b65726e656c2e6f7267) |
+| 2 | `37.27.18.76` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.18.76&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20563646e2e79656b74616e65742e636f6d) |
+| 10 | `media.dlacroonomic66.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=media.dlacroonomic66.com&port=443&secret=ee638becf0fe989caa21b10797ad4d1c386d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

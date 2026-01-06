@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:52 16-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:16 16-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 6 | `90.156.213.122` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=90.156.213.122&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
-| 8 | `pro.melinter.site` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pro.melinter.site&port=443&secret=dd45da47059d169d4d0e23b6f1f6c5ead8) |
-| 11 | `daem.fsaremi.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=daem.fsaremi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 1 | `63.141.252.204` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=63.141.252.204&port=443&secret=eee7ce9f4679bfc87bb93390ed56e2c9686170742d6d6972726f722e6f7267) |
+| 3 | `arizo.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=arizo.org&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 8 | `144.76.161.129` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=144.76.161.129&port=443&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000) |
+| 20 | `62.60.233.231.maksport.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.233.231.maksport.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

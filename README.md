@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:58 16-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:15 16-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `vasl.rubika-iir.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vasl.rubika-iir.co.uk&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d6d6972726f722d6b65726e656c2e6f7267) |
-| 2 | `37.27.18.76` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.18.76&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20563646e2e79656b74616e65742e636f6d) |
-| 10 | `media.dlacroonomic66.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=media.dlacroonomic66.com&port=443&secret=ee638becf0fe989caa21b10797ad4d1c386d656469612e737465616d706f77657265642e636f6d) |
+| 3 | `167.114.192.248` | `45666` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.114.192.248&port=45666&secret=dfd32c13c753ce5e2ecff303762b2c9b) |
+| 4 | `192.124.176.39` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=192.124.176.39&port=443&secret=ee796b22b5d19b15c416d559bef575521e617a7572652e6d6963726f736f66742e636f6d) |
+| 18 | `207.154.202.223` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=207.154.202.223&port=443&secret=ee79e344818749bd7ac519130220c25d097472616e736c6174652e676f6f) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

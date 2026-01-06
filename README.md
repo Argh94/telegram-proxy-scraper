@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:03 16-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:52 17-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `217.142.227.120` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=217.142.227.120&port=12432&secret=ddebeb7f379c5cdb9aa4e6f75f02a403bf) |
-| 13 | `216.9.225.97` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=216.9.225.97&port=443&secret=a4b93f8c7e5d21fa0c6e4b2d8f19c73a) |
-| 16 | `91.84.107.88` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.84.107.88&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
-| 17 | `138.201.129.245` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=138.201.129.245&port=443&secret=dd638becf0fe989caa21b10797ad4d1c38) |
-| 18 | `today.notimetodie.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=today.notimetodie.info&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 8 | `dagdagdag.mooo.com` | `4444` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dagdagdag.mooo.com&port=4444&secret=dd94fc2b484af6e1e1c87e6576b33c2575) |
+| 11 | `185.130.113.138` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.130.113.138&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:52 17-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:15 17-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 8 | `dagdagdag.mooo.com` | `4444` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dagdagdag.mooo.com&port=4444&secret=dd94fc2b484af6e1e1c87e6576b33c2575) |
-| 11 | `185.130.113.138` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.130.113.138&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
+| 7 | `65.108.84.7` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.108.84.7&port=443&secret=ee0000000000000000000000000000000064656570696e73616e652e636f6d) |
+| 8 | `45.93.170.26` | `3389` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.93.170.26&port=3389&secret=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee31302e31302e33342e3336) |
+| 9 | `47.76.254.7` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.254.7&port=443&secret=eebf930a4214023c0cd6005a0d93db37c7617a7572652e6d6963726f736f66742e636f6d) |
+| 17 | `43.160.250.52` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.160.250.52&port=12432&secret=ddb7f01f7abec67bbaf227ce230659e08a) |
+| 18 | `45.131.41.20` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.131.41.20&port=443&secret=dd6abcd1449791814b24e54fd97a041555) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

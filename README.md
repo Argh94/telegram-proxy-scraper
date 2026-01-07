@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:59 17-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:17 17-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `ops.video-fun-new.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ops.video-fun-new.com&port=443&secret=ee822aeb4af9ec4b449b24cbf0e35bffe87777772e6c696e6b6564696e2e636f6d) |
-| 13 | `vispord.pasargard.enj.vesala.xyz` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vispord.pasargard.enj.vesala.xyz&port=443&secret=eeaf1234567890abcdef1234567890abcd7777772e676f6f676c652e636f6d2e2d7570646174652e41414141412e41414141412e41414141412e41414141412e41414141412e41414141412e41414141412e4141414141) |
+| 4 | `179.61.226.39` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=179.61.226.39&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
+| 5 | `204.12.192.221` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=204.12.192.221&port=443&secret=ee1603010200010001fc030386e24c3add6170742d6b65726e656c2e6f7267) |
+| 7 | `178.20.43.19` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=178.20.43.19&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 9 | `49.12.14.48` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=49.12.14.48&port=443&secret=ee00000000000000000000000000000000636f6e736f6c652e6865747a6e65722e636c6f7564) |
+| 18 | `62.60.233.107.edshop.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.233.107.edshop.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

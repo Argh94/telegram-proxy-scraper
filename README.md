@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:34 17-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:05 17-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `212.233.93.104` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.233.93.104&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
-| 8 | `kiwi-9719.kosekharejandatunpedarkuniemadarsag.site` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=kiwi-9719.kosekharejandatunpedarkuniemadarsag.site&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
-| 20 | `15.204.147.97` | `4443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=15.204.147.97&port=4443&secret=ddb2c7bb161962ee822f51a2ae9404d89b) |
+| 2 | `212.113.123.226` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.113.123.226&port=8443&secret=eeaa18bf73742cecff6576b3fc0379a88e7777772e676f6f676c652e636f6d) |
+| 3 | `14.102.10.132` | `85` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14.102.10.132&port=85&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d) |
+| 8 | `188.34.176.45` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=188.34.176.45&port=9741&secret=dd1040f00f0f775225fa8ccd9500cb9000) |
+| 14 | `47.236.248.226` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.236.248.226&port=443&secret=ee0857670d0264d45aa725034b90631f5d617a7572652e6d6963726f736f66742e636f6d) |
+| 16 | `8080.link-a2.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8080.link-a2.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

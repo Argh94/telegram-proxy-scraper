@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:00 18-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:52 19-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,7 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `62.60.231.215` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.231.215&port=8443&secret=ddffb3ac5152869eefa510b26f6f49d975) |
-| 11 | `luxi.pxgamezone.com` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=luxi.pxgamezone.com&port=8443&secret=dd0a744e69c755efd02d65554ff6b1f02e) |
-| 20 | `51.159.157.218` | `7743` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=51.159.157.218&port=7743&secret=eedbe97246f57a3e90ccc1c3f25b8e15ef7777772e736974652e636f6d) |
+| 14 | `mtproxy-ru3.velvetvpn.xyz` | `7443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtproxy-ru3.velvetvpn.xyz&port=7443&secret=4a6a864e1701719b18819285d6c6c4a2) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

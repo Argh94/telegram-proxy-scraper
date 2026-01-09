@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:05 19-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:59 19-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,7 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `ops.video-fun-new.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ops.video-fun-new.com&port=443&secret=ee822aeb4af9ec4b449b24cbf0e35bffe87777772e6c696e6b6564696e2e636f6d) |
+| 1 | `pro.melinter.site` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pro.melinter.site&port=443&secret=dd45da47059d169d4d0e23b6f1f6c5ead8) |
+| 15 | `140.233.187.31` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=140.233.187.31&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 16 | `142.171.72.110` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.171.72.110&port=443&secret=ee0be24a0afd6447eff14035ca18c54bcd617a7572652e6d6963726f736f66742e636f6d) |
+| 17 | `146.190.229.203` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=146.190.229.203&port=443&secret=ee79e344818749bd7ac519130220c25d09636865636b2d686f73742e6e6574) |
+| 19 | `87.248.134.112` | `2222` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.112&port=2222&secret=dd79e70102001e7807f0104386124c0479) |
+| 20 | `47.76.89.206` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.89.206&port=443&secret=ee2a397f49280c91b86fc013a7da70fd1b617a7572652e6d6963726f736f66742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

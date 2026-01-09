@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:15 19-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:55 19-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,7 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `213.202.211.104` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=213.202.211.104&port=443&secret=ee8ee3f358d12e5e073b01a7e46f19b1a26b65746161626f6e6c696e652e636f6d) |
+| 4 | `47.76.254.247` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.254.247&port=443&secret=ee8a55b9af2f44924d9521cb6b5dac4f7c617a7572652e6d6963726f736f66742e636f6d) |
+| 5 | `mtpsg1.onetaplink.app` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtpsg1.onetaplink.app&port=12432&secret=dd5a066251675f4263f8d8b931f72fff6c) |
+| 12 | `178.20.43.19` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=178.20.43.19&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 14 | `47.250.119.71` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.250.119.71&port=443&secret=eeee1e431912f2e7703898998fa67c9940617a7572652e6d6963726f736f66742e636f6d) |
+| 15 | `mehrsam.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mehrsam.org&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

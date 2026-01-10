@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:28 20-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:02 20-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,7 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `mtpus1.onetaplink.app` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtpus1.onetaplink.app&port=12432&secret=ddd77ecc3d0cc0bbed1809bd5ae989e197) |
-| 15 | `ping.ai-mygame.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ping.ai-mygame.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
-| 16 | `tg.unibot.work` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tg.unibot.work&port=443&secret=dd4d90d8c4c45d25aa849135d4e73c27c7) |
-| 17 | `163.5.31.79` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=163.5.31.79&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
+| 20 | `giahi-vegeterian.khunebagh.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=giahi-vegeterian.khunebagh.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:52 21-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:12 21-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 12 | `daem.fsaremi.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=daem.fsaremi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 13 | `proxy.filimo.news` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.filimo.news&port=443&secret=dd2c9935dcec47525aeb6d559d4bdd5a59) |
-| 14 | `87.248.134.108` | `2222` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.108&port=2222&secret=dd79e70102001e7807f0104386124c0479) |
+| 1 | `62.60.176.10` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.176.10&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 11 | `193.17.95.36` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=193.17.95.36&port=443&secret=dd79e7010200010007f0030386e24c3add) |
+| 18 | `steam.world.adadb-1hgujoiah-xy1xutr095-tk.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=steam.world.adadb-1hgujoiah-xy1xutr095-tk.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

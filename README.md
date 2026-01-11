@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:03 21-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:52 21-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `netmeli.rangoshoes.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=netmeli.rangoshoes.ir&port=443&secret=515386b8c9f9febb29ec5cae911e86b1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA) |
-| 12 | `179.61.226.120` | `733` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=179.61.226.120&port=733&secret=dd79e344818749bd7ac519130220c25d09) |
-| 15 | `107.189.28.32` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=107.189.28.32&port=443&secret=eebe9ba010e83c95aa690b10c541d1db227777772e676f6f676c652e636f6d) |
+| 12 | `daem.fsaremi.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=daem.fsaremi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 13 | `proxy.filimo.news` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.filimo.news&port=443&secret=dd2c9935dcec47525aeb6d559d4bdd5a59) |
+| 14 | `87.248.134.108` | `2222` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.108&port=2222&secret=dd79e70102001e7807f0104386124c0479) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

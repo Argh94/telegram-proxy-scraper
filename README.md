@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:49 21-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:24 21-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 13 | `ffeacf25bb00f568d7a3540a472290a7c.downloaderpro.sbs` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ffeacf25bb00f568d7a3540a472290a7c.downloaderpro.sbs&port=443&secret=ee1a47f9b43670319f84638da3e45aaf) |
-| 19 | `43.155.74.97` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.155.74.97&port=443&secret=ee60832b3cd80f894e56850f294fb6b2b2617a7572652e6d6963726f736f66742e636f6d) |
-| 20 | `84.234.30.73` | `2095` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=84.234.30.73&port=2095&secret=dd702c64bb1c0d3ba6b2196f82f100fd5e) |
+| 1 | `116.202.247.247` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.202.247.247&port=443&secret=ee1603010200010001fc030386e24c3add733130312e646976617263646e2e636f6d16030102000100010000000000000000000000000000000000004000000000000000000000000000000000000000) |
+| 10 | `rahmat.darsad.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=rahmat.darsad.org&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 14 | `fr.vpn-club-service.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=fr.vpn-club-service.ru&port=443&secret=d36c46e19aa8b5e224ba506c2dbfa17a) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

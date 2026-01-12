@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:42 22-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:08 22-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `shophashtagh.retete.sbs` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=shophashtagh.retete.sbs&port=443&secret=d1d6e111bada5511fcce9584deadbfdf) |
-| 6 | `shortfilm.dlacroonomic66.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=shortfilm.dlacroonomic66.com&port=443&secret=ee638becf0fe989caa21b10797ad4d1c386d656469612e737465616d706f77657265642e636f6d) |
-| 10 | `87.248.134.100` | `2222` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.100&port=2222&secret=dd79e70102001e7807f0104386124c0479) |
-| 19 | `104.238.180.203` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=104.238.180.203&port=80&secret=ee000000000000000000000000000000006170692e61736961746563682e636c6f7564) |
+| 6 | `89.34.230.106` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.34.230.106&port=443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
+| 10 | `194.164.34.200` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=194.164.34.200&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 12 | `45.81.35.120` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.81.35.120&port=443&secret=34bea56aa827b78652b0ef8c855aba12) |
+| 13 | `vip.tiko-d.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vip.tiko-d.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

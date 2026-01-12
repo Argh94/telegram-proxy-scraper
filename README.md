@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:20 22-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:42 22-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 9 | `mtpsg2.onetaplink.app` | `22124` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtpsg2.onetaplink.app&port=22124&secret=ddb7f01f7abec67bbaf227ce230659e08a) |
-| 10 | `163.5.31.174` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=163.5.31.174&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
-| 14 | `95.216.82.104` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=95.216.82.104&port=8443&secret=dd79ee65acf6c575bd6f8b3c1ddc7107a3) |
-| 16 | `vasl.rubika-iir.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vasl.rubika-iir.co.uk&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d6d6972726f722d6b65726e656c2e6f7267) |
+| 4 | `shophashtagh.retete.sbs` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=shophashtagh.retete.sbs&port=443&secret=d1d6e111bada5511fcce9584deadbfdf) |
+| 6 | `shortfilm.dlacroonomic66.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=shortfilm.dlacroonomic66.com&port=443&secret=ee638becf0fe989caa21b10797ad4d1c386d656469612e737465616d706f77657265642e636f6d) |
+| 10 | `87.248.134.100` | `2222` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.100&port=2222&secret=dd79e70102001e7807f0104386124c0479) |
+| 19 | `104.238.180.203` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=104.238.180.203&port=80&secret=ee000000000000000000000000000000006170692e61736961746563682e636c6f7564) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

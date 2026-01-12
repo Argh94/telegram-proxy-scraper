@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:04 22-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:18 22-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 6 | `103.115.18.70` | `43128` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=103.115.18.70&port=43128&secret=ee4e80ab11b28e94dc50675c6d96a6c3c5636c6f7564666c6172652e636f6d) |
-| 11 | `46.224.178.26` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.224.178.26&port=8080&secret=a5e2073555dcf0e30a407a3cb0f5a961) |
-| 13 | `93.183.91.171` | `165` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=93.183.91.171&port=165&secret=dd79e462833349bf1ac519130220c25d10) |
+| 3 | `85.114.138.84` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.114.138.84&port=443&secret=1603010200010001fc030386e24c3add) |
+| 6 | `116.203.245.195` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.245.195&port=443&secret=1603010200010001fc030386e24c3add) |
+| 8 | `media.opensusebase.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=media.opensusebase.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 17 | `alpha.titanpx.info` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=alpha.titanpx.info&port=8888&secret=eeeefdcbdfdeacdfdedcfdaacdefdcdfff7777772e636c6f7564666c6172652e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

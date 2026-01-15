@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:08 25-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:53 26-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 8 | `57.129.95.177` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=57.129.95.177&port=443&secret=ee235259a42975595e29ded06bd1371d497777772e7363616c657161792e636f6d) |
-| 13 | `85.114.138.84` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.114.138.84&port=443&secret=1603010200010001fc030386e24c3add) |
-| 15 | `medadbaknontab.safilo.sbs` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=medadbaknontab.safilo.sbs&port=443&secret=045e1cf522b40911dc193d35f9494946) |
+| 3 | `194.164.34.200` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=194.164.34.200&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 7 | `91.99.209.184` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.209.184&port=443&secret=ee843dd3bd4c6c16114013adfac338c7cd7777772e636c6f7564666c6172652e636f6d) |
+| 12 | `mtpus1.onetaplink.app` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtpus1.onetaplink.app&port=12432&secret=ddd77ecc3d0cc0bbed1809bd5ae989e197) |
+| 16 | `62.60.176.10` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.176.10&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:16 26-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:34 26-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,7 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `168.222.252.215` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=168.222.252.215&port=443&secret=365a496ecc22d30370534b75ecc02630) |
-| 5 | `87.248.134.49` | `7443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.49&port=7443&secret=dd79e70102001e7807f0104386124c0479) |
-| 8 | `43.160.244.74` | `1735` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.160.244.74&port=1735&secret=ee724f56bb3bba3f712a53ac2c101fe88e777764782e636f6d) |
-| 9 | `freedomconnect.xyz` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=freedomconnect.xyz&port=443&secret=eebe9ba010e83c95aa690b10c541d1db227777772e676f6f676c652e636f6d) |
-| 17 | `87.248.149.182` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.149.182&port=443&secret=dd79e344818749bd7ac519130220c25d09) |
+| 9 | `vip.tiko-d.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vip.tiko-d.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

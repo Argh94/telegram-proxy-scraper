@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:15 26-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:56 26-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `iran.irpower-g.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iran.irpower-g.ir&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
-| 6 | `5.253.191.230` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.253.191.230&port=443&secret=6ea63f16082c83dae885959594989704) |
+| 5 | `94.131.3.26` | `6968` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=94.131.3.26&port=6968&secret=3aafeda568dda405b08d5a508ba66757) |
+| 7 | `terminatecanis.cinere.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=terminatecanis.cinere.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 11 | `80.89.224.120` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=80.89.224.120&port=443&secret=ee1f643e0ac5f27a2e9687f27fcb481dba7661727a657368332e636f6d) |
+| 16 | `luxi.pxgamezone.com` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=luxi.pxgamezone.com&port=8443&secret=dd0a744e69c755efd02d65554ff6b1f02e) |
+| 17 | `65.109.180.97` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.180.97&port=443&secret=ddf9b3d919c47a8ab6f1efc2a38c12a2cd63646e2e6a7364656c6976722e6e6574) |
+| 18 | `dagdagdag.mooo.com` | `4444` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dagdagdag.mooo.com&port=4444&secret=dd94fc2b484af6e1e1c87e6576b33c2575) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

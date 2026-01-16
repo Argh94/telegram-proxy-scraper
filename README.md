@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:53 26-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:16 26-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `194.164.34.200` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=194.164.34.200&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 7 | `91.99.209.184` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.209.184&port=443&secret=ee843dd3bd4c6c16114013adfac338c7cd7777772e636c6f7564666c6172652e636f6d) |
-| 12 | `mtpus1.onetaplink.app` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtpus1.onetaplink.app&port=12432&secret=ddd77ecc3d0cc0bbed1809bd5ae989e197) |
-| 16 | `62.60.176.10` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.176.10&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 3 | `168.222.252.215` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=168.222.252.215&port=443&secret=365a496ecc22d30370534b75ecc02630) |
+| 5 | `87.248.134.49` | `7443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.49&port=7443&secret=dd79e70102001e7807f0104386124c0479) |
+| 8 | `43.160.244.74` | `1735` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.160.244.74&port=1735&secret=ee724f56bb3bba3f712a53ac2c101fe88e777764782e636f6d) |
+| 9 | `freedomconnect.xyz` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=freedomconnect.xyz&port=443&secret=eebe9ba010e83c95aa690b10c541d1db227777772e676f6f676c652e636f6d) |
+| 17 | `87.248.149.182` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.149.182&port=443&secret=dd79e344818749bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

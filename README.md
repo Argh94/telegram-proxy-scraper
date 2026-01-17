@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:52 27-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:10 27-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `163.5.31.112` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=163.5.31.112&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
-| 18 | `198.16.107.93` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=198.16.107.93&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d) |
+| 6 | `alpha.titanpx.info` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=alpha.titanpx.info&port=8888&secret=eeeefdcbdfdeacdfdedcfdaacdefdcdfff7777772e636c6f7564666c6172652e636f6d) |
+| 12 | `broken.virtualheart.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=broken.virtualheart.info&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 16 | `217.142.227.120` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=217.142.227.120&port=12432&secret=ddebeb7f379c5cdb9aa4e6f75f02a403bf) |
+| 19 | `5.78.43.167` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.78.43.167&port=443&secret=ee643ce9490ec2a7f6c4cfa686afad39556d736e2e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

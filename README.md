@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:10 27-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:51 27-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 6 | `alpha.titanpx.info` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=alpha.titanpx.info&port=8888&secret=eeeefdcbdfdeacdfdedcfdaacdefdcdfff7777772e636c6f7564666c6172652e636f6d) |
-| 12 | `broken.virtualheart.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=broken.virtualheart.info&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 16 | `217.142.227.120` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=217.142.227.120&port=12432&secret=ddebeb7f379c5cdb9aa4e6f75f02a403bf) |
-| 19 | `5.78.43.167` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.78.43.167&port=443&secret=ee643ce9490ec2a7f6c4cfa686afad39556d736e2e636f6d) |
+| 3 | `5.161.52.236` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.161.52.236&port=443&secret=ee1100e547d760f0e3b53eb430c871f1886170706c652e636f6d) |
+| 4 | `83.147.252.64` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=83.147.252.64&port=443&secret=ee0452c85fed7aba8a05802eb7b8104ca97777772e636c6f7564666c6172652e636f6d) |
+| 10 | `nanomemory.shop` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=nanomemory.shop&port=443&secret=6bc9cfe6b334121bde7c690eb1e7a867) |
+| 12 | `51.159.166.112` | `7603` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=51.159.166.112&port=7603&secret=ee0ad565389bb264b33c81f11bd42c104b7777772e736974652e636f6d) |
+| 13 | `62.60.176.16` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.176.16&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 15 | `178.63.135.151` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=178.63.135.151&port=8443&secret=dd79e344818749bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:50 28-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:22 28-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `43.161.222.242` | `22335` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.161.222.242&port=22335&secret=dd48f19a3a20ab6a77c98abf837a9bfb1e) |
-| 12 | `185.105.90.16` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.105.90.16&port=443&secret=ee6575860df1848335b7110ca37d01f14a7777772e66616365626f6f6b2e636f6d) |
-| 14 | `91.99.194.148` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.194.148&port=443&secret=ee151151151151151151151151151151156D656469612E737465616D706F77657265642E636F6D) |
-| 18 | `5.161.52.236` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.161.52.236&port=443&secret=ee1100e547d760f0e3b53eb430c871f1886170706c652e636f6d) |
-| 19 | `mtproxy-de1.velvetvpn.xyz` | `7443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtproxy-de1.velvetvpn.xyz&port=7443&secret=4a6a864e1701719b18819285d6c6c4a2) |
+| 7 | `212.233.77.95` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.233.77.95&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
+| 15 | `46.224.103.39` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.224.103.39&port=9741&secret=dd1040f00f0f775225fa8ccd9500cb9000) |
+| 16 | `62.60.176.10` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.176.10&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 17 | `vasl.rubika-iir.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vasl.rubika-iir.co.uk&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d6d6972726f722d6b65726e656c2e6f7267) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

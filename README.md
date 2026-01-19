@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:06 29-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:21 29-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `89.34.230.106` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.34.230.106&port=443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
-| 5 | `154.83.87.203` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=154.83.87.203&port=443&secret=ee331432c07d11ba48e6334a691b03b3ef617a7572652e6d6963726f736f66742e636f6d) |
-| 6 | `1-0-0-1.esfand.itemdb.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=1-0-0-1.esfand.itemdb.com&port=443&secret=ee1603010200010001fc030386e24c3add733130302e646976617263646e2e636f6d) |
-| 13 | `43.163.104.123` | `8865` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.163.104.123&port=8865&secret=eedfd821faafa71b24441948db12755d827777772e74616f62616f2e636f6d) |
+| 10 | `43.155.74.97` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.155.74.97&port=443&secret=ee60832b3cd80f894e56850f294fb6b2b2617a7572652e6d6963726f736f66742e636f6d) |
+| 15 | `87.248.132.9` | `2222` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.9&port=2222&secret=dd79e70102001e7807f0104386124c0479) |
+| 20 | `proxy.event10800cpfree.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.event10800cpfree.com&port=443&secret=0d0d12dac2796f305b17df9b2c7bd65fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

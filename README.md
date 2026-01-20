@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:22 30-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 19:02 30-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `proxy.getph.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.getph.ru&port=443&secret=f4080579a2f18003843f03d3e6998234) |
-| 14 | `luxi.pxgamezone.com` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=luxi.pxgamezone.com&port=8443&secret=dd0a744e69c755efd02d65554ff6b1f02e) |
-| 15 | `87.248.132.42` | `2222` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.42&port=2222&secret=dd79e70102001e7807f0104386124c0479) |
-| 16 | `89.110.73.23` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.73.23&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 4 | `185.182.82.32` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.182.82.32&port=443&secret=eeb0940190df901370bac3296f2bd317dd7661727a657368332e636f6d) |
+| 6 | `163.5.31.146` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=163.5.31.146&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
+| 9 | `45.81.35.120` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.81.35.120&port=443&secret=34bea56aa827b78652b0ef8c855aba12) |
+| 10 | `185.157.214.109` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.157.214.109&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

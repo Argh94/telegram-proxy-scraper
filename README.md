@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 19:02 30-10-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:09 30-10-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `185.182.82.32` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.182.82.32&port=443&secret=eeb0940190df901370bac3296f2bd317dd7661727a657368332e636f6d) |
-| 6 | `163.5.31.146` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=163.5.31.146&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
-| 9 | `45.81.35.120` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.81.35.120&port=443&secret=34bea56aa827b78652b0ef8c855aba12) |
-| 10 | `185.157.214.109` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.157.214.109&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 4 | `157.90.16.254` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=157.90.16.254&port=443&secret=eef2024cc549cd43de99c649c86721b8e56c69622e617276616e636c6f75642e636f6d) |
+| 5 | `proxy.peppervpn.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.peppervpn.ru&port=443&secret=471b8371d6df2c003ffaa30533a99fac) |
+| 15 | `185.157.214.109` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.157.214.109&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 16 | `163.5.31.174` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=163.5.31.174&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
+| 17 | `mtproto.online` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtproto.online&port=443&secret=ee139e0ee36150c1ea3bf299796586b5457777772e7674622e7275) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

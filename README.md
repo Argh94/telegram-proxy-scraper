@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:04 02-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:21 02-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `mtpsg1.onetaplink.app` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtpsg1.onetaplink.app&port=12432&secret=dd5a066251675f4263f8d8b931f72fff6c) |
-| 2 | `37.27.18.198` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.18.198&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20562616c61642e6972) |
-| 15 | `today.notimetodie.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=today.notimetodie.info&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 16 | `163.5.31.51` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=163.5.31.51&port=65535&secret=104462821249bd7ac519130220c25d09) |
+| 14 | `51.159.165.172` | `7549` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=51.159.165.172&port=7549&secret=eeff9890eed0a3c6fbfafeb2608a4aedb37777772e736974652e636f6d) |
+| 20 | `140.245.122.38` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=140.245.122.38&port=12432&secret=dd5a066251675f4263f8d8b931f72fff6c) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

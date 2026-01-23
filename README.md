@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:01 03-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:18 03-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `198.16.107.93` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=198.16.107.93&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d) |
-| 6 | `62.60.237.62` | `2020` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.237.62&port=2020&secret=ee8ca267c75d3c076a8bca1d75466d65c9636861746770742e636f6d) |
-| 15 | `85.239.155.46` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.239.155.46&port=443&secret=ee0000f00f0f775555fffffff5006e2e697961686f6f2e636f6d) |
-| 16 | `proxy.codex-vpn.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.codex-vpn.ru&port=443&secret=ee3fbe95e68e560b9b58e408e13b22ad0d70726f78792d736e692e636f6465782d76706e2e7275) |
-| 17 | `longliveforiran.link-a1.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=longliveforiran.link-a1.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 3 | `62.113.112.38` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.113.112.38&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 4 | `87.248.132.148` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.148&port=65535&secret=dd10446282fffffffffff80000fff80000) |
+| 5 | `158.247.234.65` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=158.247.234.65&port=9443&secret=2adab36179e7a39026adf74034615248) |
+| 12 | `amoxicillin.hyperantibiotic.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=amoxicillin.hyperantibiotic.info&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 13 | `5.253.191.240` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.253.191.240&port=443&secret=6ea63f16082c83dae885959594989704) |
+| 19 | `195.201.129.93` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.201.129.93&port=8443&secret=Ee79e7010200010007f0030386e24c3add7777772e7370656564746573742e6e6574) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

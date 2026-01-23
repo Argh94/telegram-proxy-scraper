@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:57 03-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:05 03-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `mtphk1.onetaplink.app` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtphk1.onetaplink.app&port=12432&secret=ddd9d72f920c30b6bc231a477d64f759eb) |
-| 5 | `74.211.107.142` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.211.107.142&port=443&secret=eedd1d21d5ff505d78ecd5ec955b65a420617a7572652e6d6963726f736f66742e636f6d) |
-| 11 | `157.90.16.254` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=157.90.16.254&port=443&secret=eef2024cc549cd43de99c649c86721b8e56c69622e617276616e636c6f75642e636f6d) |
-| 20 | `8.212.154.157` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.212.154.157&port=443&secret=eebcf30e18c6cdb4f99aa74602e8c55c29617a7572652e6d6963726f736f66742e636f6d) |
+| 4 | `185.157.214.109` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.157.214.109&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 9 | `43.160.250.52` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.160.250.52&port=12432&secret=ddb7f01f7abec67bbaf227ce230659e08a) |
+| 18 | `proxy.whypn.com` | `1111` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.whypn.com&port=1111&secret=11111111111111111111111111111111) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

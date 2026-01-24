@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:01 04-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:50 05-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,8 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `188.245.68.209` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=188.245.68.209&port=443&secret=dd8218a39259a7a29aabb2dbafc31cb35d) |
-| 10 | `alpha.titanpx.info` | `8888` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=alpha.titanpx.info&port=8888&secret=eeeefdcbdfdeacdfdedcfdaacdefdcdfff7777772e636c6f7564666c6172652e636f6d) |
+| 1 | `mainmtproxy.filimo.news` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mainmtproxy.filimo.news&port=443&secret=ee2c9935dcec47525aeb6d559d4bdd5a597777772e7370656564746573742e6e6574) |
+| 5 | `87.248.132.25` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.25&port=65535&secret=ddffffffffffffffffffffffffffffffff) |
+| 13 | `syntax.ddnscdn.sbs` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=syntax.ddnscdn.sbs&port=443&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

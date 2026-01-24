@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:30 04-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:03 04-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `45.76.132.38` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.76.132.38&port=443&secret=ddfe5f46539dec9843c864afe7ecf23699) |
-| 7 | `5.161.20.49` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.161.20.49&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d) |
-| 10 | `151.243.217.29` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=151.243.217.29&port=155&secret=dd79e70102001e7807f0104386124c0479) |
-| 11 | `mtpus1.onetaplink.app` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtpus1.onetaplink.app&port=12432&secret=ddd77ecc3d0cc0bbed1809bd5ae989e197) |
-| 12 | `65.21.239.223` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.21.239.223&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000) |
-| 20 | `8.220.148.253` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.220.148.253&port=443&secret=eec0ecf9a017b9ca38a83672bc65a91912617a7572652e6d6963726f736f66742e636f6d) |
+| 8 | `digitalvpn-proxy.ru` | `6677` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=digitalvpn-proxy.ru&port=6677&secret=73c03865b903152df8e00f8a519ca4a7) |
+| 10 | `45.32.149.196` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.32.149.196&port=443&secret=dda1fd36331663951dbcebd3893e4658cf) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:52 04-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:12 04-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `213.202.211.104` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=213.202.211.104&port=443&secret=ee8ee3f358d12e5e073b01a7e46f19b1a26b65746161626f6e6c696e652e636f6d) |
-| 15 | `216.238.80.42` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=216.238.80.42&port=443&secret=dd6a04a448c929894468c798e92a5d6949) |
-| 19 | `87.248.132.69` | `2222` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.132.69&port=2222&secret=79e70102001e7807f0104386124c0479) |
+| 7 | `ops.video-fun-new.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ops.video-fun-new.com&port=443&secret=ee822aeb4af9ec4b449b24cbf0e35bffe87777772e6c696e6b6564696e2e636f6d) |
+| 13 | `47.76.254.7` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.254.7&port=443&secret=eebf930a4214023c0cd6005a0d93db37c7617a7572652e6d6963726f736f66742e636f6d) |
+| 15 | `proxy.event10800cpfree.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.event10800cpfree.com&port=443&secret=0d0d12dac2796f305b17df9b2c7bd65fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA) |
+| 19 | `193.17.95.81` | `2222` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=193.17.95.81&port=2222&secret=dd79e70102001e7807f0104386124c0479) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

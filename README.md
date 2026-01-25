@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:13 05-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:52 05-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 7 | `netmeli.rangoshoes.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=netmeli.rangoshoes.ir&port=443&secret=515386b8c9f9febb29ec5cae911e86b1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA) |
-| 8 | `87.248.149.164` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.149.164&port=443&secret=dd79e344818749bd7ac519130220c25d09) |
-| 12 | `87.248.134.108` | `2222` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.134.108&port=2222&secret=dd79e70102001e7807f0104386124c0479) |
-| 16 | `137.184.11.122` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=137.184.11.122&port=443&secret=eec4d42116432e4e1bb8d184f9f8dc1b627777772e6d6963726f736f66742e636f6d) |
-| 17 | `65.21.188.67` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.21.188.67&port=443&secret=ee000000000000000000000000000000007777772e636c6f7564666c6172652e636f6d) |
+| 1 | `142.171.72.81` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.171.72.81&port=443&secret=ee358a1606bad2a23976a65019f52c294c617a7572652e6d6963726f736f66742e636f6d) |
+| 7 | `148.135.125.185` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=148.135.125.185&port=443&secret=eea4323334bbfb781f6dad65202edb1fa6617a7572652e6d6963726f736f66742e636f6d) |
+| 15 | `165.22.58.33` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=165.22.58.33&port=443&secret=ee1ee54df601094428903410c6c068de9f7777772e6d6963726f736f66742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:47 06-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:09 06-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,8 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 6 | `5.161.20.49` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.161.20.49&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d) |
-| 10 | `dagdagdag.mooo.com` | `4444` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dagdagdag.mooo.com&port=4444&secret=dd94fc2b484af6e1e1c87e6576b33c2575) |
-| 12 | `45.76.184.13` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.76.184.13&port=9443&secret=2adab36179e7a39026adf74034615248) |
-| 13 | `65.108.31.119` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.108.31.119&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000) |
-| 15 | `195.254.165.50` | `2222` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.50&port=2222&secret=dd79e70102001e7807f0104386124c0479) |
-| 18 | `proxy.codex-proxy.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.codex-proxy.ru&port=443&secret=3fbe95e68e560b9b58e408e13b22ad0d) |
+| 5 | `dunhill-words.www.iran.ir.irancell.courses` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dunhill-words.www.iran.ir.irancell.courses&port=443&secret=ee32b920dffb51643028e2f6b878d4eac16b65746161626f6e6c696e652e636f6d) |
+| 10 | `77.238.239.178` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.238.239.178&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

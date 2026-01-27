@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:10 07-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:50 08-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 9 | `today.notimetodie.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=today.notimetodie.info&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
-| 10 | `161.97.113.87` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=161.97.113.87&port=443&secret=dd402d7c35d73d302ccd9c6ba8243a9430) |
-| 14 | `65.109.213.108` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.213.108&port=443&secret=dd75a459d4508a23eba00332c19e3442) |
+| 6 | `kyc.paradise-gold.space` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=kyc.paradise-gold.space&port=65535&secret=dd1201542440cbd23d7bb8b0d79045f73c) |
+| 16 | `116.203.235.40` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.235.40&port=443&secret=1603010200010001fc030386e24c3add) |
+| 17 | `proxy.filimo.news` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.filimo.news&port=443&secret=dd2c9935dcec47525aeb6d559d4bdd5a59) |
+| 18 | `91.98.122.149` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.98.122.149&port=22&secret=EECAE5E5E0E4700000000EEEAAAAAAAAAA7738773777367735773477337732773177772E6972) |
+| 19 | `178.162.241.26` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=178.162.241.26&port=155&secret=dd79e70102001e7807f0104386124c0479) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

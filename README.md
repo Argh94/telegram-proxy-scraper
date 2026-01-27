@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:55 07-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:22 07-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,15 +48,14 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `mtpus1.onetaplink.app` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtpus1.onetaplink.app&port=12432&secret=ddd77ecc3d0cc0bbed1809bd5ae989e197) |
-| 3 | `tg.candelix.net` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tg.candelix.net&port=443&secret=825e8a4ff87247505e24e7d5d0f5543e) |
-| 4 | `148.135.125.185` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=148.135.125.185&port=443&secret=eea4323334bbfb781f6dad65202edb1fa6617a7572652e6d6963726f736f66742e636f6d) |
-| 8 | `91.99.185.112` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.185.112&port=443&secret=dd8f3c1e92b74a65d0e1f4a927c5d8b3a1) |
-| 10 | `8.220.179.12` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.220.179.12&port=443&secret=eef3921d6d7551ff4601c25ab7b3167f5c617a7572652e6d6963726f736f66742e636f6d) |
-| 11 | `154.83.87.203` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=154.83.87.203&port=443&secret=ee331432c07d11ba48e6334a691b03b3ef617a7572652e6d6963726f736f66742e636f6d) |
-| 14 | `146.190.229.203` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=146.190.229.203&port=443&secret=ee79e344818749bd7ac519130220c25d09636865636b2d686f73742e6e6574) |
-| 15 | `167.235.232.149` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.235.232.149&port=443&secret=eeda6aa7c2ac619c060f355f3f173257377365676d656e742e70726f642e626964722e696f) |
-| 19 | `90.156.213.38` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=90.156.213.38&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
+| 1 | `77.221.151.133` | `4444` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.221.151.133&port=4444&secret=dd66881e6e1e6d1ff6666666616d66aeae) |
+| 5 | `163.5.31.79` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=163.5.31.79&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
+| 10 | `vasl.rubika-iir.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vasl.rubika-iir.co.uk&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d6d6972726f722d6b65726e656c2e6f7267) |
+| 11 | `91.99.167.130` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.167.130&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 14 | `159.89.202.220` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=159.89.202.220&port=443&secret=ee79e344818749bd7ac519130220c25d096d792e7461782e676f762e6972) |
+| 17 | `140.233.187.31` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=140.233.187.31&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 18 | `144.124.225.168` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=144.124.225.168&port=9741&secret=10408b3940c0488cd126599de2269080) |
+| 19 | `5.78.43.167` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.78.43.167&port=443&secret=ee643ce9490ec2a7f6c4cfa686afad39556d736e2e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

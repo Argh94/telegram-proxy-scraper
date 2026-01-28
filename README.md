@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:37 08-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:08 08-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `pro.melinter.site` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pro.melinter.site&port=443&secret=dd45da47059d169d4d0e23b6f1f6c5ead8) |
-| 5 | `wkrjf.rfqrvqev.vbrtbv.effvevvr3efftyy.ethgwearsfd.aevfc.tekvibe99.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=wkrjf.rfqrvqev.vbrtbv.effvevvr3efftyy.ethgwearsfd.aevfc.tekvibe99.ir&port=443&secret=ee00000000000000000000000000000000046c2e777f6f6766652e636f6d) |
-| 10 | `130.0.239.75` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=130.0.239.75&port=443&secret=eef9f48d41044f0225c1af64490ce88cda7777772e7a6f6f6d69742e6972) |
-| 17 | `192.248.176.10` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=192.248.176.10&port=443&secret=d79ce6447e2bd4c35fd9c61db59dad78) |
-| 18 | `91.98.149.63` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.98.149.63&port=443&secret=79e462833349bf1ac519130220c29080) |
-| 19 | `clock.pro.parvaz.skin` | `2095` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=clock.pro.parvaz.skin&port=2095&secret=2d7f4a8c9b0e1f3a5d6c7b8e4f2a9c1e) |
+| 13 | `8.212.154.157` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.212.154.157&port=443&secret=eebcf30e18c6cdb4f99aa74602e8c55c29617a7572652e6d6963726f736f66742e636f6d) |
+| 16 | `195.254.165.148` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.148&port=4455&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
+| 17 | `37.27.22.248` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.22.248&port=443&secret=ee08c672729aa5fae4dcf8cd8c36312e7573686579706f6f722e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

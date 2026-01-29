@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:58 09-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:18 09-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `185.215.247.10` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.215.247.10&port=4455&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
-| 11 | `olive-2546.kosekharejandatunpedarkuniemadarsag.site` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=olive-2546.kosekharejandatunpedarkuniemadarsag.site&port=443&secret=dd79e344818749bd7ac519130220c25d09) |
-| 14 | `204.12.192.218` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=204.12.192.218&port=443&secret=ee1603010200010001fc030386e24c3add646f636b65722d6d6972726f722e6f7267) |
-| 16 | `74.1.1.48` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.1.1.48&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
-| 17 | `91.98.149.63` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.98.149.63&port=443&secret=79e462833349bf1ac519130220c29080) |
-| 18 | `140.238.11.149` | `11443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=140.238.11.149&port=11443&secret=ee548593a9c0688f4f7d9d57377897d96473332e616d617a6f6e6177732e636f6d) |
+| 1 | `163.5.31.79` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=163.5.31.79&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
+| 11 | `74.1.1.52` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.1.1.52&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
+| 12 | `116.203.137.250` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.137.250&port=443&secret=ee1603010200010001fc030386e24c3add70706c652e636f6d6d792e736861706172616b2e69722d646c2e676f6f676c652e636f6d2d666172616b61762e636f6d190902050004000400000000000000000000000000000000) |
+| 19 | `kyc.paradise-gold.space` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=kyc.paradise-gold.space&port=65535&secret=dd1201542440cbd23d7bb8b0d79045f73c) |
+| 20 | `vasl.rubika-iir.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vasl.rubika-iir.co.uk&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d6d6972726f722d6b65726e656c2e6f7267) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

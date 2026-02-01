@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:02 12-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:21 12-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,14 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 7 | `proxy-dag.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy-dag.ru&port=443&secret=ee94fc2b484af6e1e1c87e6576b33c257579612e7275) |
-| 9 | `74.1.1.36` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.1.1.36&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
-| 11 | `148.135.100.217` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=148.135.100.217&port=443&secret=ee0022006cd42fb1dd1aa9c5eb9a6c38cb617a7572652e6d6963726f736f66742e636f6d) |
-| 16 | `74.211.109.136` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.211.109.136&port=443&secret=ee54d0cd5a229ea16b1457bbbc1afe59bd617a7572652e6d6963726f736f66742e636f6d) |
+| 1 | `116.203.62.79` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.62.79&port=6443&secret=e4b7e196fe87824d5367e49539d55269) |
+| 3 | `185.115.161.253` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.115.161.253&port=9443&secret=1603010200010001fc030386e24c3add) |
+| 8 | `s1.proxyhelp.cc` | `65085` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s1.proxyhelp.cc&port=65085&secret=dde5c3a1f7d9b2e4c6a8f0d2b4e6a8c0e2) |
+| 12 | `mtpx.CyberNigga2.com` | `9092` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtpx.CyberNigga2.com&port=9092&secret=dd4cdb8dbb13af3829a78f44de7bb26fc0) |
+| 16 | `medadbaknontab.safilo.sbs` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=medadbaknontab.safilo.sbs&port=443&secret=045e1cf522b40911dc193d35f9494946) |
+| 18 | `168.119.250.230` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=168.119.250.230&port=443&secret=ee550fbe912b27753fa54a23c73ba806347765622e727562696b612e636f6d) |
+| 19 | `digitalvpn-proxy.ru` | `6677` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=digitalvpn-proxy.ru&port=6677&secret=73c03865b903152df8e00f8a519ca4a7) |
+| 20 | `89.110.73.23` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.73.23&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

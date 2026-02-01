@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:21 12-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:56 12-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `116.203.62.79` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.62.79&port=6443&secret=e4b7e196fe87824d5367e49539d55269) |
-| 3 | `185.115.161.253` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.115.161.253&port=9443&secret=1603010200010001fc030386e24c3add) |
-| 8 | `s1.proxyhelp.cc` | `65085` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s1.proxyhelp.cc&port=65085&secret=dde5c3a1f7d9b2e4c6a8f0d2b4e6a8c0e2) |
-| 12 | `mtpx.CyberNigga2.com` | `9092` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtpx.CyberNigga2.com&port=9092&secret=dd4cdb8dbb13af3829a78f44de7bb26fc0) |
-| 16 | `medadbaknontab.safilo.sbs` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=medadbaknontab.safilo.sbs&port=443&secret=045e1cf522b40911dc193d35f9494946) |
-| 18 | `168.119.250.230` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=168.119.250.230&port=443&secret=ee550fbe912b27753fa54a23c73ba806347765622e727562696b612e636f6d) |
-| 19 | `digitalvpn-proxy.ru` | `6677` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=digitalvpn-proxy.ru&port=6677&secret=73c03865b903152df8e00f8a519ca4a7) |
-| 20 | `89.110.73.23` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.110.73.23&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 3 | `172.65.102.115` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
+| 9 | `74.1.1.35` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.1.1.35&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
+| 15 | `212.233.79.131` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.233.79.131&port=443&secret=dd6b3fb04444dbac55fef2da67c8c949) |
+| 17 | `185.215.247.111` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.215.247.111&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 19 | `74.1.1.46` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.1.1.46&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

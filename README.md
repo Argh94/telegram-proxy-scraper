@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 08:28 13-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:33 13-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `ave.khorshidiice.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ave.khorshidiice.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 6 | `198.16.107.90` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=198.16.107.90&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d) |
-| 8 | `free.tprox.net` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=free.tprox.net&port=443&secret=dd583de2881533667b60a718e9bf8049e9) |
-| 12 | `141.11.91.89` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=141.11.91.89&port=443&secret=e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9) |
-| 14 | `mtpsg3.onetaplink.app` | `32332` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtpsg3.onetaplink.app&port=32332&secret=ddeaabea0b96a8e55f0f842afd282417d0) |
-| 15 | `116.202.247.247` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.202.247.247&port=443&secret=ee1603010200010001fc030386e24c3add733130312e646976617263646e2e636f6d16030102000100010000000000000000000000000000000000004000000000000000000000000000000000000000) |
-| 20 | `144.76.161.129` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=144.76.161.129&port=443&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000) |
+| 2 | `mainmtproxy.filimo.news` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mainmtproxy.filimo.news&port=443&secret=ee2c9935dcec47525aeb6d559d4bdd5a597777772e7370656564746573742e6e6574) |
+| 4 | `151.243.95.187` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=151.243.95.187&port=443&secret=6473d64dfb9d031b999eabec8477d6ba) |
+| 6 | `s2.proxyhelp.cc` | `65501` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s2.proxyhelp.cc&port=65501&secret=dde5c3a1f7d9b2e4c6a8f0d2b4e6a8c0e2) |
+| 12 | `185.215.247.111` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.215.247.111&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 13 | `51.91.85.226` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=51.91.85.226&port=443&secret=00112233445566778899aabbccddeeff) |
+| 19 | `185.215.247.44` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.215.247.44&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

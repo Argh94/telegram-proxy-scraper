@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:22 13-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:30 13-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `162.55.153.173` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=162.55.153.173&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000) |
-| 2 | `47.236.248.226` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.236.248.226&port=443&secret=ee0857670d0264d45aa725034b90631f5d617a7572652e6d6963726f736f66742e636f6d) |
-| 11 | `dunhill-words.www.iran.ir.irancell.courses` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dunhill-words.www.iran.ir.irancell.courses&port=443&secret=ee32b920dffb51643028e2f6b878d4eac16b65746161626f6e6c696e652e636f6d) |
+| 6 | `91.98.201.80` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.98.201.80&port=8443&secret=dd7e049ca1a2d25d062d2c233c547a0d9e) |
+| 9 | `185.115.161.244` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.115.161.244&port=9443&secret=dd104462821249bd7ac519130220c25d09) |
+| 10 | `116.202.2.11` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.202.2.11&port=443&secret=dd79e344818749bd7ac519130220c25d09) |
+| 12 | `backend.chandplus.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=backend.chandplus.com&port=443&secret=ee796766928008632f04a82ff64abdabee6261636b656e642e6368616e64706c75732e636f6d) |
+| 13 | `141.11.87.223` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=141.11.87.223&port=443&secret=e8b7c6d5a4f3e2d1c0b9a8f7e6d5c4b3) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

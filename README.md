@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:33 13-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:22 13-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,9 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `mainmtproxy.filimo.news` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mainmtproxy.filimo.news&port=443&secret=ee2c9935dcec47525aeb6d559d4bdd5a597777772e7370656564746573742e6e6574) |
-| 4 | `151.243.95.187` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=151.243.95.187&port=443&secret=6473d64dfb9d031b999eabec8477d6ba) |
-| 6 | `s2.proxyhelp.cc` | `65501` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s2.proxyhelp.cc&port=65501&secret=dde5c3a1f7d9b2e4c6a8f0d2b4e6a8c0e2) |
-| 12 | `185.215.247.111` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.215.247.111&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
-| 13 | `51.91.85.226` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=51.91.85.226&port=443&secret=00112233445566778899aabbccddeeff) |
-| 19 | `185.215.247.44` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.215.247.44&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 1 | `162.55.153.173` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=162.55.153.173&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000) |
+| 2 | `47.236.248.226` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.236.248.226&port=443&secret=ee0857670d0264d45aa725034b90631f5d617a7572652e6d6963726f736f66742e636f6d) |
+| 11 | `dunhill-words.www.iran.ir.irancell.courses` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dunhill-words.www.iran.ir.irancell.courses&port=443&secret=ee32b920dffb51643028e2f6b878d4eac16b65746161626f6e6c696e652e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

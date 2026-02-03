@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:31 14-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 19:21 14-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `161.97.113.87` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=161.97.113.87&port=443&secret=dd402d7c35d73d302ccd9c6ba8243a9430) |
-| 4 | `185.3.200.15` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.15&port=2053&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 7 | `8.220.179.12` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.220.179.12&port=443&secret=eef3921d6d7551ff4601c25ab7b3167f5c617a7572652e6d6963726f736f66742e636f6d) |
-| 11 | `57.129.95.177` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=57.129.95.177&port=443&secret=ee235259a42975595e29ded06bd1371d497777772e7363616c657161792e636f6d) |
-| 12 | `31.24.253.6` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=31.24.253.6&port=9443&secret=1603010200010001fc030386e24c3add) |
-| 14 | `tess.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tess.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 16 | `185.215.247.89` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.215.247.89&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 6 | `212.233.77.95` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.233.77.95&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
+| 7 | `web.yektanet.com.borcatsion.info.` | `8008` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=web.yektanet.com.borcatsion.info.&port=8008&secret=ee1603010200010001fc030386e24c3ad37765622e79656b74616e65742e636f6d) |
+| 10 | `lord.mygrade.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lord.mygrade.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 11 | `proxy.jubaoku.com` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.jubaoku.com&port=9443&secret=2adab36179e7a39026adf74034615248) |
+| 13 | `65.109.43.120` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.43.120&port=443&secret=dd79e344818749bd7ac519130220c25d09) |
+| 15 | `185.3.200.100` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.100&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 18 | `185.3.200.200` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.200&port=4455&secret=ee16dead0200014152beef03c0ffee9add626973636F7474692E79656B74616E65742E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

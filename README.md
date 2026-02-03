@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:14 13-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:38 14-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `proxy2.codex-proxy.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy2.codex-proxy.ru&port=443&secret=3fbe95e68e560b9b58e408e13b22ad0d) |
-| 8 | `78.140.245.45` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=78.140.245.45&port=443&secret=eea93c297d237f4756c1a01ffa9b2debb86177732e616d617a6f6e2e636f6d) |
-| 10 | `154.29.158.149` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=154.29.158.149&port=443&secret=ee3cf87a31a783f101c52036db860619ed73332e616d617a6f6e6177732e636f6d) |
-| 12 | `185.115.161.253` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.115.161.253&port=9443&secret=1603010200010001fc030386e24c3add) |
-| 15 | `45.144.174.95` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.144.174.95&port=443&secret=eec880322b62e5a4b1984360d7c6d5ed41617a7572652e6d6963726f736f66742e636f6d) |
+| 2 | `185.215.247.79` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.215.247.79&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 3 | `wkrjf.rfqrvqev.vbrtbv.effvevvr3efftyy.ethgwearsfd.aevfc.tekvibe99.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=wkrjf.rfqrvqev.vbrtbv.effvevvr3efftyy.ethgwearsfd.aevfc.tekvibe99.ir&port=443&secret=ee00000000000000000000000000000000046c2e777f6f6766652e636f6d) |
+| 8 | `t.freedomconnect.xyz` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=t.freedomconnect.xyz&port=443&secret=eebe9ba010e83c95aa690b10c541d1db227777772e676f6f676c652e636f6d) |
+| 10 | `vasl-mishim-021.ir.dash-cf9.info.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vasl-mishim-021.ir.dash-cf9.info.&port=443&secret=e9a4f23b1d768c04a8d7f39120ca5b6e) |
+| 11 | `tg.unibot.work` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tg.unibot.work&port=443&secret=dd4d90d8c4c45d25aa849135d4e73c27c7) |
+| 20 | `167.235.57.225` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.235.57.225&port=443&secret=dd00000000000000000000000000000000) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

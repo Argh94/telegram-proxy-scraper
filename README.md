@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:33 15-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 07:58 15-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `185.21.15.141` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.15.141&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 4 | `194.164.34.200` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=194.164.34.200&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 8 | `5.9.179.75` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.9.179.75&port=443&secret=ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d696e2e61707063656e7465722e6d732d2d2d2d2d2d) |
-| 9 | `nnn.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=nnn.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 19 | `49.12.14.48` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=49.12.14.48&port=443&secret=ee00000000000000000000000000000000636f6e736f6c652e6865747a6e65722e636c6f7564) |
+| 2 | `web.yektanet.com.borcatsion.info.` | `8008` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=web.yektanet.com.borcatsion.info.&port=8008&secret=ee1603010200010001fc030386e24c3ad37765622e79656b74616e65742e636f6d) |
+| 9 | `77.72.18.66` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.72.18.66&port=443&secret=ee643ce9490ec2a7f6c4cfa686afad39556d736e2e636f6d) |
+| 10 | `32.gilanproduct.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=32.gilanproduct.ir&port=443&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6D656469612E737465616D706F77657265642E636F6D) |
+| 13 | `5.75.199.133` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.75.199.133&port=443&secret=79e344818749bd7ac519130220c25d09) |
+| 15 | `1-0-0-1.esfand.itemdb.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=1-0-0-1.esfand.itemdb.com&port=443&secret=ee1603010200010001fc030386e24c3add733130302e646976617263646e2e636f6d) |
+| 17 | `142.54.189.108` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.54.189.108&port=443&secret=ee1603010200010001fc030386e24c3add646f636b65722d6d6972726f722e6f7267) |
+| 18 | `mt.vip-server.ir` | `1102` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mt.vip-server.ir&port=1102&secret=eeb85514a4f3c91ea2b1f0fce5bfbdbfed7376312e646967696b616c612e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

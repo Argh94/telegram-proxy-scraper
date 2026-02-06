@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 08:18 17-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:26 17-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,15 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 5 | `hamrah-rightel-irancell-desktop-android-full.mci-sys.info` | `9741` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hamrah-rightel-irancell-desktop-android-full.mci-sys.info&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 7 | `www.8tabage.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.8tabage.com&port=443&secret=79e7010200010007f0030386e24c3add) |
-| 8 | `83.166.254.200` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=83.166.254.200&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
-| 11 | `185.3.200.107` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.107&port=2053&secret=EE1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 14 | `185.215.247.79` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.215.247.79&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 15 | `65.108.31.119` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.108.31.119&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000) |
-| 17 | `47.76.254.247` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.254.247&port=443&secret=ee8a55b9af2f44924d9521cb6b5dac4f7c617a7572652e6d6963726f736f66742e636f6d) |
-| 18 | `51.159.157.218` | `7743` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=51.159.157.218&port=7743&secret=eedbe97246f57a3e90ccc1c3f25b8e15ef7777772e736974652e636f6d) |
+| 1 | `185.215.247.89` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.215.247.89&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 4 | `185.3.200.186` | `2054` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.186&port=2054&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 5 | `vasl-mishim-021.ir.dash-cf9.info.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vasl-mishim-021.ir.dash-cf9.info.&port=443&secret=e9a4f23b1d768c04a8d7f39120ca5b6e) |
+| 6 | `45.131.41.20` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.131.41.20&port=443&secret=dd6abcd1449791814b24e54fd97a041555) |
+| 10 | `77.246.103.217` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.246.103.217&port=443&secret=ee1603010200010001fc030386e24c3add666172616b61762e636f6d666172616b61762e636f6d666172616b61762e636f6d666172616b61762e636f6dee1603010200010001fc030386e24c3addee16) |
+| 11 | `45.143.167.111` | `20` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.143.167.111&port=20&secret=c7692d3e633c20b510da620b0c172fd5) |
+| 12 | `proxy.whypn.com` | `1111` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.whypn.com&port=1111&secret=11111111111111111111111111111111) |
+| 17 | `43.160.247.238` | `13145` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.160.247.238&port=13145&secret=ee17090c59ab806118212c6bb0845bae91617a7572652e6d6963726f736f66742e636f6d) |
+| 20 | `167.71.252.15` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.71.252.15&port=443&secret=eec6435eb0d4186b10a52aaaee8c45416c75706c6f6164626f792e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

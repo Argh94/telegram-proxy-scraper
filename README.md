@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:07 19-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:58 20-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,16 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `91.99.185.112` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.185.112&port=443&secret=dd8f3c1e92b74a65d0e1f4a927c5d8b3a1) |
-| 3 | `43.160.250.52` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.160.250.52&port=12432&secret=ddb7f01f7abec67bbaf227ce230659e08a) |
-| 5 | `tess.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tess.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 7 | `47.236.248.226` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.236.248.226&port=443&secret=ee0857670d0264d45aa725034b90631f5d617a7572652e6d6963726f736f66742e636f6d) |
-| 8 | `steam.world.adadb-1hgujoiah-xy1xutr095-tk.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=steam.world.adadb-1hgujoiah-xy1xutr095-tk.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 9 | `5.78.41.13` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.78.41.13&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 13 | `65.21.107.132` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.21.107.132&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d) |
-| 14 | `146.185.208.135` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=146.185.208.135&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
-| 15 | `154.29.158.204` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=154.29.158.204&port=443&secret=ee3cf87a31a783f101c52036db860619ed73332e616d617a6f6e6177732e636f6d) |
-| 18 | `43.161.222.242` | `22335` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.161.222.242&port=22335&secret=dd48f19a3a20ab6a77c98abf837a9bfb1e) |
+| 2 | `185.3.200.172` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.172&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 5 | `23.88.41.166` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=23.88.41.166&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d) |
+| 6 | `172.65.102.115` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
+| 7 | `37.27.248.245` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.248.245&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
+| 10 | `47.250.178.236` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.250.178.236&port=443&secret=eec889f3e5aeba48fe79aa74db3aa8385a617a7572652e6d6963726f736f66742e636f6d) |
+| 15 | `74.1.1.54` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.1.1.54&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
+| 19 | `91.239.192.113` | `15` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.113&port=15&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

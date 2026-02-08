@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:58 19-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 06:03 19-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,16 +48,15 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `185.245.107.102` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.245.107.102&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 3 | `mtphk1.onetaplink.app` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtphk1.onetaplink.app&port=12432&secret=ddd9d72f920c30b6bc231a477d64f759eb) |
-| 4 | `213.182.216.10` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=213.182.216.10&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 6 | `185.3.200.76` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.76&port=4455&secret=ee1603010200010001fc030386e24c3add6564676530312e31302e69722e63646e2e6972) |
-| 7 | `91.99.209.184` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.209.184&port=443&secret=ee843dd3bd4c6c16114013adfac338c7cd7777772e636c6f7564666c6172652e636f6d) |
-| 9 | `162.55.153.173` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=162.55.153.173&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000) |
-| 11 | `185.3.200.140` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.140&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 17 | `31.24.253.5` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=31.24.253.5&port=9443&secret=1603010200010001fc030386e24c3add) |
-| 19 | `backend.chandplus.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=backend.chandplus.com&port=443&secret=ee796766928008632f04a82ff64abdabee6261636b656e642e6368616e64706c75732e636f6d) |
-| 20 | `185.3.200.11` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.11&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 2 | `45.59.113.26` | `23` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.59.113.26&port=23&secret=dd79e344818749bd7ac519130220c25d09) |
+| 4 | `143.198.205.203` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=143.198.205.203&port=443&secret=ee3f3a60978bb7c4ff5ad15e3d23a5a3e9626c6f672e636c6f7564666c6172652e636f6d) |
+| 6 | `185.3.200.140` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.140&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 7 | `www.download-fast.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.download-fast.co.uk&port=443&secret=dd10dadd1e7c27a20098abb5bf53ca26a8) |
+| 9 | `optimal.irpower-f.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=optimal.irpower-f.ir&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d) |
+| 10 | `164.92.85.56` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=164.92.85.56&port=8443&secret=ee6b96a90543e55d4ea59e7e0ae9420d4931313661613832363239613931383530303864343866633361333139643363342e636f6d) |
+| 12 | `5.253.191.240` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.253.191.240&port=443&secret=6ea63f16082c83dae885959594989704) |
+| 16 | `info.pxgamezone.com` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=info.pxgamezone.com&port=8443&secret=dd7674d3915ac8e789efe361f1cbcde8da) |
+| 20 | `185.215.247.48` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.215.247.48&port=4455&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

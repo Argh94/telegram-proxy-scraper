@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:40 20-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 19:27 20-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,14 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `185.84.156.4` | `4505` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.84.156.4&port=4505&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6D656469612E737465616D706F77657265642E636F6D) |
-| 10 | `46.62.132.43` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.62.132.43&port=8443&secret=ee513ce659734d67125e7b245cf5edb2576170706c652e636f6d) |
-| 12 | `www.download-fast.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.download-fast.co.uk&port=443&secret=dd10dadd1e7c27a20098abb5bf53ca26a8) |
-| 13 | `5.78.77.99` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.78.77.99&port=443&secret=ee00000000000000000000000000000000616e6e6173682e636f6d) |
-| 18 | `t.freedomconnect.xyz` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=t.freedomconnect.xyz&port=443&secret=eebe9ba010e83c95aa690b10c541d1db227777772e676f6f676c652e636f6d) |
+| 2 | `172.86.76.128` | `23` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.86.76.128&port=23&secret=dd79e344818749bd7ac519130220c25d09) |
+| 4 | `31.14.116.90` | `8881` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=31.14.116.90&port=8881&secret=d5c800f66d61307eef845df0eb473a0b) |
+| 6 | `65.21.107.132` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.21.107.132&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d) |
+| 8 | `172.65.234.91` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.234.91&port=443&secret=ee79e344818749bd7ac519130220c25d0973706565642e636c6f7564666c6172652e636f6d) |
+| 10 | `80.240.18.94` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=80.240.18.94&port=443&secret=4ac6d939cbed720e6957a6217cfc78f3) |
+| 11 | `pro.melinter.site` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pro.melinter.site&port=443&secret=dd45da47059d169d4d0e23b6f1f6c5ead8) |
+| 14 | `185.3.200.74` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.74&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 19 | `141.11.87.223` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=141.11.87.223&port=443&secret=e8b7c6d5a4f3e2d1c0b9a8f7e6d5c4b3) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

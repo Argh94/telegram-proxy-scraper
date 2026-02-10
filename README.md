@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:36 21-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 01:13 22-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 8 | `185.3.200.222` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.222&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
-| 11 | `154.83.87.203` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=154.83.87.203&port=443&secret=ee331432c07d11ba48e6334a691b03b3ef617a7572652e6d6963726f736f66742e636f6d) |
-| 13 | `137.184.11.122` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=137.184.11.122&port=443&secret=eec4d42116432e4e1bb8d184f9f8dc1b627777772e6d6963726f736f66742e636f6d) |
-| 15 | `74.1.1.51` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.1.1.51&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
-| 16 | `www.alo-alo.ink` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.alo-alo.ink&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
-| 17 | `91.239.192.56` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.56&port=443&secret=eedd4a9f3c2e8b7d1f6a0c9e5b3f8d2a1c7777772e676f6f676c652e636f6d) |
-| 19 | `q4.opt-meli.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=q4.opt-meli.info&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 20 | `zob.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=zob.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4969646550726f78692e696f) |
+| 2 | `47.250.82.123` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.250.82.123&port=443&secret=eef631bcf18fff58648a922c6d8e37a1e1617a7572652e6d6963726f736f66742e636f6d) |
+| 3 | `157.180.77.54` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=157.180.77.54&port=443&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 4 | `www.borcatsion.info.` | `9009` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.borcatsion.info.&port=9009&secret=ee1603010200010001fc030386e24c3ad37765622e79656b74616e65742e636f6d) |
+| 6 | `142.132.190.166` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.132.190.166&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

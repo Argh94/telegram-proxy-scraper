@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 19:38 21-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:36 21-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,14 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `37.27.135.206` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.135.206&port=443&secret=dd0000f00f0f775555fffffff5006e2e69) |
-| 2 | `185.3.200.75` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.75&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
-| 4 | `176.114.75.53` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=176.114.75.53&port=443&secret=ee0000000000000000000000000000000163646e2e79656b74616e65742e636f6d) |
-| 5 | `65.21.28.22` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.21.28.22&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 7 | `45.93.170.26` | `3389` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.93.170.26&port=3389&secret=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee31302e31302e33342e3336) |
-| 12 | `www.n2.skin` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.n2.skin&port=8443&secret=dd10dadd1e7c27a20098abb5bf53ca26a8) |
-| 14 | `142.132.185.118` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.132.185.118&port=443&secret=ee008c3f6a9321de531462b058247cfd18676174657761792e696e7374616772616d2e636f6d) |
-| 20 | `91.239.192.21` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.21&port=65535&secret=10446282fffffffffff80000fff80000) |
+| 8 | `185.3.200.222` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.222&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 11 | `154.83.87.203` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=154.83.87.203&port=443&secret=ee331432c07d11ba48e6334a691b03b3ef617a7572652e6d6963726f736f66742e636f6d) |
+| 13 | `137.184.11.122` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=137.184.11.122&port=443&secret=eec4d42116432e4e1bb8d184f9f8dc1b627777772e6d6963726f736f66742e636f6d) |
+| 15 | `74.1.1.51` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.1.1.51&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
+| 16 | `www.alo-alo.ink` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.alo-alo.ink&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
+| 17 | `91.239.192.56` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.56&port=443&secret=eedd4a9f3c2e8b7d1f6a0c9e5b3f8d2a1c7777772e676f6f676c652e636f6d) |
+| 19 | `q4.opt-meli.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=q4.opt-meli.info&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 20 | `zob.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=zob.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4969646550726f78692e696f) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

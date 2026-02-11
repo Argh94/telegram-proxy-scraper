@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:40 22-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 19:33 22-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,17 +48,10 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `185.84.156.8` | `4515` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.84.156.8&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
-| 4 | `info.pxgamezone.com` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=info.pxgamezone.com&port=8443&secret=dd7674d3915ac8e789efe361f1cbcde8da) |
-| 5 | `107.189.28.32` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=107.189.28.32&port=443&secret=eebe9ba010e83c95aa690b10c541d1db227777772e676f6f676c652e636f6d) |
-| 7 | `t.freedomconnect.xyz` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=t.freedomconnect.xyz&port=443&secret=eebe9ba010e83c95aa690b10c541d1db227777772e676f6f676c652e636f6d) |
-| 11 | `91.239.192.21` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.21&port=65535&secret=10446282fffffffffff80000fff80000) |
-| 12 | `142.54.189.107` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.54.189.107&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d63656e746f732e6f7267) |
-| 15 | `172.65.102.115` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
-| 16 | `www.8tabage.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.8tabage.com&port=443&secret=79e7010200010007f0030386e24c3add) |
-| 18 | `162.55.156.240` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=162.55.156.240&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000) |
-| 19 | `167.71.244.84` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.71.244.84&port=443&secret=3ccb88191eaeb232085a570d281ecfc8) |
-| 20 | `213.182.216.10` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=213.182.216.10&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 5 | `91.239.192.213` | `15` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.213&port=15&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
+| 8 | `185.215.247.6` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.215.247.6&port=4455&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
+| 15 | `107.189.28.32` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=107.189.28.32&port=443&secret=eebe9ba010e83c95aa690b10c541d1db227777772e676f6f676c652e636f6d) |
+| 16 | `web.bale.ir.khaliliii.ir` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=web.bale.ir.khaliliii.ir&port=8443&secret=ee79e70102001e7807f0104386124c04797765622e62616c652e69722e6b68616c696c6969692e6972) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

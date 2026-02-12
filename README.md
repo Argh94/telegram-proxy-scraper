@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:34 23-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 01:04 24-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 9 | `185.3.200.17` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.17&port=2053&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 14 | `94.159.108.94` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=94.159.108.94&port=443&secret=876456e857cb27c481e1eb1fe9aec6dd) |
-| 15 | `185.3.200.185` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.185&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 16 | `balance-ee.elix.rip` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=balance-ee.elix.rip&port=443&secret=77e616b89815f53b5a2d2d4299fc7ede) |
-| 19 | `land-konim.new-visioncity.ir` | `1080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=land-konim.new-visioncity.ir&port=1080&secret=79e344818749bd7ac519130220c25d09) |
-| 20 | `91.239.192.239` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.239&port=4455&secret=ee1603010200010001fc030386e24c3add163646E2E79656B74616E65742E636F6D5C6E21402324255E262A28295F2B5C6E48414A5C6E486F737365696E) |
+| 3 | `162.19.175.95` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=162.19.175.95&port=443&secret=dd7f216fe9b238b009ac9067852fb47a19) |
+| 10 | `142.132.183.19` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.132.183.19&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d) |
+| 11 | `185.3.200.172` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.172&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 13 | `91.107.240.100` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.107.240.100&port=443&secret=e32f15320bfe9ede1fcc066c69d6a366) |
+| 19 | `mtproto-ru.wieldvpn.ru` | `6677` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtproto-ru.wieldvpn.ru&port=6677&secret=c6b8b7a46e53df63ae4d0df87d94d9cb) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

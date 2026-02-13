@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:21 24-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 01:06 25-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,18 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `130.0.239.75` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=130.0.239.75&port=443&secret=eef9f48d41044f0225c1af64490ce88cda7777772e7a6f6f6d69742e6972) |
-| 2 | `167.235.57.225` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.235.57.225&port=443&secret=dd00000000000000000000000000000000) |
-| 3 | `148.251.26.138` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=148.251.26.138&port=65535&secret=104462821249bd7ac519130220c25d09) |
-| 8 | `5.78.41.171` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.78.41.171&port=443&secret=ee643ce9490ec2a7f6c4cfa686afad39556d736e2e636f6d) |
-| 11 | `185.3.200.17` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.17&port=2053&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 17 | `nnn.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=nnn.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 18 | `1.darknamikonina.diy` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=1.darknamikonina.diy&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 3 | `172.105.94.36` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.105.94.36&port=443&secret=bf01588eb4257a2c791154d4756baba4) |
+| 5 | `185.84.156.7` | `1998` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.84.156.7&port=1998&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
+| 6 | `ali.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ali.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 7 | `ru.mtproto.online` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ru.mtproto.online&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
+| 8 | `37.27.135.206` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.135.206&port=443&secret=dd0000f00f0f775555fffffff5006e2e69) |
+| 9 | `potatofree.top` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=potatofree.top&port=443&secret=dd36c492218192a41afc3361f58379870a) |
+| 10 | `47.239.209.120` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.239.209.120&port=8443&secret=945fba78572867f57029dff098ab338f) |
+| 11 | `192.124.176.50` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=192.124.176.50&port=443&secret=ee51e73286585d8cf4f52b80d3236aa2c0617a7572652e6d6963726f736f66742e636f6d) |
+| 12 | `195.254.165.11` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.11&port=65535&secret=10446282fffffffffff80000fff80000) |
+| 13 | `185.3.200.104` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.104&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 17 | `172.65.146.238` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.146.238&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 18 | `194.164.34.200` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=194.164.34.200&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

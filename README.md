@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 19:13 24-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:21 24-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,15 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `185.84.156.8` | `4515` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.84.156.8&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
-| 4 | `5.78.43.167` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.78.43.167&port=443&secret=ee643ce9490ec2a7f6c4cfa686afad39556d736e2e636f6d) |
-| 5 | `193.39.15.115` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=193.39.15.115&port=443&secret=dd585256032fd8a78a0602ddd90f9c981f) |
-| 6 | `141.11.87.223` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=141.11.87.223&port=443&secret=e8b7c6d5a4f3e2d1c0b9a8f7e6d5c4b3) |
-| 9 | `rasm.tigerdr.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=rasm.tigerdr.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 12 | `ru.mtproto.online` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ru.mtproto.online&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
-| 13 | `167.71.244.84` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.71.244.84&port=443&secret=3ccb88191eaeb232085a570d281ecfc8) |
-| 15 | `185.3.200.186` | `2054` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.186&port=2054&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
-| 18 | `rkn.alibarda-ru.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=rkn.alibarda-ru.ru&port=443&secret=f7dd5040aba7e36b72e804d5d4b8173f) |
+| 1 | `130.0.239.75` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=130.0.239.75&port=443&secret=eef9f48d41044f0225c1af64490ce88cda7777772e7a6f6f6d69742e6972) |
+| 2 | `167.235.57.225` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.235.57.225&port=443&secret=dd00000000000000000000000000000000) |
+| 3 | `148.251.26.138` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=148.251.26.138&port=65535&secret=104462821249bd7ac519130220c25d09) |
+| 8 | `5.78.41.171` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.78.41.171&port=443&secret=ee643ce9490ec2a7f6c4cfa686afad39556d736e2e636f6d) |
+| 11 | `185.3.200.17` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.17&port=2053&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 17 | `nnn.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=nnn.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 18 | `1.darknamikonina.diy` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=1.darknamikonina.diy&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

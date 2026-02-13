@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:30 24-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 19:13 24-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,15 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `yaa.yandex-servs.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=yaa.yandex-servs.com&port=443&secret=afdc38b8068b2444e50f6a4f093751b5) |
-| 4 | `185.84.156.9` | `4515` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.84.156.9&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
-| 5 | `65.21.1.2` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.21.1.2&port=443&secret=ee1603010200010001fc030386e24c3add70706c652e636f6d6d792e736861706172616b2e69722d646c2e676f6f676c652e636f6d2d666172616b61762e636f6d190902050004000400000000000000000000000000000000) |
-| 6 | `165.22.58.33` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=165.22.58.33&port=443&secret=ee1ee54df601094428903410c6c068de9f7777772e6d6963726f736f66742e636f6d) |
-| 13 | `87.229.100.81` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.229.100.81&port=65535&secret=dd104462821249bd7ac519130220c25d09) |
-| 15 | `185.3.200.27` | `5555` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.27&port=5555&secret=eedd03010200010001fc030386e24c3a16626973636f7474692e79656b74616e65742e636f6d) |
-| 17 | `ali.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ali.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 19 | `testsss.ahang-alpha.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=testsss.ahang-alpha.ir&port=443&secret=dd8aeba52c0997d83e3b257bf7ce90884f) |
+| 2 | `185.84.156.8` | `4515` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.84.156.8&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
+| 4 | `5.78.43.167` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.78.43.167&port=443&secret=ee643ce9490ec2a7f6c4cfa686afad39556d736e2e636f6d) |
+| 5 | `193.39.15.115` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=193.39.15.115&port=443&secret=dd585256032fd8a78a0602ddd90f9c981f) |
+| 6 | `141.11.87.223` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=141.11.87.223&port=443&secret=e8b7c6d5a4f3e2d1c0b9a8f7e6d5c4b3) |
+| 9 | `rasm.tigerdr.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=rasm.tigerdr.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 12 | `ru.mtproto.online` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ru.mtproto.online&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
+| 13 | `167.71.244.84` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.71.244.84&port=443&secret=3ccb88191eaeb232085a570d281ecfc8) |
+| 15 | `185.3.200.186` | `2054` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.186&port=2054&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 18 | `rkn.alibarda-ru.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=rkn.alibarda-ru.ru&port=443&secret=f7dd5040aba7e36b72e804d5d4b8173f) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

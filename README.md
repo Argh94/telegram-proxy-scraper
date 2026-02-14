@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:19 25-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:57 25-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,16 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `45.142.189.184` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.142.189.184&port=443&secret=10408b3940c0488cd126599de2267080) |
-| 3 | `www.borcatsion.info.` | `9009` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.borcatsion.info.&port=9009&secret=ee1603010200010001fc030386e24c3ad37765622e79656b74616e65742e636f6d) |
-| 4 | `172.65.137.149` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.137.149&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 9 | `185.241.194.130` | `2443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.241.194.130&port=2443&secret=9c4a7e2d1f5086b3a9d2e4f607182c5a) |
-| 13 | `185.84.156.10` | `4515` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.84.156.10&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
-| 14 | `176.114.75.53` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=176.114.75.53&port=443&secret=ee0000000000000000000000000000000163646e2e79656b74616e65742e636f6d) |
-| 15 | `90.156.213.38` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=90.156.213.38&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
-| 19 | `185.3.200.14` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.14&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 2 | `74.1.1.34` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.1.1.34&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
+| 3 | `155.248.209.154` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=155.248.209.154&port=12432&secret=ddd77ecc3d0cc0bbed1809bd5ae989e197) |
+| 5 | `167.71.252.15` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.71.252.15&port=443&secret=eec6435eb0d4186b10a52aaaee8c45416c75706c6f6164626f792e636f6d) |
+| 8 | `testsss.ahang-alpha.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=testsss.ahang-alpha.ir&port=443&secret=dd8aeba52c0997d83e3b257bf7ce90884f) |
+| 11 | `im.amir4643.com` | `7443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=im.amir4643.com&port=7443&secret=76af7064650bc72a29aa55dab1cae7eb) |
+| 13 | `158.160.196.177` | `4242` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=158.160.196.177&port=4242&secret=0922b49dc244f3ff665a7bdebfe50b66) |
+| 15 | `185.84.156.8` | `4515` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.84.156.8&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
+| 16 | `91.98.122.149` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.98.122.149&port=22&secret=EECAE5E5E0E4700000000EEEAAAAAAAAAA7738773777367735773477337732773177772E6972) |
+| 17 | `mtp.inchost.org` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtp.inchost.org&port=8443&secret=eeaf98ca661b5cdae7449eb7047b9a69826d74702e696e63686f73742e6f7267) |
+| 20 | `www.website-best.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.website-best.info&port=443&secret=ee1603010200010001fc030386e24c3ad37765622e79656b74616e65742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

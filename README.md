@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:06 25-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:56 26-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,15 +48,17 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `172.65.155.129` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.155.129&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 4 | `185.3.200.6` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.6&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 6 | `185.3.200.11` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.11&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 10 | `185.3.200.18` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.18&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 12 | `mtpus1.onetaplink.app` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtpus1.onetaplink.app&port=12432&secret=ddd77ecc3d0cc0bbed1809bd5ae989e197) |
-| 17 | `proxy.event10800cpfree.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.event10800cpfree.com&port=443&secret=0d0d12dac2796f305b17df9b2c7bd65fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA) |
-| 18 | `172.65.157.213` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.157.213&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 19 | `mtpsg3.onetaplink.app` | `32332` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtpsg3.onetaplink.app&port=32332&secret=ddeaabea0b96a8e55f0f842afd282417d0) |
-| 20 | `37.27.18.76` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.18.76&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20563646e2e79656b74616e65742e636f6d) |
+| 1 | `91.99.209.184` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.209.184&port=443&secret=ee843dd3bd4c6c16114013adfac338c7cd7777772e636c6f7564666c6172652e636f6d) |
+| 3 | `95.179.170.71` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=95.179.170.71&port=443&secret=ee087576c42c25c5eba36d215835cc03) |
+| 4 | `154.83.87.203` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=154.83.87.203&port=443&secret=ee331432c07d11ba48e6334a691b03b3ef617a7572652e6d6963726f736f66742e636f6d) |
+| 7 | `medadbaknontab.safilo.sbs` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=medadbaknontab.safilo.sbs&port=443&secret=045e1cf522b40911dc193d35f9494946) |
+| 8 | `185.84.156.10` | `4515` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.84.156.10&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
+| 11 | `4.3pita.com` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=4.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 12 | `195.254.165.7` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.7&port=65535&secret=10446282fffffffffff80000fff80000) |
+| 13 | `172.65.158.169` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.158.169&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 14 | `5.78.41.171` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.78.41.171&port=443&secret=ee643ce9490ec2a7f6c4cfa686afad39556d736e2e636f6d) |
+| 17 | `172.65.158.12` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.158.12&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 19 | `185.3.200.21` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.21&port=2053&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

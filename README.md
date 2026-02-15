@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:08 26-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:55 27-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,15 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `195.254.165.6` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.6&port=65535&secret=10446282fffffffffff80000fff80000) |
-| 3 | `37.27.18.198` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.18.198&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20562616c61642e6972) |
-| 5 | `194.5.179.70` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=194.5.179.70&port=443&secret=dd99bc11728c0619c9ec350ad5320563b8) |
-| 7 | `185.84.156.4` | `4505` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.84.156.4&port=4505&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6D656469612E737465616D706F77657265642E636F6D) |
-| 9 | `37.156.45.86` | `2096` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.156.45.86&port=2096&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
-| 12 | `185.3.200.177` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.177&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 14 | `172.65.117.172` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.117.172&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
-| 20 | `https.alo-alo.ink` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=https.alo-alo.ink&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
+| 2 | `155.248.209.154` | `12432` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=155.248.209.154&port=12432&secret=ddd77ecc3d0cc0bbed1809bd5ae989e197) |
+| 4 | `172.65.146.238` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.146.238&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 6 | `webmaster.rashkapo.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=webmaster.rashkapo.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 8 | `balance-ee.elix.rip` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=balance-ee.elix.rip&port=443&secret=77e616b89815f53b5a2d2d4299fc7ede) |
+| 14 | `185.3.200.185` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.185&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 15 | `154.83.87.203` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=154.83.87.203&port=443&secret=ee331432c07d11ba48e6334a691b03b3ef617a7572652e6d6963726f736f66742e636f6d) |
+| 16 | `91.239.192.85` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.85&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 19 | `65.21.28.60` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.21.28.60&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 20 | `4.3pita.com` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=4.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

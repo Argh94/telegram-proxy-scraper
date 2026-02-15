@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:22 26-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:56 26-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,15 +48,18 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `indonesia.digitalresistance.dog` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=indonesia.digitalresistance.dog&port=443&secret=d41d8cd98f00b204e9800998ecf8427e) |
-| 8 | `185.115.161.253` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.115.161.253&port=9443&secret=1603010200010001fc030386e24c3add) |
-| 9 | `172.65.117.172` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.117.172&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
-| 11 | `45.76.33.204` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.76.33.204&port=443&secret=1639e5db5ab428d6d086081de64a830a) |
-| 13 | `45.192.249.101` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.192.249.101&port=443&secret=b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6) |
-| 15 | `37.156.45.86` | `2096` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.156.45.86&port=2096&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
-| 18 | `167.235.232.149` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.235.232.149&port=443&secret=eeda6aa7c2ac619c060f355f3f173257377365676d656e742e70726f642e626964722e696f) |
-| 19 | `right.link-a1.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=right.link-a1.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
-| 20 | `91.239.192.57` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.57&port=443&secret=dddddddddddddddddddddddddddddddddd) |
+| 2 | `157.180.77.54` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=157.180.77.54&port=443&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 3 | `194.5.179.70` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=194.5.179.70&port=443&secret=dd99bc11728c0619c9ec350ad5320563b8) |
+| 6 | `pl2.tropico.su` | `2444` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pl2.tropico.su&port=2444&secret=b709cecf44b69e900255385d987e0e9c) |
+| 7 | `23.88.46.216` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=23.88.46.216&port=443&secret=dd00000000000000000000000000000000) |
+| 9 | `tg1de.cenza.cloud` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tg1de.cenza.cloud&port=443&secret=3ba640f9c4a971236f3960fe56a3fa15) |
+| 10 | `www.duhpro.makeup` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.duhpro.makeup&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
+| 11 | `proxy.digitalresistance.dog` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.digitalresistance.dog&port=443&secret=d41d8cd98f00b204e9800998ecf8427e) |
+| 12 | `116.203.235.40` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.235.40&port=443&secret=1603010200010001fc030386e24c3add) |
+| 14 | `45.93.170.26` | `3389` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.93.170.26&port=3389&secret=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee31302e31302e33342e3336) |
+| 15 | `185.3.200.30` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.30&port=65535&secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d) |
+| 17 | `195.254.165.158` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.158&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 18 | `65.109.26.222` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.26.222&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

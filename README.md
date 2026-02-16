@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:34 27-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 19:11 27-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,16 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 8 | `mtpsg3.onetaplink.app` | `32332` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtpsg3.onetaplink.app&port=32332&secret=ddeaabea0b96a8e55f0f842afd282417d0) |
-| 11 | `47.76.89.206` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.89.206&port=443&secret=ee2a397f49280c91b86fc013a7da70fd1b617a7572652e6d6963726f736f66742e636f6d) |
-| 12 | `openimp.space` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=openimp.space&port=443&secret=075d7b345dc0222924ccea508c8edf91) |
-| 13 | `47.236.248.226` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.236.248.226&port=443&secret=ee0857670d0264d45aa725034b90631f5d617a7572652e6d6963726f736f66742e636f6d) |
-| 15 | `89.34.230.106` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.34.230.106&port=443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f) |
-| 17 | `webmaster.rashkapo.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=webmaster.rashkapo.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 18 | `72.56.102.104` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=72.56.102.104&port=443&secret=eed8223b129a62eafcdafc08c4513e6d0531632e7275) |
-| 20 | `185.84.156.6` | `2288` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.84.156.6&port=2288&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
+| 1 | `185.84.156.247` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.84.156.247&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 3 | `134.209.88.105` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=134.209.88.105&port=443&secret=eec80ff604fa45408f1d152624d3bffcf26b65746161626f6e6c696e652e636f6d) |
+| 7 | `3.3pita.com` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=3.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 9 | `74.1.1.34` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.1.1.34&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
+| 11 | `135.181.187.233` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=135.181.187.233&port=443&secret=ee1603010200010001fc030386e24c3add666172616b61762e636f6d) |
+| 14 | `2.189.84.140` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2.189.84.140&port=443&secret=ae3294c9bd32d504916e056bcb26aee2) |
+| 15 | `darknamikonina.my` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=darknamikonina.my&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 16 | `tg.vpnempire.net` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tg.vpnempire.net&port=443&secret=46ad11c9e8475e9479a7ed5585124568) |
+| 18 | `159.89.202.220` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=159.89.202.220&port=443&secret=ee79e344818749bd7ac519130220c25d096d792e7461782e676f762e6972) |
+| 19 | `91.107.240.100` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.107.240.100&port=443&secret=e32f15320bfe9ede1fcc066c69d6a366) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

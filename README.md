@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:30 28-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:20 28-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,15 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `91.99.205.245` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.205.245&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 6 | `terminatecanis.cinere.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=terminatecanis.cinere.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 12 | `148.251.26.138` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=148.251.26.138&port=65535&secret=104462821249bd7ac519130220c25d09) |
-| 17 | `46.62.132.43` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.62.132.43&port=8443&secret=ee513ce659734d67125e7b245cf5edb2576170706c652e636f6d) |
-| 18 | `185.3.200.171` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.171&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 3 | `dagdagdag.mooo.com` | `4444` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dagdagdag.mooo.com&port=4444&secret=dd94fc2b484af6e1e1c87e6576b33c2575) |
+| 4 | `185.3.200.174` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.174&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 6 | `cdn.koukicohost1.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cdn.koukicohost1.co.uk&port=443&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 7 | `74.1.1.34` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.1.1.34&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
+| 8 | `157.180.77.54` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=157.180.77.54&port=443&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 13 | `74.1.1.44` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.1.1.44&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
+| 14 | `potatofree.top` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=potatofree.top&port=443&secret=dd36c492218192a41afc3361f58379870a) |
+| 17 | `47.76.254.247` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.254.247&port=443&secret=ee8a55b9af2f44924d9521cb6b5dac4f7c617a7572652e6d6963726f736f66742e636f6d) |
+| 20 | `91.239.192.82` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.82&port=65535&secret=10446282fffffffffff80000fff80000) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:29 28-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 01:06 29-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,16 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `ru.mtproto.online` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ru.mtproto.online&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
-| 5 | `188.245.240.175` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=188.245.240.175&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d) |
-| 6 | `162.55.156.240` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=162.55.156.240&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000) |
-| 12 | `qq.aezailoveyou.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=qq.aezailoveyou.ru&port=443&secret=9f3c7a8d2e4b1c6f5a7d8e9b0c2f4a1d) |
-| 14 | `65.109.93.239` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.93.239&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
-| 18 | `tg.hamvpn.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tg.hamvpn.ru&port=443&secret=7cdb32a3a70a8a3247ae3dbae373f2ed) |
-| 19 | `185.115.161.248` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.115.161.248&port=9443&secret=dd104462821249bd7ac519130220c25d09) |
+| 3 | `45.76.33.204` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.76.33.204&port=443&secret=1639e5db5ab428d6d086081de64a830a) |
+| 6 | `185.3.200.185` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.185&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 7 | `yaa.yandex-servs.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=yaa.yandex-servs.com&port=443&secret=afdc38b8068b2444e50f6a4f093751b5) |
+| 8 | `www.roto-best.info` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
+| 10 | `83.166.253.198` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=83.166.253.198&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
+| 11 | `185.3.200.186` | `5566` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.186&port=5566&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 15 | `65.109.24.37` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.24.37&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
+| 16 | `146.185.208.135` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=146.185.208.135&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
+| 17 | `tg1.ookcdn.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tg1.ookcdn.ru&port=443&secret=dd15d31b3c1dbdccb53817736ea2cfbb5d) |
+| 18 | `83.166.254.255` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=83.166.254.255&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

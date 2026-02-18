@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:39 29-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 08:24 29-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,17 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `8.212.154.157` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8.212.154.157&port=443&secret=eebcf30e18c6cdb4f99aa74602e8c55c29617a7572652e6d6963726f736f66742e636f6d) |
-| 2 | `65.109.26.222` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.26.222&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
-| 9 | `47.76.254.7` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=47.76.254.7&port=443&secret=eebf930a4214023c0cd6005a0d93db37c7617a7572652e6d6963726f736f66742e636f6d) |
-| 10 | `185.3.200.140` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.140&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 15 | `116541.full.filmne1t.info` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116541.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
-| 17 | `185.3.200.172` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.172&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 20 | `116.203.121.51` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=116.203.121.51&port=443&secret=1603010200010001fc030386e24c3add) |
+| 1 | `79.175.168.210` | `1082` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=79.175.168.210&port=1082&secret=77217a24432646294a404e635266556a) |
+| 2 | `193.39.15.115` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=193.39.15.115&port=443&secret=dd585256032fd8a78a0602ddd90f9c981f) |
+| 3 | `37.27.135.207` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.135.207&port=443&secret=dd0000f00f0f775555fffffff5006e2e69) |
+| 5 | `tg2.ookcdn.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tg2.ookcdn.ru&port=443&secret=dd2b61f7402968c79a61e14ed27e3aed95) |
+| 6 | `snap.huijsen.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=snap.huijsen.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 7 | `austria.salzburg.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=austria.salzburg.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D) |
+| 9 | `84.201.175.61` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=84.201.175.61&port=443&secret=eead24ce88888cf6231e908ca911628e) |
+| 10 | `main.zaker.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=main.zaker.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 11 | `www.duhpro.makeup` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.duhpro.makeup&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
+| 18 | `185.115.161.239` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.115.161.239&port=9443&secret=dd104462821249bd7ac519130220c25d09) |
+| 20 | `37.139.34.153` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.139.34.153&port=443&secret=9f3c7a8d2e4b1c6f5a7d8e9b0c2f4a1d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

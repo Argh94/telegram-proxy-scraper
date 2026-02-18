@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:35 29-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 19:23 29-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,17 +48,15 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `185.115.161.248` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.115.161.248&port=9443&secret=dd104462821249bd7ac519130220c25d09) |
-| 2 | `11541.full.filmne1t.info` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=11541.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
-| 3 | `185.3.200.185` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.185&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 6 | `www.alo-alo.ink.` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.alo-alo.ink.&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
-| 10 | `85.133.194.114` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.133.194.114&port=8443&secret=79e344818749bd7ac519130220c25d09) |
-| 11 | `www.duhpro.makeup` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.duhpro.makeup&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
-| 13 | `foda.hotelghooo.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=foda.hotelghooo.ir&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
-| 14 | `195.254.165.15` | `65443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.15&port=65443&secret=10446282fffffffffff80000fff80000) |
-| 16 | `85.133.194.41` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.133.194.41&port=8443&secret=79e344818749bd7ac519130220c25d09) |
-| 19 | `tajer.lavest.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tajer.lavest.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 20 | `proxy.jo3.org` | `65534` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.jo3.org&port=65534&secret=eede157f899f297508332a82082af39daa70726f78792e6a6f332e6f7267) |
+| 2 | `tar.salko.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tar.salko.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 5 | `188.121.116.140` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=188.121.116.140&port=8443&secret=ee367a189aee18fa31c190054efd4a8e9d73746f726167652e676f6f676c65617069732e636f6d) |
+| 6 | `tavakalta-alalah.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tavakalta-alalah.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 7 | `refral-cover.kalakbazi-co.co.uk` | `600` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=refral-cover.kalakbazi-co.co.uk&port=600&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 11 | `185.84.156.11` | `4515` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.84.156.11&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
+| 13 | `144.31.136.20` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=144.31.136.20&port=443&secret=eee353be048a0a57e723bc04ff21924fe9766b2e6363) |
+| 14 | `45.93.170.26` | `3389` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.93.170.26&port=3389&secret=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee31302e31302e33342e3336) |
+| 15 | `91.239.192.85` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.85&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 20 | `43.250.53.22` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=43.250.53.22&port=443&secret=4fc30d1222972a04067e805a5134cb57) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

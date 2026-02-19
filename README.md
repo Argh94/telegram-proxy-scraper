@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 08:23 30-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:31 30-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,15 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 5 | `nevis-prime.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=nevis-prime.info&port=443&secret=eed451f888fd60ed2c45f11d38fdbc87c56e657669732d7072696d652e696e666f) |
-| 7 | `webmaster.rashkapo.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=webmaster.rashkapo.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 8 | `91.239.192.82` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.82&port=65535&secret=10446282fffffffffff80000fff80000) |
-| 9 | `195.254.165.15` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.15&port=65535&secret=10446282fffffffffff80000fff80000) |
-| 14 | `always.paradiselandi.info` | `4515` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=always.paradiselandi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
-| 16 | `dast.salemr.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dast.salemr.ir&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 1 | `91.239.192.81` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.81&port=65535&secret=10446282fffffffffff80000fff80000) |
+| 2 | `185.3.200.39` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.39&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 3 | `185.3.200.45` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.45&port=65535&secret=10446282fffffffffff80000fff80000) |
+| 4 | `tringlomp.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tringlomp.ir&port=443&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
+| 5 | `185.3.200.191` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.191&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 10 | `74.1.1.54` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.1.1.54&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
+| 11 | `185.84.156.10` | `4515` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.84.156.10&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
+| 13 | `85.133.194.114` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.133.194.114&port=8443&secret=79e344818749bd7ac519130220c25d09) |
+| 20 | `185.3.200.136` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.136&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

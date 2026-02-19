@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:22 30-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 01:03 01-12-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,16 +48,15 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `185.3.200.171` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.171&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
-| 3 | `185.3.200.186` | `5566` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.186&port=5566&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
-| 4 | `185.3.200.173` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.173&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
-| 6 | `65.21.28.60` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.21.28.60&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 9 | `www.rasht-e-nazanin.info.` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.rasht-e-nazanin.info.&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
-| 12 | `74.1.1.45` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.1.1.45&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
-| 14 | `alo.acharbashi.info` | `4515` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
-| 15 | `www.alo-alo.ink.` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.alo-alo.ink.&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
-| 17 | `185.3.200.18` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.18&port=2053&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 20 | `www.TelBet.app` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.TelBet.app&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 8 | `74.1.1.48` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.1.1.48&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
+| 9 | `185.3.200.30` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.30&port=65535&secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d) |
+| 10 | `185.3.200.186` | `5566` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.186&port=5566&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 13 | `74.1.1.46` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.1.1.46&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
+| 15 | `185.3.200.175` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.175&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 17 | `www.porteghall.site.` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.porteghall.site.&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
+| 18 | `74.1.1.45` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.1.1.45&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
+| 19 | `www.TelBet.app` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.TelBet.app&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 20 | `185.3.200.174` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.174&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

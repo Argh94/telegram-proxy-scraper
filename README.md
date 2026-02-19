@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:17 30-11-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:36 30-11-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `www.roto-best.info.` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.roto-best.info.&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
-| 2 | `www.rasht-e-nazanin.info` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.rasht-e-nazanin.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
-| 3 | `146.103.116.221` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=146.103.116.221&port=443&secret=3c9306bf0ab91b79fd23d57a521b79af) |
-| 9 | `185.3.200.186` | `5566` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.186&port=5566&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
-| 10 | `74.1.1.52` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.1.1.52&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
-| 11 | `www.roto-best.info.` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.roto-best.info.&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
-| 16 | `62.60.179.221` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.60.179.221&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D) |
+| 2 | `snap.huijsen.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=snap.huijsen.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 4 | `185.115.161.245` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.115.161.245&port=9443&secret=dd104462821249bd7ac519130220c25d09) |
+| 7 | `91.239.192.74` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.74&port=65535&secret=10446282fffffffffff80000fff80000) |
+| 8 | `pa.bus-reded.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pa.bus-reded.co.uk&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f) |
+| 18 | `185.115.161.244` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.115.161.244&port=9443&secret=dd104462821249bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

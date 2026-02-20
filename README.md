@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:34 01-12-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 08:18 01-12-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,9 +48,17 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 13 | `195.254.165.69` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.69&port=65535&secret=10446282fffffffffff80000fff80000) |
-| 17 | `195.254.165.72` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.72&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 19 | `cdn.yektanet.com.rashkapo.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cdn.yektanet.com.rashkapo.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 1 | `45.67.139.229` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.67.139.229&port=443&secret=eed451f808fd60ed2c45f11d38fdbc88c8676f6f676c657461676d616e616765722e636f6d) |
+| 4 | `nevis-prime.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=nevis-prime.info&port=443&secret=eed451f888fd60ed2c45f11d38fdbc87c56e657669732d7072696d652e696e666f) |
+| 6 | `webmaster.rashkapo.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=webmaster.rashkapo.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 7 | `dns.nevis-prime.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dns.nevis-prime.info&port=443&secret=eed451f808fd60ed2c45f11d38fdbc8788646e732e6e657669732d7072696d652e696e666f) |
+| 8 | `91.239.192.110` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.110&port=65535&secret=10446282fffffffffff80000fff80000) |
+| 10 | `185.3.200.45` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.45&port=65535&secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d) |
+| 12 | `185.3.200.172` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.172&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 15 | `74.1.1.48` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.1.1.48&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
+| 18 | `185.3.200.185` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.185&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 19 | `makeup.duhpro.makeup` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=makeup.duhpro.makeup&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
+| 20 | `185.3.200.172` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.172&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

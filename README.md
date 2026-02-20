@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:27 01-12-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:11 01-12-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,17 +48,14 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `91.239.192.82` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.82&port=65535&secret=10446282fffffffffff80000fff80000) |
-| 4 | `185.3.200.136` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.136&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
-| 5 | `b.artishchev.org` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=b.artishchev.org&port=8443&secret=963a7fd525b04c4533ce776c9bd70f34) |
-| 6 | `185.3.200.173` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.173&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
-| 7 | `185.3.200.4` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.4&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 10 | `91.239.192.81` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.81&port=65535&secret=10446282fffffffffff80000fff80000) |
-| 11 | `172.65.117.172` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.117.172&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
-| 14 | `185.3.200.30` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.30&port=65535&secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d) |
-| 17 | `91.239.192.110` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.110&port=65535&secret=10446282fffffffffff80000fff80000) |
-| 18 | `195.254.165.68` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.68&port=65535&secret=10446282fffffffffff80000fff80000) |
-| 20 | `wellcome.borcatsion.info` | `35450` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=wellcome.borcatsion.info&port=35450&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 6 | `195.254.165.211` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.211&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 7 | `tar.salko.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tar.salko.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 8 | `185.3.200.170` | `4055` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.170&port=4055&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 9 | `www.karako.co.uk` | `600` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.karako.co.uk&port=600&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 10 | `makeup.duhpro.makeup` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=makeup.duhpro.makeup&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
+| 11 | `74.1.1.48` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.1.1.48&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
+| 16 | `nevis-prime.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=nevis-prime.info&port=443&secret=eed451f888fd60ed2c45f11d38fdbc87c56e657669732d7072696d652e696e666f) |
+| 20 | `74.1.1.51` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.1.1.51&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

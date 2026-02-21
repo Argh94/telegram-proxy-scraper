@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:13 02-12-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:00 02-12-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,16 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `91.239.192.109` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.109&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 5 | `185.3.200.185` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.185&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 7 | `85.133.194.114` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.133.194.114&port=8443&secret=79e344818749bd7ac519130220c25d09) |
-| 12 | `185.3.200.136` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.136&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
-| 14 | `general.irancell-ir.cfd` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=general.irancell-ir.cfd&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 16 | `collider.web-yektanet-com.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=collider.web-yektanet-com.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 5 | `www.careemian.info` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.careemian.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
+| 6 | `www.karako.co.uk` | `600` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.karako.co.uk&port=600&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 7 | `webmaster.rashkapo.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=webmaster.rashkapo.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 9 | `172.65.117.172` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.117.172&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
+| 11 | `91.239.192.85` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.85&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 14 | `185.3.200.40` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.40&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 15 | `185.3.200.45` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.45&port=65535&secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d) |
+| 16 | `www.rasht-e-nazanin.info` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.rasht-e-nazanin.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
+| 18 | `74.1.1.52` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=74.1.1.52&port=65535&secret=dd79e344818749bd7ac519130220c25d09) |
+| 20 | `91.239.192.68` | `1234` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.68&port=1234&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

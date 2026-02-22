@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 08:19 03-12-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:18 03-12-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,10 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `www.40-rooz-gozasht.info` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.40-rooz-gozasht.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
-| 5 | `185.3.200.172` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.172&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 11 | `www.careemian.info` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.careemian.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
-| 20 | `185.3.200.172` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.172&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 1 | `185.3.200.43` | `33535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.43&port=33535&secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d) |
+| 2 | `91.239.192.110` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.110&port=65535&secret=10446282fffffffffff80000fff80000) |
+| 3 | `195.254.165.169` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.169&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 5 | `hello-world.tg.engineer` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hello-world.tg.engineer&port=443&secret=d9e48875e76c21092c63e78050247929) |
+| 13 | `3.hajrozbeh.onl` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=3.hajrozbeh.onl&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 14 | `tajer.lavest.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tajer.lavest.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

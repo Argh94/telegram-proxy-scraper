@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:18 03-12-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:02 03-12-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,19 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `185.3.200.43` | `33535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.43&port=33535&secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d) |
-| 2 | `91.239.192.110` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.110&port=65535&secret=10446282fffffffffff80000fff80000) |
-| 3 | `195.254.165.169` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.169&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 5 | `hello-world.tg.engineer` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hello-world.tg.engineer&port=443&secret=d9e48875e76c21092c63e78050247929) |
-| 13 | `3.hajrozbeh.onl` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=3.hajrozbeh.onl&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 14 | `tajer.lavest.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tajer.lavest.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 3 | `195.254.165.18` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.18&port=65535&secret=10446282fffffffffff80000fff80000) |
+| 4 | `www.roto-best.info` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
+| 6 | `195.254.165.85` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.85&port=65535&secret=10446282fffffffffff80000fff80000) |
+| 7 | `dast.salemr.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dast.salemr.ir&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 8 | `russia.publiclg.shop.` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=russia.publiclg.shop.&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
+| 10 | `www.koukicohost1.co.uk` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.koukicohost1.co.uk&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 11 | `185.3.200.175` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.175&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 12 | `185.115.161.245` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.115.161.245&port=9443&secret=dd104462821249bd7ac519130220c25d09) |
+| 13 | `185.3.200.191` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.191&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 14 | `195.254.165.214` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.214&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 16 | `russia.publiclg.shop.` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=russia.publiclg.shop.&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
+| 19 | `mix.road-digger.info.` | `61016` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mix.road-digger.info.&port=61016&secret=79e7010200010007f0030386e24c3add) |
+| 20 | `172.65.117.172` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.117.172&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

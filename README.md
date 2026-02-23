@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 08:28 04-12-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:35 04-12-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,18 +48,14 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `russia.publiclg.shop.` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=russia.publiclg.shop.&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
-| 2 | `195.254.165.68` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.68&port=65535&secret=dd10446282fffffffffff80000fff80000) |
-| 3 | `195.254.165.97` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.97&port=65535&secret=10446282fffff6fffff80000fff80000) |
-| 4 | `91.239.192.117` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.117&port=9443&secret=dd104462821249bd7ac519130220c25d09) |
-| 5 | `91.239.192.109` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.109&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 6 | `https.porteghall.site.` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=https.porteghall.site.&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
-| 8 | `peyk.acharbashi.info` | `4515` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=peyk.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
-| 10 | `www.koukicohost1.co.uk` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.koukicohost1.co.uk&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 11 | `185.3.200.45` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.45&port=65535&secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d) |
-| 14 | `www.download-fast.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.download-fast.co.uk&port=443&secret=dd10dadd1e7c27a20098abb5bf53ca26a8) |
-| 15 | `185.3.200.45` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.45&port=65535&secret=10446282fffffffffff80000fff80000) |
-| 16 | `65.109.24.37` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.24.37&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
+| 5 | `185.3.200.49` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.49&port=65535&secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d) |
+| 6 | `paitakht.arasto.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=paitakht.arasto.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 10 | `185.3.200.173` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.173&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 12 | `65.109.189.38` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.189.38&port=443&secret=eed451f808fd60ed2c45f11d38fdbc87c0676f6f676c657461676d616e616765722e636f6d) |
+| 13 | `2.3pita.com` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 15 | `reboot.tikla.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=reboot.tikla.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 16 | `195.254.165.97` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.97&port=65535&secret=10446282fffff6fffff80000fff80000) |
+| 17 | `65.109.187.10` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.187.10&port=443&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

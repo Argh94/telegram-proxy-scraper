@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:35 04-12-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:25 04-12-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 5 | `185.3.200.49` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.49&port=65535&secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d) |
-| 6 | `paitakht.arasto.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=paitakht.arasto.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 10 | `185.3.200.173` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.173&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
-| 12 | `65.109.189.38` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.189.38&port=443&secret=eed451f808fd60ed2c45f11d38fdbc87c0676f6f676c657461676d616e616765722e636f6d) |
-| 13 | `2.3pita.com` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 15 | `reboot.tikla.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=reboot.tikla.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 16 | `195.254.165.97` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.97&port=65535&secret=10446282fffff6fffff80000fff80000) |
-| 17 | `65.109.187.10` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.187.10&port=443&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
+| 4 | `ader.dynoporo.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ader.dynoporo.com&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 6 | `www.nimagallery11.ir` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.nimagallery11.ir&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 9 | `195.254.165.18` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.18&port=65535&secret=10446282fffffffffff80000fff80000) |
+| 10 | `91.107.162.48` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.107.162.48&port=443&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
+| 12 | `www.porteghall.site.` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.porteghall.site.&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
+| 16 | `www.careemian.info` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.careemian.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

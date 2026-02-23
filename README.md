@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:57 04-12-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:38 04-12-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,19 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `91.107.162.48` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.107.162.48&port=443&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
+| 2 | `paitakht.arasto.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=paitakht.arasto.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 3 | `makeup.duhpro.makeup` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=makeup.duhpro.makeup&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
+| 4 | `65.109.188.133` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.188.133&port=443&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
+| 5 | `91.239.192.85` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.85&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 6 | `185.3.200.136` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.136&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
 | 7 | `185.3.200.172` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.172&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 8 | `195.254.165.72` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.72&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 10 | `3.hajrozbeh.onl` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=3.hajrozbeh.onl&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 11 | `russia.publiclg.shop.` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=russia.publiclg.shop.&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
-| 17 | `www.40-rooz-gozasht.info` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.40-rooz-gozasht.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
-| 20 | `91.239.192.68` | `1234` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.68&port=1234&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 8 | `cdn.koukicohost1.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cdn.koukicohost1.co.uk&port=443&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 10 | `185.3.200.185` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.185&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 12 | `91.239.192.110` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.110&port=65535&secret=10446282fffffffffff80000fff80000) |
+| 13 | `185.3.200.45` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.45&port=65535&secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d) |
+| 15 | `www.40-rooz-gozasht.info.` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.40-rooz-gozasht.info.&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
+| 17 | `yazdan.htop.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=yazdan.htop.info&port=443&secret=1603010200010001fc030386e24c3add) |
+| 19 | `91.239.192.109` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.109&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

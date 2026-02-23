@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 19:16 04-12-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:33 04-12-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `https.alo-alo.ink.` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=https.alo-alo.ink.&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
-| 8 | `dast.salemr.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dast.salemr.ir&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 9 | `yazdan.htop.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=yazdan.htop.info&port=443&secret=1603010200010001fc030386e24c3add) |
-| 13 | `185.3.200.40` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.40&port=4455&secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d) |
-| 15 | `65.109.187.10` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.187.10&port=443&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
+| 2 | `hi.publiclg.shop.` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hi.publiclg.shop.&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
+| 4 | `185.3.200.40` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.40&port=4455&secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d) |
+| 7 | `185.3.200.173` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.173&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 13 | `91.107.162.48` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.107.162.48&port=443&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
+| 16 | `91-107-170-211.xip.lhjmmc.cn` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91-107-170-211.xip.lhjmmc.cn&port=443&secret=ee00000000000000000000000000000000646967696b616c612e636f6d) |
+| 18 | `www.koukicohost1.co.uk` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.koukicohost1.co.uk&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:32 05-12-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 01:05 06-12-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,16 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `www.roto-best.info` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
-| 5 | `alo.acharbashi.info` | `4515` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
-| 6 | `www.porteghall.site.` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.porteghall.site.&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
-| 8 | `65.109.181.70` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.181.70&port=443&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
-| 12 | `185.3.200.186` | `5566` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.186&port=5566&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
-| 13 | `65.109.188.195` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.188.195&port=443&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
-| 14 | `185.3.200.43` | `33535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.43&port=33535&secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d) |
-| 16 | `mix.road-digger.info.` | `61016` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mix.road-digger.info.&port=61016&secret=79e7010200010007f0030386e24c3add) |
-| 18 | `65.109.26.215` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.26.215&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
-| 20 | `91.239.192.85` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.85&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 3 | `www.careemian.info` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.careemian.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
+| 4 | `185.3.200.170` | `4055` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.170&port=4055&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 8 | `91.239.192.82` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.82&port=65535&secret=10446282fffffffffff80000fff80000) |
+| 15 | `107.161.175.176` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=107.161.175.176&port=443&secret=eed451f808fd60ed2c45f11d38fdbc87c57965732e6e657669732d7072696d652e696e666f) |
+| 17 | `russia.publiclg.shop.` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=russia.publiclg.shop.&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
+| 19 | `minecraft.golestandata.com` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=minecraft.golestandata.com&port=22&secret=dd75004050020600850040500405004050) |
+| 20 | `reboot.tikla.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=reboot.tikla.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

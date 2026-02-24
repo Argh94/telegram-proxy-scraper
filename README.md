@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 19:29 05-12-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:32 05-12-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,16 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 8 | `wwww.minecraftiro.com` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=wwww.minecraftiro.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 10 | `www.nimagallery19.ir` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.nimagallery19.ir&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 12 | `185.3.200.191` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.191&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
-| 14 | `185.21.11.189` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.21.11.189&port=443&secret=fe3f4084e12ed55beeab6a8a0c3bdbfa) |
-| 18 | `95.216.211.73` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=95.216.211.73&port=443&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
-| 20 | `91.239.192.14` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.14&port=65535&secret=10446282fffffffffff80000fff80000) |
+| 2 | `www.roto-best.info` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
+| 5 | `alo.acharbashi.info` | `4515` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
+| 6 | `www.porteghall.site.` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.porteghall.site.&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
+| 8 | `65.109.181.70` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.181.70&port=443&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
+| 12 | `185.3.200.186` | `5566` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.186&port=5566&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 13 | `65.109.188.195` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.188.195&port=443&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
+| 14 | `185.3.200.43` | `33535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.43&port=33535&secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d) |
+| 16 | `mix.road-digger.info.` | `61016` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mix.road-digger.info.&port=61016&secret=79e7010200010007f0030386e24c3add) |
+| 18 | `65.109.26.215` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.26.215&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
+| 20 | `91.239.192.85` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.85&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

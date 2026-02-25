@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:33 06-12-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:25 06-12-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,12 +48,17 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `195.254.165.18` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.18&port=65535&secret=10446282fffffffffff80000fff80000) |
-| 3 | `www.koukicohost1.co.uk` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.koukicohost1.co.uk&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 6 | `2.3pita.com` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 7 | `91.107.255.20` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.107.255.20&port=2053&secret=dd35d7424b53edfa76f525c4a028ed4e7b) |
-| 13 | `185.3.200.172` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.172&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 20 | `202.148.54.247` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=202.148.54.247&port=8443&secret=ee469ba705e24713b0a6e138b890b00b) |
+| 3 | `tee.mobemouy.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tee.mobemouy.com&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 4 | `m.itdeveloper.info.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=m.itdeveloper.info.&port=443&secret=79e344818749bd7ac519130220c25d09) |
+| 6 | `russia.publiclg.shop.` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=russia.publiclg.shop.&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
+| 7 | `202.148.54.247` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=202.148.54.247&port=8443&secret=ee469ba705e24713b0a6e138b890b00b) |
+| 8 | `www.rasht-e-nazanin.info.` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.rasht-e-nazanin.info.&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
+| 9 | `alo.acharbashi.info` | `4515` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
+| 10 | `www.koukicohost1.co.uk` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.koukicohost1.co.uk&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 13 | `cdn.koukicohost1.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cdn.koukicohost1.co.uk&port=443&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 14 | `77.72.80.103` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.72.80.103&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 16 | `91.107.255.20` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.107.255.20&port=2053&secret=dd35d7424b53edfa76f525c4a028ed4e7b) |
+| 19 | `garden-paradise.karako.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=garden-paradise.karako.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

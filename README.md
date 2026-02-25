@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:37 06-12-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 01:06 07-12-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,16 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `cdn.koukicohost1.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cdn.koukicohost1.co.uk&port=443&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
-| 3 | `ccc.nevis-prime.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ccc.nevis-prime.info&port=443&secret=eed451f808fd60ed2c45f11d38fdbc87c56363632e6e657669732d7072696d652e696e666f) |
-| 7 | `91.239.192.14` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.14&port=65535&secret=10446282fffffffffff80000fff80000) |
-| 8 | `m.itdeveloper.info.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=m.itdeveloper.info.&port=443&secret=79e344818749bd7ac519130220c25d09) |
-| 13 | `makeup.duhpro.makeup` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=makeup.duhpro.makeup&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
-| 15 | `107.161.175.176` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=107.161.175.176&port=443&secret=eed451f808fd60ed2c45f11d38fdbc87c57965732e6e657669732d7072696d652e696e666f) |
-| 17 | `alo.acharbashi.info` | `4515` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
+| 4 | `107.161.175.176` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=107.161.175.176&port=443&secret=eed451f808fd60ed2c45f11d38fdbc87c57965732e6e657669732d7072696d652e696e666f) |
+| 6 | `alo.acharbashi.info` | `4515` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
+| 8 | `alo.acharbashi.info` | `4515` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
+| 9 | `hi.publiclg.shop.` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hi.publiclg.shop.&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
+| 10 | `www.koukicohost1.co.uk` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.koukicohost1.co.uk&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 11 | `mix.road-digger.info.` | `61016` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mix.road-digger.info.&port=61016&secret=79e7010200010007f0030386e24c3add) |
+| 12 | `65.21.28.60` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.21.28.60&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 15 | `5.75.195.172` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.75.195.172&port=443&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
+| 18 | `www.merco-karco.website` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.merco-karco.website&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 19 | `total.beyondeson-co.cfd` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=total.beyondeson-co.cfd&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

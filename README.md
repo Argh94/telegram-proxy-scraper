@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:36 07-12-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 19:24 07-12-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,18 +48,16 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `m.itdeveloper.info.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=m.itdeveloper.info.&port=443&secret=79e344818749bd7ac519130220c25d09) |
-| 2 | `107.161.175.176` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=107.161.175.176&port=443&secret=eed451f808fd60ed2c45f11d38fdbc87c57965732e6e657669732d7072696d652e696e666f) |
-| 4 | `hi.publiclg.shop.` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hi.publiclg.shop.&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
-| 5 | `freeproxy.darinaservice-free.store` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=freeproxy.darinaservice-free.store&port=443&secret=8ca401ec8fd13bf3c84817cd9cb3f558) |
-| 7 | `www.careemian.info.` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.careemian.info.&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
-| 8 | `www.alo-alo.ink.` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.alo-alo.ink.&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
-| 11 | `91.239.192.14` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.14&port=65535&secret=10446282fffffffffff80000fff80000) |
-| 12 | `www.presnari.info.` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.presnari.info.&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
-| 13 | `77.72.80.103` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.72.80.103&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 16 | `65.109.181.70` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.181.70&port=443&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
-| 17 | `91.239.192.68` | `1234` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.68&port=1234&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 20 | `https.alo-alo.ink.` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=https.alo-alo.ink.&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
+| 1 | `collider.web-yektanet-com.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=collider.web-yektanet-com.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 2 | `3.hajrozbeh.onl` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=3.hajrozbeh.onl&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 3 | `45.43.92.97` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.43.92.97&port=443&secret=eed451f808fd60ed2c45f11d38fdbc87c56363632e6e657669732d7072696d652e696e666f) |
+| 4 | `89.125.95.88` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.125.95.88&port=443&secret=ee39022042c299e6d85bc8c8ca3012ab86686162722e636f6d) |
+| 8 | `tee.mobemouy.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tee.mobemouy.com&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 11 | `77.72.80.110` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.72.80.110&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 12 | `m.itdeveloper.info.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=m.itdeveloper.info.&port=443&secret=79e344818749bd7ac519130220c25d09) |
+| 13 | `91.239.192.14` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.14&port=65535&secret=10446282fffffffffff80000fff80000) |
+| 19 | `195.254.165.68` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.68&port=65535&secret=10446282fffffffffff80000fff80000) |
+| 20 | `202.148.54.247` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=202.148.54.247&port=8443&secret=ee469ba705e24713b0a6e138b890b00b) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

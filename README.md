@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:29 08-12-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 19:09 08-12-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,15 +48,14 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `alo.acharbashi.info` | `4515` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
-| 2 | `91.239.192.14` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.239.192.14&port=65535&secret=10446282fffffffffff80000fff80000) |
-| 3 | `www.nimagallery11.ir` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.nimagallery11.ir&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 5 | `65.109.181.70` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.181.70&port=443&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5) |
-| 10 | `www.careemian.info.` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.careemian.info.&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
-| 11 | `www.nimagallery11.ir` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.nimagallery11.ir&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 12 | `tavakalta-alalah.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tavakalta-alalah.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 13 | `we.are.dartkvnbot.space` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=we.are.dartkvnbot.space&port=443&secret=eed84be90523fa6c996a0a8a35218a7ed16469736b2e79616e6465782e7275) |
-| 18 | `172.65.102.115` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
+| 3 | `77.72.80.100` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.72.80.100&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 4 | `hi.publiclg.shop.` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hi.publiclg.shop.&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
+| 5 | `apexnode.online` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=apexnode.online&port=443&secret=dd80be893d2be5c97b03afd6ddbbc852bf) |
+| 7 | `77.72.80.110` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.72.80.110&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 8 | `87.248.149.36` | `65535` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.149.36&port=65535&secret=10446282fffffffffff80000fff80000) |
+| 10 | `185.3.200.186` | `2054` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.186&port=2054&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
+| 16 | `185.3.200.185` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.185&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 18 | `185.3.200.174` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.3.200.174&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

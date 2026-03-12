@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:26 21-12-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:13 21-12-1404)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,22 +48,21 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `107.150.34.99` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=107.150.34.99&port=443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267) |
-| 2 | `195.254.165.243` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.243&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 3 | `79.137.204.12` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=79.137.204.12&port=443&secret=30a73b76219133b7ce1697f43d3a74a8) |
-| 5 | `195.254.165.241` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.241&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 7 | `collider.web-yektanet-com.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=collider.web-yektanet-com.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 8 | `alo.acharbashi.info` | `4515` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
-| 9 | `107.150.34.99` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=107.150.34.99&port=443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267) |
-| 10 | `85.133.194.95` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.133.194.95&port=6443&secret=79e344818749bd7ac519130220c25d09) |
-| 11 | `yazdan.htop.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=yazdan.htop.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 12 | `195.254.165.241` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.241&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 13 | `77.221.149.56` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.221.149.56&port=9443&secret=ee6d2805bb3050f7e76033c27dd3a55c9874672e64796e6d652e6f7668) |
-| 15 | `147.125.130.47` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=147.125.130.47&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
-| 16 | `collider.web-yektanet-com.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=collider.web-yektanet-com.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
-| 17 | `195.254.165.245` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.245&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 18 | `turbo.vpnproxy.cc` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=turbo.vpnproxy.cc&port=443&secret=ee027b0c5d5de5705398f60424db3332d6747572626f2e76706e70726f78792e6363) |
-| 20 | `185.84.157.20` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.84.157.20&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 1 | `147.125.130.47` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=147.125.130.47&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
+| 2 | `195.254.165.245` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.245&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 3 | `185.117.0.248` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.117.0.248&port=443&secret=eed451f808fd60ed2c45f11d38fdbc87c57961686f6f2e636f6d) |
+| 4 | `79.137.204.12` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=79.137.204.12&port=443&secret=30a73b76219133b7ce1697f43d3a74a8) |
+| 5 | `khoda.hafez.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=khoda.hafez.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 6 | `85.133.194.95` | `6443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.133.194.95&port=6443&secret=79e344818749bd7ac519130220c25d09) |
+| 7 | `147.125.130.47` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=147.125.130.47&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
+| 8 | `turbo.vpnproxy.cc` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=turbo.vpnproxy.cc&port=443&secret=ee027b0c5d5de5705398f60424db3332d6747572626f2e76706e70726f78792e6363) |
+| 10 | `mtp.fasti.fun` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtp.fasti.fun&port=8443&secret=76291e5f4627757a22173cec26b1c892) |
+| 13 | `176.124.205.32` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=176.124.205.32&port=8443&secret=ee6b3e7f522714e2c0764e9291c7a7f0ba616e2e6661762e64796e6d652e6f7668) |
+| 14 | `195.254.165.241` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.241&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 15 | `185.84.157.100` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.84.157.100&port=443&secret=1603010200010001fc030386e24c3add) |
+| 17 | `147.125.130.48` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=147.125.130.48&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
+| 18 | `mix.road-digger.info.` | `61016` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mix.road-digger.info.&port=61016&secret=79e7010200010007f0030386e24c3add) |
+| 20 | `195.254.165.251` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.251&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

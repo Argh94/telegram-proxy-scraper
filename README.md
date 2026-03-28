@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 19:03 08-01-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:11 08-01-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,23 +48,25 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `5.78.190.71` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.78.190.71&port=4455&secret=ddbe3f0adb4ae53a594fd5fec4dd00287f) |
-| 2 | `6bb89.blancproxy.link` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=6bb89.blancproxy.link&port=443&secret=dd97c420070f5eb3ba3c22b9635576d9f1) |
-| 3 | `dowd.sportsmanship.steeplechaser.thy.urceolate.kapitoshka.info` | `15417` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dowd.sportsmanship.steeplechaser.thy.urceolate.kapitoshka.info&port=15417&secret=d6db8ab62ff9b9f70f6ca15ccb98c222) |
-| 4 | `49.13.35.164` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=49.13.35.164&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 5 | `195.254.165.243` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.243&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 6 | `194.190.152.168` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=194.190.152.168&port=443&secret=eee52fdf1f6e8359eac49c0d9e5a6da1bb7777772e676f6f676c652e636f6d) |
-| 7 | `155.212.134.186` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=155.212.134.186&port=443&secret=eeb3efcaf7f13d24a2cada66166d75ff) |
-| 9 | `195.254.165.247` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.247&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 10 | `138.124.68.7` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=138.124.68.7&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557) |
-| 11 | `free.FCKRKNBOT.COM` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=free.FCKRKNBOT.COM&port=443&secret=ddf48f621b110f302e468756840c29f916) |
-| 12 | `130.49.169.160` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=130.49.169.160&port=443&secret=eedab20682678a2d6dca5aefe1c75aa69073656c656374656c2e7275) |
-| 13 | `www.qatar-railways.info.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.qatar-railways.info.&port=443&secret=ee79e7010200010007f0030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
-| 14 | `2.27.20.156` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2.27.20.156&port=443&secret=ee636c6f7564666c6172652e636f6db6) |
-| 17 | `hello-world.tg.engineer` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hello-world.tg.engineer&port=443&secret=d9e48875e76c21092c63e78050247929) |
-| 18 | `raven8471-14d968ab.proxytg.ink` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=raven8471-14d968ab.proxytg.ink&port=443&secret=eead14f006e06912127407f9fe07a146cb6465627269732e6c6f63616c) |
-| 19 | `91.107.169.174` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.107.169.174&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 20 | `nano.happvpn.cc` | `4514` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=nano.happvpn.cc&port=4514&secret=ee0a638f4a7bd9db9e94449c652ea963066e616e6f2e6861707076706e2e6363) |
+| 1 | `142.54.189.106` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.54.189.106&port=443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267) |
+| 2 | `49.13.35.164` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=49.13.35.164&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 4 | `tg.towersflowerss.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tg.towersflowerss.com&port=443&secret=90eba2e23b01f1cb32b4b9e29bbd7f80) |
+| 5 | `195.254.165.249` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.249&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 6 | `77.239.112.93` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.239.112.93&port=443&secret=549106ca73227ed875b3255bddbb9e76) |
+| 7 | `nano.happvpn.cc` | `4514` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=nano.happvpn.cc&port=4514&secret=ee0a638f4a7bd9db9e94449c652ea963066e616e6f2e6861707076706e2e6363) |
+| 8 | `146.103.107.95` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=146.103.107.95&port=8443&secret=dd653799bd79e146d8e7558ebdeaf73dbd) |
+| 9 | `195.254.165.253` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.253&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 10 | `free.FCKRKNBOT.COM` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=free.FCKRKNBOT.COM&port=443&secret=ddf48f621b110f302e468756840c29f916) |
+| 11 | `tg.scroogevpn.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tg.scroogevpn.com&port=443&secret=59d307276beb8f4d8a0ed547eb6a461a) |
+| 12 | `147.125.130.64` | `2083` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=147.125.130.64&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d) |
+| 13 | `195.254.165.250` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.250&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 14 | `free.FCKRKNBOT.COM` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=free.FCKRKNBOT.COM&port=443&secret=eef48f621b110f302e468756840c29f916766b2e636f6d) |
+| 15 | `144.31.230.217` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=144.31.230.217&port=443&secret=33d73370103ea05acd9418eb9dca989e) |
+| 16 | `144.31.202.217` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=144.31.202.217&port=443&secret=ee766b2e72759ab2960c9e3f90e946fa) |
+| 17 | `6bb89.blancproxy.link` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=6bb89.blancproxy.link&port=443&secret=dd97c420070f5eb3ba3c22b9635576d9f1) |
+| 18 | `free.tgsecurity.online` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=free.tgsecurity.online&port=443&secret=dd7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f) |
+| 19 | `85.209.154.163` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.209.154.163&port=443&secret=ee2a72b9044fabf162c54fee480e8ea0b570617472696172636869612e7275) |
+| 20 | `45.139.29.50` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.139.29.50&port=8443&secret=ddf672deb6dcac2f471e8ccffb1eacc82f) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

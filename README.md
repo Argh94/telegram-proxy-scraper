@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 06:01 17-01-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 08:55 17-01-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,24 +48,22 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `167.86.111.159` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.86.111.159&port=443&secret=eedfcbaf8e3e3a24457729288b43bb3d3a636c6f7564666c6172652e636f6d) |
-| 2 | `195.254.165.253` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.253&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 3 | `77.91.65.51` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.91.65.51&port=443&secret=124ff2925d1661ae6e9d66046da46dbc) |
-| 4 | `195.254.165.250` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.250&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 5 | `195.254.165.252` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.252&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 6 | `i.telbet.lol` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=i.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 7 | `llazyrin-fi.duckdns.org` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=llazyrin-fi.duckdns.org&port=8443&secret=eeb359972f13e568d2e15bc826257028d56d61782e7275) |
-| 8 | `185.237.95.231` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.237.95.231&port=443&secret=ee4571396297582727452bf660db01b789676f6f676c652e636f6d) |
-| 9 | `185.174.137.50` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.174.137.50&port=8443&secret=676c4049812b842b7792954bf2a32943) |
-| 11 | `195.254.165.245` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.245&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 12 | `45.139.29.50` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.139.29.50&port=8443&secret=ddf672deb6dcac2f471e8ccffb1eacc82f) |
-| 13 | `142.54.189.106` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.54.189.106&port=443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267) |
-| 15 | `172.65.117.172` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.117.172&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
-| 16 | `149.120.147.236` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=149.120.147.236&port=443&secret=ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d) |
-| 17 | `167.233.12.183` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.233.12.183&port=443&secret=ddc333a2a17e2be71f9cf1887f3b22dc7d) |
-| 18 | `how.telbet.lol` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=how.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 19 | `173.212.229.99` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=173.212.229.99&port=443&secret=eefea85401978c4b18d790fe3aaed5764c636c6f7564666c6172652e636f6d) |
-| 20 | `1.evoevoevo.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=1.evoevoevo.com&port=443&secret=59ecc03bfbc542556d7ea2919d688663) |
+| 1 | `37.27.42.53` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.27.42.53&port=443&secret=ee400beecda94bbb22a7759357fd921c00636c6f7564666c6172652e636f6d) |
+| 2 | `haughtily.mucous.obstetrical.overmaster.zoophile.rawisda.com` | `2290` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=haughtily.mucous.obstetrical.overmaster.zoophile.rawisda.com&port=2290&secret=a630d0df19b52481592a18016d266cf9) |
+| 5 | `146.103.116.221` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=146.103.116.221&port=443&secret=3c9306bf0ab91b79fd23d57a521b79af) |
+| 6 | `45.76.78.122` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.76.78.122&port=443&secret=3aa09f1f95c80c28caf844de0c022067) |
+| 7 | `test.alotaxi.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=test.alotaxi.info&port=8443&secret=ee25773d1e79da8a2f549d1c38da5aae41626f6f6b696e672e636f6d) |
+| 8 | `94.228.168.30` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=94.228.168.30&port=443&secret=ee8383301585e1f78b055c64165c824cad676f2e73616d706f2e7275) |
+| 9 | `proxyobhod.online` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxyobhod.online&port=443&secret=71c30cc28759e0a10b6de5b471d69751) |
+| 10 | `45.139.29.50` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.139.29.50&port=8443&secret=ddf672deb6dcac2f471e8ccffb1eacc82f) |
+| 11 | `185.237.95.231` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.237.95.231&port=443&secret=ee4571396297582727452bf660db01b789676f6f676c652e636f6d) |
+| 12 | `66.42.95.218` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=66.42.95.218&port=443&secret=477f1ffd983e734ea11647d47872d6d2) |
+| 13 | `how.telbet.lol` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=how.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 14 | `107.150.34.98` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=107.150.34.98&port=443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267) |
+| 15 | `catholicity.gravely.pudgy.relaxed.scatterer.superpinoy.net` | `2400` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=catholicity.gravely.pudgy.relaxed.scatterer.superpinoy.net&port=2400&secret=c6e97411bd2f36aead173ff1b945c91e) |
+| 17 | `2.26.97.0` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2.26.97.0&port=8443&secret=f5a96ceadd1bbedd719fbd7f1c9387dd) |
+| 18 | `107.150.34.99` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=107.150.34.99&port=443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267) |
+| 20 | `tgproxy2.appav.net` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tgproxy2.appav.net&port=443&secret=8bf3a57e01e2d2c226113d338840793d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

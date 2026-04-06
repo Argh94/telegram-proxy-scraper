@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:41 17-01-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 19:17 17-01-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,24 +48,23 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `delist.fictile.judgeship.prescribing.recloser.umorina.info` | `36167` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=delist.fictile.judgeship.prescribing.recloser.umorina.info&port=36167&secret=c1e93aa1bcb004d184015832673e45a9) |
-| 2 | `91.99.213.141` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.99.213.141&port=443&secret=dd104462821249bd7ac519130220c25d09) |
-| 3 | `167.86.100.17` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.86.100.17&port=443&secret=eed2c4dc1c928e717578dc046e6213f1ee636c6f7564666c6172652e636f6d) |
-| 4 | `104.238.183.122` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=104.238.183.122&port=443&secret=9673dd2cd90fb7e75141144f6d14098e) |
-| 5 | `zoomit.telbet.lol` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=zoomit.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 6 | `185.237.95.231` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.237.95.231&port=443&secret=ee4571396297582727452bf660db01b789676f6f676c652e636f6d) |
-| 7 | `obxod2.vpnforum.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=obxod2.vpnforum.ru&port=443&secret=bf9f2d60e8d4ca1b376a71ea5400c7d2) |
-| 8 | `how.telbet.lol` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=how.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 9 | `i.telbet.lol` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=i.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 11 | `142.54.189.108` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.54.189.108&port=443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267) |
-| 12 | `catholicity.gravely.pudgy.relaxed.scatterer.superpinoy.net` | `2400` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=catholicity.gravely.pudgy.relaxed.scatterer.superpinoy.net&port=2400&secret=c6e97411bd2f36aead173ff1b945c91e) |
-| 13 | `213.108.21.105` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=213.108.21.105&port=2053&secret=dd586464b7256dddfd4b5ede01693551ee) |
-| 14 | `89.169.33.141` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.169.33.141&port=443&secret=eef6cf7f962f5100401aea20b56d9404df73332e616d617a6f6e6177732e636f6d) |
-| 15 | `45.77.62.172` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.77.62.172&port=443&secret=875315b6c314c20e6a135ed2d5c46ebd) |
-| 16 | `prxyhub.click` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=prxyhub.click&port=443&secret=9f27410725ab8ab84ed17daf14723236) |
-| 17 | `45.32.167.239` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=45.32.167.239&port=443&secret=a737f5af44b8972dde5af2b384942a5b) |
-| 18 | `tgproxy2.appav.net` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tgproxy2.appav.net&port=443&secret=8bf3a57e01e2d2c226113d338840793d) |
-| 19 | `Fast.love-internet.xyz` | `4515` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Fast.love-internet.xyz&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
+| 1 | `150.241.71.185` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=150.241.71.185&port=8443&secret=ee4d0a2c3e636d0763084f3bed56cfce5f636c6f7564666c6172652e636f6d) |
+| 2 | `144.31.157.26` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=144.31.157.26&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275) |
+| 3 | `Fast.love-internet.xyz` | `4515` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Fast.love-internet.xyz&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
+| 5 | `84.252.100.26` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=84.252.100.26&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275) |
+| 6 | `2.27.21.243` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2.27.21.243&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275) |
+| 7 | `tg.vless.cloud` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tg.vless.cloud&port=25565&secret=eec52989e32ab86d01d07ad0e9ab642846696d616765732e6170706c652e636f6d) |
+| 9 | `80.66.65.184` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=80.66.65.184&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275) |
+| 10 | `dowd.sportsmanship.steeplechaser.thy.urceolate.kapitoshka.info` | `15417` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dowd.sportsmanship.steeplechaser.thy.urceolate.kapitoshka.info&port=15417&secret=d6db8ab62ff9b9f70f6ca15ccb98c222) |
+| 11 | `3.hajrozbeh.onl` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=3.hajrozbeh.onl&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 12 | `171.22.31.13` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=171.22.31.13&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275) |
+| 13 | `2.26.98.220` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2.26.98.220&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275) |
+| 15 | `6161627.telbet.lol` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=6161627.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 16 | `207.180.253.71` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=207.180.253.71&port=443&secret=eea136023cfd26d54332adf93ccca90960636c6f7564666c6172652e636f6d) |
+| 17 | `zoomit.telbet.lol` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=zoomit.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 18 | `de1.kael.fuckrkn.net` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=de1.kael.fuckrkn.net&port=443&secret=ee1a499af9a7a18282da82e30714402e157777772e6165726f666c6f742e7275) |
+| 19 | `proxydazhenaparkovke.site` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxydazhenaparkovke.site&port=443&secret=dde8aa2e8c1ad50570b7d6fe7e0ba3d677) |
+| 20 | `212.80.7.134` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=212.80.7.134&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

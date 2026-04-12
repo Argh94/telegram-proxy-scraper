@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 01:04 23-01-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 06:05 23-01-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,22 +48,22 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `172.65.102.115` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
-| 2 | `195.254.165.244` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.244&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 3 | `95.215.8.7` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=95.215.8.7&port=8443&secret=ee0255093dda82210420e832b376b772997777772e636c6f7564666c6172652e636f6d) |
-| 4 | `proxy-sosavpn.duckdns.org` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy-sosavpn.duckdns.org&port=8443&secret=f5a36ceadd9bbedd919fbd9f1c9387dd) |
-| 5 | `billboardton2.duckdns.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=billboardton2.duckdns.org&port=443&secret=ee66ceae886b50975e592ad71558b1202b62696c6c626f617264746f6e322e6475636b646e732e6f7267) |
+| 1 | `195.254.165.250` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.250&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 2 | `3.hajrozbeh.onl` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=3.hajrozbeh.onl&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 3 | `87.121.89.227` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.121.89.227&port=8443&secret=eeba15e0c527433a3a686b97f09254f5a0796f6e73652e6f7267) |
+| 4 | `93.115.22.75` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=93.115.22.75&port=443&secret=ff16b3b0820cafdb4adea4272f2dfc26) |
+| 5 | `185.117.0.248` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.117.0.248&port=443&secret=eed451f808fd60ed2c45f11d38fdbc87c57961686f6f2e636f6d) |
 | 6 | `mt.white-bars.ru` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mt.white-bars.ru&port=8443&secret=12da224b61c3662bcda2294414b5eda9) |
-| 7 | `rdp.nl.2.mtproto.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=rdp.nl.2.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d) |
-| 8 | `147.45.71.181` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=147.45.71.181&port=2053&secret=ddf24d98c3bf7d6544163769643a621c91) |
-| 10 | `153.80.249.111` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=153.80.249.111&port=443&secret=ee34469c63a94790a187e524a78e254c3467697476657273652e7275) |
-| 11 | `proxy.ciaowner.lol` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.ciaowner.lol&port=443&secret=ee1459dda62dc99782f8741f1ab0deb4f2706574726f766963682e7275) |
-| 13 | `zoomit.telbet.lol` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=zoomit.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 14 | `2.27.25.192` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2.27.25.192&port=443&secret=ee038521d3753473464064e3bb49abadb26d61696c2e7275) |
-| 16 | `178.104.98.160` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=178.104.98.160&port=443&secret=ee636c6f7564666c6172652e636f6db6) |
-| 18 | `free-proxy-03.duckdns.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=free-proxy-03.duckdns.org&port=443&secret=ddea63ef94c511c297c68017f7d71ce1db) |
-| 19 | `62.171.185.192` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.171.185.192&port=443&secret=ee212563d6d8816a43be5143606cdadb35636c6f7564666c6172652e636f6d) |
-| 20 | `195.254.165.252` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.252&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 7 | `how.telbet.lol` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=how.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 8 | `172.65.117.172` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.117.172&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
+| 9 | `prism72a6-d996dda7.proxytg.ink` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=prism72a6-d996dda7.proxytg.ink&port=443&secret=02567895943d8069be957f7058fa8aed) |
+| 10 | `142.54.189.106` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=142.54.189.106&port=443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267) |
+| 11 | `62.171.164.255` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.171.164.255&port=443&secret=eed00f99d3053051a66446182549bb84c8636c6f7564666c6172652e636f6d) |
+| 12 | `free-proxy-03.duckdns.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=free-proxy-03.duckdns.org&port=443&secret=ddea63ef94c511c297c68017f7d71ce1db) |
+| 17 | `peyk.acharbashi.info` | `4515` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=peyk.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) |
+| 18 | `2A.telbet.lol` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2A.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 19 | `95.215.8.7` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=95.215.8.7&port=8443&secret=ee0255093dda82210420e832b376b772997777772e636c6f7564666c6172652e636f6d) |
+| 20 | `193.201.126.105` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=193.201.126.105&port=443&secret=1252499a7e863e219b02da58d29aa2f8) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

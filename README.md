@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 19:58 16-02-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 23:16 16-02-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,25 +48,23 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `172.65.102.115` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
-| 2 | `79.137.196.223` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=79.137.196.223&port=8443&secret=eeeeacd334a255675ccc880cb6b8c9caf07777772e636c6f7564666c6172652e636f6d) |
-| 3 | `0xb00b5.top` | `853` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=0xb00b5.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b) |
-| 4 | `172.234.115.238` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.234.115.238&port=443&secret=3a3365be03d6bc13518d65e70a3146c2) |
-| 5 | `195.254.165.247` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.247&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 6 | `reboot.tikla.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=reboot.tikla.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 8 | `m4in-fr4mes-are-comp1ex-but-cut3.top` | `853` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=m4in-fr4mes-are-comp1ex-but-cut3.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b) |
-| 9 | `i-love-femboys.top` | `853` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=i-love-femboys.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b) |
-| 10 | `s5.proxyru.top` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s5.proxyru.top&port=443&secret=eefe281d2bfa13f991ed6be43138e5e14c79612e7275) |
-| 11 | `win.sosproxy.space` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d) |
-| 12 | `ctfd-is-shit.top` | `853` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ctfd-is-shit.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b) |
-| 13 | `94.159.106.120` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=94.159.106.120&port=443&secret=ee094c74b28fa0195c624b646de6a9f04f7777772e636c6f7564666c6172652e636f6d) |
-| 14 | `labuten.strawberries.cfd` | `853` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=labuten.strawberries.cfd&port=853&secret=ee58639c2a0869a8d109d1b6dde1aa98c677622e7275) |
-| 15 | `87.106.137.212` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.106.137.212&port=443&secret=eea1b2c3d4e5f60123456789abcdef012373332e616d617a6f6e6177732e636f6d) |
-| 16 | `proxyfsociety.strangled.net` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxyfsociety.strangled.net&port=443&secret=eeec5071a832c00b83ea970629d08ef2fe706574726f766963682e7275) |
-| 17 | `linkflowhub.shop` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=linkflowhub.shop&port=443&secret=ee214c7bb19c9734154c87193afcaecbcd6c696e6b666c6f776875622e73686f70) |
-| 18 | `zoomit.telbet.lol` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=zoomit.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
-| 19 | `89.125.113.14` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.125.113.14&port=443&secret=ee3e7641e0b5826dee9d6b6b265bfe05ed79616e6465782e7275) |
-| 20 | `pinklove.top` | `853` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pinklove.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b) |
+| 2 | `195.254.165.250` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.250&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 3 | `mtp.ascel.la` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtp.ascel.la&port=8443&secret=dd5a168da5855fbccf12ccba3e0c4df359) |
+| 4 | `6161627.telbet.lol` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=6161627.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 5 | `pinklove.top` | `853` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pinklove.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b) |
+| 6 | `89.125.113.11` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.125.113.11&port=443&secret=eebcb694130943ff7dcaf08c93b0564ff179616e6465782e7275) |
+| 8 | `i-love-boobs.top` | `853` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=i-love-boobs.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b) |
+| 9 | `172.234.115.238` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.234.115.238&port=443&secret=3a3365be03d6bc13518d65e70a3146c2) |
+| 10 | `79.137.196.223` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=79.137.196.223&port=8443&secret=eeeeacd334a255675ccc880cb6b8c9caf07777772e636c6f7564666c6172652e636f6d) |
+| 11 | `who-are-you.top` | `853` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=who-are-you.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b) |
+| 12 | `labuten.strawberries.cfd` | `853` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=labuten.strawberries.cfd&port=853&secret=ee58639c2a0869a8d109d1b6dde1aa98c677622e7275) |
+| 13 | `178.104.98.160` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=178.104.98.160&port=443&secret=ee636c6f7564666c6172652e636f6db6) |
+| 14 | `188.137.250.103` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=188.137.250.103&port=443&secret=dd55e6dc2a653a5b98684624035dea96ce) |
+| 15 | `proxyfsociety.mooo.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxyfsociety.mooo.com&port=443&secret=eeec5071a832c00b83ea970629d08ef2fe706574726f766963682e7275) |
+| 16 | `195.254.165.252` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.252&port=25565&secret=dd79e344818749bd7ac519130220c25d09) |
+| 17 | `free-germany.kimt.space` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=free-germany.kimt.space&port=443&secret=ee7b7ef45d40766b5b5f494f801f53af40667265652d6765726d616e792e6b696d742e7370616365) |
+| 18 | `i-love-femboys.top` | `853` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=i-love-femboys.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b) |
+| 19 | `tee.mobemouy.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tee.mobemouy.com&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

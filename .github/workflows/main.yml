@@ -72,7 +72,7 @@ jobs:
             proxy.txt
 
       - name: 🚀 Deploy to GitHub Pages
-        uses: actions/deploy-pages@v5     # ← بروزرسانی به v5
+        uses: actions/deploy-pages@v5
         id: deployment
 
     environment:

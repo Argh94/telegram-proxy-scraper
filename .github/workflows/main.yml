@@ -24,7 +24,6 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # ==================== بخش اسکرپینگ ====================
       - name: 🐍 Set up Python
         uses: actions/setup-python@v6
         with:
@@ -50,14 +49,11 @@ jobs:
         working-directory: ./Files
         run: python main.py
 
-      # ==================== Commit & Push ====================
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          
           git add proxy.txt README.md Files/requirements.txt
-          
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
@@ -67,7 +63,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # ==================== Deploy to GitHub Pages ====================
       - name: 📦 Upload artifact
         uses: actions/upload-artifact@v7
         with:
@@ -75,10 +70,9 @@ jobs:
           path: |
             index.html
             proxy.txt
-          retention-days: 7
 
       - name: 🚀 Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5     # ← بروزرسانی به v5
         id: deployment
 
     environment:

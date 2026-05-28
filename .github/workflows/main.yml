@@ -1,34 +1,25 @@
-name: Scrape & Deploy to GitHub Pages
-
-concurrency:
-  group: github-pages
-  cancel-in-progress: true
+name: Telegram Proxy Scraper
 
 on:
   schedule:
-    - cron: '*/15 * * * *'     # برای تست - بعداً به ۳ ساعت تغییر بده
+    - cron: '0 */3 * * *'   # هر ۳ ساعت
   push:
     branches: [ main ]
   workflow_dispatch:
 
-permissions:
-  contents: write
-  pages: write
-  id-token: write
-
 jobs:
-  scrape-and-deploy:
+  scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 20
 
     steps:
-      - name: 📥 Checkout repository
+      - name: Checkout repository
         uses: actions/checkout@v6
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 🐍 Set up Python
+      - name: Set up Python
         uses: actions/setup-python@v6
         with:
           python-version: '3.11'
@@ -39,10 +30,11 @@ jobs:
         with:
           chrome-version: stable
 
-      - name: Create/Update requirements.txt
+      - name: Create or update requirements.txt
         working-directory: ./Files
         run: |
           echo -e "requests\nbeautifulsoup4\nselenium\npytz\njdatetime" > requirements.txt
+          cat requirements.txt
 
       - name: Install dependencies
         working-directory: ./Files
@@ -54,52 +46,32 @@ jobs:
         working-directory: ./Files
         run: python main.py
 
-      # === Debug Steps (جدید) ===
-      - name: 📋 Show files and changes
+      # === دیباگ مهم (برای فهمیدن مشکل) ===
+      - name: Debug - Check proxy.txt location and content
         run: |
           echo "=== Files in root ==="
           ls -la
           echo "=== Files in ./Files ==="
           ls -la ./Files
-          echo "=== Content of proxy.txt (first 10 lines) ==="
-          head -n 10 proxy.txt 2>/dev/null || echo "proxy.txt not found in root"
-          head -n 10 ./Files/proxy.txt 2>/dev/null || echo "proxy.txt not found in Files folder"
+          echo "=== First 15 lines of proxy.txt in root ==="
+          head -n 15 proxy.txt 2>/dev/null || echo "proxy.txt not found in root"
+          echo "=== First 15 lines of proxy.txt in ./Files ==="
+          head -n 15 ./Files/proxy.txt 2>/dev/null || echo "proxy.txt not found in Files"
 
       - name: Commit and push changes
-        id: commit
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-          # اضافه کردن دقیق‌تر فایل‌ها
+          # اضافه کردن هر دو مکان احتمالی proxy.txt
           git add proxy.txt ./Files/proxy.txt README.md Files/requirements.txt index.html 2>/dev/null || true
           
           if git diff --staged --quiet; then
             echo "No changes to commit"
-            echo "has_changes=false" >> $GITHUB_OUTPUT
           else
             git commit -m "⛓️‍💥 Argh94 Update - $(date '+%Y-%m-%d %H:%M UTC')"
             git push origin main
-            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "Changes committed and pushed"
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: 📦 Upload artifact
-        if: steps.commit.outputs.has_changes == 'true' || github.event_name == 'workflow_dispatch'
-        uses: actions/upload-artifact@v7
-        with:
-          name: github-pages
-          path: |
-            index.html
-            proxy.txt
-            ./Files/proxy.txt
-
-      - name: 🚀 Deploy to GitHub Pages
-        if: steps.commit.outputs.has_changes == 'true' || github.event_name == 'workflow_dispatch'
-        uses: actions/deploy-pages@v5
-        id: deployment
-
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 23:39 07-03-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 01:58 08-03-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,15 +48,17 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `87.248.129.240` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.240&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 2 | `r20.proxytg.space` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=r20.proxytg.space&port=8443&secret=ee882e7f1447939817016bb33afc4fe86c7232302e70726f787974672e7370616365) |
-| 4 | `172.65.38.26` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.38.26&port=9443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267) |
-| 5 | `87.248.129.210` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.210&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 6 | `172.65.234.91` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.234.91&port=9443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267) |
-| 9 | `He.jlpoKcu.cloud` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=He.jlpoKcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275) |
-| 16 | `87.248.129.13` | `15` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.13&port=15&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
-| 17 | `94.183.219.141` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=94.183.219.141&port=443&secret=91f5fd16db2720f5948f7cb89805f95d) |
-| 18 | `87.248.129.210` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.210&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 2 | `mimecraft4ir.homes` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mimecraft4ir.homes&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 3 | `new.tproxy.rest` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=new.tproxy.rest&port=8443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 5 | `r16.proxytg.space` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=r16.proxytg.space&port=8443&secret=ee58ff3d2285478b5a749af32da19f36707231362e70726f787974672e7370616365) |
+| 7 | `iranroad.shop` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iranroad.shop&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 8 | `r22.proxytg.space` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=r22.proxytg.space&port=8443&secret=eeace5ab7ab128f81a0b16ada143ec10807232322e70726f787974672e7370616365) |
+| 9 | `172.65.38.26` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.38.26&port=9443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267) |
+| 11 | `tg.capycore.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tg.capycore.ru&port=443&secret=27ebe852539fb8ec5f327c73262bb721) |
+| 16 | `87.248.129.212` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.212&port=25565&secret=79e344818749bd7ac519130220c25d0979e344818749bd7ac519130220c25d0979e344818749bd7ac519130220c25d0979e344818749bd7ac519130220c25d09) |
+| 17 | `mt.corph.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mt.corph.ru&port=443&secret=dd2ed7517b077ef414e24b106e0729335d) |
+| 19 | `r20.proxytg.space` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=r20.proxytg.space&port=8443&secret=ee882e7f1447939817016bb33afc4fe86c7232302e70726f787974672e7370616365) |
+| 20 | `sosal.chunkycorp.shop` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sosal.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

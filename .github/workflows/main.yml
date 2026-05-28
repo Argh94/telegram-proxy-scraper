@@ -6,7 +6,7 @@ concurrency:
 
 on:
   schedule:
-    - cron: '*/15 * * * *'     # هر ۱۵ دقیقه (برای تست) - بعد از تست به ۳ ساعت تغییر بده
+    - cron: '*/15 * * * *'     # برای تست - بعداً به ۳ ساعت تغییر بده
   push:
     branches: [ main ]
   workflow_dispatch:
@@ -19,7 +19,7 @@ permissions:
 jobs:
   scrape-and-deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
 
     steps:
       - name: 📥 Checkout repository
@@ -54,13 +54,25 @@ jobs:
         working-directory: ./Files
         run: python main.py
 
+      # === Debug Steps (جدید) ===
+      - name: 📋 Show files and changes
+        run: |
+          echo "=== Files in root ==="
+          ls -la
+          echo "=== Files in ./Files ==="
+          ls -la ./Files
+          echo "=== Content of proxy.txt (first 10 lines) ==="
+          head -n 10 proxy.txt 2>/dev/null || echo "proxy.txt not found in root"
+          head -n 10 ./Files/proxy.txt 2>/dev/null || echo "proxy.txt not found in Files folder"
+
       - name: Commit and push changes
         id: commit
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-          git add proxy.txt README.md Files/requirements.txt index.html 2>/dev/null || true
+          # اضافه کردن دقیق‌تر فایل‌ها
+          git add proxy.txt ./Files/proxy.txt README.md Files/requirements.txt index.html 2>/dev/null || true
           
           if git diff --staged --quiet; then
             echo "No changes to commit"
@@ -81,6 +93,7 @@ jobs:
           path: |
             index.html
             proxy.txt
+            ./Files/proxy.txt
 
       - name: 🚀 Deploy to GitHub Pages
         if: steps.commit.outputs.has_changes == 'true' || github.event_name == 'workflow_dispatch'

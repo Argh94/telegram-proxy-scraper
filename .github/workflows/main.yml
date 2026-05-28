@@ -6,7 +6,7 @@ concurrency:
 
 on:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '*/15 * * * *'     # هر ۱۵ دقیقه (برای تست) - بعد از تست به ۳ ساعت تغییر بده
   push:
     branches: [ main ]
   workflow_dispatch:

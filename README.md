@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 01:22 10-03-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 06:00 10-03-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,17 +48,21 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `iranroad.shop` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iranroad.shop&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 2 | `37.49.226.110` | `15` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=37.49.226.110&port=15&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
-| 4 | `r29.proxytg.space` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=r29.proxytg.space&port=8443&secret=ee5b741234768d8dda7d1c17e7e7cff98a7232392e70726f787974672e7370616365) |
-| 5 | `77.73.135.70` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77.73.135.70&port=443&secret=ee24fc31cd01228525d9052a343acbe717766b2e636f6d) |
-| 9 | `proxy.speedbreaker.info` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.speedbreaker.info&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 10 | `connect.tproxy.store` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=connect.tproxy.store&port=8443&secret=dd79e7010200010007f0030386e24c3add) |
-| 12 | `elevenproxy.pro` | `444` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=elevenproxy.pro&port=444&secret=aa1234567890abcdef1234567890abcd) |
-| 14 | `r24.proxytg.space` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=r24.proxytg.space&port=8443&secret=eeade4e42a3bee4969fcb706467380da727232342e70726f787974672e7370616365) |
-| 16 | `ams1.tlgfast.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ams1.tlgfast.com&port=443&secret=083fe0c452e2407d835537872f097c5) |
-| 17 | `178.105.141.172` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=178.105.141.172&port=443&secret=ee8db761231b91c7c07ac0a6e7323ad41b676f6f676c65617069732e636f6d) |
-| 18 | `87.248.129.220` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.220&port=2053&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 2 | `62.238.37.167` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.238.37.167&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 3 | `s13.neo-trading.org` | `993` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s13.neo-trading.org&port=993&secret=eec3fefd89a25d37ca3af1a602c7bfd8de7777772e636c6f7564666c6172652e636f6d) |
+| 4 | `87.248.129.220` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.220&port=2053&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 6 | `135.181.35.14` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=135.181.35.14&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 7 | `rah.time-meli.info` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=rah.time-meli.info&port=155&secret=dd104462821249bd7ac519130220c25d09) |
+| 9 | `85.192.29.173` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=85.192.29.173&port=443&secret=ee764656762499295cd6aef0714a2a4bdf766b2e636f6d) |
+| 10 | `35.178.212.203` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=35.178.212.203&port=80&secret=dd104462821249bd7ac519130220c25d09) |
+| 11 | `miinecrafto.com` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=miinecrafto.com&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 12 | `r21.proxytg.space` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=r21.proxytg.space&port=8443&secret=eec5963870566a7e0d9a04f5f792d9faf47232312e70726f787974672e7370616365) |
+| 15 | `87.248.129.225` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.225&port=443&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
+| 16 | `r28.proxytg.space` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=r28.proxytg.space&port=8443&secret=eed5f4455563d14c2b8c8a38868c7d91607232382e70726f787974672e7370616365) |
+| 17 | `evening.nolags.pw` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=evening.nolags.pw&port=443&secret=dd29b3afb209c4427676b4c43eecb7f556) |
+| 18 | `sexy.arixo.shop` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sexy.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c59617669746f2e7275) |
+| 19 | `89.167.100.114` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.167.100.114&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 20 | `89.167.101.96` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.167.101.96&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:48 12-03-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:06 12-03-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,22 +48,20 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `ams1.tlgfast.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ams1.tlgfast.com&port=443&secret=083fe0c452e2407d835537872f097c5) |
-| 2 | `87.248.129.129` | `15` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.129&port=15&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
-| 3 | `5.75.222.35` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.75.222.35&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 4 | `2.telbet.lol` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2.telbet.lol&port=25565&secret=dd79e7010200010007f0030386e24c3add) |
-| 6 | `proxy.speedbreaker.info` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.speedbreaker.info&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 7 | `bminecraft.info` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bminecraft.info&port=25565&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
-| 9 | `95.182.87.20` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=95.182.87.20&port=443&secret=eec11798ab008831b474066c9e1ebf5c59617669746f2e7275) |
-| 10 | `r36.proxytg.space` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=r36.proxytg.space&port=8443&secret=eee3df338e2eddce462101e6eecbdd9ee87233362e70726f787974672e7370616365) |
-| 11 | `parest.opt-meli.info` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=parest.opt-meli.info&port=155&secret=dd104462821249bd7ac519130220c25d09) |
-| 12 | `pitzamamad9.ir` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pitzamamad9.ir&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 13 | `tg.capycore.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tg.capycore.ru&port=443&secret=27ebe852539fb8ec5f327c73262bb721) |
-| 14 | `87.248.129.14` | `15` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.14&port=15&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
-| 15 | `ad.canvas-proxy.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ad.canvas-proxy.com&port=443&secret=eeb7f10957fcefd87d5e8c336fc9851d8d61642e63616e7661732d70726f78792e636f6d) |
-| 17 | `rah.time-meli.info` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=rah.time-meli.info&port=155&secret=dd104462821249bd7ac519130220c25d09) |
-| 19 | `87.248.129.132` | `16` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.132&port=16&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
-| 20 | `93.185.167.212` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=93.185.167.212&port=443&secret=ee1c88677acf461e09e68f4ff0cef5724a617669746f2e7275) |
+| 1 | `87.248.129.223` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.223&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 2 | `bminecraft.info` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bminecraft.info&port=25565&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
+| 3 | `87.58.201.74` | `853` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.58.201.74&port=853&secret=ee6aa9eb2bd47d97b43be8ac203cfd3c0e7777772e676f6f676c652e636f6d) |
+| 4 | `94.183.219.141` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=94.183.219.141&port=443&secret=91f5fd16db2720f5948f7cb89805f95d) |
+| 7 | `rah.time-meli.info` | `155` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=rah.time-meli.info&port=155&secret=dd104462821249bd7ac519130220c25d09) |
+| 8 | `87.248.129.52` | `15` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.52&port=15&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
+| 10 | `3.telbet.lol` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=3.telbet.lol&port=25565&secret=dd79e7010200010007f0030386e24c3add) |
+| 11 | `fridayvpn.proxyprosto.sbs` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=fridayvpn.proxyprosto.sbs&port=443&secret=ee5d7bc000726b1b2973c914b149c16cf277622e7275) |
+| 14 | `www.minetor.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.minetor.co.uk&port=443&secret=ee104462821249bd7ac519130220c25d09) |
+| 15 | `172.65.38.26` | `9443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.38.26&port=9443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267) |
+| 16 | `mc-ssh.t-proxyru.info.` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mc-ssh.t-proxyru.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
+| 17 | `k29s8d3f.mt.trattat.online` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=k29s8d3f.mt.trattat.online&port=443&secret=dddb8ae26a35a38c85316bf78ea8f5a148) |
+| 18 | `93.185.167.212` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=93.185.167.212&port=443&secret=ee1c88677acf461e09e68f4ff0cef5724a617669746f2e7275) |
+| 19 | `ams1.tlgfast.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ams1.tlgfast.com&port=443&secret=083fe0c452e2407d835537872f097c5) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

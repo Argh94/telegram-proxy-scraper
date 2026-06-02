@@ -236,7 +236,7 @@ def update_readme(proxy_list):
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
-  <img src="https://img.shields.io/badge/python-3.9-blue" alt="Python 3.9" />
+  <img src="https://img.shields.io/badge/python-3.9-blue" alt="Python 3.11" />
   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contributions Welcome" />
   <img src="https://img.shields.io/badge/Proxy%20Scraper-Running-green" alt="Proxy Scraper" />
   <img src="https://github.com/Argh94/telegram-proxy-scraper/actions/workflows/main.yml/badge.svg" alt="Proxy Scraper Workflow" />

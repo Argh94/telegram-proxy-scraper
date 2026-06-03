@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:37 13-03-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 22:12 13-03-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,17 +48,19 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `46.225.255.75` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.225.255.75&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 2 | `moon.nolags.pw` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=moon.nolags.pw&port=443&secret=dd2c611b53a9c82f662081daed93cc3cb3) |
-| 6 | `91.217.166.7` | `16` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.217.166.7&port=16&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
-| 8 | `62.238.32.249` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.238.32.249&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 11 | `1.telbet.lol` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=1.telbet.lol&port=25565&secret=dd79e7010200010007f0030386e24c3add) |
-| 12 | `84.32.151.169` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=84.32.151.169&port=443&secret=27ebe852539fb8ec5f327c73262bb721) |
-| 14 | `5.78.217.202` | `42341` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.78.217.202&port=42341&secret=dd104462821249bd7ac519130220c25d09) |
-| 16 | `91.217.166.13` | `16` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.217.166.13&port=16&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
-| 17 | `46.225.255.143` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.225.255.143&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 18 | `87.248.129.130` | `15` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.130&port=15&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
-| 20 | `tala.telbet.lol` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tala.telbet.lol&port=25565&secret=dd79e7010200010007f0030386e24c3add) |
+| 1 | `91.217.166.11` | `16` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.217.166.11&port=16&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
+| 3 | `91.107.240.187` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.107.240.187&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 5 | `91.217.166.12` | `16` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.217.166.12&port=16&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
+| 6 | `46.225.252.107` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.225.252.107&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 8 | `80.96.112.222` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=80.96.112.222&port=443&secret=ee2e7fcf4666472ebd58e4fea75357105f7777772e79616e6465782e7275) |
+| 11 | `5.78.217.202` | `42341` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.78.217.202&port=42341&secret=dd104462821249bd7ac519130220c25d09) |
+| 12 | `91.107.246.35` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.107.246.35&port=443&secret=dd104462821249bd7ac519130220c25d09) |
+| 13 | `prime.nolags.pw` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=prime.nolags.pw&port=443&secret=ddb01da288baa59189c1db3c7bb1490895) |
+| 14 | `heart.nolags.pw` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=heart.nolags.pw&port=443&secret=dd1d8f1aa6cb8726a39f24cc3943099e33) |
+| 16 | `noron2.iranroad.casa` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=noron2.iranroad.casa&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 17 | `bminecraft.info` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bminecraft.info&port=25565&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
+| 18 | `arezoni9.ir` | `15` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=arezoni9.ir&port=15&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
+| 19 | `87.248.129.212` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.212&port=25565&secret=79e344818749bd7ac519130220c25d0979e344818749bd7ac519130220c25d0979e344818749bd7ac519130220c25d0979e344818749bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:36 16-03-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 09:53 16-03-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,21 +48,23 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `167.233.73.69` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.233.73.69&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 3 | `65.108.201.16` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.108.201.16&port=443&secret=dd104462821249bd7ac519130220c25d09) |
-| 4 | `65.108.201.16` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.108.201.16&port=443&secret=dd104462821249bd7ac519130220c25d09) |
-| 5 | `78.47.129.193` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=78.47.129.193&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 8 | `195.254.165.18` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.18&port=8443&secret=ee1603010200010001fc030386e24c3add646565707365656B2E636F6D) |
-| 9 | `87.248.129.243` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.243&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 10 | `87.248.129.243` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.243&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 11 | `195.254.165.22` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.22&port=8443&secret=ee1603010200010001fc030386e24c3add646565707365656B2E636F6D) |
-| 12 | `big.shahidpaper.site` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=big.shahidpaper.site&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 1 | `fool.feel-fly.info` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=fool.feel-fly.info&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 2 | `fresh.t-proxy.info.` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
+| 3 | `95.216.41.109` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=95.216.41.109&port=443&secret=dd104462821249bd7ac519130220c25d09) |
+| 4 | `178.105.226.11` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=178.105.226.11&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 5 | `tg.capycore.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tg.capycore.ru&port=443&secret=27ebe852539fb8ec5f327c73262bb721) |
+| 6 | `87.248.129.246` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.246&port=8443&secret=dd79e344818749bd7ac519130220c25d09) |
+| 7 | `sonic.quickrouteapp.xyz` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sonic.quickrouteapp.xyz&port=443&secret=eebd8b54149182b64d403ef9c5141fc3ee736f6e69632e717569636b726f7574656170702e78797a) |
+| 8 | `iran.protocolsix.info.` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iran.protocolsix.info.&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 10 | `87.248.129.132` | `16` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.132&port=16&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
+| 11 | `vortex.flowstreamhub.site` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vortex.flowstreamhub.site&port=443&secret=eeafcde96fcec1b95dd190a95814b0f026766f727465782e666c6f7773747265616d6875622e73697465) |
+| 12 | `play.fast-mt.info` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=play.fast-mt.info&port=22&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
 | 13 | `213.133.102.101` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=213.133.102.101&port=443&secret=dd104462821249bd7ac519130220c25d09) |
-| 14 | `65.109.252.197` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.252.197&port=8080&secret=dd104462821249bd7ac519130220c25d09) |
-| 16 | `65.109.254.108` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.254.108&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b) |
-| 17 | `167.233.49.234` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.233.49.234&port=443&secret=ddd77db43ee3721f0fcb40a4ff63b5cd27) |
-| 19 | `87.248.129.53` | `15` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.53&port=15&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 20 | `195.254.165.21` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.21&port=2053&secret=dd1603010200010001fc030386e24c3add) |
+| 14 | `87.248.129.12` | `15` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.12&port=15&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 15 | `95.216.41.109` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=95.216.41.109&port=443&secret=dd104462821249bd7ac519130220c25d09) |
+| 16 | `195.254.165.20` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=195.254.165.20&port=8080&secret=dd79e7010200010007f0030386e24c3add) |
+| 18 | `second.nolags.pw` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=second.nolags.pw&port=443&secret=ddf4fa8f92de56cde758429546586eaac8) |
+| 20 | `87.248.129.244` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.244&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

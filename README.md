@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 01:34 25-03-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 06:12 25-03-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,21 +48,22 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `87.248.129.101` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.101&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 5 | `comet.proxytelega.store` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=comet.proxytelega.store&port=443&secret=ee6ee3f38ac1fe7874f5eab381736e7eaa636f6d65742e70726f787974656c6567612e73746f7265) |
-| 6 | `87.248.129.131` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.131&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 7 | `static.prxtoday.store` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=static.prxtoday.store&port=443&secret=ee3740849efd941157c45810d974fd66097374617469632e707278746f6461792e73746f7265) |
-| 8 | `host.mizbanonline.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=host.mizbanonline.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 9 | `87.248.129.99` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.99&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 10 | `echo.proxym.world` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=echo.proxym.world&port=443&secret=ee03856fdd3a0b54784892677df90144a06563686f2e70726f78796d2e776f726c64) |
-| 11 | `play.fast-mt.info` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=play.fast-mt.info&port=22&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 12 | `91.206.28.11` | `1010` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.206.28.11&port=1010&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 13 | `irancell-mci.ir.gybshdjls.info.` | `88` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=irancell-mci.ir.gybshdjls.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 14 | `87.248.129.106` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.106&port=8443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 16 | `ams1.tlgfast.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ams1.tlgfast.com&port=443&secret=083fe0c452e2407d835537872f097c54) |
-| 17 | `mean.mahanam.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mean.mahanam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 18 | `87.248.129.16` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.16&port=8443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 20 | `tg.nowabst.net` | `853` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tg.nowabst.net&port=853&secret=eebfbfb8093b088269716ea5262d483e1d6164732e78352e7275) |
+| 2 | `comet.proxytelega.store` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=comet.proxytelega.store&port=443&secret=ee6ee3f38ac1fe7874f5eab381736e7eaa636f6d65742e70726f787974656c6567612e73746f7265) |
+| 3 | `irancell-mci.ir.gybshdjls.info.` | `88` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=irancell-mci.ir.gybshdjls.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 5 | `fresh.t-proxy.info.` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
+| 6 | `176.65.138.97` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=176.65.138.97&port=8443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 7 | `87.248.129.106` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.106&port=8443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 10 | `62.3.12.2` | `8444` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.3.12.2&port=8444&secret=ee6f7a6f6e2e7275f22c5421fa893965) |
+| 11 | `194.213.118.26` | `1010` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=194.213.118.26&port=1010&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 12 | `files.prx.today` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=files.prx.today&port=443&secret=eed19f9c1acf32e3b20825add6d073f07866696c65732e7072782e746f646179) |
+| 13 | `87.248.129.192` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.192&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 14 | `87.248.129.16` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.16&port=8443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 15 | `87.248.129.193` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.193&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 16 | `For.dear-iranian-people.com.heazshddd.info.` | `88` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=For.dear-iranian-people.com.heazshddd.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 17 | `pizza.telbet.lol` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pizza.telbet.lol&port=25565&secret=dd79e7010200010007f0030386e24c3add) |
+| 18 | `secure.proxyz.site` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=secure.proxyz.site&port=443&secret=ee6971f00b20112546804a9453a1a13fde7365637572652e70726f78797a2e73697465) |
+| 19 | `norm.quickdl.info` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=norm.quickdl.info&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 20 | `65.109.220.201` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.220.201&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

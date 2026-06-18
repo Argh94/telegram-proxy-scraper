@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 06:08 28-03-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 10:58 28-03-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,23 +48,21 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `87.248.129.182` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.182&port=443&secret=ee74531eb0ee43745c6ddb8efe247626cb3132333333332e732e732e732e652e6565666566656665662e69722d2d) |
-| 3 | `go.antitspu.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=go.antitspu.com&port=443&secret=ee31d386ef7e695ee39f4f28ecfbd28a37676f2e616e7469747370752e636f6d) |
-| 5 | `87.248.149.50` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.149.50&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 6 | `abrafagh.finecooking.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=abrafagh.finecooking.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 7 | `tcpdash-local.technom.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tcpdash-local.technom.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 8 | `87.248.129.182` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.182&port=443&secret=ee74531eb0ee43745c6ddb8efe247626cb3132333333332e732e732e732e652e6565666566656665662e69722d2d) |
-| 10 | `login.klyuch1k.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=login.klyuch1k.org&port=443&secret=ee7b0d5223fb0484933823a8e0e823194c6c6f67696e2e6b6c79756368316b2e6f7267) |
-| 11 | `new.old-balance.co.uk` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=new.old-balance.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 12 | `sync.proxyvpn.site` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sync.proxyvpn.site&port=443&secret=eeb9c7994a075883f404453b50e306f9cf73796e632e70726f787976706e2e73697465) |
-| 13 | `87.248.129.107` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.107&port=8443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 14 | `openhostings.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=openhostings.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 15 | `top.jamejanhani2.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=top.jamejanhani2.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 16 | `87.248.129.98` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.98&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 17 | `cdn.toconvel.digital` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cdn.toconvel.digital&port=443&secret=eeddeeeeb0dda28d2a517ff1c71036f2c663646e2e746f636f6e76656c2e6469676974616c) |
-| 18 | `room.coworcker.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=room.coworcker.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 19 | `87.248.129.185` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.185&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 20 | `login.veltura.digital` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=login.veltura.digital&port=443&secret=ee4f5545c56e0ee3271606a2985459773e6c6f67696e2e76656c747572612e6469676974616c) |
+| 1 | `87.248.149.19` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.149.19&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 2 | `pizza.telbet.lol` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pizza.telbet.lol&port=25565&secret=dd79e7010200010007f0030386e24c3add) |
+| 3 | `server.mizbanonline.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=server.mizbanonline.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 4 | `haji.acineirani-uoor1.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=haji.acineirani-uoor1.ir&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 5 | `51.250.14.75` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=51.250.14.75&port=443&secret=eebfee6bc937ce40159186de7ece967a95617669746f2e7275) |
+| 6 | `87.248.129.47` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.47&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 7 | `abrafagh.finecooking.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=abrafagh.finecooking.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 11 | `just-money.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=just-money.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 13 | `junior.ir.the-nice-mtproto.info.` | `88` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=junior.ir.the-nice-mtproto.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
+| 14 | `form.quickdl.info` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=form.quickdl.info&port=22&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 15 | `br.kingproxynewdomailasiatech.ink` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=br.kingproxynewdomailasiatech.ink&port=22&secret=dd79e7010200010007f0030386e24c3add) |
+| 16 | `digi.technom.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=digi.technom.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 17 | `proxy.speedbreaker.info` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.speedbreaker.info&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 18 | `melat.managep.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=melat.managep.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 20 | `91.107.160.196` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.107.160.196&port=443&secret=104462821249bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

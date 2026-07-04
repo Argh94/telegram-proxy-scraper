@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:29 13-04-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 19:25 13-04-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,22 +48,20 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `b.sub-ploter.co.uk` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=b.sub-ploter.co.uk&port=22&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 2 | `nick.ciaude.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=nick.ciaude.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 4 | `numbplodab.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=numbplodab.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6E756D62706C6F6461622E636F2E756B) |
-| 5 | `136.113.246.143` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=136.113.246.143&port=443&secret=dd76503102a8d65f5870239cb5c54689e5) |
-| 6 | `mazo-ir.masnavi.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mazo-ir.masnavi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 7 | `dena-plus-auto.denatara.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dena-plus-auto.denatara.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 8 | `host.numbplodab.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=host.numbplodab.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add686F73742E6E756D62706C6F6461622E636F2E756B) |
-| 9 | `cdn.mowork.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cdn.mowork.ru&port=443&secret=eececef6563bce080cccda8dcc61cedbf6617669746f2e7275) |
-| 10 | `swag.caxero.ru` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=swag.caxero.ru&port=443&secret=8f3c7a1d4b92e6c51a7d0fb843c2e91f) |
-| 11 | `ipv6.ssh-sec.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ipv6.ssh-sec.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 12 | `sv.just-money.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sv.just-money.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 13 | `h.hajagha.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=h.hajagha.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 15 | `new-for-you.ir.hohoshshs.info.` | `88` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=new-for-you.ir.hohoshshs.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 16 | `haghgo.masnavi.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=haghgo.masnavi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 19 | `138.124.33.176` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=138.124.33.176&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 20 | `207pana.denatara.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=207pana.denatara.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 2 | `proxy.garden-troll.life` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.garden-troll.life&port=443&secret=eee9b3ba71e9986a0601aaf9d8ec29b57c70726f78792e67617264656e2d74726f6c6c2e6c696665) |
+| 3 | `blond.basicscotch.co.uk` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=blond.basicscotch.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 4 | `company.avacloud.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=company.avacloud.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 5 | `should.be.wake.up.ir.yfdhjderkig.info.` | `88` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=should.be.wake.up.ir.yfdhjderkig.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d) |
+| 6 | `best-sellerst.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=best-sellerst.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
+| 7 | `68.209.57.138` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=68.209.57.138&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 8 | `win.golgoli1.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=win.golgoli1.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d) |
+| 9 | `138.124.33.176` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=138.124.33.176&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 11 | `subobdoa.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=subobdoa.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
+| 12 | `136.113.246.143` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=136.113.246.143&port=443&secret=dd76503102a8d65f5870239cb5c54689e5) |
+| 16 | `ad1.arixo.shop` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ad1.arixo.shop&port=443&secret=eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70) |
+| 17 | `8985d91b.etherealvpn.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8985d91b.etherealvpn.uk&port=443&secret=eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b) |
+| 18 | `sv2.hajhossein.observer` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sv2.hajhossein.observer&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 20 | `sv5.hajhossein.observer` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sv5.hajhossein.observer&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

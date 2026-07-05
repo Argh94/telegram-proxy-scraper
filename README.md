@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 14:30 14-04-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:37 14-04-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,21 +48,21 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `box.lavazemi5.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=box.lavazemi5.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 2 | `d4a7c1f8-3e9b-425d-a1c6-9f8e2b7a4d5c.casa` | `80` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=d4a7c1f8-3e9b-425d-a1c6-9f8e2b7a4d5c.casa&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d) |
-| 3 | `haghgo.masnavi.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=haghgo.masnavi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 4 | `s04.neo-trading.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s04.neo-trading.org&port=443&secret=ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275) |
-| 7 | `goodman.lamari.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=goodman.lamari.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 8 | `worldcup.avacloud.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=worldcup.avacloud.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 9 | `rain.golgoli2.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=rain.golgoli2.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d) |
-| 10 | `blond.basicscotch.co.uk` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=blond.basicscotch.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 11 | `87.229.56.6` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.229.56.6&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 13 | `sv.just-money.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sv.just-money.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 14 | `host.numbplodab.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=host.numbplodab.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add686F73742E6E756D62706C6F6461622E636F2E756B) |
-| 15 | `room.coworcker.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=room.coworcker.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 16 | `hetzner.brettanderson.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hetzner.brettanderson.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff6865747a6e65722e636f6d) |
-| 18 | `new-for-you.ir.hohoshshs.info.` | `88` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=new-for-you.ir.hohoshshs.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 19 | `2.pro.lunoconnect.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2.pro.lunoconnect.com&port=443&secret=ee9e61388de8911b3d39196f12bb31011d322e70726f2e6c756e6f636f6e6e6563742e636f6d) |
+| 1 | `general.irancell-ir.cfd` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=general.irancell-ir.cfd&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 2 | `mini.lavazemi4.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mini.lavazemi4.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 3 | `soh5.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=soh5.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 4 | `194.77.70.84` | `8080` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=194.77.70.84&port=8080&secret=1603010200010001fc030386e24c3add) |
+| 5 | `8985d91b.etherealvpn.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=8985d91b.etherealvpn.uk&port=443&secret=eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b) |
+| 6 | `tanzibjf.club.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tanzibjf.club.&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 7 | `bo9ss.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bo9ss.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b) |
+| 8 | `groupe.avacloud.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=groupe.avacloud.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 9 | `achar-ghofli-chie.avangement.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=achar-ghofli-chie.avangement.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 10 | `company.avacloud.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=company.avacloud.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 12 | `sv2.hajhossein.observer` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sv2.hajhossein.observer&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 13 | `mmd.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mmd.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 17 | `syzygy.sosun4ik.top` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=syzygy.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) |
+| 18 | `allah-akbar.ir.zydgjdinc.info.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=allah-akbar.ir.zydgjdinc.info.&port=443&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d) |
+| 20 | `tassian.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tassian.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

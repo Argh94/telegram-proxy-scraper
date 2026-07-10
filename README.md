@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 15:14 19-04-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 17:28 19-04-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,20 +48,19 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `chelipa.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=chelipa.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b) |
-| 2 | `soh5.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=soh5.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 3 | `s3.postpulse.space` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s3.postpulse.space&port=443&secret=eede09f27f5ed0877907c31d53a7aca5526164332e617269786f2e73686f70) |
-| 4 | `web.utkanos.life` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=web.utkanos.life&port=443&secret=ee36fd02bb86fbc4266de3a70114c13a247765622e75746b616e6f732e6c696665) |
-| 6 | `skein.chunkycorp.shop` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) |
-| 8 | `miz.tashkilat.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=miz.tashkilat.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 11 | `87.248.129.47` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.47&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 12 | `2.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 13 | `sv7.hajhossein.observer` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sv7.hajhossein.observer&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 14 | `box.lavazemi5.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=box.lavazemi5.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 15 | `pi-pi.baby.ignitezen.ir.` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pi-pi.baby.ignitezen.ir.&port=8443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 16 | `company.avacloud.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=company.avacloud.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 19 | `tanzibjf.club.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tanzibjf.club.&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 20 | `94.72.126.51` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=94.72.126.51&port=443&secret=ee76f45e60e143ee17f0f46416bf313e9e676f6f676c65617069732e636f6d) |
+| 1 | `7ehfh.ir.meli-n13.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=7ehfh.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09) |
+| 2 | `signin-signout-manager.davazdah.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=signin-signout-manager.davazdah.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 3 | `65.109.250.114` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.250.114&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 5 | `kalakbaz.kalakbazi-co.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=kalakbaz.kalakbazi-co.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
+| 6 | `so-cpu.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=so-cpu.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b) |
+| 7 | `14838.mmd1.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=14838.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 8 | `developer.davazdah.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=developer.davazdah.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 9 | `webgah.masachoset-belosan.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=webgah.masachoset-belosan.co.uk&port=443&secret=ee1603010200010001fc030386e24c3ad37765622e79656b74616e65742e636f6d) |
+| 15 | `207pana.denatara.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=207pana.denatara.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 16 | `sv3.hajhossein.observer` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sv3.hajhossein.observer&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 17 | `1.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=1.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 18 | `mobleman.tashkilat.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mobleman.tashkilat.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 19 | `mahopinami.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mahopinami.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6D61686F70696E616D692E636F2E756B) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

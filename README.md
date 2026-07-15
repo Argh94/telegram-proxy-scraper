@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:40 24-04-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 19:44 24-04-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,19 +48,23 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `b.sub-ploter.co.uk` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=b.sub-ploter.co.uk&port=22&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 3 | `nick.ciaude.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=nick.ciaude.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 4 | `shir.pesar.hedoit.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=shir.pesar.hedoit.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 6 | `openhostings.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=openhostings.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 7 | `icon.davazdah.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=icon.davazdah.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 8 | `br8ta.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=br8ta.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b) |
-| 9 | `87.248.129.16` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.16&port=8443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 10 | `PAyDaR.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=PAyDaR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 12 | `signin-signout-manager.davazdah.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=signin-signout-manager.davazdah.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 13 | `skein.chunkycorp.shop` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) |
-| 14 | `ir.irload-b.ir` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ir.irload-b.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d) |
-| 16 | `sv.hajhossein.observer` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sv.hajhossein.observer&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 18 | `65.109.246.113` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.246.113&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 1 | `7e666hfh.ir.meli-n13.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=7e666hfh.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09) |
+| 2 | `relaywise.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=relaywise.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b) |
+| 3 | `vagon.belotfelipo.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vagon.belotfelipo.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 4 | `s5.postpulse.space` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s5.postpulse.space&port=443&secret=ee846d23933361faa6211c7ac6765023be6164322e617269786f2e73686f70) |
+| 5 | `ad2.arixo.shop` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ad2.arixo.shop&port=443&secret=eed09b88cbbd4e744865b890e5a0bd26876164322e617269786f2e73686f70) |
+| 6 | `cinema-hulk.avangement.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cinema-hulk.avangement.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 7 | `borj-pooshak-brj.aseman.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=borj-pooshak-brj.aseman.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 8 | `b78f2d5e.koshkaproxy.shop` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=b78f2d5e.koshkaproxy.shop&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70) |
+| 9 | `aghaye.aseman.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=aghaye.aseman.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 10 | `best-sellerst.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=best-sellerst.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
+| 12 | `new7.mizanmizanesgh.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 13 | `api.groundfloorsolutions.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=api.groundfloorsolutions.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169) |
+| 15 | `achar-ghofli-chie.avangement.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=achar-ghofli-chie.avangement.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 16 | `jonub.ghagreman.ir.hdhdhfdrde.info.` | `88` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=jonub.ghagreman.ir.hdhdhfdrde.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d) |
+| 17 | `rr7dhoo88001m1.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=rr7dhoo88001m1.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 18 | `188.245.252.34` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=188.245.252.34&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 19 | `shir.pesar.hedoit.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=shir.pesar.hedoit.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

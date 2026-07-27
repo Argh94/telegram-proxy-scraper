@@ -1,5 +1,4 @@
 requests
 beautifulsoup4
-selenium
 pytz
 jdatetime

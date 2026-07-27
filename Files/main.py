@@ -7,15 +7,17 @@ import logging
 from datetime import datetime
 import pytz
 import jdatetime
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.common.exceptions import WebDriverException
 import unicodedata
 import socket
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import json
+import os
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DEFAULT_PROXY_PATH = os.path.normpath(os.path.join(BASE_DIR, '../proxy.txt'))
+DEFAULT_README_PATH = os.path.normpath(os.path.join(BASE_DIR, '../README.md'))
 
 USER_AGENTS = [
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
@@ -51,7 +53,7 @@ def check_proxy_status(server, port, timeout=3):
 def fetch_proxies_from_text_urls(urls):
     all_links = []
     headers = {'User-Agent': get_random_user_agent()}
-    pattern = r'^(tg://proxy|https://t\.me/proxy)\?server=[^&]+&port=\d+(&secret=.+)$'
+    pattern = r'^(?:tg://proxy|https://t\.me/proxy)\?server=([^&]+)&port=(\d+)&secret=.+$'
     
     for url in urls:
         try:
@@ -96,13 +98,10 @@ def fetch_proxies_from_text_urls(urls):
                     line = clean_line(line)
                     if not line:
                         continue
-                    if re.match(pattern, line):
-                        match = re.match(r'^(?:tg://proxy|https://t\.me/proxy)\?server=([^&]+)&port=(\d+)&secret=.+$', line)
-                        if match:
-                            server, port = match.groups()
-                            proxy_checks.append((line, server, port))
-                        else:
-                            logging.debug(f"Invalid or skipped proxy: {line} (does not match pattern)")
+                    match = re.match(pattern, line)
+                    if match:
+                        server, port = match.groups()
+                        proxy_checks.append((line, server, port))
                     else:
                         logging.debug(f"Invalid or skipped proxy: {line} (does not match pattern)")
                 
@@ -127,29 +126,14 @@ def fetch_proxies_from_text_urls(urls):
 
 def fetch_proxies_from_telegram_channel(url):
     proxies = []
-    options = Options()
-    options.add_argument('--headless')
-    options.add_argument('--no-sandbox')
-    options.add_argument('--disable-dev-shm-usage')
-    options.add_argument(f'user-agent={get_random_user_agent()}')
+    headers = {'User-Agent': get_random_user_agent()}
     
     try:
-        driver = webdriver.Chrome(options=options)
-        driver.get(url)
-        logging.info(f"Opened {url}")
+        logging.info(f"Opening {url} with HTTP Request")
+        response = requests.get(url, headers=headers, timeout=10)
+        response.raise_for_status()
         
-        last_height = driver.execute_script("return document.body.scrollHeight")
-        for i in range(5):  
-            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            time.sleep(2)  
-            new_height = driver.execute_script("return document.body.scrollHeight")
-            logging.info(f"Scrolled {url}, attempt {i+1}, new height: {new_height}")
-            if new_height == last_height:
-                logging.info(f"No more content to load for {url}")
-                break
-            last_height = new_height
-        
-        page_source = driver.page_source
+        page_source = response.text
         if "CAPTCHA" in page_source or "recaptcha" in page_source.lower():
             logging.warning(f"CAPTCHA detected on {url}")
         
@@ -179,19 +163,15 @@ def fetch_proxies_from_telegram_channel(url):
                     logging.error(f"Error checking proxy {proxy}: {e}")
         
         logging.info(f"Fetched {len(proxies)} valid and online MTProto proxies from {url}")
-    except WebDriverException as e:
-        logging.error(f"WebDriver error fetching {url}: {e}")
+    except requests.RequestException as e:
+        logging.error(f"HTTP error fetching {url}: {e}")
     except Exception as e:
         logging.error(f"General error fetching {url}: {e}")
-    finally:
-        try:
-            driver.quit()
-        except:
-            pass
+
     time.sleep(random.uniform(0.5, 1.0))  
     return proxies
 
-def save_proxies_to_file(proxy_list, filename='../proxy.txt'):
+def save_proxies_to_file(proxy_list, filename=DEFAULT_PROXY_PATH):
     try:
         unique_proxies = list(set(proxy_list))
         with open(filename, 'w', encoding='utf-8') as file:
@@ -203,7 +183,7 @@ def save_proxies_to_file(proxy_list, filename='../proxy.txt'):
         logging.error(f"Error writing to {filename}: {e}")
         return []
 
-def update_readme(proxy_list):
+def update_readme(proxy_list, filename=DEFAULT_README_PATH):
     try:
         utc_now = datetime.now(pytz.UTC)
         iran_tz = pytz.timezone('Asia/Tehran')
@@ -248,7 +228,7 @@ def update_readme(proxy_list):
 
 ## ✨ درباره پروژه
 
-این اسکریپت با استفاده از `requests` برای منابع متنی و `selenium` برای کانال‌های تلگرام، پروکسی‌های MTProto را جمع‌آوری می‌کند. پروکسی‌های تکراری حذف شده و نتایج در فایل `proxy.txt` ذخیره می‌شوند. این فرآیند به‌صورت خودکار با **GitHub Actions** هر 3 ساعت اجرا می‌شود.
+این اسکریپت با استفاده از `requests` برای منابع متنی و کانال‌های تلگرام، پروکسی‌های MTProto را جمع‌آوری می‌کند. پروکسی‌های تکراری حذف شده و نتایج در فایل `proxy.txt` ذخیره می‌شوند. این فرآیند به‌صورت خودکار با **GitHub Actions** هر 3 ساعت اجرا می‌شود.
 
 ## 🚀 ویژگی‌ها
 - 🌐 جمع‌آوری پروکسی از منابع متنی و کانال‌های تلگرام
@@ -259,7 +239,7 @@ def update_readme(proxy_list):
 
 ## 📋 پیش‌نیازها
 - 🐍 پایتون 3.9
-- 📦 کتابخانه‌های مورد نیاز: `requests`, `beautifulsoup4`, `selenium`, `pytz`, `jdatetime`
+- 📦 کتابخانه‌های مورد نیاز: `requests`, `beautifulsoup4`, `pytz`, `jdatetime`
 - نصب وابستگی‌ها با: `pip install -r requirements.txt`
 
 ## 🛠 نحوه استفاده
@@ -309,7 +289,7 @@ def update_readme(proxy_list):
 🌟 **سپاس از استفاده از Telegram Proxy Scraper!** اگر سؤالی دارید، در بخش Issues مطرح کنید.
 """
 
-        with open('../README.md', 'w', encoding='utf-8') as file:
+        with open(filename, 'w', encoding='utf-8') as file:
             file.write(readme_content)
         logging.info("Successfully updated README.md with new styling and Iranian date format")
     except Exception as e:
@@ -319,7 +299,8 @@ if __name__ == "__main__":
     text_urls = [
         "https://raw.githubusercontent.com/MhdiTaheri/ProxyCollector/main/proxy.txt",
         "https://raw.githubusercontent.com/SoliSpirit/mtproto/master/all_proxies.txt",
-        "https://raw.githubusercontent.com/hookzof/socks5_list/master/tg/mtproto.json"  # منبع جدید JSON
+        "https://itsyebekhe.github.io/MTProtoNexus/extracted_proxies.json",
+        "https://raw.githubusercontent.com/darkvibez456/mtproto-proxy-auto/refs/heads/main/proxies.txt" 
     ]
     
     telegram_urls = [

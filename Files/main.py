@@ -281,7 +281,9 @@ def update_readme(proxy_list, filename=DEFAULT_README_PATH):
 
 ## 📊 Stargazers در گذر زمان
 <p align="center">
-  <img src="https://starchart.cc/Argh94/telegram-proxy-scraper.svg?variant=adaptive" alt="Stargazers over time" />
+  <a href="https://star-history.com/#Argh94/telegram-proxy-scraper&Date">
+    <img src="https://api.star-history.com/svg?repos=Argh94/telegram-proxy-scraper&type=Date" alt="Star History Chart" />
+  </a>
 </p>
 
 ---

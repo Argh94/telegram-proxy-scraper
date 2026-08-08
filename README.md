@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:57 17-05-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 15:55 17-05-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,22 +48,23 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `dev.nowabst.net` | `853` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d) |
-| 3 | `79.137.196.223` | `14443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=79.137.196.223&port=14443&secret=ee9e28cf588967add684c5e759fea036d47777772e636c6f7564666c6172652e636f6d) |
-| 4 | `Hel-hi.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 5 | `kala.golgoli1.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=kala.golgoli1.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d) |
-| 6 | `phloe.slarkfat.icu` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=phloe.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) |
-| 7 | `s1.postpulse.space` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s1.postpulse.space&port=443&secret=ee402900cd57c3daef160c3a2aef80a29c6164312e617269786f2e73686f70) |
-| 8 | `download.brettanderson.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=download.brettanderson.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169) |
-| 12 | `mtp.webvirt.cloud` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtp.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564) |
-| 13 | `team.fast--pro.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=team.fast--pro.co.uk.&port=443&secret=dd104462821249bd7ac519130220c25d09) |
-| 14 | `shir.pesar.hedoit.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=shir.pesar.hedoit.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 15 | `s44447n.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s44447n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 16 | `soheil.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=soheil.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 17 | `iran-download.fourie.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iran-download.fourie.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169) |
-| 18 | `d6gjeds6bbk888hh0djjj00lan.ir.meli-n13.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=d6gjeds6bbk888hh0djjj00lan.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09) |
-| 19 | `lux.lavazemi1.co.uk` | `2096` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lux.lavazemi1.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d) |
-| 20 | `best.router.iran.ir.bishdhaep.info.` | `88` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=best.router.iran.ir.bishdhaep.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d) |
+| 1 | `s44447n.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s44447n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 2 | `mizaneshgh2.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mizaneshgh2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 3 | `62.238.62.83` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.238.62.83&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 4 | `93.113.230.242` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=93.113.230.242&port=443&secret=dd3dd937dd5a1748b47505d32759b12c35) |
+| 6 | `caspian.ir.meli-n13.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=caspian.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09) |
+| 8 | `s447n.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s447n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 9 | `nab.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=nab.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 10 | `62.238.62.83` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.238.62.83&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 11 | `fresh.t-proxy.info.` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
+| 12 | `beest-sellerst.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=beest-sellerst.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
+| 13 | `download.lv426.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=download.lv426.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169) |
+| 14 | `lab.nowabst.net` | `853` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=lab.nowabst.net&port=853&secret=eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d) |
+| 15 | `2dddd1.mmd1.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2dddd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 16 | `cache.fleethop.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cache.fleethop.org&port=443&secret=ee9d2bf87ab356f3062b7d9317ebbe66b563616368652e666c656574686f702e6f7267) |
+| 17 | `new7.mizanmizanesgh.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 19 | `s2.postpulse.space` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s2.postpulse.space&port=443&secret=ee263bf8f7de3c2b04aa1c008ab21e4a566164322e617269786f2e73686f70) |
+| 20 | `sherek.mashgh.co.uk` | `144` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sherek.mashgh.co.uk&port=144&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

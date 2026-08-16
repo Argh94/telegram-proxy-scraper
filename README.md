@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:47 25-05-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 15:47 25-05-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,16 +48,16 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `sn.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sn.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 3 | `1.hide.newflamingodomain.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=1.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 4 | `mohandes.karshenasi.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mohandes.karshenasi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 5 | `93.113.230.242` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=93.113.230.242&port=443&secret=dd3dd937dd5a1748b47505d32759b12c35) |
-| 6 | `scott.startnetwork.shop` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=scott.startnetwork.shop&port=443&secret=dda700feed03536024f619edce4247c18a) |
-| 7 | `download.brettanderson.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=download.brettanderson.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169) |
-| 8 | `love.neverspy.online` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=love.neverspy.online&port=443&secret=ee24b3e49b9d33101f2c34e5e893bd90d17777772e6d6963726f736f66742e636f6d) |
-| 11 | `2duddd1.mmd1.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=2duddd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 14 | `iran-download.goaphrodite.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iran-download.goaphrodite.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169) |
-| 19 | `www.weblog.co.im` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=www.weblog.co.im&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 2 | `t.meow-network.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d) |
+| 3 | `ftp.jinxandjack.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ftp.jinxandjack.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169) |
+| 6 | `7km7p.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=7km7p.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 7 | `fast.barhousefarm.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=fast.barhousefarm.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169) |
+| 8 | `kourosh.ir.meli-n13.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=kourosh.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09) |
+| 10 | `app.what-ever.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=app.what-ever.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169) |
+| 11 | `ma.hastim.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ma.hastim.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 13 | `soheil.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=soheil.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 14 | `iran-download.shentaichiacademy.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iran-download.shentaichiacademy.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169) |
+| 19 | `iran-download.goaphrodite.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iran-download.goaphrodite.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

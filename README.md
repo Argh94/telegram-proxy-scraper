@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 09:58 04-06-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:00 04-06-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,19 +48,14 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `support.joumalanet.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=support.joumalanet.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169) |
-| 2 | `webhook.what-ever.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=webhook.what-ever.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169) |
-| 7 | `hh8897a77all.ir.meli-n13.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=hh8897a77all.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09) |
-| 8 | `Fast.finecooking.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Fast.finecooking.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b) |
-| 9 | `for.you.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 11 | `irancell-mci-rightell-adsl.visalawyer.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=irancell-mci-rightell-adsl.visalawyer.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169) |
-| 13 | `proxtstar.live` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxtstar.live&port=443&secret=eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275) |
-| 14 | `blind.server-space52.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=blind.server-space52.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 15 | `f1.car-race.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=f1.car-race.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 16 | `Speed-speed.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 17 | `rudmoain.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 18 | `0iiio6k1.ir.meli-n13.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=0iiio6k1.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09) |
-| 20 | `21.hide.newflamingodomain.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=21.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 5 | `t.meow-network.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d) |
+| 6 | `time.vechnostnet.study` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=time.vechnostnet.study&port=443&secret=dd8c9e3f5343fe86b52d608122e71d8ec7) |
+| 10 | `168.119.142.41` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=168.119.142.41&port=443&secret=dd79e7010200010007f0030386e24c3add) |
+| 13 | `sorat.mese.benz.savare.torobchesho.co.uk.` | `1` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sorat.mese.benz.savare.torobchesho.co.uk.&port=1&secret=ee0000f00f0f375555fffffff4004e3e38626973636f7474692e79656b74616e65742e636f6d) |
+| 14 | `s47n.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s47n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 16 | `s4447n.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s4447n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 17 | `api.nowabst.net` | `853` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=api.nowabst.net&port=853&secret=ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d) |
+| 20 | `for.you.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

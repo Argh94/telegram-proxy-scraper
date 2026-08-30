@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 02:25 08-06-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:47 08-06-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,16 +48,16 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `172.65.122.51` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.122.51&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
-| 2 | `iran-download.mr-moo.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iran-download.mr-moo.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169) |
-| 3 | `server3.server-space52.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=server3.server-space52.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 6 | `iran-download.mr-moo.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=iran-download.mr-moo.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169) |
-| 8 | `41.hide.newflamingodomain.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 10 | `server.nl-arvancloud.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=server.nl-arvancloud.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 12 | `manifold.server-space52.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=manifold.server-space52.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 13 | `s44447n.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s44447n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 18 | `sn.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sn.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 20 | `sioms.co.uk` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sioms.co.uk&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
+| 4 | `172.65.122.51` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.122.51&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
+| 8 | `server.nl-arvancloud.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=server.nl-arvancloud.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 9 | `ma.hastim.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ma.hastim.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 10 | `u2601.ir.meli-n13.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=u2601.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09) |
+| 11 | `7sak101.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=7sak101.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 12 | `server2.server2-5mk.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=server2.server2-5mk.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 15 | `danmarki.tokhmemorgh.info.` | `7799` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=danmarki.tokhmemorgh.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1) |
+| 16 | `full-vasl.peachsoft.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=full-vasl.peachsoft.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169) |
+| 18 | `dark-brown.server-space52.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dark-brown.server-space52.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 19 | `irancell-mci-rightell-adsl.visalawyer.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=irancell-mci-rightell-adsl.visalawyer.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

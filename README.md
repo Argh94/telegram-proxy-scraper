@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 11:09 18-06-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 16:45 18-06-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,16 +48,14 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `meshki.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=meshki.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 6 | `172.65.105.80` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.105.80&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
-| 9 | `yarypple.co.uk.` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=yarypple.co.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 10 | `shenzar-sahel.dashtodaman.info.` | `7799` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=shenzar-sahel.dashtodaman.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1) |
-| 11 | `Speed-speed.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 12 | `teranhavaei.charkhofalak.info.` | `7799` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=teranhavaei.charkhofalak.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1) |
-| 15 | `41.hide.newflamingodomain.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 16 | `bo0ji.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b) |
-| 19 | `cr777.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cr777.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 20 | `mt.joumalanet.co.uk` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mt.joumalanet.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add7765622e62616c652e696f) |
+| 1 | `PAyDaR.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=PAyDaR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 2 | `mamadgoli.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 3 | `ih8nb.ir.meli-n13.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ih8nb.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09) |
+| 5 | `vasle.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vasle.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 8 | `evo.foriran.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=evo.foriran.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 14 | `b17.ir.meli-n13.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=b17.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09) |
+| 16 | `full-vasl.peachsoft.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=full-vasl.peachsoft.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169) |
+| 17 | `proxtstar.live` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxtstar.live&port=443&secret=eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

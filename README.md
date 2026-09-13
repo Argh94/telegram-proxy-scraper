@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:26 22-06-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 11:15 22-06-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,19 +48,15 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `proxy.mtcomrade.website` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=proxy.mtcomrade.website&port=443&secret=ee1603010200010001fc030386e24c3add7765622e62616c652e6169) |
-| 3 | `pl32.ir.meli-n13.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pl32.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09) |
-| 4 | `porsorate.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 5 | `tabestan.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tabestan.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 6 | `alhosein.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=alhosein.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 8 | `172.65.105.80` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=172.65.105.80&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
-| 9 | `shenzar-sahel.dashtodaman.info.` | `7799` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=shenzar-sahel.dashtodaman.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1) |
-| 12 | `Stand-For-Iran.ir.mausjakaqd.info.` | `88` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Stand-For-Iran.ir.mausjakaqd.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d) |
-| 13 | `s2.assetflux.org` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s2.assetflux.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275) |
-| 14 | `teranhavaei.charkhofalak.info.` | `7799` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=teranhavaei.charkhofalak.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1) |
-| 15 | `rootssh2.co.uk.` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=rootssh2.co.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 17 | `sioms.co.uk` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sioms.co.uk&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
-| 18 | `porsorate.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 2 | `din5gli2.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=din5gli2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 10 | `cr777.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cr777.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 11 | `nontanori.noshabekoka.info.` | `7799` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=nontanori.noshabekoka.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1) |
+| 13 | `are-are-are.ir.paeez-amad.info.` | `88` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=are-are-are.ir.paeez-amad.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d) |
+| 16 | `ih8nb.ir.meli-n13.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ih8nb.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09) |
+| 17 | `21.hide.newflamingodomain.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=21.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 18 | `21.hide.newflamingodomain.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=21.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 19 | `277ddd1.mmd1.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=277ddd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 20 | `sioms.co.uk` | `25565` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sioms.co.uk&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

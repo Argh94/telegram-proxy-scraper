@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:51 24-06-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 11:37 24-06-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,11 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `Speed-speed.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 10 | `ykima.davay.click` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ykima.davay.click&port=443&secret=ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b) |
-| 11 | `s447n.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s447n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 12 | `soheil.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=soheil.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 14 | `vasle.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vasle.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 18 | `mamadali.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 19 | `dingi3.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 20 | `277ddd1.mmd1.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=277ddd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 8 | `mtp.webvirt.cloud` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mtp.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564) |
+| 13 | `ykima.davay.click` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ykima.davay.click&port=443&secret=ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b) |
+| 14 | `sefid.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sefid.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 15 | `dingi3.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 18 | `s447n.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s447n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

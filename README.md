@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 15:02 10-07-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 20:30 10-07-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,15 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `1.hide.newflamingodomain.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=1.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 8 | `royaclinic.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=royaclinic.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 12 | `soheil.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=soheil.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 15 | `New.nchnch.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=New.nchnch.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 17 | `ii0000.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ii0000.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 2 | `vasle.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vasle.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 3 | `haji-jan.golabkashan.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=haji-jan.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 8 | `bo.cryptocurency.wiki` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bo.cryptocurency.wiki&port=443&secret=eeafff8ed2b758741b6872fb8b00f1230270782e63727970746f637572656e63792e77696b69) |
+| 9 | `31.hide.newflamingodomain.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=31.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 14 | `strong.hosiyaman.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=strong.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 16 | `7gh.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=7gh.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 17 | `878u.masi.ir.he6fhd.ru` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=878u.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 18 | `topproxt.asia` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275) |
+| 19 | `New.nchnch.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=New.nchnch.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

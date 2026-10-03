@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:12 11-07-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 17:33 11-07-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,16 +48,16 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `ssh.meow0.co.uk` | `22` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
-| 3 | `H2O.miandoabs.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=H2O.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add) |
-| 4 | `becarefull.bypased.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=becarefull.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add) |
-| 5 | `soh5.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=soh5.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 7 | `New.nchnch.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=New.nchnch.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 9 | `dingi3.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 10 | `nl.cryptocurency.wiki` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=nl.cryptocurency.wiki&port=443&secret=ee6c00d7e9bc9ea00124538e23adb69dd670782e63727970746f637572656e63792e77696b69) |
-| 12 | `f79d67fbj.ir.meli-n13.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=f79d67fbj.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09) |
-| 13 | `sn.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sn.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 20 | `ahvaz.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ahvaz.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 1 | `moatar.golabkashan.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=moatar.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 2 | `31.hide.newflamingodomain.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=31.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 4 | `ferecans.jadidmadid.info.` | `7799` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ferecans.jadidmadid.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1) |
+| 6 | `91.98.108.176` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.98.108.176&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 8 | `fast.mishutkin.click` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=fast.mishutkin.click&port=443&secret=eef767ebee5708dadc985d58ad6e04560664726976652e676f6f676c652e636f6d) |
+| 10 | `dh1.masi.ir.he6fhd.ru` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dh1.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 12 | `nor-bala.flashspder.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=nor-bala.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 13 | `62.238.47.195` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.238.47.195&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 15 | `95.217.26.76` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=95.217.26.76&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 19 | `becarefull.bypased.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=becarefull.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

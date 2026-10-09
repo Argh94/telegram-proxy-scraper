@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:17 17-07-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:11 17-07-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,13 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `sarma.miandoabs.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sarma.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add) |
-| 6 | `91.107.190.68` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.107.190.68&port=8443&secret=79e344818749bd7ac519130220c25d09) |
-| 7 | `21.hide.newflamingodomain.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=21.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 11 | `s7n.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s7n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 12 | `sn.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sn.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 16 | `ghasam-be-shab.hosiyaman.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ghasam-be-shab.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add) |
-| 18 | `cocorichmond.pareporeh.info.` | `7799` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=cocorichmond.pareporeh.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1) |
+| 5 | `e.networkmodeai.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=e.networkmodeai.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 7 | `max.mishutkin.click` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=max.mishutkin.click&port=443&secret=ee94989d74ad055391384d92c3c773c8d264726976652e676f6f676c652e636f6d) |
+| 9 | `167.235.193.56` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.235.193.56&port=8443&secret=dd79e344818749bd7ac519130220c25d09) |
+| 12 | `vasle.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vasle.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 14 | `vasle-sho-binam.ebimarh.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vasle-sho-binam.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 16 | `167.235.193.107` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.235.193.107&port=8443&secret=dd79e344818749bd7ac519130220c25d09) |
+| 17 | `set.qavi-13.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=set.qavi-13.co.uk&port=8443&secret=104462821249bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

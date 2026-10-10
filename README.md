@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 06:44 18-07-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 15:02 18-07-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,15 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 13 | `FOR-IRAN.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=FOR-IRAN.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 14 | `kasco.alhosein.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=kasco.alhosein.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 16 | `93.113.230.250` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=93.113.230.250&port=443&secret=dd6a67ae4c2d173b4168745435cb313a39) |
-| 17 | `731.masi.ir.he6fhd.ru` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=731.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 19 | `top.mishutkin.click` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=top.mishutkin.click&port=443&secret=ee4b5ba12e11065746126723c1a1baf54d64726976652e676f6f676c652e636f6d) |
+| 7 | `royaclinic.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=royaclinic.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 8 | `sn.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sn.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 11 | `becarefull.bypased.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=becarefull.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 12 | `167.235.197.46` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=167.235.197.46&port=8443&secret=79e344818749bd7ac519130220c25d09) |
+| 13 | `1.hide.newflamingodomain.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=1.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 15 | `math-test.bypased.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=math-test.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 17 | `17fh.masi.ir.he6fhd.ru` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=17fh.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 19 | `41.hide.newflamingodomain.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 20 | `s7n.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s7n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

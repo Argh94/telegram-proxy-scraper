@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:51 30-07-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 11:35 30-07-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 4 | `91.98.103.228` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.98.103.228&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 5 | `from.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=from.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 11 | `irluxcars.site` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=irluxcars.site&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 12 | `135.181.154.26` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=135.181.154.26&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 13 | `91.98.103.228` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.98.103.228&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 14 | `gavi88.mosswren.vip` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=gavi88.mosswren.vip&port=443&secret=eeb8e5365580b9ad3c2ee355dfcbc245e56761766938382e6d6f73737772656e2e766970) |
-| 16 | `46.225.148.183` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.225.148.183&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 20 | `65.109.248.100` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.109.248.100&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 2 | `toka21.mosswren.vip` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=toka21.mosswren.vip&port=443&secret=ee9267d78681726d5ff1bf826b750ba4ba746f6b6132312e6d6f73737772656e2e766970) |
+| 3 | `87.248.129.7` | `2053` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=87.248.129.7&port=2053&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d) |
+| 7 | `joje.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=joje.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 9 | `ll6j.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ll6j.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 10 | `31.hide.newflamingodomain.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=31.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 12 | `1.ja.mmd.yayayajd.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=1.ja.mmd.yayayajd.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 17 | `rootssh2.co.uk.` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=rootssh2.co.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

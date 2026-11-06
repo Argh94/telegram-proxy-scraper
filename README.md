@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:46 15-08-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:34 15-08-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `neka57.mossharbor.xyz` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=neka57.mossharbor.xyz&port=443&secret=eefd9a9e2ac2851ddc327fe5971e25a87d6e656b6135372e6d6f7373686172626f722e78797a) |
-| 11 | `nab.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=nab.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 15 | `for.you.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 16 | `ir.speed.finecooking.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ir.speed.finecooking.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b) |
-| 17 | `one.rozinalpoku.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=one.rozinalpoku.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6F6E652E726F7A696E616C706F6B752E636F2E756B) |
-| 18 | `vizhzhzhzhzh.bypased.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vizhzhzhzhzh.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add) |
-| 19 | `tazenafas.dingi3.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 20 | `shared3.ddproxy.xyz` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=shared3.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275) |
+| 4 | `becarefull.bypased.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=becarefull.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 6 | `FOR-IRAN.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=FOR-IRAN.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 9 | `s47n.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s47n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 10 | `ge2.kkkservers.tech` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ge2.kkkservers.tech&port=8443&secret=eef99731abbc063924c8b52c5cd7aeca3a6765322e6b6b6b736572766572732e74656368) |
+| 13 | `tonyzo46.birchquay.xyz` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tonyzo46.birchquay.xyz&port=8443&secret=eeae5ab45be1bccbba85eec21085b2fd20706574726f766963682e7275) |
+| 14 | `91.98.107.89` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.98.107.89&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 20 | `nab.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=nab.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

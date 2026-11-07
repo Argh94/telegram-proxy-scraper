@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 03:59 16-08-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:54 16-08-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,15 +48,14 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 3 | `kalene97.fernlark.xyz` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=kalene97.fernlark.xyz&port=8443&secret=eea02849a55daccdc7f7a05691b7ef7cd164726976652e676f6f676c652e636f6d) |
-| 4 | `77hhjnh79.masi.ir.he6fhd.ru` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=77hhjnh79.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 5 | `becarefull.bypased.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=becarefull.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add) |
-| 6 | `citrus.driftquill.click` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=citrus.driftquill.click&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
-| 7 | `621.mmd1.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=621.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 9 | `mashti-khan.ebimarh.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mashti-khan.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add) |
-| 10 | `vasle.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vasle.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 14 | `185.19.33.86` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=185.19.33.86&port=443&secret=eef08dee29bc748ad2f349c593e042bad87777772e6d6963726f736f66742e636f6d) |
-| 15 | `zolo25.quillmarsh.xyz` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=zolo25.quillmarsh.xyz&port=8443&secret=ee24c8636b7e946779a023ee708370719b706574726f766963682e7275) |
+| 5 | `zolo25.quillmarsh.xyz` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=zolo25.quillmarsh.xyz&port=8443&secret=ee24c8636b7e946779a023ee708370719b706574726f766963682e7275) |
+| 7 | `estevia.miandoabs.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=estevia.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 11 | `jadide.mamadali.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=jadide.mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 13 | `royaclinic.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=royaclinic.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 14 | `s47n.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s47n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 15 | `max.kimt.click` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b) |
+| 19 | `s47n.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s47n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 20 | `ardebill.miandoabs.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ardebill.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

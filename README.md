@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 06:42 17-08-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 15:54 17-08-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,13 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `164.37.224.216` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=164.37.224.216&port=443&secret=ddc62c6006d0a383e80aab9f1b8a233856) |
-| 5 | `731.masi.ir.he6fhd.ru` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=731.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 7 | `felan-by.lolauth.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=felan-by.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add) |
-| 9 | `torobchesho.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=torobchesho.co.uk.&port=443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01746f726f6263686573686f2e636f2e756b) |
-| 10 | `one.rozinalpoku.co.uk` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=one.rozinalpoku.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6F6E652E726F7A696E616C706F6B752E636F2E756B) |
-| 16 | `bo0ji.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b) |
-| 17 | `62.238.63.143` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=62.238.63.143&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 19 | `bookmook.hichibehichi-co.info.` | `2882` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bookmook.hichibehichi-co.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1) |
+| 1 | `estevia.miandoabs.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=estevia.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 4 | `m.lumenpost.top` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=m.lumenpost.top&port=443&secret=eeadb7cfebd78712e71db745c9da7281b16d2e6c756d656e706f73742e746f70) |
+| 5 | `soheil.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=soheil.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 9 | `rond-hamrahaval.ebimarh.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=rond-hamrahaval.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 14 | `connect.mishutkin.click` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=connect.mishutkin.click&port=443&secret=ee43b48df152c2246a45ec2f88ea52877264726976652e676f6f676c652e636f6d) |
+| 18 | `91.98.109.248` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=91.98.109.248&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 20 | `static.antenna-mzt.live` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 17:42 21-08-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 01:09 22-08-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,17 +48,16 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 2 | `tg.prxtg.top` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tg.prxtg.top&port=443&secret=ee2d1bb45f31056d1063563fc6e38e5a1064726976652e676f6f676c652e636f6d) |
-| 3 | `pomide92.mosswren.vip` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=pomide92.mosswren.vip&port=443&secret=ee899032aa75159cc1d735f15e7a0e3a6e706f6d69646539322e6d6f73737772656e2e766970) |
-| 5 | `awd.subaru-volga.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=awd.subaru-volga.com&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c) |
-| 6 | `Speed-speed.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 9 | `65.108.209.51` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.108.209.51&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 12 | `zolole21.larchmere.xyz` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=zolole21.larchmere.xyz&port=8443&secret=eeb0a621aecd97816306c197d21a8bf47b786170692e6f7a6f6e2e7275) |
-| 13 | `89.167.69.210` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=89.167.69.210&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 14 | `Speed-speed.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 15 | `tazenafas.dingi3.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 16 | `awd.subaru-volga.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=awd.subaru-volga.com&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c) |
-| 19 | `origin.mossharbor.xyz` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=origin.mossharbor.xyz&port=8443&secret=ee1c0302da542b3dbfa43927dfa654feaf786170692e6f7a6f6e2e7275) |
+| 1 | `46.224.220.150` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=46.224.220.150&port=443&secret=eedfc04a3770990789e814bb9d3aa32eb57777772e6d6963726f736f66742e636f6d) |
+| 3 | `61.new1.ramkal12.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=61.new1.ramkal12.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 4 | `78.47.131.70` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=78.47.131.70&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 8 | `joje.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=joje.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 10 | `Hel-hi.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
+| 11 | `65.108.209.51` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=65.108.209.51&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 13 | `gagasu90.copperfinch.top` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=gagasu90.copperfinch.top&port=443&secret=ee3dd96613c02e8e9864bc2b3fa6b4a84a786170692e6f7a6f6e2e7275) |
+| 15 | `PAyDaR.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=PAyDaR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 18 | `dema91.larchmere.xyz` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dema91.larchmere.xyz&port=443&secret=ee58851f6640315bea58279e83ed6ca84c786170692e6f7a6f6e2e7275) |
+| 20 | `porsorate.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

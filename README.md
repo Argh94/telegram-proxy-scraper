@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 21:39 24-08-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 04:02 25-08-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,14 +48,14 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `ajab.lolauth.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ajab.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add) |
-| 3 | `fast.strobox.info` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=fast.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b) |
-| 5 | `from.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=from.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 10 | `khare-gol.golabkashan.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=khare-gol.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add) |
-| 12 | `elrmam.bypased.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=elrmam.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add) |
-| 17 | `khare-gol.golabkashan.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=khare-gol.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add) |
-| 18 | `kasco.alhosein.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=kasco.alhosein.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 20 | `awd.subaru-volga.com` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=awd.subaru-volga.com&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c) |
+| 3 | `78.47.131.47` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=78.47.131.47&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 4 | `AZADI.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=AZADI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 9 | `tomi60.ashwren.xyz` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tomi60.ashwren.xyz&port=443&secret=ee8a22a2efc31d03cfe33e7dc2abb809db6f7a6f6e2e7275) |
+| 13 | `Suodbo.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=Suodbo.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
+| 14 | `tassian.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=tassian.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 15 | `vizhzhzhzhzh.bypased.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=vizhzhzhzhzh.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 18 | `baran.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=baran.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 20 | `bookmook.hichibehichi-co.info.` | `2882` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=bookmook.hichibehichi-co.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

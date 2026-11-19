@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 05:37 28-08-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 14:23 28-08-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,11 +48,12 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `ultraproxy.shop` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=ultraproxy.shop&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275) |
-| 6 | `00066f7k7.ir.meli-n13.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=00066f7k7.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09) |
-| 7 | `PAyDaR.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=PAyDaR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 10 | `AVA.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=AVA.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 14 | `irluxcars.site` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=irluxcars.site&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 2 | `21.mmd1.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=21.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 7 | `5.75.252.233` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=5.75.252.233&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 8 | `sefid.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=sefid.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 10 | `fandogh.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=fandogh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 11 | `78.46.240.254` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=78.46.240.254&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 13 | `karbon.torobchesho.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=karbon.torobchesho.co.uk.&port=443&secret=ee79e344828749bd7ac519130220c25d096b6172626f6e2e746f726f6263686573686f2e636f2e756b) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.

@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 02:32 03-09-1405)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 11:00 03-09-1405)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -48,16 +48,15 @@
 
 | # | سرور (Server) | پورت (Port) | وضعیت | لینک پروکسی |
 |---|---------------|-------------|-------|-------------|
-| 1 | `mt-sw.alex-photo-notes.pl` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=mt-sw.alex-photo-notes.pl&port=443&secret=eeee677bf5d2356b3744e1208cc35d70887777772e676f6f676c652e636f6d) |
-| 6 | `71.hide.7y76y.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=71.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 8 | `as.mkim.click` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b) |
-| 9 | `dingi3.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 11 | `dh1.masi.ir.he6fhd.ru` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=dh1.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 12 | `you.pelastic.co.uk.` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=you.pelastic.co.uk.&port=443&secret=ddc3b375786a3b9630e44cf87d2033a441) |
-| 13 | `deny72.ashwren.xyz` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=deny72.ashwren.xyz&port=443&secret=eea642c4bcbaceb5aa415464da57a03a37706574726f766963682e7275) |
-| 15 | `matrixxx.wtf` | `443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=matrixxx.wtf&port=443&secret=ee9250b2b65b8921d01a306376fc2dd2ca6d617472697878782e777466) |
-| 19 | `s7n.ir.ir.ir.meli-n12.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=s7n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 20 | `loga86.sorrelbay.xyz` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=loga86.sorrelbay.xyz&port=8443&secret=eee38448c7e07ec8d42dfb2ca4d668b790617669746f2e7275) |
+| 2 | `0000way.iraj.trsr57d.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=0000way.iraj.trsr57d.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 4 | `31.hide.7y76y.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=31.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 6 | `soheil.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=soheil.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 8 | `alhosein.co.uk` | `4455` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=alhosein.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 11 | `godratmand-server.davooti.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=godratmand-server.davooti.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 13 | `napoli.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=napoli.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 16 | `jedi-migi.ebimarh.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=jedi-migi.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 17 | `borujerd-tehran-esfahan.miandoabs.info` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=borujerd-tehran-esfahan.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 19 | `FOR-IRAN.goooalir.co.uk` | `8443` | ✅ فعال | [لینک پروکسی](https://t.me/proxy?server=FOR-IRAN.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
 
 
 > **💡 نکته**: این جدول فقط نمونه‌ای از پروکسی‌هاست. برای دسترسی به لیست کامل و به‌روز، فایل [proxy.txt](proxy.txt) را دانلود کنید.
